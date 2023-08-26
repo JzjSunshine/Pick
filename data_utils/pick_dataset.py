@@ -42,7 +42,7 @@ class PICKDataset(Dataset):
         :param keep_ratio: TODO implement this parames
         :param ignore_error:
         :param training: True for train and validation mode, False for test mode. True will also load labels,
-        and files_name and entities_file must be set.
+                        and files_name and entities_file must be set.
         '''
         super().__init__()
 

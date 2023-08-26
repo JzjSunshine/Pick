@@ -1,0 +1,24 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: pick",
+            "type": "python",
+            "request": "launch",
+            "program": "/data/zjjing/anaconda3/envs/pick/lib/python3.8/site-packages/torch/distributed/launch.py",
+            "cwd": "${workspaceFolder}", //设置工作目录为你的工作区文件夹
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "python": "/data/zjjing/anaconda3/envs/pick/bin/python",
+            "args": [
+                "--master_port=5017",
+                "--use_env",
+                "train.py"
+            ],
+            "env": {"CUDA_VISIBLE_DEVICES":"0"},
+        }
+    ]
+}

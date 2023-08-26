@@ -34,10 +34,10 @@ def main(args):
     pick_model.eval()
     
     test_dataset = PICKDataset(
-                               files_name="/home/hcxw/newDisk/jzj/Pick.Pytorch.Sroie/data/test_data_example/test_samples_list.csv",
+                               files_name="/data/zjjing/Pick/data/test_data_example/test_samples_list.csv",
                                boxes_and_transcripts_folder=args.bt,
                                images_folder=args.impt,
-                               entities_folder="/home/hcxw/newDisk/jzj/Pick.Pytorch.Sroie/data/test_data_example/entities",
+                               entities_folder="/data/zjjing/Pick/data/test_data_example/entities",
                                iob_tagging_type="box_and_within_box_level",
                                resized_image_size=(480, 960),
                                ignore_error=False,
@@ -95,11 +95,11 @@ def main(args):
 
 if __name__ == '__main__':
     args = argparse.ArgumentParser(description='PyTorch PICK Testing')
-    args.add_argument('-ckpt', '--checkpoint', default="/home/hcxw/newDisk/jzj/Pick.Pytorch.Sroie/saved/models/PICK_Default/test_0525_002309/model_best.pth", type=str,
+    args.add_argument('-ckpt', '--checkpoint', default="/data/zjjing/Pick/saved/models/PICK_Default/test_0821_222749/model_best.pth", type=str,
                       help='path to load checkpoint (default: None)')
-    args.add_argument('--bt', '--boxes_transcripts', default="/home/hcxw/newDisk/jzj/Pick.Pytorch.Sroie/data/test_data_example/boxes_and_transcripts/", type=str,
+    args.add_argument('--bt', '--boxes_transcripts', default="/data/zjjing/Pick/data/test_data_example/boxes_and_transcripts/", type=str,
                       help='ocr results folder including boxes and transcripts (default: None)')
-    args.add_argument('--impt', '--images_path', default="/home/hcxw/newDisk/jzj/Pick.Pytorch.Sroie/data/test_data_example/images/", type=str,
+    args.add_argument('--impt', '--images_path', default="/data/zjjing/Pick/data/test_data_example/images/", type=str,
                       help='images folder path (default: None)')
     args.add_argument('-output', '--output_folder', default='./saved/predict_results/', type=str,
                       help='output folder (default: predict_results)')
