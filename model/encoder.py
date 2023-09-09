@@ -127,10 +127,12 @@ class Encoder(nn.Module):
 
         spatial_scale = float(H / origin_H)
         # use roi pooling get image segments
-        # (B*N, C, roi_pooling_size, roi_pooling_size)
-        if self.roi_pooling_mode == 'roi_align':
+        # (B*N, C, roi_pooling_size, roi_pooling_size) 
+        if self.roi_pooling_mode == 'roi_align': 
+            # 返回值，感兴趣区域的数量 (M, C, output_size[0], output_size[1])、
+            # 其中 M 是感兴趣区域的数量，C 是输出特征图的通道数。
             image_segments = roi_align(images, rois_batch.view(-1, 5), self.roi_pooling_size, spatial_scale)
-        else:
+        else: 
             image_segments = roi_pool(images, rois_batch.view(-1, 5), self.roi_pooling_size, spatial_scale)
 
         # (B*N, D, 1, 1)
