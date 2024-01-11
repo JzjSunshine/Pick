@@ -1,0 +1,1 @@
+{"ticket_num": "X098888", "starting_station": "北京南站", "train_num": "G197", "destination_station": "青岛站", "date": "2017年10月15日16:42W", "ticket_rates": "￥474.0元", "seat_category": "--等座", "name": "长江"}

@@ -1,0 +1,1 @@
+{"ticket_num": "NO29191", "starting_station": "保定东站", "train_num": "G6742", "destination_station": "北京西站", "date": "2017年12月20日15:16开", "ticket_rates": "￥101.5元", "seat_category": "一等座", "name": "林莉"}

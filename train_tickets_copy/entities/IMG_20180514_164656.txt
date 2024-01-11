@@ -1,0 +1,1 @@
+{"ticket_num": "002H052609", "starting_station": "郑州东站", "train_num": "G655", "destination_station": "西安北站", "date": "2017年12月20日13:24开", "ticket_rates": "￥382.0元", "seat_category": "一等座", "name": "_芳"}

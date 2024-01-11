@@ -1,0 +1,1 @@
+{"ticket_num": "3V094420", "starting_station": "苏州北站", "train_num": "G150", "destination_station": "北京南站", "date": "2018年03月10日16:30元", "ticket_rates": "￥883.5元", "seat_category": "一等座", "name": "瑾"}

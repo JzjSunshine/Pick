@@ -1,0 +1,1 @@
+{"ticket_num": "J075085", "starting_station": "广州南站", "train_num": "D902", "destination_station": "北京西站", "date": "2018年01月22日20:15开", "ticket_rates": "￥990.0元", "seat_category": "", "name": "国尊委"}

@@ -1,0 +1,1 @@
+{"ticket_num": "J009553", "starting_station": "北京西站", "train_num": "G533", "destination_station": "石家庄站", "date": "2017年12月25日13:02]", "ticket_rates": "￥206.5元", "seat_category": "一等座", "name": "根兴"}

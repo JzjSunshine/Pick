@@ -1,0 +1,1 @@
+{"ticket_num": "Z57K025526", "starting_station": "嘉兴南站", "train_num": "G'2", "destination_station": "北京南站", "date": "2017年12月200009:55开", "ticket_rates": "￥591.0元", "seat_category": "二等座", "name": "腊"}

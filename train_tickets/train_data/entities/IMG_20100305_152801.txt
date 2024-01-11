@@ -1,0 +1,1 @@
+{"ticket_num": "NO61357", "starting_station": "北京站", "train_num": "K603", "destination_station": "运城站", "date": "2017年08月04日17:12开", "ticket_rates": "￥230.0元", "seat_category": "新空调硬卧", "name": "涛"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z24S000571", "starting_station": "上海虹桥站", "train_num": "G7350", "destination_station": "无锡站", "date": "2017年12月11日21:420", "ticket_rates": "￥94.58", "seat_category": "一等理", "name": "疗"}

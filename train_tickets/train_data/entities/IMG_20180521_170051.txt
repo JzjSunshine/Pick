@@ -1,0 +1,1 @@
+{"ticket_num": "Z4C086842", "starting_station": "无为站", "train_num": "G270", "destination_station": "北京南站", "date": "2017年12月04日15:56开", "ticket_rates": "￥474.5元", "seat_category": "二等座", "name": "树娟"}

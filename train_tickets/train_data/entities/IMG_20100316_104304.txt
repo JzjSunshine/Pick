@@ -1,0 +1,1 @@
+{"ticket_num": "J033534", "starting_station": "北京站", "train_num": "K1301", "destination_station": "扎兰屯站", "date": "2018年02月13日10:15开", "ticket_rates": "￥367.0元", "seat_category": "新空调硬卧", "name": "海鹏"}

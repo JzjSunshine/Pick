@@ -1,0 +1,1 @@
+{"ticket_num": "K093875", "starting_station": "北京南站", "train_num": "G143", "destination_station": "苏州北站", "date": "2018年01月14日14:30开", "ticket_rates": "￥883.5元", "seat_category": "一等座", "name": "区成业"}

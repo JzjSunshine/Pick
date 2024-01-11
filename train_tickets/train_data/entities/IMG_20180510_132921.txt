@@ -1,0 +1,1 @@
+{"ticket_num": "KO80656", "starting_station": "北京西站", "train_num": "0621", "destination_station": "大原南站", "date": "2018年04月020 18:07开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "傅"}

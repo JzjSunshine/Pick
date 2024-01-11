@@ -1,0 +1,1 @@
+{"ticket_num": "8V081275", "starting_station": "\u5609\u5584\u5357\u7ad9", "train_num": "D\u5b50324", "destination_station": "\u4e0a\u6d77\u8679\u6865\u7ad9", "date": "2018\u5e7401\u670817\u65e511:16\u5f00", "ticket_rates": "\uffe538.0\u5143", "seat_category": "\u4e00\u7b49\u5ea7", "name": "\u4e1c\u534e"}

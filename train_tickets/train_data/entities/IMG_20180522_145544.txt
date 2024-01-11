@@ -1,0 +1,1 @@
+{"ticket_num": "M068784", "starting_station": "阳泉北站", "train_num": "D2004", "destination_station": "北京西站", "date": "2018年01月07日11:58开", "ticket_rates": "￥116.5元", "seat_category": "二等座", "name": "二朴一"}

@@ -1,0 +1,5 @@
+company	KEDAI RUNCIT ZBH,company
+address	NO.17\,JALAN PERMAS 1/7,address
+address	81750\, MASAI,address
+date	othe
+date	1/0

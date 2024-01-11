@@ -1,0 +1,1 @@
+{"ticket_num": "267X030155", "starting_station": "主海或桥派", "train_num": "CT43", "destination_station": "北京南站", "date": "2017年12月15日15:307", "ticket_rates": "￥553.0元", "seat_category": "二等魔", "name": "族"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z118C073690", "starting_station": "上海虹桥站", "train_num": "G122", "destination_station": "北京南站", "date": "2017年12月07日10:46开", "ticket_rates": "￥933.0元", "seat_category": "一等座", "name": "江涛"}

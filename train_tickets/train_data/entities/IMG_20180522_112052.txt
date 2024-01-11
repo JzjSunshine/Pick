@@ -1,0 +1,1 @@
+{"ticket_num": "L003028", "starting_station": "曲阜东站", "train_num": "G38", "destination_station": "北京南站", "date": "2018年03月25日15:15开", "ticket_rates": "￥244.0元", "seat_category": "二等座", "name": "尊委"}

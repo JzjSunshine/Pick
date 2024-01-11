@@ -1,0 +1,1 @@
+{"ticket_num": "F007943", "starting_station": "北京南站", "train_num": "06657", "destination_station": "白洋淀站", "date": "2018年01月31日13:007", "ticket_rates": "￥505元", "seat_category": "一等窗", "name": "015"}

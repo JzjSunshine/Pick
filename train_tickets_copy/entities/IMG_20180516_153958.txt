@@ -1,0 +1,1 @@
+{"ticket_num": "NO49606", "starting_station": "北戴河站", "train_num": "D28", "destination_station": "北京站", "date": "2017年10月14日12:49开", "ticket_rates": "￥81.5元", "seat_category": "二等座", "name": "丽双"}

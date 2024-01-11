@@ -1,0 +1,1 @@
+{"ticket_num": "Y052191", "starting_station": "北京西站", "train_num": "G609", "destination_station": "太原南站", "date": "2018年01月03日11:33开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "宣志亚"}

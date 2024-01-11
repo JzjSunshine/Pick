@@ -1,0 +1,1 @@
+{"ticket_num": "34F046820", "starting_station": "汉口站", "train_num": "G524", "destination_station": "北京西站", "date": "2017年10月03日15:20开", "ticket_rates": "￥519.5元", "seat_category": "二等座", "name": "立伟"}

@@ -1,0 +1,5 @@
+company	FIVE STAR CASH & CARRY,company
+address	G.23 & G.22\, PLAZA SERI SETIA,address
+address	NO.1 JALAN SS 9/1\, 47300 PJ\, SELANGOR.,address
+date	19/01/17
+date	19/01/17

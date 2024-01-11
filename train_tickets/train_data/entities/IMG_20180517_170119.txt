@@ -1,0 +1,1 @@
+{"ticket_num": "Z225U089408", "starting_station": "苏州站", "train_num": "G7239", "destination_station": "上海站", "date": "2017年09月24日18:36开", "ticket_rates": "￥39.5元", "seat_category": "二等座", "name": "倩"}

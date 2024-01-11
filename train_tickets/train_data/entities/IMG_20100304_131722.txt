@@ -1,0 +1,1 @@
+{"ticket_num": "2716022136", "starting_station": "合肥南站", "train_num": "G7634", "destination_station": "杭州东站", "date": "2018年03月29日12:39并", "ticket_rates": "￥270.0元", "seat_category": "一等座", "name": "超"}

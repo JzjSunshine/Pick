@@ -1,0 +1,1 @@
+{"ticket_num": "0054653", "starting_station": "北京站", "train_num": "77", "destination_station": "青岛北站", "date": "2018年02月13日22:087", "ticket_rates": "￥325.03", "seat_category": "新空调软卧", "name": "疗款"}

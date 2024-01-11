@@ -1,0 +1,1 @@
+{"ticket_num": "E061242", "starting_station": "北京西域", "train_num": "00燕", "destination_station": "本原南路", "date": "2017年11月22日11:14日", "ticket_rates": "￥288.0x", "seat_category": "一等摩", "name": "票据诊"}

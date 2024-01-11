@@ -1,0 +1,1 @@
+{"ticket_num": "Z181H026871", "starting_station": "常州站", "train_num": "G7017", "destination_station": "无锡站", "date": "2018年03月21日15:41开", "ticket_rates": "￥29.5元", "seat_category": "一等座", "name": "小洁`"}

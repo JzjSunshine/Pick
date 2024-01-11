@@ -1,0 +1,1 @@
+{"ticket_num": "Y083546", "starting_station": "成都东站", "train_num": "G8521", "destination_station": "重庆北站", "date": "2017年12月06日14:24开", "ticket_rates": "￥154.0元", "seat_category": "二等座", "name": "超"}

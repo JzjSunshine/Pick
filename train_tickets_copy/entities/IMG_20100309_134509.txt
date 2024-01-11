@@ -1,0 +1,1 @@
+{"ticket_num": "J014344", "starting_station": "大原南", "train_num": "0603", "destination_station": "北京西清", "date": "2018年01月26日08:37开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "犇"}

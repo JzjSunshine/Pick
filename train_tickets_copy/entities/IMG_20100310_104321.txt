@@ -1,0 +1,1 @@
+{"ticket_num": "L055308", "starting_station": "北京南站", "train_num": "G145", "destination_station": "无锡东站", "date": "2017年11月22日14:35开", "ticket_rates": "¥513.5元", "seat_category": "二等座", "name": "志宾"}

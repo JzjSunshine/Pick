@@ -1,0 +1,1 @@
+{"ticket_num": "2.1087228", "starting_station": "常州北站", "train_num": "G137", "destination_station": "上海虹桥站", "date": "2017年12月27日18:17开", "ticket_rates": "￥129.5元", "seat_category": "一等座", "name": "明"}

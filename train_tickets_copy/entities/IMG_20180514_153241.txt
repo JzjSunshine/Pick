@@ -1,0 +1,1 @@
+{"ticket_num": "D025432", "starting_station": "山海关站", "train_num": "D18", "destination_station": "北京站", "date": "2018年01月01日17:33开", "ticket_rates": "￥110.5元", "seat_category": "一等座", "name": "雪鹤"}

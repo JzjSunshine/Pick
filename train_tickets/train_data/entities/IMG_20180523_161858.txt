@@ -1,0 +1,1 @@
+{"ticket_num": "110Y088127", "starting_station": "上海虹桥站", "train_num": "G7539", "destination_station": "杭州东站", "date": "2018年02月27日14:15开", "ticket_rates": "￥117.0元", "seat_category": "一等座", "name": "胆灿"}

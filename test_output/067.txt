@@ -1,0 +1,4 @@
+company	STAURANT SDN B
+address	54\,JALAN SS23/11.,address
+address	PETALING JAYA\,SELANGOR,address
+date	06/01/18

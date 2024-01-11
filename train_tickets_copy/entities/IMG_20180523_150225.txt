@@ -1,0 +1,1 @@
+{"ticket_num": "D098940", "starting_station": "鄱阳站", "train_num": "G1462", "destination_station": "景德镇北站", "date": "2018年01月20u 12:06开", "ticket_rates": "￥12.0%", "seat_category": "二等窟", "name": "已延吉"}

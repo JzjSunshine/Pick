@@ -1,0 +1,1 @@
+{"ticket_num": "237L070365", "starting_station": "常州北路", "train_num": "G148", "destination_station": "北京南站", "date": "2018年03月22日16:197", "ticket_rates": "室628.57", "seat_category": "一等廖", "name": "小写"}

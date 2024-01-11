@@ -1,0 +1,1 @@
+{"ticket_num": "E010743", "starting_station": "北京南站", "train_num": "G475", "destination_station": "荣成药", "date": "2017*09930915:365", "ticket_rates": "￥3920元", "seat_category": "二等理", "name": "二婷婷"}

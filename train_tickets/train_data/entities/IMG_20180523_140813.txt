@@ -1,0 +1,1 @@
+{"ticket_num": "R001000", "starting_station": "集宁南站", "train_num": "Z316", "destination_station": "北京西站", "date": "2018年02月25日09:25开", "ticket_rates": "￥158.5元", "seat_category": "新空调软卧", "name": "元"}

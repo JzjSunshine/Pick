@@ -1,0 +1,1 @@
+{"ticket_num": "X077886", "starting_station": "天津站", "train_num": "C2084", "destination_station": "北京南站", "date": "2017年12月20日19:38日", "ticket_rates": "￥54.5%", "seat_category": "二等座", "name": "雪华清"}

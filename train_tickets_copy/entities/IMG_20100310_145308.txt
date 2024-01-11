@@ -1,0 +1,1 @@
+{"ticket_num": "M024836", "starting_station": "广州东站", "train_num": "C7113", "destination_station": "深圳站", "date": "2017年12月05日12:00开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "廷辉"}

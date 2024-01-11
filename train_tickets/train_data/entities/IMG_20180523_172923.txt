@@ -1,0 +1,1 @@
+{"ticket_num": "G068616", "starting_station": "北京南站", "train_num": "C2583", "destination_station": "于家堡站", "date": "2017年12月30日08:44开", "ticket_rates": "￥66.5元", "seat_category": "二等座", "name": "阳"}

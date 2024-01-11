@@ -1,0 +1,1 @@
+{"ticket_num": "7040181", "starting_station": "北京南站", "train_num": "G269", "destination_station": "", "date": "2017年11月22日18:38开", "ticket_rates": "￥436.0元", "seat_category": "二等座", "name": "梦菲"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z43N097904", "starting_station": "南京南站", "train_num": "G56", "destination_station": "北京市站", "date": "2017年11月29日19:00r", "ticket_rates": "￥219.5%", "seat_category": "一等座", "name": "二尊"}

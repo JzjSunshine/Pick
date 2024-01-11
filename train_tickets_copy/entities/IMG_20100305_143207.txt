@@ -1,0 +1,1 @@
+{"ticket_num": "Z59L086410", "starting_station": "南京南站", "train_num": "G55", "destination_station": "北京南站", "date": "2017年12月21日14:21开", "ticket_rates": "¥748.5元", "seat_category": "一等座", "name": "晨"}

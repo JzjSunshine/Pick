@@ -1,0 +1,1 @@
+{"ticket_num": "Z65H006752", "starting_station": "昆山南站", "train_num": "D3025", "destination_station": "上海虹桥站", "date": "2018年03月09日12:45开", "ticket_rates": "￥18.5元", "seat_category": "一等座", "name": "远"}

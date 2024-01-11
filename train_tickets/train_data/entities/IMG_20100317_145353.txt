@@ -1,0 +1,1 @@
+{"ticket_num": "55A001097", "starting_station": "郑州东站", "train_num": "G1566", "destination_station": "北京西站", "date": "2018年02月20日15:467", "ticket_rates": "￥309.0%", "seat_category": "二等窟", "name": "门尚勤"}

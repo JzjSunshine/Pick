@@ -1,0 +1,1 @@
+{"ticket_num": "C020729", "starting_station": "西安北站", "train_num": "G90", "destination_station": "北京西站", "date": "2017年11月05日18:22开", "ticket_rates": "¥515.5元", "seat_category": "二等座", "name": "珂"}

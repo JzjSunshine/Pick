@@ -1,0 +1,1 @@
+{"ticket_num": "Q032286", "starting_station": "深圳北站", "train_num": "G8910", "destination_station": "广州南站", "date": "2018*01月26日20:557", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "二荣"}

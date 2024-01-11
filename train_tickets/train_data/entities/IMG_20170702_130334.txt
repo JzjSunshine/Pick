@@ -1,0 +1,1 @@
+{"ticket_num": "10G028386", "starting_station": "嘉兴南站", "train_num": "G7591", "destination_station": "杭州东站", "date": "2017年12月20日12:39开", "ticket_rates": "￥55.0元", "seat_category": "一等座", "name": "天清雪"}

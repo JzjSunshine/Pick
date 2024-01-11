@@ -1,0 +1,1 @@
+{"ticket_num": "B007252", "starting_station": "沈阳站", "train_num": "G220", "destination_station": "北京南站", "date": "2018年02月26日13:30开", "ticket_rates": "￥295.0元", "seat_category": "二等座", "name": "固宇岩"}

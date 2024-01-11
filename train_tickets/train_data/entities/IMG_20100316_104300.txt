@@ -1,0 +1,1 @@
+{"ticket_num": "R046540", "starting_station": "营口东站", "train_num": "D46", "destination_station": "北京站", "date": "2018年02月27日16:21开", "ticket_rates": "￥252.0元", "seat_category": "一等座", "name": "拾允"}

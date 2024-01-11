@@ -1,0 +1,1 @@
+{"ticket_num": "Y078311", "starting_station": "北京南站", "train_num": "G4731", "destination_station": "长春西站", "date": "2018年02月12日02:06开", "ticket_rates": "￥433.5", "seat_category": "二等座", "name": "1X"}

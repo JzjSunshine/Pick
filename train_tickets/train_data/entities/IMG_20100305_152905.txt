@@ -1,0 +1,1 @@
+{"ticket_num": "A070516", "starting_station": "深圳北站", "train_num": "D902", "destination_station": "北京西站", "date": "2017年10月16日19:40开", "ticket_rates": "￥990.0元", "seat_category": "动卧", "name": "小玉"}

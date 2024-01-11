@@ -1,0 +1,1 @@
+{"ticket_num": "Z57M070131", "starting_station": "徐州东站", "train_num": "Gl64", "destination_station": "北京南站", "date": "2017年12月15日16:34开", "ticket_rates": "￥519.0元", "seat_category": "一等座", "name": "建辉"}

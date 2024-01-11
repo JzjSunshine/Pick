@@ -1,0 +1,1 @@
+{"ticket_num": "J003590", "starting_station": "济南西站", "train_num": "G132", "destination_station": "北京南站", "date": "2017年12月27日16:28开", "ticket_rates": "￥314.5元", "seat_category": "一等座", "name": "…亮"}

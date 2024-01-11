@@ -1,0 +1,1 @@
+{"ticket_num": "Z052715", "starting_station": "北京西站", "train_num": "G403", "destination_station": "昆明南站", "date": "2017年10月01日08:00开", "ticket_rates": "￥1147.5元", "seat_category": "二等座", "name": "政道"}

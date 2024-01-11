@@ -1,0 +1,1 @@
+{"ticket_num": "Z030781", "starting_station": "北京南站", "train_num": "G217", "destination_station": "沈阳北站", "date": "2018年02月01日13:30元", "ticket_rates": "￥295.0元", "seat_category": "二等座", "name": "国宁"}

@@ -1,0 +1,1 @@
+{"ticket_num": "01460079924", "starting_station": "南京南站", "train_num": "G142", "destination_station": "北京南站", "date": "2017年09816415：44日", "ticket_rates": "￥443.54", "seat_category": "二等经", "name": "雪满"}

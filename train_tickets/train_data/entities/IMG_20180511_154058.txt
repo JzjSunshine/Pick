@@ -1,0 +1,1 @@
+{"ticket_num": "Z020131", "starting_station": "合肥站", "train_num": "Z227", "destination_station": "北京站", "date": "2017年10月22日21:48开", "ticket_rates": "¥252.5元", "seat_category": "新空调硬卧", "name": "梦菲证"}

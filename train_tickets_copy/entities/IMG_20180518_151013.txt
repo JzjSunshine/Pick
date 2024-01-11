@@ -1,0 +1,1 @@
+{"ticket_num": "3、 0599", "starting_station": "徐州东站", "train_num": "G1568", "destination_station": "北京南站", "date": "2018年01月07日 08:15开", "ticket_rates": "7519.0元", "seat_category": "一等座", "name": "晶晶"}

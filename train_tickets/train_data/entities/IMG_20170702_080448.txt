@@ -1,0 +1,1 @@
+{"ticket_num": "0064872", "starting_station": "北京西站", "train_num": "2133", "destination_station": "吉安站", "date": "2017年09月29日19:137", "ticket_rates": "￥552.0天", "seat_category": "新空调软卧", "name": "雪娇"}

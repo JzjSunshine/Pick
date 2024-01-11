@@ -1,0 +1,1 @@
+{"ticket_num": "F004276", "starting_station": "北京南湖", "train_num": "C2049", "destination_station": "天津站", "date": "2017年12月28日11:54开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "输"}

@@ -1,0 +1,1 @@
+{"ticket_num": "L089533", "starting_station": "北京西站", "train_num": "K179", "destination_station": "郑州站", "date": "2017*12月28日22:32开", "ticket_rates": "¥174.0元", "seat_category": "新空调硬卧", "name": ""}

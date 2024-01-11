@@ -1,0 +1,1 @@
+{"ticket_num": "B070062", "starting_station": "北京西站", "train_num": "D927", "destination_station": "深圳北站", "date": "2018年01月20日20:25开", "ticket_rates": "￥990.0元", "seat_category": "动卧", "name": "国大伟"}

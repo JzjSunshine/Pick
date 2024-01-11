@@ -1,0 +1,1 @@
+{"ticket_num": "S054452", "starting_station": "北京西站", "train_num": "G619", "destination_station": "阳泉北端", "date": "2018年02月06日18:02开", "ticket_rates": "￥242.5元", "seat_category": "一等座", "name": "区羽强"}

@@ -1,0 +1,1 @@
+{"ticket_num": "T016600", "starting_station": "岳阳东站", "train_num": "G1155", "destination_station": "长沙南站", "date": "", "ticket_rates": "￥69.5元", "seat_category": "二等座", "name": "张国酒"}

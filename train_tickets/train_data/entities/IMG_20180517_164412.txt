@@ -1,0 +1,1 @@
+{"ticket_num": "K061911", "starting_station": "北京南站", "train_num": "G45", "destination_station": "宜兴站", "date": "2017年11月28日15:25开", "ticket_rates": "￥828.5元", "seat_category": "一等座", "name": "寒松"}

@@ -1,0 +1,1 @@
+{"ticket_num": "V024706", "starting_station": "三级药", "train_num": "07306", "destination_station": "美兰效", "date": "2017*12925907.157", "ticket_rates": "￥95.0%", "seat_category": "二等经", "name": "检"}

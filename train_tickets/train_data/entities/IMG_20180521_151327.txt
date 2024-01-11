@@ -1,0 +1,1 @@
+{"ticket_num": "Z31W031243", "starting_station": "北京站", "train_num": "D11", "destination_station": "沈阳北站", "date": "2017年10月21日12:37开", "ticket_rates": "￥206.0元", "seat_category": "二等座", "name": "广路"}

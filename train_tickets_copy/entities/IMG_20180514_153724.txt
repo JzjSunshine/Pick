@@ -1,0 +1,1 @@
+{"ticket_num": "017L078400", "starting_station": "新乡东站", "train_num": "G1550", "destination_station": "北京西站", "date": "2017年12月21日09:14开", "ticket_rates": "￥450.0元", "seat_category": "一等座", "name": "晓鹏"}

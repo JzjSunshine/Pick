@@ -1,0 +1,1 @@
+{"ticket_num": "Z179V083066", "starting_station": "常州市", "train_num": "D3041", "destination_station": "无锡站", "date": "2017年12月11日14:33开", "ticket_rates": "￥13.5元", "seat_category": "一等座", "name": "，峰"}

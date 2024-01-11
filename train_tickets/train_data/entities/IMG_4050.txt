@@ -1,0 +1,1 @@
+{"ticket_num": "Z45H007253", "starting_station": "苏州北站", "train_num": "G7375", "destination_station": "上海虹桥站", "date": "2018年02月28日12:05日", "ticket_rates": "￥64.5元", "seat_category": "一等座", "name": "众"}

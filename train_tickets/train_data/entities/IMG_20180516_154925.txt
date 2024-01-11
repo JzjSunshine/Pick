@@ -1,0 +1,1 @@
+{"ticket_num": "M058849", "starting_station": "北京站", "train_num": "K497", "destination_station": "齐齐哈尔站", "date": "2017年12月07日13:36开", "ticket_rates": "￥299.5元", "seat_category": "新空调硬卧", "name": "丁威"}

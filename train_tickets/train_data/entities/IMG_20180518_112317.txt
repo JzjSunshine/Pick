@@ -1,0 +1,1 @@
+{"ticket_num": "K078258", "starting_station": "北京西站", "train_num": "K179", "destination_station": "郑州站", "date": "2018*02月01日22:32;", "ticket_rates": "￥251.0元", "seat_category": "新空调软图", "name": "二高飞"}

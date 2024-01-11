@@ -1,0 +1,1 @@
+{"ticket_num": "7J063404", "starting_station": "阜阳站", "train_num": "T7787", "destination_station": "合肥站", "date": "2018年01月01日16:23开", "ticket_rates": "￥37.5元", "seat_category": "", "name": "血强强"}

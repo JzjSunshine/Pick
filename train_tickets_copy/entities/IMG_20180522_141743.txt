@@ -1,0 +1,1 @@
+{"ticket_num": "E035193", "starting_station": "北京西站", "train_num": "z55", "destination_station": "石家庄北站", "date": "2018年02月14日14:58开", "ticket_rates": "￥238.5元", "seat_category": "新空调高级软卧", "name": "二风琪"}

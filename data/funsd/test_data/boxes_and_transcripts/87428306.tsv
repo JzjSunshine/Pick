@@ -1,0 +1,36 @@
+0,115,207,127,207,127,215,115,215,pH,question
+1,112,349,155,349,155,358,112,358,SOLUBILITY,question
+2,124,434,132,434,132,443,124,443,,question
+3,123,485,144,485,144,494,123,494,ORAL,question
+4,127,162,158,162,158,173,127,173,A221,answer
+5,119,885,156,885,156,893,119,893,SIGNATURE,question
+6,190,909,221,909,221,918,190,918,CENTER,other
+7,154,909,186,909,186,918,154,918,RESEARCH,other
+8,115,912,152,912,152,921,115,921,LORILLARD,other
+9,646,643,667,643,667,731,646,731,87428306,other
+10,511,880,530,880,530,891,511,891,DATE,question
+11,258,119,545,119,545,136,258,136,COMPOUND PHYSICAL PARAMETERS,header
+12,114,152,175,152,175,162,114,162,LRC FILE NUMBER,question
+13,508,147,556,147,556,158,508,158,LOT NUMBER,question
+14,115,179,171,179,171,188,115,188,PHYSICAL STATE,question
+15,128,184,547,184,547,202,128,202,A crystalline solid at room temperature which melts at > 56 C.,answer
+16,128,219,588,219,588,277,128,277,The pH of a 50 % concentration of A221 in water was theoretically calculated to be 7.26 at 22 C from a 0.5 % solution in 79.5 % aqueous dioxane according to the extrapolation procedures of Dr. P. D. Schickedantz, Lozillard Accession Number 1662. Referenced 45- 10- 1.,answer
+17,115,287,178,287,178,298,115,298,SPECIFIC GRAVITY,question
+18,128,305,234,305,234,317,128,317,Not Determined.,answer
+19,126,361,536,361,536,399,126,399,MUTAGENICITY SOLVENTS A221 is soluble EtOH at 0.2 g/ ml, with stirring, at room temperature. Reference BC30- 88.,answer
+20,127,436,567,436,567,466,127,466,A221 forms a solution in corn oil at 0.5 g/ 0.5 mL, with stirring at room temperature. Reference BC30- 8888.,answer
+21,127,504,568,504,568,535,127,535,A221 forms a solution in corn oil at 0.5 g/ 0.5 mL, with stirring at room temperature. Reference BC30- 88.,answer
+22,116,574,205,574,205,584,116,584,ACUTE CARDIOVASCULAR,question
+23,127,598,516,598,516,615,127,615,A221 is insoluble for this procedure. Reference BC30- 38,answer
+24,115,635,220,635,220,644,115,644,STORAGE RECOMMENDATIONS,question
+25,126,680,517,680,517,698,126,698,Refrigerate in an amber glass bottle at no more than 8 C.,answer
+26,116,739,206,739,206,751,116,751,COMPOUND SENSITIVE TO,header
+27,135,765,158,765,158,774,135,774,☐ AIR,question
+28,171,763,200,763,200,774,171,774,☐ HEAT,question
+29,214,761,262,761,262,773,214,773,☐ MOISTURE,question
+30,273,761,309,761,309,773,273,773,☐ OTHER,question
+31,119,790,312,790,312,802,119,802,SAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE:,question
+32,144,882,352,882,352,921,144,921,,answer
+33,372,890,425,890,425,903,372,903,A - 13,other
+34,513,885,672,885,672,907,513,907,,answer
+35,652,904,700,904,700,915,652,915,FORM ,other

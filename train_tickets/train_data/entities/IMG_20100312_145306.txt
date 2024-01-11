@@ -1,0 +1,1 @@
+{"ticket_num": "550084651", "starting_station": "郑州站", "train_num": "G806", "destination_station": "北京西站", "date": "2018年01月23日 13:41开", "ticket_rates": "￥504.0元", "seat_category": "一等座", "name": "东华"}

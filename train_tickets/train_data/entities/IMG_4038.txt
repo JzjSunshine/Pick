@@ -1,0 +1,1 @@
+{"ticket_num": "2032008829", "starting_station": "上海滩桥", "train_num": "67370", "destination_station": "杭州东站", "date": "2018-03 0601253", "ticket_rates": "￥1170%", "seat_category": "检查", "name": "1"}

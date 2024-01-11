@@ -1,0 +1,1 @@
+{"ticket_num": "A021961", "starting_station": "北京南站", "train_num": "C2225", "destination_station": "武清站", "date": "2017年12月30日 15:12开", "ticket_rates": "￥38.5元", "seat_category": "二等座", "name": "雪军"}

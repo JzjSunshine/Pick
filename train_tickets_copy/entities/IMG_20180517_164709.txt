@@ -1,0 +1,1 @@
+{"ticket_num": "Z27N021954", "starting_station": "上海虹桥站", "train_num": "Gl6", "destination_station": "北京南站", "date": "2017年12月02日 11:00开", "ticket_rates": "¥933.0元", "seat_category": "一等座", "name": "玉磊"}

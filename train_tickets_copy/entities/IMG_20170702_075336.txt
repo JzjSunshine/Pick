@@ -1,0 +1,1 @@
+{"ticket_num": "S000599", "starting_station": "北京西站", "train_num": "G60", "destination_station": "阳泉北站", "date": "2017年12月04日07:21日", "ticket_rates": "￥242.5元", "seat_category": "一等座", "name": "铁华"}

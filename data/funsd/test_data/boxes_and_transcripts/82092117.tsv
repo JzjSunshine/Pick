@@ -1,0 +1,28 @@
+0,61,127,143,127,143,211,61,211,,other
+1,102,345,129,345,129,359,102,359,TO:,question
+2,102,406,147,406,147,423,102,423,DATE:,question
+3,461,440,475,440,475,455,461,455,3,answer
+4,249,84,274,84,274,98,249,98,Fax:,question
+5,103,691,139,691,139,708,103,708,NOTE:,question
+6,633,775,653,775,653,874,633,874,82092117,other
+7,275,82,354,82,354,101,275,101,614 -466 -5087,answer
+8,419,82,589,82,589,101,419,101,Dec 10 '98 17 :46 P. 01,other
+9,103,84,246,84,246,100,103,100,ATT. GEN. ADMIN. OFFICE,other
+10,147,148,305,148,305,191,147,191,Attorney General Betty D. Montgomery,header
+11,264,249,467,249,467,281,264,281,CONFIDENTIAL FACSIMILE TRANSMISSION COVER SHEET,header
+12,352,296,438,296,438,314,352,314,(614) 466- 5087,answer
+13,289,296,351,296,351,311,289,311,FAX NO.,question
+14,142,342,236,342,236,360,142,360,George Baroody,answer
+15,223,376,312,376,312,393,223,393,(336) 335- 7392,answer
+16,102,374,200,374,200,391,102,391,FAX NUMBER:,question
+17,383,376,500,376,500,391,383,391,PHONE NUMBER:,question
+18,504,376,592,376,592,393,504,393,(336) 335- 7363,answer
+19,102,439,421,439,421,457,102,457,NUMBER OF PAGES INCLUDING COVER SHEET:,question
+20,304,471,537,471,537,487,304,487,June Flynn for Eric Brown/ (614) 466- 8980,answer
+21,98,471,280,471,280,488,98,488,SENDER /PHONE NUMBER:,question
+22,103,503,274,503,274,520,103,520,SPECIAL INSTRUCTIONS:,question
+23,175,599,556,599,556,646,175,646,IF YOU DO NOT RECEIVE ANY OF THE PAGES PROPERLY, PLEASE CONTACT SENDER AS SOON AS POSSIBLE,header
+24,162,691,626,691,626,813,162,813,THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO WHOM IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED. CONFIDENTIAL, AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. If the reader of this message is not the intended recipient of the employee or agent responsible for delivering the message to the intended recipient, you are hereby notified that any dissemination, distribution, copying, or conveying of this communication in any manner is strictly prohibited. If you have received this comunication in error, please notify us immediately by telephone and return the original message to us at the address below via the U. S. Postal Service. Thank you for your cooperation.,answer
+25,182,887,539,887,539,928,182,928,State Office Tower / 30 East Broad Street/ Columbus, Ohio 43215 -3428 www ag state oh us An Equal Opportunity Employer,other
+26,292,941,426,941,426,954,292,954,Primed an ,other
+27,184,405,233,405,233,423,184,423,12 /10 /98,answer

@@ -1,0 +1,1 @@
+{"ticket_num": "NO10.05", "starting_station": "包头站", "train_num": "K264", "destination_station": "北京站", "date": "2017年10月03日20:57开", "ticket_rates": "￥251.0元", "seat_category": "新空调软卧", "name": "峰"}

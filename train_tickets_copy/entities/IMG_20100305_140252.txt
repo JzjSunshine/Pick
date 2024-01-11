@@ -1,0 +1,1 @@
+{"ticket_num": "086282", "starting_station": "长沙南站", "train_num": "G71", "destination_station": "广州南站", "date": "2017年12月02日14:29开", "ticket_rates": "￥504.0元", "seat_category": "一等座", "name": "远"}

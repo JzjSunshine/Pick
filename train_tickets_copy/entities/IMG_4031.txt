@@ -1,0 +1,1 @@
+{"ticket_num": "F029744", "starting_station": "北京西站", "train_num": "G79", "destination_station": "广州南站", "date": "2018年02月04日10:00开", "ticket_rates": "￥862.0元", "seat_category": "二等座", "name": "勇坚"}

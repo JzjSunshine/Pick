@@ -1,0 +1,1 @@
+{"ticket_num": "7048019", "starting_station": "北京西站", "train_num": "G491", "destination_station": "南昌西站", "date": "2017年11月20日12:33开", "ticket_rates": "￥975.5元", "seat_category": "一等座", "name": "健"}

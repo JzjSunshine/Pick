@@ -1,0 +1,1 @@
+{"ticket_num": "7034170", "starting_station": "北京西路", "train_num": "G'0.5", "destination_station": "有家庄站", "date": "20174139 11", "ticket_rates": "3:206.5m", "seat_category": "一等综", "name": "1门诊"}

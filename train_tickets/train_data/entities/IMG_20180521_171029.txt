@@ -1,0 +1,1 @@
+{"ticket_num": "J041010", "starting_station": "北京南站", "train_num": "G43", "destination_station": "杭州东站", "date": "2018年02月13日14:05开", "ticket_rates": "￥626.0元", "seat_category": "二等座", "name": "宏1"}

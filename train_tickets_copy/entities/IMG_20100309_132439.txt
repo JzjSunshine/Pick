@@ -1,0 +1,1 @@
+{"ticket_num": "Z67A036229", "starting_station": "南京站", "train_num": "D5522", "destination_station": "扬州站", "date": "2018年02月07日13:20开", "ticket_rates": "￥58.0元", "seat_category": "一等座", "name": "岭"}

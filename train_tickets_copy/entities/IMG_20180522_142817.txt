@@ -1,0 +1,1 @@
+{"ticket_num": "KO52858", "starting_station": "深圳北站", "train_num": "0928", "destination_station": "北京西站", "date": "2018*04月07日19:55:", "ticket_rates": "￥1150.0%", "seat_category": "动（急）", "name": "或育"}

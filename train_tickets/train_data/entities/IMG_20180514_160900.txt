@@ -1,0 +1,1 @@
+{"ticket_num": "F074211", "starting_station": "北京网站", "train_num": "G125", "destination_station": "济南西站", "date": "2018年02月08日11:107", "ticket_rates": "￥3145元", "seat_category": "一等座", "name": "超"}

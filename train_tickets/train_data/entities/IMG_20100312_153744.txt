@@ -1,0 +1,1 @@
+{"ticket_num": "1421048952", "starting_station": "郑州东站", "train_num": "G1956", "destination_station": "石家庄站", "date": "2018年02月23日17:47开", "ticket_rates": "¥189.5元", "seat_category": "二等座", "name": "，莉莉"}

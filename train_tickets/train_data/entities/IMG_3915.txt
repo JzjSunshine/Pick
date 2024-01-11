@@ -1,0 +1,1 @@
+{"ticket_num": "H096172", "starting_station": "阳泉北站", "train_num": "02002", "destination_station": "北京西站", "date": "2018*010 128 10:217", "ticket_rates": "￥116.53", "seat_category": "二等塞", "name": "宁军"}

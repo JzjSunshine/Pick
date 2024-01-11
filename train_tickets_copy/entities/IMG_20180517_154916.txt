@@ -1,0 +1,1 @@
+{"ticket_num": "H044932", "starting_station": "北京南站", "train_num": "C2035", "destination_station": "天津站", "date": "2017年12月11日10:08开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "，洋洋"}

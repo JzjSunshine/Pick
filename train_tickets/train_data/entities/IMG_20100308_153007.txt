@@ -1,0 +1,1 @@
+{"ticket_num": "Z57S006643", "starting_station": "南京南站", "train_num": "G8", "destination_station": "北京南盐", "date": "2017年12月12日12002)", "ticket_rates": "7443.53", "seat_category": "二等理", "name": "冬梅"}

@@ -1,0 +1,1 @@
+{"ticket_num": "B016420", "starting_station": "沈阳北", "train_num": "G25.74", "destination_station": "日泉北路", "date": "2017年12月25日15:34开", "ticket_rates": "￥395.0元", "seat_category": "二等厘", "name": "药"}

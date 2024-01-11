@@ -1,0 +1,1 @@
+{"ticket_num": "G067704", "starting_station": "菏泽站", "train_num": "Z602", "destination_station": "北京站", "date": "2018年02月25日14:53开", "ticket_rates": "￥81.0元", "seat_category": "新空调硬座", "name": "铭"}

@@ -1,0 +1,1 @@
+{"ticket_num": "A054738", "starting_station": "北京站", "train_num": "2559", "destination_station": "赤峰站", "date": "2018年02月13日20:42开", "ticket_rates": "￥122.0元", "seat_category": "新空调硬卧", "name": "X金磊"}

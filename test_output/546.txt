@@ -1,0 +1,6 @@
+company	RESTORAN WAN SHENG,company
+address	NO.2\, JALAN TEMENGGUNG 19/9,address
+address	SEKSYEN 9\, BANDAR MAHKOTA CHERAS,address
+address	43200 CHERAS\, SELANGOR,address
+date	09-04-2018
+total	8.60,

@@ -1,0 +1,1 @@
+{"ticket_num": "D035810", "starting_station": "北京南站", "train_num": "G13", "destination_station": "上海虹桥站", "date": "2018年01月23日10:00开", "ticket_rates": "￥933.0元", "seat_category": "一等座", "name": "口虹"}

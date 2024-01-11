@@ -1,0 +1,1 @@
+{"ticket_num": "L086209", "starting_station": "沈阳北站", "train_num": "G382", "destination_station": "北京南站", "date": "2017年11月17日18:44开", "ticket_rates": "￥441.5元", "seat_category": "一等座", "name": "三上昆"}

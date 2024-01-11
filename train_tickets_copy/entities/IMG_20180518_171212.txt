@@ -1,0 +1,1 @@
+{"ticket_num": "H053895", "starting_station": "济南西站", "train_num": "G152", "destination_station": "北京南站", "date": "2017年11月12日20:06开", "ticket_rates": "￥184.5元", "seat_category": "二等座", "name": "家元"}

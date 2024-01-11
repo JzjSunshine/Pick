@@ -1,0 +1,1 @@
+{"ticket_num": "25E024765", "starting_station": "北京南站", "train_num": "G325", "destination_station": "古田北站", "date": "2018年02月14日12:05开", "ticket_rates": "￥693.5元", "seat_category": "二等座", "name": "霍治斌"}

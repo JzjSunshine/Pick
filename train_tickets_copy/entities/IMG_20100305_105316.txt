@@ -1,0 +1,1 @@
+{"ticket_num": "W022039", "starting_station": "弥勒站", "train_num": "D3941", "destination_station": "昆明南站", "date": "2017年10月09日14:44开", "ticket_rates": "￥34.0元", "seat_category": "二等座", "name": "琼如"}

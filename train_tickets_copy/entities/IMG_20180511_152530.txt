@@ -1,0 +1,1 @@
+{"ticket_num": "21210064089", "starting_station": "上海虹桥站", "train_num": "G18", "destination_station": "北京南站", "date": "2017*10月14日15:00]", "ticket_rates": "￥553.0元", "seat_category": "二等窗", "name": "丁健毕"}

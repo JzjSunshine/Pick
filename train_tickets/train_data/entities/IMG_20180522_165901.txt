@@ -1,0 +1,1 @@
+{"ticket_num": "N029615", "starting_station": "广州东站", "train_num": "C7043", "destination_station": "深圳站", "date": "2017年12月28日10:04开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "工晨潇"}

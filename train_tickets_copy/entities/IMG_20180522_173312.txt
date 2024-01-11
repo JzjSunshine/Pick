@@ -1,0 +1,1 @@
+{"ticket_num": "W045325", "starting_station": "北京站", "train_num": "K101", "destination_station": "兖州站", "date": "2017年12月22日23:20元", "ticket_rates": "", "seat_category": "新空调软卧", "name": "汇"}

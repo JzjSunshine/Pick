@@ -1,0 +1,1 @@
+{"ticket_num": "24802742", "starting_station": "上海县林县", "train_num": "G暑糟", "destination_station": "北京南靖", "date": "2017年12月00261500", "ticket_rates": "￥553.03.", "seat_category": "二等经", "name": "厂商荪"}

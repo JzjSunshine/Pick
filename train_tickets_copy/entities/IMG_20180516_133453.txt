@@ -1,0 +1,1 @@
+{"ticket_num": "L010553", "starting_station": "天津站", "train_num": "C2064", "destination_station": "北京南站", "date": "2017年12月01日16:457", "ticket_rates": "￥65.5%", "seat_category": "一等座", "name": "、小写"}

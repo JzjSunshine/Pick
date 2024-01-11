@@ -1,0 +1,5 @@
+company	SYARIKAT PERNIAGAAN GIN KEE,company
+address	NO 290\, JALAN AIR PANAS.,address
+address	53200\, KUALA LUMPUR.,address
+date	02/01/2018
+total	39.75,

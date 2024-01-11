@@ -1,0 +1,1 @@
+{"ticket_num": "J091039", "starting_station": "天津站", "train_num": "C2084", "destination_station": "北京南站", "date": "2018年03月29日19:38开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "铮"}

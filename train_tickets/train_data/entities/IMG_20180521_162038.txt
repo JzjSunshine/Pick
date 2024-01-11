@@ -1,0 +1,1 @@
+{"ticket_num": "Z46G068890", "starting_station": "苏州北站", "train_num": "G211", "destination_station": "上海虹桥站", "date": "2017年09月29日14:17开", "ticket_rates": "￥34.5元", "seat_category": "二等座", "name": "1士超"}

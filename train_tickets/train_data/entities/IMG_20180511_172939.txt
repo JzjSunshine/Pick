@@ -1,0 +1,1 @@
+{"ticket_num": "Z122D040263", "starting_station": "上海虹桥站", "train_num": "G24", "destination_station": "无锡东站", "date": "20174.11;28n17:00#", "ticket_rates": "￥84.5z", "seat_category": "一等座", "name": "二天昊"}

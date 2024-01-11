@@ -1,0 +1,1 @@
+{"ticket_num": "B073410", "starting_station": "青岛北站", "train_num": "K1634", "destination_station": "郑州站", "date": "2018年02月04日17:39开", "ticket_rates": "￥240.5元", "seat_category": "新空调硬卧", "name": "翼"}

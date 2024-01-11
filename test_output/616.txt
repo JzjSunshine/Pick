@@ -1,0 +1,6 @@
+company	PASAR RAYA MEGA MAJU,add
+address	NO 24\, 25 & 26,address
+address	J
+date	03/07/2018
+address	SRO 9555544201075,
+address	7.40,address

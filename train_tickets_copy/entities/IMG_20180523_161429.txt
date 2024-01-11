@@ -1,0 +1,1 @@
+{"ticket_num": "V008417", "starting_station": "上海虹桥站", "train_num": "01357", "destination_station": "长沙南站", "date": "2018年02月20日 15:017", "ticket_rates": "￥478.0%", "seat_category": "二等感", "name": "二畅"}

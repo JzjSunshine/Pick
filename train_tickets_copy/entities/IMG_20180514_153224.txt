@@ -1,0 +1,1 @@
+{"ticket_num": "T009989", "starting_station": "北京站", "train_num": "037", "destination_station": "山海关站", "date": "2017*11月17日15:51日", "ticket_rates": "￥925元", "seat_category": "二等座", "name": "不明"}

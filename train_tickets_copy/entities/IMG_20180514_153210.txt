@@ -1,0 +1,1 @@
+{"ticket_num": "F091949", "starting_station": "北京站", "train_num": "Zl5", "destination_station": "哈尔滨西站", "date": "2018年01月24日21:211", "ticket_rates": "￥409.5元", "seat_category": "新空调软卧", "name": "额"}

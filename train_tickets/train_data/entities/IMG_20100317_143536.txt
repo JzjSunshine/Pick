@@ -1,0 +1,1 @@
+{"ticket_num": "Z38G033024", "starting_station": "常州北站", "train_num": "G158", "destination_station": "北京南站", "date": "2018年01月09日18:23开", "ticket_rates": "1828.5元", "seat_category": "一等座", "name": "加星"}

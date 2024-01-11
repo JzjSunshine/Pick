@@ -1,0 +1,1 @@
+{"ticket_num": "Y019760", "starting_station": "深圳北站", "train_num": "D2298", "destination_station": "厦门北站", "date": "2018*01917814:449", "ticket_rates": ":288.04", "seat_category": "-一等蓬", "name": "务立"}

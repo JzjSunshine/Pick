@@ -1,0 +1,1 @@
+{"ticket_num": "S039849", "starting_station": "石家庄站", "train_num": "G6732", "destination_station": "北京西站", "date": "2018年01月12日08:57开", "ticket_rates": "￥206.5元", "seat_category": "一等座", "name": "俊"}

@@ -1,0 +1,1 @@
+{"ticket_num": "006F072120", "starting_station": "华山北站", "train_num": "G308", "destination_station": "北京西站", "date": "2018*01月03日15:27开", "ticket_rates": "￥4705%", "seat_category": "二等塞", "name": "二雄黄"}

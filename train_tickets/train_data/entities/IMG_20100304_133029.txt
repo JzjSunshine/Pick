@@ -1,0 +1,1 @@
+{"ticket_num": "Z49B010097", "starting_station": "苏州北站", "train_num": "G1865", "destination_station": "宁波站", "date": "2018年03月29日19:08开", "ticket_rates": "￥299.5元", "seat_category": "一等座", "name": "苏燕"}

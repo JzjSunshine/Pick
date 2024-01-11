@@ -1,0 +1,1 @@
+{"ticket_num": "A035873", "starting_station": "阳泉北站", "train_num": "D2004", "destination_station": "北京西站", "date": "2017年11月220 11:58开", "ticket_rates": "￥174.5元", "seat_category": "一等座", "name": "11月"}

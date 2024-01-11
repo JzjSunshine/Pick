@@ -1,0 +1,1 @@
+{"ticket_num": "E001276", "starting_station": "常州北站", "train_num": "G143", "destination_station": "北京南站", "date": "2018年03月22916:17%", "ticket_rates": "￥828.5元", "seat_category": "一等座", "name": "灏"}

@@ -1,0 +1,1 @@
+{"ticket_num": "105H051113", "starting_station": "武汉站", "train_num": "G486", "destination_station": "郑州东站", "date": "2018+02926日16:10开", "ticket_rates": "￥244.03", "seat_category": "二等座", "name": "二超"}

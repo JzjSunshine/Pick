@@ -1,0 +1,1 @@
+{"ticket_num": "B083804", "starting_station": "北京南站", "train_num": "C2023", "destination_station": "天津站", "date": "2017年10月30日09:03开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "琼如"}

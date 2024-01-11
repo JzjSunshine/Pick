@@ -1,0 +1,1 @@
+{"ticket_num": "Z039592", "starting_station": "北京南站", "train_num": "G219", "destination_station": "沈阳站", "date": "2018年02月11日08:00开", "ticket_rates": "¥295.0元", "seat_category": "二等座", "name": "阳"}

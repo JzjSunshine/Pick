@@ -1,0 +1,1 @@
+{"ticket_num": "R082524", "starting_station": "杭州乐站", "train_num": "G166", "destination_station": "北京南省", "date": "2018*02月20a15:25+", "ticket_rates": "¥538.5元", "seat_category": "二等座", "name": "红叶"}

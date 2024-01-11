@@ -1,0 +1,1 @@
+{"ticket_num": "B088195", "starting_station": "北京南站", "train_num": "C2011", "destination_station": "天津站", "date": "2017年08月16日07:03开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "通"}

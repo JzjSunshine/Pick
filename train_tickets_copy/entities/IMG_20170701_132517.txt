@@ -1,0 +1,1 @@
+{"ticket_num": "B079306", "starting_station": "\u5e7f\u5dde\u4e1c\u7ad9", "train_num": "D7505", "destination_station": "\u60e0\u5dde\u5357\u7ad9", "date": "2017 11 03\u65e518:32\u5f00", "ticket_rates": "\uffe5110.5\u5143", "seat_category": "\u4e00\u7b49\u5ea7", "name": "\u5ce5"}

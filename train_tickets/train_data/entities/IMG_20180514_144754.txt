@@ -1,0 +1,1 @@
+{"ticket_num": "C098.6", "starting_station": "福州站", "train_num": "G242", "destination_station": "泰安站", "date": "2018年01月16日09:34开", "ticket_rates": "¥947.0元", "seat_category": "一等座", "name": "二文"}

@@ -1,0 +1,1 @@
+{"ticket_num": "116C018841", "starting_station": "西安北站", "train_num": "G88", "destination_station": "北京西站", "date": "2018年03月13日13:30开", "ticket_rates": "￥824.55", "seat_category": "一等座", "name": "337,330,景星"}

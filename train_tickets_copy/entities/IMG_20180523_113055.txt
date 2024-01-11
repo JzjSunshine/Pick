@@ -1,0 +1,1 @@
+{"ticket_num": "Z76P034930", "starting_station": "上海虹桥站", "train_num": "G7128", "destination_station": "苏州站", "date": "2017年12月22日21:10开", "ticket_rates": "￥39.5元", "seat_category": "二等座", "name": "海娟"}

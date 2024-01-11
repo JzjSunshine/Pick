@@ -1,0 +1,1 @@
+{"ticket_num": "R007124", "starting_station": "北京市", "train_num": "2225", "destination_station": "合肥站", "date": "2017年12月07日21:50]", "ticket_rates": "￥381.5元", "seat_category": "新空调软卧", "name": "雪俊"}

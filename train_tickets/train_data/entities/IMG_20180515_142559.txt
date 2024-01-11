@@ -1,0 +1,1 @@
+{"ticket_num": "Y094152", "starting_station": "北京南站", "train_num": "G4221", "destination_station": "荣成站", "date": "2018年02月10日11:20开", "ticket_rates": "¥392.0元", "seat_category": "二等座", "name": "海港"}

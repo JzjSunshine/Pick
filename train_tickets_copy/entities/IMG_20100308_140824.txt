@@ -1,0 +1,1 @@
+{"ticket_num": "059845", "starting_station": "天津站", "train_num": "Z206", "destination_station": "北京站", "date": "2017年10月08日19:03开", "ticket_rates": "￥102.5元", "seat_category": "新空调软卧", "name": "瑞"}

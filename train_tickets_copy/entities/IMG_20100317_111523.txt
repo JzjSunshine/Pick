@@ -1,0 +1,1 @@
+{"ticket_num": "Z164D017255", "starting_station": "上海虹桥站", "train_num": "D3321", "destination_station": "杭州东站", "date": "2018年01月13日18:41开", "ticket_rates": "￥56.0元", "seat_category": "二等座", "name": "国家冰"}

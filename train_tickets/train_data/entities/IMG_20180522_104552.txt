@@ -1,0 +1,1 @@
+{"ticket_num": "Z81L038703", "starting_station": "南京南站", "train_num": "G146", "destination_station": "北京南站", "date": "2018年03月14日16:24开", "ticket_rates": "￥443.5元", "seat_category": "二等座", "name": "，丹"}

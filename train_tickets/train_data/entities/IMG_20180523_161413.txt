@@ -1,0 +1,1 @@
+{"ticket_num": "S009649", "starting_station": "南昌西站", "train_num": "G492", "destination_station": "北京西站", "date": "2018年02月20日14:45开", "ticket_rates": "￥627.5元", "seat_category": "三等座", "name": "ID："}

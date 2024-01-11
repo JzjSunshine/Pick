@@ -1,0 +1,28 @@
+0,534,155,569,155,569,169,534,169,Date,question
+1,571,152,630,152,630,165,571,165,5-13-81,answer
+2,103,201,159,201,159,219,103,219,Subject,question
+3,409,279,448,279,448,296,409,296,Date,question
+4,454,275,515,275,515,295,454,295,5-13-81,answer
+5,532,282,586,282,586,296,532,296,Method,question
+6,279,392,292,392,292,407,279,407,☑,answer
+7,317,394,397,394,397,408,317,408,increased,question
+8,487,392,564,392,564,407,487,407,decreased,question
+9,622,693,639,693,639,788,622,788,00851879,other
+10,587,278,691,278,691,296,587,296,Verbal Phone,answer
+11,536,297,732,297,732,313,536,313,(Means of communication),answer
+12,102,358,400,358,400,377,102,377,Estimated cost of the study will be:,header
+13,633,392,736,392,736,407,633,407,not affected,question
+14,103,422,334,422,334,441,103,441,Description of change order:,question
+15,108,566,705,566,705,615,108,615,The change was made so the protocol more closely conforms with the proposed regulations as stated in the Federal Register, Vol. 44, No. 145, 772.112-24 Primary Eye Irritation Study.,other
+16,144,503,705,503,705,554,144,554,Twenty- four to 30 hours prior to dosing, both eyes of each rabbit will be examined by an experienced investigator using a slit lamp biomicroscope.,other
+17,102,450,705,450,705,493,102,493,Section III A. 2nd paragraph- the first sentence is to be changed to read as follows:,question
+18,589,8,745,8,745,58,589,58,19 MAY 26 1981,other
+19,251,45,491,45,491,127,251,127,ADDENDUM I DAWSON RESEARCH CORPORATION Protocol Change Order No. 1,header
+20,105,162,229,162,229,177,105,177,Protocol LRC-5A,other
+21,165,190,655,190,655,215,165,215,Change in the time of the Pre- dose Biomicroscopic Examination,answer
+22,105,281,210,281,210,296,105,296,Authorized by,question
+23,221,281,352,281,352,296,221,296,Dr. Connie Stone,answer
+24,102,331,213,331,213,344,102,344,Authorized to,question
+25,219,324,360,324,360,344,219,344,Mr. Charles Burns,answer
+26,123,848,409,848,409,947,123,947,Sponsor Signature,other
+27,444,842,754,842,754,946,444,946,Study Director Signature,other

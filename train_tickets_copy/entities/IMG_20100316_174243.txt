@@ -1,0 +1,1 @@
+{"ticket_num": "U061487", "starting_station": "北京站", "train_num": "29", "destination_station": "杭州站", "date": "2017年12月28日19:08开", "ticket_rates": "¥328.0元", "seat_category": "新空调硬卧", "name": "雪勇"}

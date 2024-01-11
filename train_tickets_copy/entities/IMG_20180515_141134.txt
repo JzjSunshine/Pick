@@ -1,0 +1,1 @@
+{"ticket_num": "H084039", "starting_station": "西宁站", "train_num": "D2744", "destination_station": "兰州西站", "date": "2018年02月07日12:07开", "ticket_rates": "￥69.5元", "seat_category": "一等座", "name": "昔恒"}

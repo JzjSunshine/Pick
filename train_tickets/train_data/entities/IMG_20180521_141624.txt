@@ -1,0 +1,1 @@
+{"ticket_num": "1130001717", "starting_station": "武汉站", "train_num": "G84", "destination_station": "北京西站", "date": "2017年12月01日10:20开", "ticket_rates": "￥520.5元", "seat_category": "二等座", "name": "永成"}

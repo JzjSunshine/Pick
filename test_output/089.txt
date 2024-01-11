@@ -1,0 +1,7 @@
+company	FY EAGLE ENTERPRISE,company
+address	NO. 42\, JALAN PBS 14/11,address
+address	TAMAN PERINDUSTRIAN BUKIT SERDANG,address
+address	43300 SERI KEMBANGAN,address
+date	04/12/2017,
+address	3.50,other
+address	7.00,total

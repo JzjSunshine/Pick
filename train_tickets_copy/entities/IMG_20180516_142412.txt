@@ -1,0 +1,1 @@
+{"ticket_num": "160042434", "starting_station": "宁波站", "train_num": "G7561", "destination_station": "台州站", "date": "2017年11月22日21:15开", "ticket_rates": "￥85.0元", "seat_category": "一等座", "name": "二林"}

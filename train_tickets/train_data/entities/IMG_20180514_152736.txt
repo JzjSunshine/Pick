@@ -1,0 +1,1 @@
+{"ticket_num": "M066735", "starting_station": "阳泉北站", "train_num": "G624", "destination_station": "北京西站", "date": "2018年01月25日18:49开", "ticket_rates": "￥242.5元", "seat_category": "一等座", "name": "画莉莉"}

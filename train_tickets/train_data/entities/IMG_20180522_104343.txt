@@ -1,0 +1,1 @@
+{"ticket_num": "Y078311", "starting_station": "北京西站", "train_num": "Z133", "destination_station": "菏泽站", "date": "2018年02月09日19:13开", "ticket_rates": "￥81.0元", "seat_category": "新空调硬座", "name": "王蕙心"}

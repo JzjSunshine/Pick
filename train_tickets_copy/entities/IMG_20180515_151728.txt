@@ -1,0 +1,1 @@
+{"ticket_num": "Z36L025090", "starting_station": "南京站", "train_num": "G7007", "destination_station": "上海站", "date": "2017年11月23日10:00开", "ticket_rates": "￥139.5元", "seat_category": "二等座", "name": "二旭新"}

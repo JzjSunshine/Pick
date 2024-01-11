@@ -1,0 +1,1 @@
+{"ticket_num": "40043387", "starting_station": "芜湖站", "train_num": "G7138", "destination_station": "南京南站", "date": "2017年06月04日20:47开", "ticket_rates": "￥31.5元", "seat_category": "二等座", "name": "子坚"}

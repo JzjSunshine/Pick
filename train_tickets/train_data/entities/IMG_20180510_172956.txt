@@ -1,0 +1,1 @@
+{"ticket_num": "234", "starting_station": "物流", "train_num": "D3152", "destination_station": "合肥南站", "date": "2017年11月10日12:11新", "ticket_rates": "￥87.5元", "seat_category": "二等座", "name": "晗"}

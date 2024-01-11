@@ -1,0 +1,1 @@
+{"ticket_num": "综别25252", "starting_station": "衡山西站", "train_num": "G6160", "destination_station": "长沙南站", "date": "2018年01月07日19:33开", "ticket_rates": "￥196.5元", "seat_category": "商务座", "name": "语馨"}

@@ -1,0 +1,1 @@
+{"ticket_num": "M042145", "starting_station": "东莞站", "train_num": "C7186", "destination_station": "广州东站", "date": "2017年11月220 12:32r", "ticket_rates": "750.5x", "seat_category": "一等座", "name": "丁文治"}

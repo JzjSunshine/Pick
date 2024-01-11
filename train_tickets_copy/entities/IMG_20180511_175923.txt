@@ -1,0 +1,1 @@
+{"ticket_num": "25.015254", "starting_station": "德洁", "train_num": "G7691", "destination_station": "杭州东站", "date": "2017年12月30日10:46月", "ticket_rates": "116.0元", "seat_category": "二等座", "name": "萌"}

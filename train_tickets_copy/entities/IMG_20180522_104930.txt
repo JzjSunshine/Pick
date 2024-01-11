@@ -1,0 +1,1 @@
+{"ticket_num": "106D044059", "starting_station": "西安北站", "train_num": "D6843", "destination_station": "宝鸡南站", "date": "2018年02月24日16:48开", "ticket_rates": "￥51.5元", "seat_category": "二等座", "name": "焦"}

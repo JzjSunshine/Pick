@@ -1,0 +1,1 @@
+{"ticket_num": "9E065078", "starting_station": "荷丘南站", "train_num": "K106", "destination_station": "北京西站", "date": "2017*12月08日08:367", "ticket_rates": "￥174.0元", "seat_category": "新空调硬卧", "name": "丁春荣"}

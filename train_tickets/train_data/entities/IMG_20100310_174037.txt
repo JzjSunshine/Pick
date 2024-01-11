@@ -1,0 +1,1 @@
+{"ticket_num": "B055033", "starting_station": "涿州东站", "train_num": "G8908", "destination_station": "北京西站", "date": "2017年11月12日10:56开", "ticket_rates": "1285元", "seat_category": "二等医", "name": "山茉"}

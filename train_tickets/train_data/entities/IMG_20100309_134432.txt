@@ -1,0 +1,1 @@
+{"ticket_num": "7073876", "starting_station": "北京南站", "train_num": "G121", "destination_station": "济南西站", "date": "2018年01月17日10:28开", "ticket_rates": "￥314.5元", "seat_category": "一等座", "name": "雪闻"}

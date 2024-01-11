@@ -1,0 +1,1 @@
+{"ticket_num": "NO43317", "starting_station": "济南站", "train_num": "G334", "destination_station": "北京南站", "date": "2017年10月07日007:13N", "ticket_rates": "￥194.5元", "seat_category": "二等理", "name": "二海港"}

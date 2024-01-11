@@ -1,0 +1,40 @@
+0,10,166,48,166,48,179,10,179,DATE:,question
+1,144,165,224,165,224,179,144,179,DEPARTMENT:,question
+2,455,208,486,208,486,221,455,221,Type,question
+3,503,205,560,205,560,222,503,222,EQPR,answer
+4,24,32,91,32,91,102,24,102,B&W,other
+5,589,32,664,32,664,102,589,102,QUALITY,other
+6,216,648,289,648,289,661,216,661,Implement:,header
+7,493,647,524,647,524,661,493,661,Date,question
+8,633,771,655,771,655,893,633,893,632120763,other
+9,120,45,567,45,567,94,120,94,QUALITY IMPROVEMENT SUGGESTION OUR MISSION IS SUPERIOR CONSUMER SATISFACTION,header
+10,124,94,563,94,563,109,124,109,Highest Quality. Teamwork, Do Right Things Right The First Time,other
+11,228,119,458,119,458,137,228,137,RESEARCH & DEVELOPMENT,header
+12,497,149,628,149,628,163,497,163,Quality Coord Only,header
+13,53,165,146,165,146,179,53,179,June 21, 1993,answer
+14,250,163,329,163,329,180,250,180,R&D Library,answer
+15,144,191,260,191,260,207,144,207,Carol S. Lincoln,answer
+16,147,219,225,219,225,235,147,235,407- 64- 3484,answer
+17,11,194,102,194,102,207,11,207,SUBMITTED BY:,question
+18,11,223,123,223,123,234,11,234,SUBMITTER'S SS#:,question
+19,455,179,528,179,528,192,455,192,Date Rec'd,question
+20,454,193,529,193,529,206,454,206,QIP Log #1,question
+21,454,221,548,221,548,235,454,235,Status (1993),question
+22,455,236,562,236,562,250,455,250,Keywords (1993),question
+23,546,168,616,168,616,197,546,197,6/ 21/ 93,answer
+24,541,190,627,190,627,210,541,210,93- 0301,answer
+25,11,278,358,278,358,295,11,295,SUGGESTION: (Describe Current Situation and Idea),question
+26,32,306,684,306,684,430,32,430,The current system of managing records is too complex. The trend seems to be increasingly specific, when we should be getting more general. Right now, people must work to understand the system. We must spend too much time adninistering the system, labeling and cleaning our files. Complying is a real burden, both for the individual and for the records coordinators.,answer
+27,11,476,301,476,301,491,11,491,Describe Possible Solutions And Benefits,question
+28,32,500,362,500,362,519,32,519,1. Drop the category specifications altogether.,answer
+29,31,528,259,528,259,546,31,546,2. Use moregeneral categories.,answer
+30,32,549,654,549,654,601,32,601,hote: I have passed this to Scott Appleton for the task force to use in streamlining the records management program.,answer
+31,11,591,145,591,145,605,11,605,PROFIT IMPROVEMENT:,question
+32,152,591,261,591,261,606,152,606,(If Applicable),answer
+33,11,647,99,647,99,662,11,662,RESPOND HERE,question
+34,304,644,346,644,346,664,304,664,☐ Yes,question
+35,362,644,397,644,397,664,362,664,☐ No,question
+36,409,642,480,642,480,663,409,663,☐ Pending,question
+37,54,874,222,874,222,891,54,891,Approval Signature/ Date,question
+38,420,874,526,874,526,888,420,888,Responder/ Date,question
+39,263,876,416,876,416,903,263,903,Sign & Print Names) (See Instructions On Back),question

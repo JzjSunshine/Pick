@@ -1,0 +1,1 @@
+{"ticket_num": "Z052499", "starting_station": "沈阳北站", "train_num": "Z158", "destination_station": "北京站", "date": "2017年10月22日15:18开", "ticket_rates": "￥98.0元", "seat_category": "新空调硬座", "name": "广路"}

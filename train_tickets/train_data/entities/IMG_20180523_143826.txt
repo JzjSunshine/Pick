@@ -1,0 +1,1 @@
+{"ticket_num": "J013895", "starting_station": "太原南站", "train_num": "G612", "destination_station": "北京西站", "date": "2018年01月24日11:43月", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "三博艺"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z235N041978", "starting_station": "苏州站", "train_num": "G7355", "destination_station": "上海虹桥店", "date": "2017*12月15909:08开", "ticket_rates": "￥59.5录", "seat_category": "一等度", "name": "疗尧"}

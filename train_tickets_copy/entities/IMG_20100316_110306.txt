@@ -1,0 +1,1 @@
+{"ticket_num": "0091010527", "starting_station": "郑州东站", "train_num": "G404", "destination_station": "北京西站", "date": "", "ticket_rates": "￥495.0元", "seat_category": "一等座", "name": "普通"}

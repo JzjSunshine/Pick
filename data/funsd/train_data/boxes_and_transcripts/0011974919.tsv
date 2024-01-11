@@ -1,0 +1,42 @@
+0,172,205,190,205,190,220,172,220,To,question
+1,172,236,204,236,204,251,172,251,From:,question
+2,173,265,201,265,201,280,173,280,Date:,question
+3,70,309,105,309,105,326,70,326,Brand:,question
+4,68,339,96,339,96,353,68,353,Title:,question
+5,110,304,149,304,149,319,110,319,Eclipse,answer
+6,70,359,134,359,134,379,70,379,Description:,question
+7,211,459,247,459,247,474,211,474,APAC,answer
+8,226,490,250,490,250,504,226,504,300,answer
+9,226,549,248,549,248,564,226,564,300,answer
+10,425,628,464,628,464,649,425,649,W25,answer
+11,362,751,397,751,397,766,362,766,APAC,answer
+12,68,845,83,845,83,860,68,860,C:,question
+13,376,304,418,304,418,321,376,321,602399,answer
+14,127,130,595,130,595,157,127,157,RESPONSE CODE REQUEST CONFIRMATION,header
+15,219,201,289,201,289,216,219,216,Joe Leinster,answer
+16,219,230,289,230,289,248,219,248,Joyce Bagby,answer
+17,221,258,329,258,329,278,221,278,September 10, 1996,answer
+18,282,309,367,309,367,324,282,324,PPS Program #,question
+19,440,307,519,307,519,326,440,326,Requested By:,question
+20,109,334,366,334,366,354,109,354,Sneak Preview Confirmation Call- Charlotte Tests,answer
+21,134,363,449,363,449,382,134,382,Record of confirmation calls for sneak preview appointments,answer
+22,68,465,203,465,203,480,68,480,Fullfillment Data Entry at,question
+23,68,494,179,494,179,511,68,511,Circulation Quantity:,question
+24,70,525,185,525,185,539,70,539,Estimated Response:,question
+25,70,554,192,554,192,569,70,569,Estimated Responders:,question
+26,68,582,190,582,190,599,68,599,Distribution Drop Date:,question
+27,207,580,252,580,252,597,207,597,10/ 03/ 96,answer
+28,219,520,272,520,272,538,219,538,100.00 %,answer
+29,358,582,440,582,440,600,358,600,Expiration Date:,question
+30,228,630,405,630,405,651,228,651,Response Code Assigned:,question
+31,66,705,410,705,410,737,66,737,Address, postal requirements, barcodes, document storage, and batch numbers to be supplied by:,question
+32,358,767,475,767,475,782,358,782,DE Fullfillment Vendor,question
+33,91,844,195,844,195,861,91,861,Suzi Hicks RJR- IR,answer
+34,91,862,174,862,174,882,91,882,Karen Giddens,answer
+35,94,884,161,884,161,901,94,901,Drew Huyett,answer
+36,89,908,173,908,173,923,89,923,Jackson Roper,answer
+37,418,839,499,839,499,856,418,856,Debbie Lockery,answer
+38,418,862,507,862,507,879,418,879,Vanessa Oakley,answer
+39,418,884,544,884,544,903,418,903,Melissa Andrews - TBM,answer
+40,416,906,538,906,538,924,416,924,Tammi LaManna - M/ B,answer
+41,694,867,710,867,710,961,694,961,52251 2963,other

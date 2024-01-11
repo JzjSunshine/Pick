@@ -1,0 +1,1 @@
+{"ticket_num": "N018788", "starting_station": "北京南站", "train_num": "G125", "destination_station": "上海虹桥站", "date": "2018年02月07日11:10开", "ticket_rates": "￥933.0元", "seat_category": "一等座", "name": "国玉明"}

@@ -1,0 +1,1 @@
+{"ticket_num": "114N039969", "starting_station": "郑州东站", "train_num": "G502", "destination_station": "北京西站", "date": "2017年12月31日11:03开", "ticket_rates": "￥495.0元", "seat_category": "一等座", "name": "凯"}

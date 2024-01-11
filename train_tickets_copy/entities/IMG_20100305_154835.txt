@@ -1,0 +1,1 @@
+{"ticket_num": "S028267", "starting_station": "北京西站", "train_num": "G607", "destination_station": "太原南站", "date": "2017年12月29日11*147", "ticket_rates": "￥197.0元", "seat_category": "二等座", "name": "鳍嫒"}

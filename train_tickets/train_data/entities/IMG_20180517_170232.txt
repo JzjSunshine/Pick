@@ -1,0 +1,1 @@
+{"ticket_num": "1061220", "starting_station": "北京南站", "train_num": "G45", "destination_station": "徐州东郊", "date": "2017*09排308 15:257", "ticket_rates": "￥519.03", "seat_category": "一等座", "name": "其他医"}

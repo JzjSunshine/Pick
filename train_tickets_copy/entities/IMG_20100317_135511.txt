@@ -1,0 +1,1 @@
+{"ticket_num": "0059302", "starting_station": "成都东站", "train_num": "G8565", "destination_station": "沙坪坝站", "date": "东京市木吉丰", "ticket_rates": "￥231.0元", "seat_category": "一等座", "name": "超"}

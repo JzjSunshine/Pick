@@ -1,0 +1,1 @@
+{"ticket_num": "D051002", "starting_station": "广州南站", "train_num": "C7233", "destination_station": "江门东站", "date": "2017年10月29日21:23+", "ticket_rates": "￥40.0元", "seat_category": "二等座", "name": "远"}

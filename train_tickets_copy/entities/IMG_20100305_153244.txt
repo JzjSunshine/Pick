@@ -1,0 +1,1 @@
+{"ticket_num": "Z29H068390", "starting_station": "上海站", "train_num": "G7076", "destination_station": "芜湖站", "date": "2017年08月05日06:22#", "ticket_rates": "￥174.5元", "seat_category": "二等座", "name": "二飞"}

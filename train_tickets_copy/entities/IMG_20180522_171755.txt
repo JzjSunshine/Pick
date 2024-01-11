@@ -1,0 +1,1 @@
+{"ticket_num": "C037814", "starting_station": "北京南站", "train_num": "C2031", "destination_station": "天津站", "date": "2017年12月27日09:37开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "国华清"}

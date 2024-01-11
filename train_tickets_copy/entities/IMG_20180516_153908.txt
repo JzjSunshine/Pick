@@ -1,0 +1,1 @@
+{"ticket_num": "Z10D010493", "starting_station": "宁海站", "train_num": "G7586", "destination_station": "上海虹桥站", "date": "2017*10n068.09:11月", "ticket_rates": "4170.0%", "seat_category": "二等院", "name": "虹"}

@@ -1,0 +1,1 @@
+{"ticket_num": "0001003", "starting_station": "深圳市", "train_num": "07016", "destination_station": "广州东路", "date": "2018年03月29日13:06开", "ticket_rates": "￥79.5减", "seat_category": "二等密", "name": "章"}

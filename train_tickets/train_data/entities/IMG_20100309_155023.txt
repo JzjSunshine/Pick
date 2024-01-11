@@ -1,0 +1,1 @@
+{"ticket_num": "Z2410007804", "starting_station": "菏泽洁", "train_num": "Z602", "destination_station": "北京市", "date": "2017*1052581453", "ticket_rates": "￥222.0元", "seat_category": "新空调软卧", "name": "零拾零"}

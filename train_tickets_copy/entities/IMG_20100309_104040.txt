@@ -1,0 +1,1 @@
+{"ticket_num": "U008386", "starting_station": "沈阳北站", "train_num": "G48", "destination_station": "大连北站", "date": "2018年03月15日10:30开", "ticket_rates": "￥281.5元", "seat_category": "一等座", "name": "琦"}

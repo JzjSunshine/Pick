@@ -1,0 +1,1 @@
+{"ticket_num": "173J079101", "starting_station": "郑州东站", "train_num": "G492", "destination_station": "北京西站", "date": "2018年02月08日19:24开", "ticket_rates": "￥495.0元", "seat_category": "一等座", "name": "画昭明"}

@@ -1,0 +1,1 @@
+{"ticket_num": "7156C042068", "starting_station": "上海虹桥站", "train_num": "G18", "destination_station": "北京南站", "date": "2017年10月27日 15:00m", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "丁伟峰"}

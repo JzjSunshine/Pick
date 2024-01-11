@@ -1,0 +1,1 @@
+{"ticket_num": "Z31M023915", "starting_station": "苏州北站", "train_num": "G138", "destination_station": "南京南站", "date": "2018年01月19日13:55开", "ticket_rates": "￥164.5元", "seat_category": "一等座", "name": "_鸣"}

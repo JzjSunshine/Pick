@@ -1,0 +1,1 @@
+{"ticket_num": "F086898", "starting_station": "合肥南站", "train_num": "G264", "destination_station": "北京南站", "date": "2017年10月09日08:14日", "ticket_rates": "￥436.0元", "seat_category": "二等座", "name": "二梦菲"}

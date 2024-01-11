@@ -1,0 +1,1 @@
+{"ticket_num": "Z43B036006", "starting_station": "温州南站", "train_num": "G2036", "destination_station": "金额", "date": "2017年11月11日13:56开", "ticket_rates": "￥124.0元", "seat_category": "一等座", "name": "韩"}

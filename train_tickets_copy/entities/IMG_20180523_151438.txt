@@ -1,0 +1,1 @@
+{"ticket_num": "M056225", "starting_station": "三明北站", "train_num": "G1683", "destination_station": "厦门北站", "date": "2018年01月11日19:13开", "ticket_rates": "￥106.5元", "seat_category": "二等座", "name": "疗冰"}

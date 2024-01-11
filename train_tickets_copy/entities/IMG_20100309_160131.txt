@@ -1,0 +1,1 @@
+{"ticket_num": "Z62P053251", "starting_station": "南京南站", "train_num": "G130", "destination_station": "北京南站", "date": "2017年10月23日12:55开", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "，志芳"}

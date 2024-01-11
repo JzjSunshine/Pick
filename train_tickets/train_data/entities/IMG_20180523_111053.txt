@@ -1,0 +1,1 @@
+{"ticket_num": "Z86T026412", "starting_station": "上海虹桥站", "train_num": "G18", "destination_station": "北京南站", "date": "2018年01月10日15:00开", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "疗门"}

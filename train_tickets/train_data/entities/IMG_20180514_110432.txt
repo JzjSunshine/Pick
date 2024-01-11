@@ -1,0 +1,1 @@
+{"ticket_num": "Y083725", "starting_station": "北京站", "train_num": "D37", "destination_station": "大连北站", "date": "2017年11月20日15:51开", "ticket_rates": "¥353.5元", "seat_category": "一等座", "name": "巍"}

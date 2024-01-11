@@ -1,0 +1,1 @@
+{"ticket_num": "L061382", "starting_station": "北京站", "train_num": "D25", "destination_station": "唐山北站", "date": "2017年11月13日09:58开", "ticket_rates": "￥52.5元", "seat_category": "一等座", "name": "杰"}

@@ -1,0 +1,1 @@
+{"ticket_num": "A074579", "starting_station": "北京南靖", "train_num": "G119", "destination_station": "上海虹桥站", "date": "2017年11月20日 10:05荥", "ticket_rates": "￥933.03", "seat_category": "一等墓", "name": "丁文静"}

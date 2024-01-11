@@ -1,0 +1,1 @@
+{"ticket_num": "V079467", "starting_station": "北京西站", "train_num": "G87", "destination_station": "西安北站", "date": "2017年11月14日14:00开", "ticket_rates": "￥824.5元", "seat_category": "-等座", "name": "已晓桐"}

@@ -1,0 +1,7 @@
+company	BEYOND BROTHERS HARDWARE,company
+address	LOT 1-0-2\, JLN 1/50.,address
+address	DIAMOND SQUARE.,address
+address	OFF JLN GOMBAK,other
+address	53000
+date	05/02/2018,d
+total	63.60,

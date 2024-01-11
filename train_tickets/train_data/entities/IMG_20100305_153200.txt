@@ -1,0 +1,1 @@
+{"ticket_num": "6034401", "starting_station": "天津站", "train_num": "C2028", "destination_station": "北京南站", "date": "2017年09月12日11:057", "ticket_rates": "￥54.5%", "seat_category": "二等医", "name": "时间"}

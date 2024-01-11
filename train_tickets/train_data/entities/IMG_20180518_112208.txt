@@ -1,0 +1,1 @@
+{"ticket_num": "Y044842", "starting_station": "北京西站", "train_num": "Z43", "destination_station": "西安站", "date": "2018年02月09日20:12开", "ticket_rates": "￥440.5元", "seat_category": "新空调软卧", "name": ".磊磊"}

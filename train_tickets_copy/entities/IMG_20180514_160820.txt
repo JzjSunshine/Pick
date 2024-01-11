@@ -1,0 +1,1 @@
+{"ticket_num": "B083677", "starting_station": "青岛站", "train_num": "G194", "destination_station": "济南西站", "date": "2018年01月31日14:33开", "ticket_rates": "￥159.5元", "seat_category": "一等座", "name": "广超"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Y017640", "starting_station": "天津站", "train_num": "C2082", "destination_station": "北京商站", "date": "2018年01月10日19:30元", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "17清"}

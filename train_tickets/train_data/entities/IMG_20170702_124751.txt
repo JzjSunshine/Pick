@@ -1,0 +1,1 @@
+{"ticket_num": "X073330", "starting_station": "太原南站", "train_num": "G694", "destination_station": "石家庄站", "date": "2017年11月20日16:37开", "ticket_rates": "￥81.5元", "seat_category": "一等座", "name": "俊"}

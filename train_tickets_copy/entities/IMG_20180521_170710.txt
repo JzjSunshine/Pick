@@ -1,0 +1,1 @@
+{"ticket_num": "H024324", "starting_station": "北京南站", "train_num": "G21", "destination_station": "上海虹桥站", "date": "2018年03月06日16:00开", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "丛登"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z2401033415", "starting_station": "苏州市", "train_num": "G7576", "destination_station": "无锡市", "date": "2017*128216 12:43:", "ticket_rates": "￥29.5%", "seat_category": "一等座", "name": "丁建辉"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z73C033016", "starting_station": "输血南省", "train_num": "D3154", "destination_station": "扬州站", "date": "2017年10月30日17:08开", "ticket_rates": ":87.5元", "seat_category": "二等座", "name": "晗"}

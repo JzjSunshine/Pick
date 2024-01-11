@@ -1,0 +1,1 @@
+{"ticket_num": "G055445", "starting_station": "北京西站", "train_num": "G8953", "destination_station": "石家庄站", "date": "2017年10月01日21:33开", "ticket_rates": "￥128.5元", "seat_category": "二等座", "name": "畅"}

@@ -89,20 +89,25 @@ class PICKDataset(Dataset):
             boxes_and_transcripts_file = self.boxes_and_transcripts_folder.joinpath(
                 Path(dataitem['file_name']).stem + '.tsv')
             image_file = self.images_folder.joinpath(Path(dataitem['file_name']).stem + '.jpg')
+            # image_file = self.images_folder.joinpath(Path(dataitem['file_name']).stem + '.png')
             entities_file = self.entities_folder.joinpath(Path(dataitem['file_name']).stem + '.txt')
             # documnets_class = dataitem['document_class']
         else:
             boxes_and_transcripts_file = self.boxes_and_transcripts_folder.joinpath(
                 Path(self.files_list[index]).stem + '.tsv')
             image_file = self.images_folder.joinpath(Path(self.files_list[index]).stem + '.jpg')
+            # image_file = self.images_folder.joinpath(Path(self.files_list[index]).stem + '.png')
 
+        # print("="*10)
+        # print(boxes_and_transcripts_file)
+        # print(image_file)
         if not boxes_and_transcripts_file.exists() or not image_file.exists():
             if self.ignore_error and self.training:
                 warnings.warn('{} is not exist. get a new one.'.format(boxes_and_transcripts_file))
                 new_item = random.randint(0, len(self) - 1)
                 return self.__getitem__(new_item)
             else:
-                raise RuntimeError('Sample: {} not exist.'.format(boxes_and_transcripts_file.stem))
+                raise RuntimeError('Sample: {} {} {}not exist.'.format(image_file, boxes_and_transcripts_file,boxes_and_transcripts_file.stem))
 
         try:
             # TODO add read and save cache function, to speed up data loaders
@@ -140,7 +145,8 @@ class BatchCollateFn(object):
 
         # dynamic calculate max baoxes number of batch,
         # this is suitable to one gpus or multi-nodes multi-gpus trianing mode, due to pytorch distributed training strategy.
-        max_boxes_num_batch =  max([x.boxes_num for x in batch_list])
+        num_boxes = [x.boxes_num for x in batch_list]
+        max_boxes_num_batch =  max(num_boxes)
         max_transcript_len = max([x.transcript_len for x in batch_list])
 
         # fix MAX_BOXES_NUM and MAX_TRANSCRIPT_LEN. this ensures batch has same shape, but lead to waste memory and slow speed..
@@ -208,7 +214,8 @@ class BatchCollateFn(object):
                          text_length=text_length_batch_tensor,
                          boxes_coordinate=boxes_coordinate_batch_tensor,
                          mask=mask_batch_tensor,
-                         iob_tags_label=iob_tags_label_batch_tensor)
+                         iob_tags_label=iob_tags_label_batch_tensor,
+                         num_boxes=num_boxes)
         else:
             batch = dict(whole_image=image_batch_tensor,
                          relation_features=relation_features_batch_tensor,
@@ -216,6 +223,7 @@ class BatchCollateFn(object):
                          text_length=text_length_batch_tensor,
                          boxes_coordinate=boxes_coordinate_batch_tensor,
                          mask=mask_batch_tensor,
-                         image_indexs=image_indexs_tensor)
+                         image_indexs=image_indexs_tensor,
+                         num_boxes=num_boxes)
 
         return batch

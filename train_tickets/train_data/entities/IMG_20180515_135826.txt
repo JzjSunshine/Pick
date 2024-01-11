@@ -1,0 +1,1 @@
+{"ticket_num": "2052136", "starting_station": "北京南站", "train_num": "G17", "destination_station": "上海氨桥", "date": "2018*01817315:00:", "ticket_rates": "￥553.03", "seat_category": "二等燃", "name": "厂牌/PE"}

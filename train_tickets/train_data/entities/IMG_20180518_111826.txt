@@ -1,0 +1,1 @@
+{"ticket_num": "Y044843", "starting_station": "西安站", "train_num": "T42", "destination_station": "北京西站", "date": "2018年02月21日19:39开", "ticket_rates": "￥268.5元", "seat_category": "新空调硬卧", "name": "磊磊"}

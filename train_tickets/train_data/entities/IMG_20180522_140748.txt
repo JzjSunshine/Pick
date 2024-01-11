@@ -1,0 +1,1 @@
+{"ticket_num": "Z231S062072", "starting_station": "苏州站", "train_num": "03005", "destination_station": "昆山南站", "date": "2018年03月08日14:32]", "ticket_rates": "￥10.5%", "seat_category": "二等座", "name": "二远"}

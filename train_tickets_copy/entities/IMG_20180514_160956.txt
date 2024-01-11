@@ -1,0 +1,1 @@
+{"ticket_num": "C046328", "starting_station": "中口北站", "train_num": "C7706", "destination_station": "广州南站", "date": "2018年01月25日13:077", "ticket_rates": "￥40.0元", "seat_category": "二等座", "name": "项目"}

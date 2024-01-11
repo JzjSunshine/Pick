@@ -1,0 +1,1 @@
+{"ticket_num": "Z52N042127", "starting_station": "昆山南站", "train_num": "", "destination_station": "北京南站", "date": "2016年01;16日10.24;", "ticket_rates": "￥898.5元", "seat_category": "一等座", "name": "二长江"}

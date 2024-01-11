@@ -1,0 +1,1 @@
+{"ticket_num": "Y024070", "starting_station": "北京南站", "train_num": "G+3", "destination_station": "嘉兴南站", "date": "2017年12月18日14:05开", "ticket_rates": "￥591.0元", "seat_category": "二等座", "name": "丽"}

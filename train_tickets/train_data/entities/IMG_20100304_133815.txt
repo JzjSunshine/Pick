@@ -1,0 +1,1 @@
+{"ticket_num": "V056770", "starting_station": "石家庄站", "train_num": "D6736", "destination_station": "保定站", "date": "2018年03月29日11:42开", "ticket_rates": "￥47.5元", "seat_category": "一等座", "name": "丁新武"}

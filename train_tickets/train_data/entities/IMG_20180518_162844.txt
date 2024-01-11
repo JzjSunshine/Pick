@@ -1,0 +1,1 @@
+{"ticket_num": "三029274", "starting_station": "南昌西站", "train_num": "G1418", "destination_station": "杭州东站", "date": "2017年10月11日17:25开", "ticket_rates": "￥263.5元", "seat_category": "二等座", "name": "建平"}

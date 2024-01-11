@@ -1,0 +1,1 @@
+{"ticket_num": "A083440", "starting_station": "白洋淀站", "train_num": "D6658", "destination_station": "北京南站", "date": "2017年12月08日16:49r", "ticket_rates": "￥60.5元", "seat_category": "--等座", "name": "广忠1"}

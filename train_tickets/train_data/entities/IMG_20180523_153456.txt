@@ -1,0 +1,1 @@
+{"ticket_num": "T069790", "starting_station": "太原南站", "train_num": "D2002", "destination_station": "阳泉北站", "date": "2018年02月07日09:27开", "ticket_rates": "￥45.5元", "seat_category": "一等座", "name": "或材堃"}

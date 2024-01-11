@@ -1,0 +1,1 @@
+{"ticket_num": "M036854", "starting_station": "邢台塑", "train_num": "K258", "destination_station": "石家庄北雪", "date": "2017年10月07日19557", "ticket_rates": "￥69.5%", "seat_category": "新空调硬部", "name": "西与"}

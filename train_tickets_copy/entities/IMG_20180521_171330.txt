@@ -1,0 +1,1 @@
+{"ticket_num": "R039107", "starting_station": "潮汕站", "train_num": "G6347", "destination_station": "广州南站", "date": "2018年02月26日07:00开", "ticket_rates": "￥140.5元", "seat_category": "二等座", "name": "骏熙"}

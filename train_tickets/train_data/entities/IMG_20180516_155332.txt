@@ -1,0 +1,1 @@
+{"ticket_num": "S062168", "starting_station": "汉 四站", "train_num": "05995", "destination_station": "潜江站", "date": "2017年11月11日09:49开", "ticket_rates": "¥39.5元", "seat_category": "二等座", "name": "国舒倩"}

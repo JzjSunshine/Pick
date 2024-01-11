@@ -1,0 +1,1 @@
+{"ticket_num": "Z41Z026039", "starting_station": "南京南站", "train_num": "G+4", "destination_station": "北京南站", "date": "2018年03月16日18:54开", "ticket_rates": "￥443.5元", "seat_category": "二等座", "name": "梦微"}

@@ -1,0 +1,1 @@
+{"ticket_num": "3009649", "starting_station": "武昌站", "train_num": "K904", "destination_station": "晋城站", "date": "2018年02月200 22:308", "ticket_rates": "¥274.0无", "seat_category": "新空调球数", "name": "二超"}

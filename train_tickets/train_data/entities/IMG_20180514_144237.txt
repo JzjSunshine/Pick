@@ -1,0 +1,1 @@
+{"ticket_num": "A038941", "starting_station": "北京西站", "train_num": "G607", "destination_station": "大原南站", "date": "2018年01月03日11:14开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "洋"}

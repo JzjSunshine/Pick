@@ -1,0 +1,1 @@
+{"ticket_num": "H005794", "starting_station": "鞍山西站", "train_num": "G子96", "destination_station": "北京南站", "date": "2018年01月25日18:07开", "ticket_rates": "￥312.5元", "seat_category": "二等座", "name": "二家冰"}

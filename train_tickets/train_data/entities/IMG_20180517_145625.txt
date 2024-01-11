@@ -1,0 +1,1 @@
+{"ticket_num": "Q082700", "starting_station": "阳朔站", "train_num": "D2809", "destination_station": "广州南站", "date": "2017年11月12日12:02开", "ticket_rates": "￥117.0元", "seat_category": "二等座", "name": "显贺"}

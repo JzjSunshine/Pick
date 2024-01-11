@@ -1,0 +1,1 @@
+{"ticket_num": "R042438", "starting_station": "天津站", "train_num": "C2086", "destination_station": "北京南站", "date": "2017年11月22日 20：09", "ticket_rates": "165.5元", "seat_category": "一专用", "name": "科林社区"}

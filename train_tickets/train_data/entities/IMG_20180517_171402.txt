@@ -1,0 +1,1 @@
+{"ticket_num": "Z31H060650", "starting_station": "杭州东站", "train_num": "G7564", "destination_station": "上海虹桥站", "date": "2017年11*28008:34.5", "ticket_rates": "￥117.0%", "seat_category": "一等塞", "name": "二淡双"}

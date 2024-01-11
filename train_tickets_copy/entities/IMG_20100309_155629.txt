@@ -1,0 +1,1 @@
+{"ticket_num": "Z200053814", "starting_station": "温州南站", "train_num": "D382", "destination_station": "宁波站", "date": "2017年11月16日09:44开", "ticket_rates": "(154.0元", "seat_category": "一等座", "name": "小宇"}

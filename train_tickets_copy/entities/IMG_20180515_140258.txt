@@ -1,0 +1,1 @@
+{"ticket_num": "Z26P006032", "starting_station": "\u6e29\u5dde\u5357\u7ad9", "train_num": "D4652", "destination_station": "\u53f0\u5dde\u7ad9", "date": "2018\u5e7402\u670810\u65e512:39\u5f00", "ticket_rates": "\uffe569.0\u5143", "seat_category": "\u4e00\u7b49\u5ea7", "name": "\u60a6"}

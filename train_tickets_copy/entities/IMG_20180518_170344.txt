@@ -1,0 +1,1 @@
+{"ticket_num": "Z78R022378", "starting_station": "上海虹桥站", "train_num": "G7106", "destination_station": "苏州站", "date": "2017年11月13日11:05开", "ticket_rates": "￥59.5元", "seat_category": "一等座", "name": "昕"}

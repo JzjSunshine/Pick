@@ -1,0 +1,1 @@
+{"ticket_num": "H083723", "starting_station": "上海虹桥站", "train_num": "G8", "destination_station": "北京南站", "date": "2018402月03019:005", "ticket_rates": "￥553.07", "seat_category": "二等凉", "name": "手嵌"}

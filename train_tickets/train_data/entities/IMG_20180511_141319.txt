@@ -1,0 +1,1 @@
+{"ticket_num": "W071107", "starting_station": "北京南站", "train_num": "G167", "destination_station": "溧临", "date": "2017年11月03日12:50开", "ticket_rates": "¥809.5元", "seat_category": "一等座", "name": "国京京"}

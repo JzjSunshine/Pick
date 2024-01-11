@@ -1,0 +1,1 @@
+{"ticket_num": "L095851", "starting_station": "九江站", "train_num": "K1019", "destination_station": "南昌西站", "date": "2017年11月23日35507", "ticket_rates": "￥235元", "seat_category": "新空湾硬座", "name": "邹"}

@@ -1,0 +1,1 @@
+{"ticket_num": "M090375", "starting_station": "赤峰站", "train_num": "2560", "destination_station": "北京", "date": "2018年02月21日19:20开", "ticket_rates": "￥178.0元", "seat_category": "新空调软卧", "name": "证号"}

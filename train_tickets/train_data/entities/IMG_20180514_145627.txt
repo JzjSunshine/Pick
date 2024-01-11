@@ -1,0 +1,1 @@
+{"ticket_num": "030051571", "starting_station": "平顶山站", "train_num": "K280", "destination_station": "北京西站", "date": "2017年12月09日18:35开", "ticket_rates": "￥221.0元", "seat_category": "新空调硬卧", "name": "丁文超"}

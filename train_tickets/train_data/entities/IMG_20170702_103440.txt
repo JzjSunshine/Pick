@@ -1,0 +1,1 @@
+{"ticket_num": "135.041663", "starting_station": "武汉弘", "train_num": "G817", "destination_station": "长沙南站", "date": "2017年11月39日14:27]", "ticket_rates": "￥264.53", "seat_category": "一等座", "name": "二铭希"}

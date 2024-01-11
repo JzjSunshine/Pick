@@ -1,0 +1,1 @@
+{"ticket_num": "Z38S064923", "starting_station": "上海虹桥站", "train_num": "G148", "destination_station": "北京南站", "date": "2017年09月30日15:30开", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "丁士超"}

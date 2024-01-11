@@ -1,0 +1,1 @@
+{"ticket_num": "N068151", "starting_station": "北京站", "train_num": "79", "destination_station": "杭州站", "date": "2017年10月01日19:08元", "ticket_rates": "￥351.0元", "seat_category": "新空调硬卧", "name": "小康"}

@@ -1,0 +1,6 @@
+company	KEDAI PAPAN YEW CHUAN,company
+address	43800 DENGKIL\, SELANGOR.,address
+address	ELANGOR,addres
+date	02/05/2018,d
+address	1\,200,other
+address	292.56,o

@@ -1,0 +1,1 @@
+{"ticket_num": "150033281", "starting_station": "嘉善南站", "train_num": "G44", "destination_station": "北京南站", "date": "2017年06月24日16:51开", "ticket_rates": "￥581.0元", "seat_category": "二等座", "name": ".毅强"}

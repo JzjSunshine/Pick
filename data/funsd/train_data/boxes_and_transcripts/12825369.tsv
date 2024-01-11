@@ -1,0 +1,43 @@
+0,59,135,106,135,106,149,59,149,MARKET,question
+1,59,165,126,165,126,179,59,179,POPULATION,question
+2,56,194,116,194,116,208,56,208,OPERATOR,question
+3,367,134,406,134,406,147,367,147,BRAND,question
+4,367,163,426,163,426,177,367,177,SCHEDULE,question
+5,367,196,461,196,461,210,367,210,FULL INSPECTION,question
+6,367,226,459,226,459,237,367,237,NUMBER VIEWED,question
+7,119,131,268,131,268,146,119,146,Lakeland Metro Market,answer
+8,427,130,465,130,465,144,427,144,Misty,answer
+9,539,194,606,194,606,208,539,208,SPOT CHECK,question
+10,324,250,427,250,427,267,324,267,TYPE OF DISPLAY,header
+11,177,286,252,286,252,301,177,301,PERMANENT,header
+12,56,351,106,351,106,362,56,362,LOCATION,question
+13,59,420,181,420,181,437,59,437,DESIGN ON DISPLAY,question
+14,427,317,444,317,444,332,427,332,☑,answer
+15,384,316,425,316,425,334,384,334,ROTARY,question
+16,246,391,267,391,267,404,246,404,,answer
+17,216,388,244,388,244,406,216,406,,answer
+18,57,493,131,493,131,508,57,508,COMMENTS:,question
+19,59,689,194,689,194,706,59,706,COMMENT ON PLANT:,question
+20,545,888,627,888,627,902,545,902,INSPECTION BY,question
+21,496,844,705,844,705,915,496,915,,other
+22,165,47,583,47,583,92,165,92,LAURENCE, CHARLES, FREE & LAWSON, INC. BULLETIN ADVERTISING- INSPECTION REPORT,header
+23,154,159,204,159,204,176,154,176,400.400 ,answer
+24,141,186,243,186,243,203,141,203,The Lamar Corp.,answer
+25,433,159,517,159,517,177,433,177,2/ 20 & 3/ 20,answer
+26,589,159,644,159,644,177,589,177,3/ 23/ 91,other
+27,57,313,126,313,126,334,57,334,BULLETIN ☐,question
+28,180,316,225,316,225,334,180,334,WALL ☐,question
+29,141,345,261,345,261,362,141,362,See attached list,answer
+30,383,346,468,346,468,366,383,366,NO OF ROTARIES,question
+31,508,351,542,351,542,368,508,368,8 RB,answer
+32,539,390,588,390,588,408,539,408,218, 499,answer
+33,385,383,506,383,506,409,385,409,AVERAGE DAILY EFFECTIVE CIRCULATION,question
+34,56,383,178,383,178,413,56,413,DAILY EFFECTIVE CIRCULATION,question
+35,183,419,361,419,361,437,183,437,(Condition And Rendition of Copy),answer
+36,133,490,490,490,490,512,133,512,(Description of Location or Rotary Plan, Brand Category Competition),answer
+37,54,511,652,511,652,574,54,574,This is a comparatively easy market to cover. It is less than an hour from Tampa airport. Our bulletins are on every major arterial and in all No quadrants of the area. changes were made. Some minor on- premise blocking and trees were noted, but deemed serious enough for correction. not,answer
+38,52,582,652,582,652,615,52,615,The only other tobacco in the market was a standing 6 Panel RJR buy currently showing Camel.,answer
+39,197,689,535,689,535,707,197,707,(Condition, Structures, Painting Ability, Lighting, Cooperation, etc.),answer
+40,52,708,648,708,648,753,52,753,The plant is well maintained and covers all parts of the market. Lamar looks like a good citizen here, keeping a good- looking public and carrying lot operation. doing service, a of local advertisers.,answer
+41,31,890,100,890,100,905,31,905,(FORM NO ,other
+42,0,951,231,951,231,985,0,985,970518461 PRODUCED FROM B&W WEB SITE,other

@@ -1,0 +1,1 @@
+{"ticket_num": "F091950", "starting_station": "哈尔滨西赣", "train_num": "148", "destination_station": "北京市", "date": "2018401929022002", "ticket_rates": "￥2615%", "seat_category": "新密码楼", "name": "二圈"}

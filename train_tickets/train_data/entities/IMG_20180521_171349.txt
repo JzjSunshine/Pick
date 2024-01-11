@@ -1,0 +1,1 @@
+{"ticket_num": "J041012", "starting_station": "绍兴东站", "train_num": "G58", "destination_station": "北京南站", "date": "2018年02月22日08:13开", "ticket_rates": "￥566.0元", "seat_category": "二等座", "name": "国宏"}

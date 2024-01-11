@@ -1,0 +1,1 @@
+{"ticket_num": "Z66H033086", "starting_station": "南京南站", "train_num": "淄等", "destination_station": "北京南新", "date": "2017911月08日11:024", "ticket_rates": "省青市357", "seat_category": "二十座", "name": "plical thon"}

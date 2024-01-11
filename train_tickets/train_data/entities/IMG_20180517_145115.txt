@@ -1,0 +1,1 @@
+{"ticket_num": "N053154", "starting_station": "北京西站", "train_num": "G613", "destination_station": "太原南站", "date": "2017年10月19日14:10开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "挺"}

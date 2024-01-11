@@ -1,0 +1,1 @@
+{"ticket_num": "U036230", "starting_station": "北京西站", "train_num": "G617", "destination_station": "太原南站", "date": "2018年01月15日16:58开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "丁博堃"}

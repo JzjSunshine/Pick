@@ -1,0 +1,1 @@
+{"ticket_num": "K091893", "starting_station": "北京南站", "train_num": "02017", "destination_station": "天津站", "date": "2017年11月29日08:19开", "ticket_rates": "¥54.5元", "seat_category": "二等座", "name": "，仲璞"}

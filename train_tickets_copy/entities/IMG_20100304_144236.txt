@@ -1,0 +1,1 @@
+{"ticket_num": "X023746", "starting_station": "北京站", "train_num": "D33", "destination_station": "大连站", "date": "2018年01月22日14:47开", "ticket_rates": "￥362.0元", "seat_category": "一等座", "name": "西"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z136A092303", "starting_station": "上海虹桥站", "train_num": "G44", "destination_station": "北京南站", "date": "2017年09月16日17:24开", "ticket_rates": "¥933.0元", "seat_category": "一等座", "name": "二承"}

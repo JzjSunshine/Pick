@@ -1,0 +1,1 @@
+{"ticket_num": "Z83S057521", "starting_station": "上海虹桥站", "train_num": "G1378", "destination_station": "苏州北站", "date": "2018年03月05日19:28开", "ticket_rates": "￥64.5元", "seat_category": "一等座", "name": "众"}

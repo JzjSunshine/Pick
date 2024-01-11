@@ -1,0 +1,1 @@
+{"ticket_num": "0035615", "starting_station": "许昌站", "train_num": "Z150", "destination_station": "北京西站", "date": "2017年10月07日14:18开", "ticket_rates": "￥102.0元", "seat_category": "新空调硬座", "name": "丁亚博"}

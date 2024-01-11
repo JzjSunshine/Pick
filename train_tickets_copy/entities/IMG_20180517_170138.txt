@@ -1,0 +1,1 @@
+{"ticket_num": "C036395", "starting_station": "集宁南站", "train_num": "Z318", "destination_station": "北京站", "date": "2017年10月06日16:29开", "ticket_rates": "￥104.5元", "seat_category": "新空调硬卧", "name": "敬敬"}

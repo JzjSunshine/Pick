@@ -1,0 +1,1 @@
+{"ticket_num": "Z620085630", "starting_station": "徐州东站", "train_num": "G38", "destination_station": "北京南站", "date": "2018年01月26日14:35开", "ticket_rates": "¥519.0元", "seat_category": "一等座", "name": "东华"}

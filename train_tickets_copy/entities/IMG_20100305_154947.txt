@@ -1,0 +1,1 @@
+{"ticket_num": "7100C041466", "starting_station": "南京南站", "train_num": "G140", "destination_station": "北京南站", "date": "2018年01月01日15:11开", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "增巍"}

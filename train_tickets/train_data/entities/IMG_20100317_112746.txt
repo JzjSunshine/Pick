@@ -1,0 +1,1 @@
+{"ticket_num": "L031889", "starting_station": "枣庄站", "train_num": "G119", "destination_station": "上海虹桥站", "date": "2018年02月26日12:46开", "ticket_rates": "￥519.0元", "seat_category": "一等座", "name": "围超"}

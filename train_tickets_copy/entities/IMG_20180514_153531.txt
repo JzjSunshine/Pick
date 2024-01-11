@@ -1,0 +1,1 @@
+{"ticket_num": "L091249", "starting_station": "北京西药", "train_num": "1306", "destination_station": "郑洁", "date": "2017*12629522357", "ticket_rates": "￥186.0元", "seat_category": "舒兰佩顿自", "name": "10"}

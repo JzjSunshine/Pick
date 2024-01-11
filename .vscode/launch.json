@@ -1,3 +1,26 @@
+// {
+//     // 使用 IntelliSense 了解相关属性。 
+//     // 悬停以查看现有属性的描述。
+//     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "name": "Python: pick",
+//             "type": "python",
+//             "request": "launch",
+//             "program": "/data/zjjing/DocumentAI/Pick/test_main.py",
+//             // "cwd": "${workspaceFolder}", //设置工作目录为你的工作区文件夹
+//             "console": "integratedTerminal",
+//             "justMyCode": true,
+//             "python": "/data/zjjing/anaconda3/envs/pick_train/bin/python",
+//             // "args": [
+//             //     "test_main.py",
+//             // ],
+//             "env": {"CUDA_VISIBLE_DEVICES":"0"},
+//         }
+//     ]
+// }
+
 {
     // 使用 IntelliSense 了解相关属性。 
     // 悬停以查看现有属性的描述。
@@ -5,20 +28,29 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: pick",
+            "name": "Python: Pick-Train",
             "type": "python",
             "request": "launch",
-            "program": "/data/zjjing/anaconda3/envs/pick/lib/python3.8/site-packages/torch/distributed/launch.py",
-            "cwd": "${workspaceFolder}", //设置工作目录为你的工作区文件夹
-            "console": "integratedTerminal",
-            "justMyCode": true,
-            "python": "/data/zjjing/anaconda3/envs/pick/bin/python",
+            "program": "/data/zjjing/anaconda3/envs/pick_train/lib/python3.7/site-packages/torch/distributed/launch.py",
+            "console": "integratedTerminal", //此配置将在VSCode的集成终端中运行脚本
+            "justMyCode":true,  // 如果是false的话就会进到别的子程序里面，为了调试的直观，设置true比较好  true就是调试的范围都是你写的代码             
+            "python": "/data/zjjing/anaconda3/envs/pick_train/bin/python",
             "args": [
-                "--master_port=5017",
-                "--use_env",
-                "train.py"
+                "--nnode=1",
+                "--node_rank=0",
+                "--nproc_per_node=1",
+                "--master_port=10019",
+                "train.py",
+                "-c",
+                "config.json",
+                "-d",
+                "0",
+                "--local_world_size",
+                "1"
             ],
-            "env": {"CUDA_VISIBLE_DEVICES":"0"},
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "0"
+            }
         }
     ]
 }

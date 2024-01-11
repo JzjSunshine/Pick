@@ -1,0 +1,1 @@
+{"ticket_num": "N078519", "starting_station": "任丘站", "train_num": "K106", "destination_station": "北京西站", "date": "2018年03月10日14:41开", "ticket_rates": "￥23.5元", "seat_category": "新空调硬座", "name": "国志哲"}

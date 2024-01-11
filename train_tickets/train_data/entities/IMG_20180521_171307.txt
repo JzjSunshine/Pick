@@ -1,0 +1,1 @@
+{"ticket_num": "R039107", "starting_station": "广州东站", "train_num": "D7509", "destination_station": "潮汕站", "date": "2018年02月06日07:33开", "ticket_rates": "￥179.5元", "seat_category": "二等座", "name": "丁骏熙"}

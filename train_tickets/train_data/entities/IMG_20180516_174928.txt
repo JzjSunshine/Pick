@@ -1,0 +1,1 @@
+{"ticket_num": "Y092870", "starting_station": "石家庄站", "train_num": "G656", "destination_station": "北京西站", "date": "2017年10月29日14:14开", "ticket_rates": "￥128.5元", "seat_category": "二等座", "name": "治力"}

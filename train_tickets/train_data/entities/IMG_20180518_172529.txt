@@ -1,0 +1,1 @@
+{"ticket_num": "Z45Z060438", "starting_station": "上海虹桥站", "train_num": "G", "destination_station": "北京南站", "date": "2017年11月20日 19:00n", "ticket_rates": "1553.0元", "seat_category": "二等座", "name": "二*"}

@@ -1,0 +1,1 @@
+{"ticket_num": "L091249", "starting_station": "商业丘浦", "train_num": "G1533", "destination_station": "郑州东省", "date": "2018401904309557", "ticket_rates": "787.0%", "seat_category": "有效，", "name": "楼"}

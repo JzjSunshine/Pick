@@ -1,0 +1,1 @@
+{"ticket_num": "Z37U040274", "starting_station": "合肥", "train_num": "G266", "destination_station": "天津南站", "date": "2017*12928-09:09n", "ticket_rates": "￥635.5", "seat_category": "一等座", "name": "林"}

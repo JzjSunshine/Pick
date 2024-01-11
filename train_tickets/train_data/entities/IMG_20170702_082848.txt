@@ -1,0 +1,1 @@
+{"ticket_num": "A022016", "starting_station": "北京网站", "train_num": "G265", "destination_station": "大泽网站", "date": "2017*10月31日07：48开", "ticket_rates": "￥54.5%", "seat_category": "二等座", "name": "画甜"}

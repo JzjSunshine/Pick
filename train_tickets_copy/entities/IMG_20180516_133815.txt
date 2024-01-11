@@ -1,0 +1,1 @@
+{"ticket_num": "L000337", "starting_station": "天津站", "train_num": "C2062", "destination_station": "北京南站", "date": "2017年11月17日16:23开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "流小会"}

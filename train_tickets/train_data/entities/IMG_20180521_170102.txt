@@ -1,0 +1,1 @@
+{"ticket_num": "S089475", "starting_station": "太原南站", "train_num": "G618", "destination_station": "北京西站", "date": "2018年02月23日14:58开", "ticket_rates": "￥197.0元", "seat_category": "二等座", "name": "国军"}

@@ -1,0 +1,1 @@
+{"ticket_num": "174J016848", "starting_station": "郑州东站", "train_num": "G510", "destination_station": "北京西站", "date": "2016年01月27日10:347", "ticket_rates": "￥495.0元", "seat_category": "一等踩", "name": "二承针"}

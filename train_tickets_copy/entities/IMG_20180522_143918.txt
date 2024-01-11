@@ -1,0 +1,1 @@
+{"ticket_num": "108R063572", "starting_station": "无锡站", "train_num": "D3013", "destination_station": "苏州站", "date": "2018年03月07日12:37开", "ticket_rates": "￥12.5元", "seat_category": "二等座", "name": "土琪钊"}

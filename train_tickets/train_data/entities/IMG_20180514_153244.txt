@@ -1,0 +1,1 @@
+{"ticket_num": "D060545", "starting_station": "北京站", "train_num": "D13", "destination_station": "山海关站", "date": "2018年01月12日18:51开", "ticket_rates": "￥92.5元", "seat_category": "二等座", "name": "；鹤"}

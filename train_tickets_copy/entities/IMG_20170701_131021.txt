@@ -1,0 +1,1 @@
+{"ticket_num": "J04051S", "starting_station": "北京南站", "train_num": "D321", "destination_station": "上海站", "date": "2017年11月04日21:23开", "ticket_rates": "￥650.0元", "seat_category": "软卧", "name": "晓强"}

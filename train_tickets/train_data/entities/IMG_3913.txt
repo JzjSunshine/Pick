@@ -1,0 +1,1 @@
+{"ticket_num": "E048869", "starting_station": "于家堡站", "train_num": "C2598", "destination_station": "北京南站", "date": "2017年12月28日17:29日", "ticket_rates": "￥85.5元", "seat_category": "一等座", "name": "启程"}

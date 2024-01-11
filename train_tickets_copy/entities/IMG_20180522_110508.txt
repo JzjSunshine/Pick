@@ -1,0 +1,1 @@
+{"ticket_num": "Z47F037409", "starting_station": "合肥南站", "train_num": "G1906", "destination_station": "郑州东站", "date": "2018年03月28日19:34开", "ticket_rates": "￥502.5元", "seat_category": "一等座", "name": "亚清"}

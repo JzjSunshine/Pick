@@ -1,0 +1,1 @@
+{"ticket_num": "Z8K087160", "starting_station": "宁海站", "train_num": "G7646", "destination_station": "中波站", "date": "2018年01月19日16:01开", "ticket_rates": "￥61.0元", "seat_category": "一等舰", "name": "疗哲"}

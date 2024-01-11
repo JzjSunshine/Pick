@@ -1,0 +1,14 @@
+0,149,170,217,170,217,181,149,181,Supplier:,question
+1,196,352,259,352,259,363,196,363,APPROVED,question
+2,149,596,196,596,196,610,149,610,Tester,question
+3,149,655,206,655,206,670,149,670,Manager,question
+4,288,92,479,92,479,105,288,105,TEST ADHESIVE EVALUATION,header
+5,149,208,260,208,260,222,149,222,Adhesive Code:,question
+6,148,249,404,249,404,276,148,276,Application: tipping, carton end flaps, etc.),question
+7,148,299,243,299,243,312,148,312,Test Period:,question
+8,405,353,500,353,500,366,405,366,NOT APPROVED,question
+9,149,402,381,402,381,418,149,418,If not approved state reasons.,other
+10,148,616,268,616,268,631,148,631,Quality Control,question
+11,147,634,275,634,275,651,147,651,Local Purchasing,question
+12,147,689,617,689,617,720,147,720,Complete and return to D. R. Brickey, Department of Research and Development, as soon as possible.,other
+13,520,883,634,883,634,897,520,897,ATXO2 0083035,other

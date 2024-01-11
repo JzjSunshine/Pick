@@ -1,0 +1,1 @@
+{"ticket_num": "B041846", "starting_station": "琼海站", "train_num": "D7316", "destination_station": "美兰兰站", "date": "2017年11月23日10:06开", "ticket_rates": "¥36.0元", "seat_category": "二等座", "name": "汤博物"}

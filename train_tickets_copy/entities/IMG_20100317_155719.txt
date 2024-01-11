@@ -1,0 +1,1 @@
+{"ticket_num": "F000049", "starting_station": "沙坪坝站", "train_num": "G8510", "destination_station": "成都东站", "date": "2018年01月25日10:00开", "ticket_rates": "￥231.0元", "seat_category": "一等座", "name": "l"}

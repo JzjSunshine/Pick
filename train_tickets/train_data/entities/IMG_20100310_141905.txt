@@ -1,0 +1,1 @@
+{"ticket_num": "3V018033", "starting_station": "苏州北站", "train_num": "Gl16", "destination_station": "北京南站", "date": "2017年11月15日09:58开", "ticket_rates": "1883.5元", "seat_category": "一等座", "name": "可欣"}

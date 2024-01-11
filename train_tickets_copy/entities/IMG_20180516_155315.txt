@@ -1,0 +1,1 @@
+{"ticket_num": "140A059890", "starting_station": "武汉站", "train_num": "G406", "destination_station": "北京西站", "date": "2017年11月13日18:37开", "ticket_rates": "￥520.5元", "seat_category": "二等座", "name": "舒倩"}

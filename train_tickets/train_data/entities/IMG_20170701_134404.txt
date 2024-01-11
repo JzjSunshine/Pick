@@ -1,0 +1,1 @@
+{"ticket_num": "10.0517", "starting_station": "邯郸东站", "train_num": "G6736", "destination_station": "北京西站", "date": "2017年12月03日16:50开", "ticket_rates": "￥209.0元", "seat_category": "二等座", "name": "统宇"}

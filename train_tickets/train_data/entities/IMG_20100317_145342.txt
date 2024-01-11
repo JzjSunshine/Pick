@@ -1,0 +1,1 @@
+{"ticket_num": "208055692", "starting_station": "汉口站", "train_num": "G508", "destination_station": "", "date": "2018年02月23日07:10元", "ticket_rates": "￥519.5元", "seat_category": "二等座", "name": "不登武"}

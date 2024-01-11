@@ -1,0 +1,1 @@
+{"ticket_num": "Z537025815", "starting_station": "上海虹桥滩", "train_num": "GL32", "destination_station": "北京南站", "date": "2017*012905冒12:12年", "ticket_rates": "¥733.03", "seat_category": "一等座", "name": "鹏"}

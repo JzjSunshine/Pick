@@ -1,0 +1,1 @@
+{"ticket_num": "X075810", "starting_station": "北京南站", "train_num": "G117", "destination_station": "苏州北站", "date": "2017年10月26日09:25开", "ticket_rates": "￥523.5元", "seat_category": "二等座", "name": "燕"}

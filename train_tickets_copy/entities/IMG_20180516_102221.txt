@@ -1,0 +1,1 @@
+{"ticket_num": "N041982", "starting_station": "广州南站", "train_num": "G1005", "destination_station": "深圳北站", "date": "2017年12月20日12:29开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "宗尧"}

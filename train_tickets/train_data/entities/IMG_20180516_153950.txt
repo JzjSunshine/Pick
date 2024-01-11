@@ -1,0 +1,1 @@
+{"ticket_num": "NO98276", "starting_station": "北京西站", "train_num": "Z285", "destination_station": "武昌站", "date": "2017年10月16日21:10开", "ticket_rates": "￥152.5元", "seat_category": "新空调硬座", "name": "_志军)"}

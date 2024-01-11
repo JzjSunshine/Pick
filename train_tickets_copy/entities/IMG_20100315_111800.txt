@@ -1,0 +1,1 @@
+{"ticket_num": "N059899", "starting_station": "天津津", "train_num": "C2020", "destination_station": "北京南站", "date": "2017年11月08 20 31日", "ticket_rates": "￥54.5元", "seat_category": "三等座", "name": "招商银行"}

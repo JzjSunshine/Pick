@@ -1,0 +1,1 @@
+{"ticket_num": "R019861", "starting_station": "天津站", "train_num": "C2236", "destination_station": "北京南站", "date": "2018年01月106 17:23n", "ticket_rates": "￥65.5元", "seat_category": "--薄座", "name": "，林"}

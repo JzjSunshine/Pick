@@ -1,0 +1,1 @@
+{"ticket_num": "Z53M056551", "starting_station": "昆山南站", "train_num": "D3093", "destination_station": "上海虹桥站", "date": "2017年12月08日13:17开", "ticket_rates": "￥24.5元", "seat_category": "一等座", "name": "素丽"}

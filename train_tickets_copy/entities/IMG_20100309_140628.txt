@@ -1,0 +1,1 @@
+{"ticket_num": "V:53215", "starting_station": "济南站", "train_num": "Gl75", "destination_station": "青岛站", "date": "2018年01月31日08:36开", "ticket_rates": "￥119.5元", "seat_category": "二等座", "name": "画鹏"}

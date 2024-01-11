@@ -1,0 +1,1 @@
+{"ticket_num": "Z74G090628", "starting_station": "合肥南站", "train_num": "G272", "destination_station": "北京南站", "date": "2018年01月11日18:17开", "ticket_rates": "￥734.5元", "seat_category": "一等座", "name": "丁鹏"}

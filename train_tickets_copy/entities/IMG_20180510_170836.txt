@@ -1,0 +1,1 @@
+{"ticket_num": "003U058124", "starting_station": "安阳东站", "train_num": "G660", "destination_station": "北京西站", "date": "2017年12月31日14:24开", "ticket_rates": "¥236.0元", "seat_category": "二等座", "name": "少成"}

@@ -1,0 +1,1 @@
+{"ticket_num": "P071860", "starting_station": "北京南省", "train_num": "G355", "destination_station": "合肥南站", "date": "2017年12月05日0108:407", "ticket_rates": "￥436.04", "seat_category": "二等座", "name": "暑博"}

@@ -1,0 +1,1 @@
+{"ticket_num": "P006002", "starting_station": "荣成站", "train_num": "G476", "destination_station": "北京南站", "date": "2018年02月24日08:42开", "ticket_rates": "￥392.0元", "seat_category": "二等座", "name": "海港"}

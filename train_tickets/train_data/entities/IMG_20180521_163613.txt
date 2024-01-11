@@ -1,0 +1,1 @@
+{"ticket_num": "Z34V097414", "starting_station": "南京站", "train_num": "G7023", "destination_station": "上海站", "date": "2017年11月01日18:00开", "ticket_rates": "￥219.5元", "seat_category": "一等座", "name": "紫联"}

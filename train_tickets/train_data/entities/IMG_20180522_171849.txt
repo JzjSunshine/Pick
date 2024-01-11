@@ -1,0 +1,1 @@
+{"ticket_num": "W048969", "starting_station": "天津站", "train_num": "C2598", "destination_station": "北京南站", "date": "2017年12月28日18:10n", "ticket_rates": "￥55.5%", "seat_category": "一等医", "name": "华清"}

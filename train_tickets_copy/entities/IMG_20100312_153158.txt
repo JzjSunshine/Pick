@@ -1,0 +1,1 @@
+{"ticket_num": "X049230", "starting_station": "锦州站", "train_num": "7622", "destination_station": "北京西站", "date": "2017单12月09日12:59日", "ticket_rates": "￥72.0元", "seat_category": "新空调硬座", "name": "放款"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z32M004530", "starting_station": "苏州北站", "train_num": "G108", "destination_station": "北京南始", "date": "2018年03月09807:44:", "ticket_rates": "￥883.5元", "seat_category": "一等座", "name": "丁建辉"}

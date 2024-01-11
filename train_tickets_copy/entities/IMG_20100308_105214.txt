@@ -1,0 +1,1 @@
+{"ticket_num": "W053248", "starting_station": "南昌西站", "train_num": "G483", "destination_station": "长沙南靖", "date": "2018年01月19日11:59开", "ticket_rates": "￥264.5元", "seat_category": "一等座", "name": "雪艳"}

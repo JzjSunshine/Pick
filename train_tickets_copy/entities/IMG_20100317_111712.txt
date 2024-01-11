@@ -1,0 +1,1 @@
+{"ticket_num": "2W052456", "starting_station": "荆州站", "train_num": "D5990", "destination_station": "武昌站", "date": "2018年02月23日14:17开", "ticket_rates": "￥76.5元", "seat_category": "一等座", "name": "雪谨"}

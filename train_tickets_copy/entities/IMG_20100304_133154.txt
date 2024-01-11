@@ -1,0 +1,1 @@
+{"ticket_num": "V093365", "starting_station": "太原南站", "train_num": "G614", "destination_station": "北京西站", "date": "2018年04月04日13:32开", "ticket_rates": "￥197.0元", "seat_category": "二等座", "name": "龙飞"}

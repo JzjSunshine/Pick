@@ -1,0 +1,1 @@
+{"ticket_num": "240F008811", "starting_station": "常州北站", "train_num": "G460", "destination_station": "南京南站", "date": "2017年12月16日13:17开", "ticket_rates": "￥59.5元", "seat_category": "二等座", "name": "峰"}

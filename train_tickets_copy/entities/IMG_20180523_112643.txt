@@ -1,0 +1,1 @@
+{"ticket_num": "J064783", "starting_station": "天津站", "train_num": "C2224", "destination_station": "北京市兴", "date": "2018年02月08日13:50开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "陈小会"}

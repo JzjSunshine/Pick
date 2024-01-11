@@ -1,0 +1,1 @@
+{"ticket_num": "1230025284", "starting_station": "郑州东站", "train_num": "G430", "destination_station": "北京西站", "date": "2017年11月16日15:39n", "ticket_rates": "￥495.0元", "seat_category": "一等班", "name": "三级桥"}

@@ -1,0 +1,1 @@
+{"ticket_num": "8047777", "starting_station": "化宗站", "train_num": "2117", "destination_station": "姓名", "date": "2016年01月17日21:09元", "ticket_rates": "￥222.5元", "seat_category": "新空调硬卧", "name": "挑飞"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z67T036860", "starting_station": "杭州东站", "train_num": "G7652", "destination_station": "合肥南站", "date": "2018年02月08日18:41开", "ticket_rates": "￥270.03", "seat_category": "一等座", "name": "超"}

@@ -1,0 +1,1 @@
+{"ticket_num": "B004378", "starting_station": "潍坊站", "train_num": "G4219", "destination_station": "高密站", "date": "2018*02月10日11:297", "ticket_rates": "￥24.5元", "seat_category": "二等座", "name": "核从刚"}

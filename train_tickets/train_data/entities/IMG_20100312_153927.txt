@@ -1,0 +1,1 @@
+{"ticket_num": "M029463", "starting_station": "福州站", "train_num": "D6233", "destination_station": "厦门站", "date": "2018年02月24日15:28开", "ticket_rates": "￥144.5元", "seat_category": "一等座", "name": "画静"}

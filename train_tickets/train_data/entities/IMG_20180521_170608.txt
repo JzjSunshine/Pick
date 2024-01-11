@@ -1,0 +1,1 @@
+{"ticket_num": "Z44Y085785", "starting_station": "上海虹桥站", "train_num": "G6", "destination_station": "北京南站", "date": "2018年03月08日07:00开", "ticket_rates": "¥553.0元", "seat_category": "二等座", "name": "从登("}

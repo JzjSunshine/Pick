@@ -1,0 +1,1 @@
+{"ticket_num": "A082894", "starting_station": "白洋淀站", "train_num": "D6656", "destination_station": "北京南站", "date": "2017年12月07日11:037", "ticket_rates": "￥45.0%", "seat_category": "二等窟", "name": "登晓帆"}

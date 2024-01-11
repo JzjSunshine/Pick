@@ -1,0 +1,1 @@
+{"ticket_num": "Z57G087864", "starting_station": "杭州东站", "train_num": "G1384", "destination_station": "上海虹桥站", "date": "2017年11月25日11:24开", "ticket_rates": "¥117.0元", "seat_category": "一等座", "name": "颖"}

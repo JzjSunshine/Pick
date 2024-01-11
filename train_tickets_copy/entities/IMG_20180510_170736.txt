@@ -1,0 +1,1 @@
+{"ticket_num": "\"011696", "starting_station": "北京西站", "train_num": "K179", "destination_station": "郑广州站", "date": "2017*11月17日22:32开", "ticket_rates": "￥174.0元", "seat_category": "新空调硬卧", "name": "广庆昌"}

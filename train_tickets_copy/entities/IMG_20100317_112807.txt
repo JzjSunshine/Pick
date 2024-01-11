@@ -1,0 +1,1 @@
+{"ticket_num": "J002109", "starting_station": "北京西站", "train_num": "G487", "destination_station": "石家庄站", "date": "2017年12月30日10:52日", "ticket_rates": "7128.5x", "seat_category": "二等座", "name": "雪东"}

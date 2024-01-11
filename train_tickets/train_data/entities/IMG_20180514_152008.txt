@@ -1,0 +1,1 @@
+{"ticket_num": "S044601", "starting_station": "上海虹桥站", "train_num": "G1639", "destination_station": "福州站", "date": "2017年12月01日17:22开", "ticket_rates": "￥377.5元", "seat_category": "二等座", "name": "疗鑫"}

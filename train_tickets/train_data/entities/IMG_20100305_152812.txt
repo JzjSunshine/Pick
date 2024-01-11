@@ -1,0 +1,1 @@
+{"ticket_num": "X005987", "starting_station": "青岛北站", "train_num": "28", "destination_station": "北京站", "date": "2017年08月27日21:00开", "ticket_rates": "￥325.0元", "seat_category": "新空调软卧", "name": "涛"}

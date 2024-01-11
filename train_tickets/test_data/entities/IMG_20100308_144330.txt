@@ -1,0 +1,1 @@
+{"ticket_num": "TO118.0", "starting_station": "\u5317\u4eac\u7ad9", "train_num": "Z203", "destination_station": "\u54c8\u5c14\u6ee8\u4e1c\u7ad9", "date": "2017\u5e7409\u670828\u65e520:31", "ticket_rates": "\uffe5440.5\u5143", "seat_category": "\u65b0\u7a7a\u8c03\u8f6f\u5367", "name": "\u5a77"}

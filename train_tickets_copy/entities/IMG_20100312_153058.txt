@@ -1,0 +1,1 @@
+{"ticket_num": "G095298", "starting_station": "长千沙沙站", "train_num": "K9017", "destination_station": "深圳站", "date": "2017年10月08日21:36X", "ticket_rates": "¥273.0元", "seat_category": "新空调硬卧", "name": "民"}

@@ -1,0 +1,1 @@
+{"ticket_num": "9036930", "starting_station": "保定东站", "train_num": "G672", "destination_station": "北京西站", "date": "2018年01月24日14：23日", "ticket_rates": "￥101.5元", "seat_category": "一等座", "name": "英楠"}

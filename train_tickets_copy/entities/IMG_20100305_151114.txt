@@ -1,0 +1,1 @@
+{"ticket_num": "K082033", "starting_station": "石家庄站", "train_num": "G9062", "destination_station": "北京西站", "date": "2017年12月31日13:55开", "ticket_rates": "￥128.5元", "seat_category": "二等座", "name": "疗兴"}

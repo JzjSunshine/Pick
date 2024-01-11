@@ -1,0 +1,1 @@
+{"ticket_num": "T056442", "starting_station": "娄底南站", "train_num": "G402", "destination_station": "北京西站", "date": "2017年12月04日13:51开", "ticket_rates": "￥706.5元", "seat_category": "二等座", "name": "些利"}

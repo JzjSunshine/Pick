@@ -1,0 +1,1 @@
+{"ticket_num": "Z21A099907", "starting_station": "东台站", "train_num": "Z156", "destination_station": "北京站", "date": "2018年02月25日18:01开", "ticket_rates": "￥261.5元", "seat_category": "新空调硬卧", "name": "雪阳"}

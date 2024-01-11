@@ -1,0 +1,1 @@
+{"ticket_num": "Z1030033700", "starting_station": "蚌埠南站", "train_num": "G139", "destination_station": "滁州站", "date": "2017年11月22日17:35开", "ticket_rates": "189.5元", "seat_category": "一等座", "name": "不凯"}

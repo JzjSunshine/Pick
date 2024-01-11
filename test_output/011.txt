@@ -1,0 +1,46 @@
+address	A
+company	IK HU
+address	AT HARDWARE,address
+address	ENTERPRISE (SETIA,address
+address	ALAM) SDN BHD,address
+address	822737-X,address
+address	NO. 17-G\, JALAN SETIA INDAH,address
+address	(X) U13/X\, SETIA ALAM,address
+address	SEKSYEN U13\, 40170 SHAH ALAM,address
+address	TEL: 012 - 6651783 FAX: 03 - 33623608,address
+address	GST NO: 000394528768,address
+address	SIMPLIFIED TAX INVOICE,address
+address	CASH,ad
+date	15/06/2017,
+address	SALESPERSON : AH002,address
+address	TIME: 15:28:00,address
+address	ITEM,address
+address	QTY,address
+address	U/P,address
+address	AMOUNT,address
+address	(RM),address
+address	(RM),address
+address	20001600
+address	15.00,total
+address	15.00 S,total
+address	TAL QUAN
+address	15.00,total
+address	0.00,address
+address	ROUNDING,address
+address	0.00,addres
+address	1
+total	5.00
+address	,total
+address	15.00,total
+address	0
+address	00,address
+address	*GST @ 6% INCLUDED IN TOTAL,address
+address	G
+address	 SUMMARY,address
+address	14.15,address
+address	6
+address	0.85,a
+address	PROVIDE ORIGINAL BILL FOR GOODS,address
+address	EXCHANGE WITHIN 1 WEEK FROM TRANSACTION,address
+address	GOODS MUST BE IN ORIGINAL STATE TO BE,address
+address	ENTITLED FOR EXCHANGE.,a

@@ -1,0 +1,1 @@
+{"ticket_num": "X007446", "starting_station": "大津市", "train_num": "C2046", "destination_station": "北京南站", "date": "2017*100109913:15N", "ticket_rates": "￥54.5%", "seat_category": "二等墓", "name": "中国人关学中心有限公司"}

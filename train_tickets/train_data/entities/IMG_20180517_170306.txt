@@ -1,0 +1,1 @@
+{"ticket_num": "A043069", "starting_station": "长春站", "train_num": "Z158", "destination_station": "沈阳北站", "date": "2017年10月08日12:487", "ticket_rates": "", "seat_category": "￥43.5元", "name": "1盒"}

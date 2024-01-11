@@ -1,0 +1,1 @@
+{"ticket_num": "N085969", "starting_station": "\u6d77\u53e3\u7ad9", "train_num": "D7205", "destination_station": "\u4e09\u4e9a\u7ad9", "date": "2018\u5e7402\u670801\u65e517:01\u5f00", "ticket_rates": "\uffe5194.0\u5143", "seat_category": "\u4e00\u7b49\u5ea7", "name": "|\u94ed\u5e0c"}

@@ -1,0 +1,75 @@
+0,204,409,277,409,277,424,204,424,November,answer
+1,285,408,302,408,302,426,285,426,3,,answer
+2,313,406,348,406,348,424,313,424,1992,answer
+3,392,406,509,406,509,421,392,421,Massachusetts,answer
+4,697,408,732,408,732,422,697,422,ballot,question
+5,60,459,102,459,102,473,60,473,*Note:,question
+6,451,490,466,490,466,508,451,508,19,question
+7,472,492,493,492,493,505,472,505,92,answer
+8,444,679,490,679,490,696,444,696,Address,question
+9,151,598,299,598,299,630,151,630,,answer
+10,480,616,509,616,509,631,480,631,Date,question
+11,594,677,641,677,641,692,594,692,Purpose,question
+12,742,765,764,765,764,842,742,842,91814768,other
+13,580,240,593,240,593,248,580,248,☑,answer
+14,594,239,619,239,619,250,594,250,Final,question
+15,346,133,419,133,419,213,346,213,,other
+16,39,236,74,236,74,258,39,258,,other
+17,43,494,79,494,79,523,43,523,,other
+18,201,29,551,29,551,112,201,112,"CORRECTED FORM" The Commonwealth of Massachusetts OFFICE OF CAMPAIGN AND POLITICAL FINANCE,header
+19,612,50,682,50,682,64,612,64,Office Use Only,other
+20,444,140,547,140,547,171,444,171,Form CPF 22 (formerly CPF 10),other
+21,99,130,267,130,267,162,99,162,REPORT OF CORPORATE TREASURER,header
+22,52,172,107,172,107,192,52,192,File with:,question
+23,110,175,338,175,338,222,110,222,Director, Office of Campaign & Political Finance One Ashburton Place, Boston, MA 02108,answer
+24,580,197,710,197,710,214,580,214,☐ 60th Day Prior to Election,question
+25,581,212,691,212,691,226,581,226,☐ 5th Day of the Month,question
+26,578,223,697,223,697,239,578,239,☐ 20th Day of the Month,question
+27,612,182,683,182,683,196,612,196,(CHECK ONE),header
+28,82,235,300,235,300,253,82,253,Please Print or Type, except Signatures.,question
+29,56,270,177,270,177,288,56,288,1. Name of Treasurer,question
+30,53,295,190,295,190,310,53,310,2. Name of Corporation,question
+31,56,318,204,318,204,336,56,336,3. Address of Corporation,question
+32,177,258,710,258,710,278,177,278,M. Alfred Peterson; Assistant Treasurer Peter J. Marzullo,answer
+33,222,284,449,284,449,305,222,305,Lorillard Tobacco Company,answer
+34,221,310,440,310,440,352,221,352,One Park Avenue New York. NY 10016 -5895,answer
+35,56,373,143,373,143,393,56,393,4. Question No.,question
+36,173,366,536,366,536,389,173,389,1 relating to Tobacco Excise Tax Increase,answer
+37,439,384,588,384,588,399,439,399,(Describe question briefly),question
+38,56,416,201,416,201,436,56,436,submitted to the voters on,question
+39,226,429,316,429,316,446,226,446,(Election Date),question
+40,334,412,368,412,368,429,334,429,on the,question
+41,459,423,633,423,633,446,459,446,(Name of City/ Town of State)*,question
+42,106,448,736,448,736,488,106,488,If this expenditure is made to influence a local ballot question, a copy of this form should be filed with the city or town clerk or election commission.,answer
+43,84,497,161,497,161,517,84,517,Fil in Dates:,question
+44,180,497,332,497,332,515,180,515,Reporting Period Beginning,question
+45,341,490,437,490,437,508,341,508,October 16,,answer
+46,497,490,562,490,562,509,497,509,and Ending,question
+47,564,485,710,485,710,504,564,504,November 5. 1992,answer
+48,56,518,739,518,739,573,56,573,contribution I certify that this report is a true statement of the amount of value of gift, payment, expenditure or or whom promise to give, pay,, expend or contribute, together with the date, purpose, and full name and address of the person to Mass. Laws, Section, as amended. It was made. I make this General report in accordance with the requirements of Chapter,,other
+49,60,577,262,577,262,600,60,600,Signed under the penalties of perjury.,question
+50,53,591,178,591,178,643,53,643,Preasurer Senato,other
+51,384,596,509,596,509,613,384,613,March 30, 1993,answer
+52,60,631,235,631,235,651,60,651,Assistant Treasurer,other
+53,84,673,114,673,114,698,84,698,Date Paid,question
+54,161,669,345,669,345,699,161,699,To Whom Paid (Alphabetical Listing Mandatory),question
+55,275,635,520,635,520,657,275,657,EXPENDITURES OR DISBURSEMENTS,header
+56,666,662,729,662,729,689,666,689,Amount or Value**,question
+57,77,712,127,712,127,726,77,726,10/ 26/ 92,answer
+58,75,729,129,729,129,745,75,745,10/ 30/ 92,answer
+59,154,709,335,709,335,724,154,724,Committee Against Unfair Taxes,answer
+60,154,729,336,729,336,745,154,745,Committee Against Unfair Taxes,answer
+61,370,703,563,703,563,717,370,717,P. O. B03 5979 Boston, MA 0212,answer
+62,370,726,563,726,563,742,370,742,P. O. Box 5979. Boston, MA 02114,answer
+63,581,694,655,694,655,716,581,716,Oppose Tax Increase,answer
+64,581,721,651,721,651,740,581,740,Oppose Tax increas,answer
+65,676,701,738,701,738,717,676,717,28, 482. 00,answer
+66,676,721,740,721,740,736,676,736,19, 503 00,answer
+67,67,933,307,933,307,968,67,968,**In- kind contributions should be included here. Attach additional pages if necessary.,other
+68,161,983,568,983,568,1000,161,1000,REPORTING REQUIREMENTS CONTINUED ON REVERSE SIDE,other
+69,398,905,660,905,660,926,398,926,Total Expenditures or Disbursements on This Report,question
+70,373,929,660,929,660,947,373,947,Total Expenditures for Disbursements Previously Reported,question
+71,437,951,663,951,663,970,437,970,Total Expenditures or Disbursements to Date,question
+72,675,899,741,899,741,916,675,916,48, 585 00,answer
+73,672,923,742,923,742,940,672,940,508. 789 00,answer
+74,672,944,740,944,740,961,672,961,556 874. 00,answer

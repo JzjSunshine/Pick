@@ -1,0 +1,1 @@
+{"ticket_num": "34F035730", "starting_station": "汉族", "train_num": "G518", "destination_station": "北京西站", "date": "2017年09月23日12:45开", "ticket_rates": "￥827.5元", "seat_category": "一等座", "name": "或"}

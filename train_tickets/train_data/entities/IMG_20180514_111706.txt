@@ -1,0 +1,1 @@
+{"ticket_num": "Z70G058606", "starting_station": "合肥商业", "train_num": "6室24", "destination_station": "汇点窗口", "date": "2018年11月26日15:14:", "ticket_rates": "￥734.53.", "seat_category": "三等蜜", "name": "身高"}

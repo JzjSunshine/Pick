@@ -1,0 +1,1 @@
+{"ticket_num": "Y010766", "starting_station": "深圳北站", "train_num": "G1022", "destination_station": "广州南站", "date": "2018年01月10日17:10开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "英达"}

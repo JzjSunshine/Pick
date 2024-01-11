@@ -1,0 +1,1 @@
+{"ticket_num": "9E065077", "starting_station": "傅丘南沁", "train_num": "K106", "destination_station": "北京西站", "date": "2017*12月18日08：36日", "ticket_rates": "￥163.0n", "seat_category": "新空调乘路", "name": "16%"}

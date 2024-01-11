@@ -1,0 +1,1 @@
+{"ticket_num": "T090058", "starting_station": "日照站", "train_num": "K1902", "destination_station": "北京站", "date": "2017年12月10日08:15开", "ticket_rates": "￥232.5元", "seat_category": "新空调硬卧", "name": "玉忠"}

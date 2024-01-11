@@ -1,0 +1,51 @@
+0,253,154,294,154,294,169,253,169,Sender,question
+1,253,194,281,194,281,207,253,207,Date,question
+2,46,325,61,325,61,339,46,339,To,question
+3,465,268,521,268,521,281,465,281,Reference,question
+4,253,214,327,214,327,227,253,227,November,answer
+5,328,214,349,214,349,227,328,227,12,,other
+6,353,212,387,212,387,226,353,226,1999,answer
+7,489,209,502,209,502,224,489,224,6,answer
+8,45,640,99,640,99,657,45,657,Message:,question
+9,638,722,662,722,662,825,638,825,8355333,other
+10,42,63,258,63,258,76,42,76,11/ 12/ 99 19: 32 FAA 212 450 4800,other
+11,316,66,374,66,374,76,316,76,DPW 1048,other
+12,619,68,680,68,680,78,619,78,UUZ/ DUS,other
+13,237,109,476,109,476,125,237,125,DAVIS POLK & WARDWELL,header
+14,43,156,134,156,134,173,43,173,Fax Transmittal,question
+15,43,176,158,176,158,214,43,214,450 Lexington Avenue New York, NY 10017 212- 450- 4000,answer
+16,253,173,366,173,366,192,253,192,Charles Duggan,answer
+17,465,190,665,190,665,207,465,207,Number of Pages (this page included),question
+18,254,229,373,229,373,246,254,246,Sender Voice Number,question
+19,464,228,648,228,648,244,464,244,If problems receiving this fax, call,question
+20,464,246,557,246,557,262,464,262,212- 450- 4785,answer
+21,256,250,347,250,347,265,256,265,212- 450- 4785,answer
+22,256,270,363,270,363,284,256,284,Sender Fax Number,question
+23,257,286,346,286,346,303,257,303,212- 450- 3785,answer
+24,466,285,539,285,539,302,466,302,17555 002,answer
+25,201,323,271,323,271,338,201,338,Fax Number,question
+26,362,324,415,324,415,338,362,338,Company,question
+27,520,318,654,318,654,335,520,335,Recipient Phone Number,question
+28,45,342,164,342,164,361,45,361,Thomas M. Sobol,answer
+29,201,341,293,341,293,358,201,358,617- 439- 3278,answer
+30,362,341,511,341,511,372,362,372,Brown Rudnick Freed & Gesmer,answer
+31,520,338,612,338,612,355,520,355,617- 330- 9000,answer
+32,520,391,610,391,610,408,520,408,843- 720 9000,answer
+33,360,394,479,394,479,458,360,458,Ness, Motley, Loadholt, Richardson & Poole,answer
+34,204,394,295,394,295,410,204,410,843- 720- 9290,answer
+35,45,397,147,397,147,412,45,412,Joseph F. Rice,answer
+36,45,479,169,479,169,511,45,511,Robert V. Costello Jeffrey D. Woolf,answer
+37,203,479,295,479,295,494,203,494,617- 722- 0286,answer
+38,204,531,293,531,293,548,204,548,415- 956- 1008,answer
+39,47,531,184,531,184,548,47,548,Richard M. Heimann,answer
+40,46,582,181,582,181,600,46,600,Michael P. Thornton,answer
+41,204,585,295,585,295,599,204,599,617- 720- 2445,answer
+42,363,582,482,582,482,615,363,615,Thomton, Early & Naumes,answer
+43,520,582,611,582,611,599,520,599,617- 720- 1333,answer
+44,521,531,610,531,610,548,521,548,415- 956- 1000,answer
+45,521,478,612,478,612,493,521,493,617- 227- 7500,answer
+46,362,476,497,476,497,510,362,510,Schneider, Reilly, Zabin & Costello,answer
+47,362,531,476,531,476,561,362,561,Lieff, Cabraser & Heimann,answer
+48,67,897,152,897,152,907,67,907,Confidentiality Note,question
+49,152,894,660,894,660,907,152,907,This only for the person or entity may besi pavilegedal ,answer
+50,67,905,666,905,666,940,67,940,of otherwis protected from disclosos. Disscnlation, distribution popying of the facile the information herein by anyone other than the poupil, waployee responsible for delivering the message the prohibited. You thisfacsimile in error please notify as immediately by telephone and return the facsimile by mail.,answer

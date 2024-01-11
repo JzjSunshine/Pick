@@ -1,0 +1,1 @@
+{"ticket_num": "0074506", "starting_station": "建水站", "train_num": "K6134", "destination_station": "昆明站", "date": "2018年02月19日11:17开", "ticket_rates": "￥29.5元", "seat_category": "硬卧代硬座", "name": "，怡"}

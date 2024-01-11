@@ -1,0 +1,1 @@
+{"ticket_num": "G063732", "starting_station": "北京南站", "train_num": "D321", "destination_station": "上海站", "date": "2017年12月23日21:23开", "ticket_rates": "￥650.0元", "seat_category": "软卧", "name": "爽"}

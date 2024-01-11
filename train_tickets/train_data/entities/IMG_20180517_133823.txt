@@ -1,0 +1,1 @@
+{"ticket_num": "0005501", "starting_station": "石家庄竣", "train_num": "0524", "destination_station": "北京西站", "date": "2017年11月17日19:19：1", "ticket_rates": "￥4075.", "seat_category": "商务定", "name": "119.20"}

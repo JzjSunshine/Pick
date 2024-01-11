@@ -1,0 +1,1 @@
+{"ticket_num": "01008208", "starting_station": "北京南站", "train_num": "02041", "destination_station": "天津站", "date": "2018*03月10日11:12开", "ticket_rates": "￥54.5元", "seat_category": "二等鹰", "name": "雪博"}

@@ -1,0 +1,62 @@
+0,43,89,77,89,77,103,43,103,BRAND,question
+1,117,105,176,105,176,116,117,116,Domestic,question
+2,200,105,211,105,211,115,200,115,X,answer
+3,235,103,274,103,274,117,235,117,Export,question
+4,45,244,127,244,127,257,45,257,Description:,question
+5,388,506,417,506,417,521,388,521,Date,question
+6,172,535,253,535,253,549,172,549,ENDORSEMENTS,question
+7,360,535,391,535,391,548,360,548,Date,question
+8,75,561,96,561,96,576,75,576,CQA,question
+9,77,644,99,644,99,659,77,659,ELT,question
+10,78,670,139,670,139,685,78,685,Marketing,question
+11,173,698,227,698,227,713,173,713,APPROVAL,question
+12,362,701,393,701,393,715,362,715,Date,question
+13,77,729,102,729,102,744,77,744,CQA,question
+14,80,757,141,757,141,771,80,771,President,question
+15,74,411,138,411,138,424,74,424,Rationale,question
+16,344,103,398,103,398,118,344,118,Military,question
+17,479,103,539,103,539,117,479,117,Contract,question
+18,310,187,321,187,321,202,310,202,X,answer
+19,365,216,438,216,438,227,365,227,Processing,question
+20,309,423,323,423,323,437,309,437,X,answer
+21,311,453,322,453,322,466,311,466,X,answer
+22,49,797,84,797,84,812,49,812,10111,other
+23,560,845,675,845,675,867,560,867,621626776,other
+24,42,49,132,49,132,60,42,60,Attachment II,header
+25,232,61,429,61,429,75,232,75,SPECIFICATION CHANGE PROPOSAL,header
+26,124,89,214,89,214,104,124,104,ELI CUTTER KS,answer
+27,365,88,602,88,602,103,365,103,SPECIFICATION CHANGE NUMBER 84- 79,question
+28,71,131,417,131,417,147,71,147,TYPE OF SPECIFICATION CHANGE (Check all that apply),header
+29,71,148,210,148,210,161,71,161,Packaging, Temporary,question
+30,70,159,230,159,230,174,70,174,Cigarette Design, Trial,question
+31,70,172,217,172,217,190,70,190,Tar Adjustment < 1 mg,question
+32,71,189,148,189,148,203,71,203,New Product,question
+33,70,203,206,203,206,217,70,217,Equivalent Additive,question
+34,71,215,284,215,284,232,71,232,Equivalent Filter/ Paper/ /Tipping,question
+35,366,145,501,145,501,161,366,161,Packaging, Permanent,question
+36,363,159,555,159,555,174,363,174,Cigarette Design, Permanent,question
+37,366,173,516,173,516,188,366,188,Tar Adjustment > 1 mg,question
+38,365,189,496,189,496,203,365,203,Discontinue Product,question
+39,365,201,566,201,566,216,365,216,Equivalent Packaging Material,question
+40,141,243,591,243,591,258,141,258,ELI CUTTER KS, for test market, using AMELIA "B" Blend (XLF -680G),answer
+41,46,271,150,271,150,286,46,286,*Cost Summary-,header
+42,74,297,271,297,271,313,74,313,REQUESTED IMPLEMENTATION DATE,question
+43,304,300,355,300,355,313,304,313,9 /17 /84,answer
+44,74,327,156,327,156,340,74,340,COST SUMMARY,header
+45,101,342,252,342,252,355,101,355,Obsolete Material Cost,question
+46,101,355,312,355,312,370,101,370,Special Equipment/ Material Cost,question
+47,102,370,310,370,310,384,102,384,Est. Annual Product Cost Change,question
+48,73,395,285,395,285,410,73,410,ATTACHMENTS (Check if Included),header
+49,77,423,252,423,252,438,77,438,Product Specification List,question
+50,75,439,205,439,205,453,75,453,Packaging Art Stat.,question
+51,74,451,194,451,194,466,74,466,Processing Detail,question
+52,74,466,279,466,279,479,74,479,Initial Production Requirement,question
+53,367,411,457,411,457,425,367,425,Cost Analysis,question
+54,367,423,498,423,498,439,367,439,Spec. Change Detail,question
+55,365,437,542,437,542,453,365,453,Casing Flavoring Formulae,question
+56,365,451,467,451,467,465,365,465,Blend Formulae,question
+57,75,507,159,507,159,522,75,522,Prepared By:,question
+58,226,506,302,506,302,521,226,521,D. M. Frank,answer
+59,462,506,521,506,521,521,462,521,10/ 10/ 84,answer
+60,77,589,173,589,173,605,77,605,RD&E - Product,question
+61,77,617,172,617,172,632,77,632,RD&E - Process,question

@@ -1,0 +1,1 @@
+{"ticket_num": "X081448", "starting_station": "北京西站", "train_num": "z3", "destination_station": "重庆北站", "date": "2017年10月01日17:48开", "ticket_rates": "￥229.0元", "seat_category": "新空调硬座", "name": "新文1"}

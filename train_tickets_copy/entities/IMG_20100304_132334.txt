@@ -1,0 +1,1 @@
+{"ticket_num": "V085609", "starting_station": "北京西站", "train_num": "G6707", "destination_station": "保定东站", "date": "2018年04月01日19:22开", "ticket_rates": "￥101.5元", "seat_category": "一等座", "name": "二涛"}

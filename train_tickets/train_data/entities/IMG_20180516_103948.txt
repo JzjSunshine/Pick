@@ -1,0 +1,1 @@
+{"ticket_num": "L097739", "starting_station": "亿定东站", "train_num": "G662", "destination_station": "北京西站", "date": "2017年11月17日15:59开", "ticket_rates": "￥63.5元", "seat_category": "二等座", "name": "国玉涛"}

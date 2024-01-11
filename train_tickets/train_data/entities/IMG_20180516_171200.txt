@@ -1,0 +1,1 @@
+{"ticket_num": "550064980", "starting_station": "郑州站", "train_num": "G808", "destination_station": "北京西站", "date": "2017*10807918:503", "ticket_rates": "￥315.0元", "seat_category": "二等历", "name": "国家云"}

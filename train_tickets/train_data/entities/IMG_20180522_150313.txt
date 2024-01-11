@@ -1,0 +1,1 @@
+{"ticket_num": "J000834", "starting_station": "广州南站", "train_num": "G1009", "destination_station": "深圳北站", "date": "2018年01月19日14:16开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "城"}

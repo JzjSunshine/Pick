@@ -1,0 +1,1 @@
+{"ticket_num": "Z15H037075", "starting_station": "宁波站", "train_num": "G7674", "destination_station": "杭州东站", "date": "2017年12月12日09:13开", "ticket_rates": "￥120.0元", "seat_category": "一等座", "name": "二鹏"}

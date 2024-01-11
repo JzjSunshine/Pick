@@ -1,0 +1,1 @@
+{"ticket_num": "350039667", "starting_station": "宁波站", "train_num": "G7503", "destination_station": "台州站", "date": "2018年04月11日10:00开", "ticket_rates": "￥81.0元", "seat_category": "一等座", "name": "宣伟"}

@@ -1,0 +1,1 @@
+{"ticket_num": "015L038364", "starting_station": "西安北站", "train_num": "G4036", "destination_station": "北京西站", "date": "2018*02月22日10:02月", "ticket_rates": "7515.5%", "seat_category": "二等密", "name": "雪杰"}

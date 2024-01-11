@@ -1,0 +1,1 @@
+{"ticket_num": "54U024238", "starting_station": "苏州站", "train_num": "G7115", "destination_station": "上海虹桥站", "date": "2018年02月06日15:04开", "ticket_rates": "￥59.5元", "seat_category": "一等座", "name": "冬"}

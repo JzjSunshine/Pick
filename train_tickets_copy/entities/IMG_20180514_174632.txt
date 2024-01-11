@@ -1,0 +1,1 @@
+{"ticket_num": "7 68040943", "starting_station": "上海虹桥站", "train_num": "G1501", "destination_station": "杭州东站", "date": "2018年01月30日10:03开", "ticket_rates": "￥73.0元", "seat_category": "二等座", "name": "金磊"}

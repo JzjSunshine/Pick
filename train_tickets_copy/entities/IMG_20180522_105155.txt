@@ -1,0 +1,1 @@
+{"ticket_num": "T065056", "starting_station": "广州站", "train_num": "Z202", "destination_station": "北京西站", "date": "2018年01月03日08:50开", "ticket_rates": "￥426.0元", "seat_category": "新空调硬卧", "name": "二振国"}

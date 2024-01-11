@@ -1,0 +1,1 @@
+{"ticket_num": "Z141A062287", "starting_station": "上海虹桥站", "train_num": "G10", "destination_station": "北京南站", "date": "2017年11月04日07:05开", "ticket_rates": "¥553.0元", "seat_category": "二等座", "name": "静"}

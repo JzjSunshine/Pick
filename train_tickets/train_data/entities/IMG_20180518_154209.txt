@@ -1,0 +1,1 @@
+{"ticket_num": "H061591", "starting_station": "北京南站", "train_num": "G41", "destination_station": "杭州东站", "date": "2017年11月01日09:15燕", "ticket_rates": "￥626.0元", "seat_category": "二等胶", "name": "查俊"}

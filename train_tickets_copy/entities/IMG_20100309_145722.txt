@@ -1,0 +1,1 @@
+{"ticket_num": "0075811", "starting_station": "南昌西站", "train_num": "06578", "destination_station": "九江站", "date": "2017年11月23日", "ticket_rates": "￥42.08", "seat_category": "二等燃", "name": "·"}

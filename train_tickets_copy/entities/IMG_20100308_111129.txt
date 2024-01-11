@@ -1,0 +1,1 @@
+{"ticket_num": "B026524", "starting_station": "保定东", "train_num": "6562", "destination_station": "北京西站", "date": "2014.012.02 12 10 19.092.04", "ticket_rates": "¥2015%", "seat_category": "商务理", "name": "雪"}

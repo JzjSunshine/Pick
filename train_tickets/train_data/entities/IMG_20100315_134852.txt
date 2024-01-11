@@ -1,0 +1,1 @@
+{"ticket_num": "J041369", "starting_station": "枣庄站", "train_num": "G302", "destination_station": "北京南站", "date": "2917411802B 13:25*", "ticket_rates": "￥474.0元", "seat_category": "一等殡", "name": "署名"}

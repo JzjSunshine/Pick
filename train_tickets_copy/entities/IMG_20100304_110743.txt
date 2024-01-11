@@ -1,0 +1,1 @@
+{"ticket_num": "Z380025165", "starting_station": "台州站", "train_num": "G7576", "destination_station": "镇江站", "date": "2018年04月12日08:55开", "ticket_rates": "¥496.0元", "seat_category": "一等座", "name": "宏伟"}

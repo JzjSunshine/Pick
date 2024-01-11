@@ -1,0 +1,1 @@
+{"ticket_num": "Z001693", "starting_station": "北京南站", "train_num": "G141", "destination_station": "上海虹桥站", "date": "2017*10117914:10]", "ticket_rates": "￥933.0元", "seat_category": "一等痉", "name": "w"}

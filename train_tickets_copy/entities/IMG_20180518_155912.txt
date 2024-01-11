@@ -1,0 +1,1 @@
+{"ticket_num": "098444", "starting_station": "南京站", "train_num": "G7009", "destination_station": "上海站", "date": "2017年11月02日11:00开", "ticket_rates": "￥219.5元", "seat_category": "一等座", "name": "的"}

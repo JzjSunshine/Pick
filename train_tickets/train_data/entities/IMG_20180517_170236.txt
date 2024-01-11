@@ -1,0 +1,1 @@
+{"ticket_num": "Z114081554", "starting_station": "萧县北站", "train_num": "G1568", "destination_station": "北京南站", "date": "2017年10月07日07:36开", "ticket_rates": "￥328.0元", "seat_category": "二等座", "name": "丁苑媛"}

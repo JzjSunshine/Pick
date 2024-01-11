@@ -1,0 +1,1 @@
+{"ticket_num": "0052931", "starting_station": "北京南站", "train_num": "G133", "destination_station": "蚌埠南站", "date": "2017*098298 12:40:", "ticket_rates": "", "seat_category": "二等座", "name": "二炎炎"}

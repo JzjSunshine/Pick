@@ -1,0 +1,1 @@
+{"ticket_num": "－JX4558", "starting_station": "北京西站", "train_num": "Z77", "destination_station": "玉屏站", "date": "2017年09月28日17:15开", "ticket_rates": "￥214.0元", "seat_category": "二等座", "name": "腾腾"}

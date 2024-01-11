@@ -1,0 +1,1 @@
+{"ticket_num": "L043635", "starting_station": "天津站", "train_num": "C2030", "destination_station": "北京南站", "date": "2018年01月30日11:14开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "雪小会"}

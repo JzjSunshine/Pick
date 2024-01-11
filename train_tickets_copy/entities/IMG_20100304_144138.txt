@@ -1,0 +1,1 @@
+{"ticket_num": "M061336", "starting_station": "阳泉北站", "train_num": "G606", "destination_station": "北京西站", "date": "2018年01月16日08:53开", "ticket_rates": "￥158.5元", "seat_category": "二等座", "name": "鹏"}

@@ -1,0 +1,1 @@
+{"ticket_num": "276E037109", "starting_station": "金额", "train_num": "(17348", "destination_station": "宁波站", "date": "20174119 15013:391", "ticket_rates": "￥244.5元", "seat_category": "一等座", "name": ""}

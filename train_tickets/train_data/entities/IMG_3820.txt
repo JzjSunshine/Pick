@@ -1,0 +1,1 @@
+{"ticket_num": "JQ60.56", "starting_station": "济南西站", "train_num": "G134", "destination_station": "北京南站", "date": "2018年03月29日17:11开", "ticket_rates": "￥314.5元", "seat_category": "一等座", "name": "磊"}

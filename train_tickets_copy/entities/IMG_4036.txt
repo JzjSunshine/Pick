@@ -1,0 +1,1 @@
+{"ticket_num": "Z43J049152", "starting_station": "无锡东站", "train_num": "G1806", "destination_station": "郑州东站", "date": "2018年03月22日09:54开", "ticket_rates": "￥663.5元", "seat_category": "一等座", "name": "剑如"}

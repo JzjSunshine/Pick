@@ -1,0 +1,1 @@
+{"ticket_num": "J015502", "starting_station": "广州南站", "train_num": "G6011", "destination_station": "深圳北站", "date": "2018年01月26日09:56开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "草"}

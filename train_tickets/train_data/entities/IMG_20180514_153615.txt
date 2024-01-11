@@ -1,0 +1,1 @@
+{"ticket_num": "1090057", "starting_station": "北京站", "train_num": "K51", "destination_station": "日照店", "date": "2017年12月07日23:06开", "ticket_rates": "￥223.0元", "seat_category": "新空调硬卧", "name": "王忠"}

@@ -1,0 +1,1 @@
+{"ticket_num": "0025055", "starting_station": "哈尔滨站", "train_num": "K266", "destination_station": "北京站", "date": "2018年01月06日19:27开", "ticket_rates": "￥185.5元", "seat_category": "新空调硬卧", "name": "俊来"}

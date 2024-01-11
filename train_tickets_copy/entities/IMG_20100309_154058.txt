@@ -1,0 +1,1 @@
+{"ticket_num": "H018618", "starting_station": "南宁东站", "train_num": "G1504", "destination_station": "柳州站", "date": "", "ticket_rates": "￥62.0元", "seat_category": "二等座", "name": "二小筱"}

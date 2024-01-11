@@ -1,0 +1,1 @@
+{"ticket_num": "132M004502", "starting_station": "武汉站", "train_num": "G81", "destination_station": "长沙南站", "date": "2017年11月24013:24开", "ticket_rates": "7164.5元", "seat_category": "二等座", "name": "自露"}

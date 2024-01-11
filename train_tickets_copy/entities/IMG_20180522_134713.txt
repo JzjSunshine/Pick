@@ -1,0 +1,1 @@
+{"ticket_num": "P019754", "starting_station": "天津站", "train_num": "C2242", "destination_station": "北京南站", "date": "2018年02月07日18:59开", "ticket_rates": "￥65.5元", "seat_category": "-等座", "name": "国庆"}

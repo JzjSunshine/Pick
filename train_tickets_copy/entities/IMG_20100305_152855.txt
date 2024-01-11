@@ -1,0 +1,1 @@
+{"ticket_num": "W010909", "starting_station": "南昌站", "train_num": "Z68", "destination_station": "北京西站", "date": "2017年10月10日19：42开", "ticket_rates": "￥306.5元", "seat_category": "新空调硬卧", "name": "雪松"}

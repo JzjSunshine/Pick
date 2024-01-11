@@ -1,0 +1,1 @@
+{"ticket_num": "C089860", "starting_station": "赣州站", "train_num": "K678", "destination_station": "南昌站", "date": "2018年01月05日14:55元", "ticket_rates": "￥62.5元", "seat_category": "新空调硬座", "name": "欣"}

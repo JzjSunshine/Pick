@@ -1,0 +1,1 @@
+{"ticket_num": "U057061", "starting_station": "北京南站", "train_num": "G13", "destination_station": "济南西站", "date": "2017年08月29日10:00开", "ticket_rates": "¥314.5元", "seat_category": "一等座", "name": "文达"}

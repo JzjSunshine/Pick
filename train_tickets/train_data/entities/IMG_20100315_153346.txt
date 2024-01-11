@@ -1,0 +1,1 @@
+{"ticket_num": "Z096775", "starting_station": "北京南站", "train_num": "G133", "destination_station": "上海虹桥站", "date": "2017年10月18日12:40开", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "鹏飞"}

@@ -1,0 +1,1 @@
+{"ticket_num": "67Z007946", "starting_station": "郑州站", "train_num": "G564", "destination_station": "新乡东站", "date": "2017年12月20日09:18开", "ticket_rates": "￥59.5元", "seat_category": "一等座", "name": "不凯"}

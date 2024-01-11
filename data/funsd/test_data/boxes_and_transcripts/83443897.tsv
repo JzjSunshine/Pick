@@ -1,0 +1,33 @@
+0,91,223,127,223,127,238,91,238,DATE:,question
+1,89,313,153,313,153,330,89,330,COMPANY:,question
+2,91,366,134,366,134,384,91,384,PHONE:,question
+3,88,402,129,402,129,417,88,417,FROM:,question
+4,91,432,136,432,136,446,91,446,PHONE:,question
+5,87,483,150,483,150,497,87,497,MESSAGE:,question
+6,486,461,513,461,513,475,486,475,YES,question
+7,571,462,592,462,592,475,571,475,NO,question
+8,278,459,292,459,292,472,278,472,2,answer
+9,547,461,562,461,562,475,547,475,X,answer
+10,670,782,694,782,694,891,670,891,83443897,other
+11,89,63,248,63,248,78,89,78,JAN 11 '99 16: 29 FR 8220,other
+12,434,60,588,60,588,74,434,74,TO 3212128557HC02N P. 01,other
+13,511,126,591,126,591,208,511,208,DICKSTEIN SHAPIRO MORING OSHINSKY ,other
+14,94,108,315,108,315,131,94,131,FAX TRANSMISSION,header
+15,177,221,282,221,282,240,177,240,January 11, 1999,answer
+16,179,249,247,249,247,266,179,266,L8557 002,answer
+17,179,284,268,284,268,304,179,304,Dewey Tedder,answer
+18,179,311,343,311,343,331,179,331,Lorillard Tobacco Company,answer
+19,179,339,270,339,270,357,179,357,336/ 373- 6917,answer
+20,177,367,270,367,270,385,177,385,336/ 373- 6750,answer
+21,175,402,361,402,361,421,175,421,Andy Zausner and Rob Mangas,answer
+22,175,430,380,430,380,448,175,448,202/ 828- 2259 and 202/ 828 2241,answer
+23,89,250,162,250,162,265,89,265,CLIENT NO.:,question
+24,89,285,171,285,171,303,89,303,MESSAGE TO:,question
+25,89,342,171,342,171,357,89,357,FAX NUMBER:,question
+26,88,459,264,459,264,475,88,475,PAGES (including Cover Sheet):,question
+27,307,461,451,461,451,475,307,475,HARD COPY TO FOLLOW,header
+28,451,567,526,567,526,585,451,585,JAN 1 2 1999,answer
+29,156,485,331,485,331,502,156,502,The following is for your review,answer
+30,154,700,591,700,591,747,154,747,If your receipt of this transmission is in error, please notify this firm immediately by collect call to our Facsimile Department at 202- 861- 9106, and send the original transmission to us by return mail at the address below.,other
+31,154,757,601,757,601,810,154,810,This transmission is intended for the sole use of the individual and entity to whom it is addressed, and may contain information that is privileged, confidential and exempt from disclosure under applicable law. You are hereby notified that any dissemination, distribution or duplication of this transmission by someone other than the intended addressee or its designated agent is strictly prohibited.,other
+32,144,923,555,923,555,938,144,938,2101 L Street NW Washington, DC 20037- 1526 Tel 202- 785 9700 Fax 202- 887 0689,other

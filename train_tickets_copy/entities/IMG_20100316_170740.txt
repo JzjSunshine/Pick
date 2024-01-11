@@ -1,0 +1,1 @@
+{"ticket_num": "N056973", "starting_station": "广州东站", "train_num": "C7059", "destination_station": "深圳站", "date": "2018年01月29日19:51开", "ticket_rates": "￥79.5元", "seat_category": "二等座", "name": "宏博览"}

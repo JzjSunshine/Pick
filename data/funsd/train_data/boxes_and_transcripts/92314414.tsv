@@ -1,0 +1,31 @@
+0,492,56,530,56,530,69,492,69,530:,question
+1,490,71,577,71,577,85,490,85,PAYROLL:,question
+2,589,71,620,71,620,86,589,86,700,answer
+3,465,318,518,318,518,333,465,333,OTHER,question
+4,580,837,636,837,636,855,580,855,(Date),question
+5,176,841,281,841,281,859,176,859,(Signature),question
+6,87,806,285,806,285,849,87,849,,answer
+7,788,802,809,802,809,886,788,886,92314414,other
+8,260,112,652,112,652,141,260,141,LOEWS/ LORILLARD PUBLIC AFFAIRS COMMITTEE CONTRIBUTION IDENTITY CARD,header
+9,538,54,651,54,651,70,538,70,274- 38- 3042,answer
+10,490,41,658,41,658,56,490,56,ANDREW TISCH,other
+11,63,187,347,187,347,206,63,206,COMPLETE EITHER A OR B BELOW:,question
+12,64,228,752,228,752,279,64,279,A. I hereby authorize, until further notice, a voluntary contribution by salary deduction to the Loews/ Lorillard Public Affairs Committee (LOPAC) of the following amount per pay period:,other
+13,212,292,259,292,259,307,212,307,$ 1.00,other
+14,212,320,260,320,260,338,212,338,$ 4.00,other
+15,462,288,515,288,515,305,462,305,$ 2.00,other
+16,521,311,581,311,581,329,521,329,$20.00,answer
+17,466,332,623,332,623,349,466,349,(please specify),question
+18,64,359,625,359,625,397,64,397,B. Enclosed is a check or money order in the amount of $ as a contribution to LOPAC.,other
+19,63,420,755,420,755,547,63,547,My contribution is voluntary. I am aware of my right to refuse to contribute without reprisal of any kind.  I am aware of the politicial purpose of LOPAC. I am aware that a copy of the report of LOPAC is filed with the Federal Election Commission and is available for purchase. I am aware that the guidelines above as to the amount of my contribution are only suggestions. I am aware that my contribution counts against my individual contribution limit. I am an American citizen or I have been admitted to permanent U. S. residence.,other
+20,63,602,496,602,496,617,63,617,THE FOLLOWING INFORMATION MUST BE FURNISHED:,header
+21,64,631,193,631,193,648,64,648,1. Full Name,question
+22,66,676,273,676,273,693,66,693,2. Residence Address,question
+23,64,721,262,721,262,738,64,738,3. Business Address,question
+24,66,753,206,753,206,768,66,768,4. Occupation,question
+25,291,628,515,628,515,662,291,662,Andrew H. Tisch (Print or type),answer
+26,293,669,702,669,702,708,293,708,26 East 63rd Street, New York, N. Y. 10021 (Include state and zip code),answer
+27,292,716,667,716,667,735,292,735,One Park Avenue, New York, N. Y. 10016,answer
+28,289,747,684,747,684,785,289,785,Chairman/ CEO - Lorillard Tobacco Company (Job title or position),answer
+29,492,820,618,820,618,842,492,842,1 November 1991,answer
+30,203,897,613,897,613,916,203,916,Return this form in the envelope provided.,other

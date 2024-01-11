@@ -1,0 +1,1 @@
+{"ticket_num": "E046593", "starting_station": "福州站", "train_num": "", "destination_station": "D6235", "date": "2018年01月30日17:31开", "ticket_rates": "￥144.5元", "seat_category": "一等座", "name": "旭东"}

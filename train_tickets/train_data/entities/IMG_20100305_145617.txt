@@ -1,0 +1,1 @@
+{"ticket_num": "Printed by Guangdong Provincial", "starting_station": "主管业桥绍", "train_num": "G146", "destination_station": "北京南省", "date": "2017年11月22日14527", "ticket_rates": "￥553.04", "seat_category": "三等摩", "name": "孙宁"}

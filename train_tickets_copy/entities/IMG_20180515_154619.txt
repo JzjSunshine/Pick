@@ -1,0 +1,1 @@
+{"ticket_num": "J030006", "starting_station": "济南西站", "train_num": "Gl18", "destination_station": "北京南站", "date": "2017年12月08日14:10开", "ticket_rates": "￥314.5元", "seat_category": "一等座", "name": "超"}

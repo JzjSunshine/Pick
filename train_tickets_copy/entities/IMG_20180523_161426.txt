@@ -1,0 +1,1 @@
+{"ticket_num": "M097877", "starting_station": "上海虹桥站", "train_num": "01357", "destination_station": "长沙南站", "date": "2018年02月20日15.01开", "ticket_rates": "￥478.0%", "seat_category": "二等塞", "name": "曾华"}

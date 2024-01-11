@@ -1,0 +1,1 @@
+{"ticket_num": "F018067", "starting_station": "北京西站", "train_num": "D2005", "destination_station": "阳泉北站", "date": "2017年11月19日15:29开", "ticket_rates": "￥174.5元", "seat_category": "一等座", "name": "佳音"}

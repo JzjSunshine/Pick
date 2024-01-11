@@ -1,0 +1,1 @@
+{"ticket_num": "P036356", "starting_station": "天津站", "train_num": "C2082", "destination_station": "北京南站", "date": "2017年12月28日19:30开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "小公"}

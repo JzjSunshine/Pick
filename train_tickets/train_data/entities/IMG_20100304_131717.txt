@@ -1,0 +1,1 @@
+{"ticket_num": "L024079", "starting_station": "北京南站", "train_num": "G29", "destination_station": "合肥南站", "date": "2018*038284 13.137", "ticket_rates": "￥734.5元", "seat_category": "一等座", "name": "二超"}

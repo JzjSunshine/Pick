@@ -1,0 +1,1 @@
+{"ticket_num": "V042912", "starting_station": "衡阳站", "train_num": "Z6", "destination_station": "北京西站", "date": "2017*10月08日17:40开", "ticket_rates": "4355.0元", "seat_category": "新空调硬卧", "name": "柬埔华"}

@@ -1,0 +1,1 @@
+{"ticket_num": "H053961", "starting_station": "枣庄站", "train_num": "G302", "destination_station": "北京南站", "date": "2017年12月16日13:25开", "ticket_rates": "￥474.0元", "seat_category": "一等座", "name": "晓春"}

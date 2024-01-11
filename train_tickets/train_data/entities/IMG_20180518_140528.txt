@@ -1,0 +1,1 @@
+{"ticket_num": "T078512", "starting_station": "北京站", "train_num": "261", "destination_station": "长春站", "date": "2017*12月29日22:10丶", "ticket_rates": "￥237.5元", "seat_category": "新空调建卧", "name": "二新雪"}

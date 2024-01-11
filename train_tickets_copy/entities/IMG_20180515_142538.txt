@@ -1,0 +1,1 @@
+{"ticket_num": "NO43316", "starting_station": "威海站", "train_num": "K412", "destination_station": "济南东站", "date": "2017年10月06日20:52开", "ticket_rates": "￥81.0元", "seat_category": "新空调硬座", "name": "海港"}

@@ -1,0 +1,1 @@
+{"ticket_num": "0.30027012", "starting_station": "西安站", "train_num": "T8", "destination_station": "北京西站", "date": "2018年01月31日22:47开", "ticket_rates": "￥279.5元", "seat_category": "新空调硬卧", "name": "雪亮"}

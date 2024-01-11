@@ -1,0 +1,1 @@
+{"ticket_num": "H029333", "starting_station": "北京西站", "train_num": "219", "destination_station": "西安站", "date": "2018年01月26日 20:40开", "ticket_rates": "￥398.5元", "seat_category": "新空调软卧", "name": "佳贺"}

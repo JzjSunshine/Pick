@@ -1,0 +1,1 @@
+{"ticket_num": "M028711", "starting_station": "北京南站", "train_num": "G17", "destination_station": "南京南站", "date": "2017年10月22日15:00开", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "志芳"}

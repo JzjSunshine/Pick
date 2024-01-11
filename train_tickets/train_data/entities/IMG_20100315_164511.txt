@@ -1,0 +1,1 @@
+{"ticket_num": "NO46113", "starting_station": "钦州东站", "train_num": "D8418", "destination_station": "南宁站", "date": "2017年11月24日20:247", "ticket_rates": "￥34.0元", "seat_category": "二等座", "name": "曦"}

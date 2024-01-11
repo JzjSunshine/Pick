@@ -1,0 +1,1 @@
+{"ticket_num": "H073900", "starting_station": "吉安站", "train_num": "T398", "destination_station": "南昌西站", "date": "2017年10月05日15:39开", "ticket_rates": "￥91.5元", "seat_category": "新空调硬卧", "name": "雪娇"}

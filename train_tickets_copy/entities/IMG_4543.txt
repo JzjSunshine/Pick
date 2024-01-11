@@ -1,0 +1,1 @@
+{"ticket_num": "P064551", "starting_station": "南昌西站", "train_num": "G488", "destination_station": "武汉站", "date": "", "ticket_rates": "￥143.0元", "seat_category": "一等座", "name": "自群"}

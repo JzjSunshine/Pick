@@ -1,0 +1,1 @@
+{"ticket_num": "KO45517", "starting_station": "北京南站", "train_num": "C2067", "destination_station": "天津站", "date": "2018年04月10日15:32开", "ticket_rates": "¥54.5元", "seat_category": "二等座", "name": "龙飞"}

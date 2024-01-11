@@ -1,0 +1,1 @@
+{"ticket_num": "Z56R097837", "starting_station": "上海虹桥站", "train_num": "G16", "destination_station": "北京南站", "date": "2017*11月05511:00元", "ticket_rates": "￥933.0.", "seat_category": "一等座", "name": "天"}

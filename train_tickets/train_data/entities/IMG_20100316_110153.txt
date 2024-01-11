@@ -1,0 +1,1 @@
+{"ticket_num": "L092560", "starting_station": "福州南站", "train_num": "D9621", "destination_station": "长汀南站", "date": "2018年02月13日 10:12开", "ticket_rates": "￥168.5元", "seat_category": "二等座", "name": "口富雄"}

@@ -1,0 +1,1 @@
+{"ticket_num": "L012175", "starting_station": "北京南站", "train_num": "D6655", "destination_station": "白洋淀站", "date": "2017年12月04日08.08并", "ticket_rates": "￥60.5元", "seat_category": "一等座", "name": "陈广忠"}

@@ -1,0 +1,1 @@
+{"ticket_num": "J074332", "starting_station": "齐齐哈尔站", "train_num": "T40", "destination_station": "北京站", "date": "2017年12月09日17:45开", "ticket_rates": "¥325.5元", "seat_category": "新空调硬别", "name": "雪雪"}

@@ -1,0 +1,1 @@
+{"ticket_num": "T0067.", "starting_station": "天津站", "train_num": "02026", "destination_station": "北京南站", "date": "2018年01月20日 10:397", "ticket_rates": "￥54.5元", "seat_category": "二等密", "name": "二静"}

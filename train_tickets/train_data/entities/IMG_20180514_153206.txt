@@ -1,0 +1,1 @@
+{"ticket_num": "P082472", "starting_station": "北京站", "train_num": "D13", "destination_station": "山海关站", "date": "2017年11月03日18:51日", "ticket_rates": "", "seat_category": "二等座", "name": "鹤"}

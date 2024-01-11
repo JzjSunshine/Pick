@@ -1,0 +1,1 @@
+{"ticket_num": "F025002", "starting_station": "北京南站", "train_num": "0355", "destination_station": "厦门北站", "date": "2017年10月01日前红:400", "ticket_rates": "7803.5x", "seat_category": "二等医", "name": "普通"}

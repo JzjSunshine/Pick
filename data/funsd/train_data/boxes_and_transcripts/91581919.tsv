@@ -1,0 +1,42 @@
+0,519,150,591,150,591,166,519,166,Account,question
+1,521,199,581,199,581,211,521,211,Agency,question
+2,407,213,434,213,434,228,407,228,SS:,question
+3,105,433,147,433,147,454,105,454,Date,question
+4,102,467,160,467,160,480,102,480,1/31/88,answer
+5,246,469,295,469,295,482,246,482,Insert,answer
+6,395,684,456,684,456,706,395,706,Signed,question
+7,737,825,762,825,762,900,737,900,91581919,other
+8,458,650,608,650,608,720,458,720,,answer
+9,478,749,511,749,511,765,478,765,4th,answer
+10,102,659,132,659,132,672,102,672,New,answer
+11,138,657,186,657,186,672,138,672,Albany,answer
+12,187,657,245,657,245,672,187,672,Tribune,other
+13,347,653,492,653,492,672,347,672,advertisements.,question
+14,561,301,646,301,646,317,561,317,Bookkeeper,answer
+15,126,40,252,40,252,85,126,85,MAR 08 RECO,other
+16,281,108,517,108,517,127,281,127,AFFIDAVIT OF PERFORMANCE,header
+17,109,148,239,148,239,167,109,167,From Newspaper,question
+18,251,147,389,147,389,166,251,166,New Albany Tribune,answer
+19,588,148,708,148,708,180,588,180,Harley Davidson Cigarettes,answer
+20,590,196,770,196,770,211,590,211,Lorillard Media Service,answer
+21,106,195,187,195,187,212,106,212,State of,question
+22,111,226,193,226,193,244,111,244,County of,question
+23,199,193,389,193,389,212,199,212,Indiana ),answer
+24,199,225,389,225,389,241,199,241,Floyd ),answer
+25,108,268,542,268,542,290,108,290,Before me a Notary Public, personally appeared,question
+26,554,265,651,265,651,284,554,284,Holly Inzer,answer
+27,103,298,531,298,531,322,103,322,who being duly sworn, says that (he) (she) is,question
+28,105,331,699,331,699,385,105,385,of the abovementioned newspaper and that display ads for the above account were made through the aforesaid newspaper during,question
+29,100,397,226,397,226,413,100,413,the month of,question
+30,243,394,444,394,444,413,243,413,January ,1988,answer
+31,463,398,569,398,569,416,463,416,as follows:,question
+32,237,437,365,437,365,453,237,453,Column Inches,question
+33,436,437,672,437,672,453,436,453,Exclusive advertising for,question
+34,436,469,636,469,636,482,436,482,Harley Davidson Cigarettes,answer
+35,102,558,666,558,666,645,102,645,We hereby certify charges shown above on dates per attached bill are true and correct as billed to the account in upper right hand corner of the affidavit and are exclusive,question
+36,105,744,466,744,466,768,105,768,Sworn to and subscribed before me this,question
+37,515,750,575,750,575,766,515,766,day of,question
+38,585,744,719,744,719,766,585,766,March ,1988,answer
+39,100,777,712,777,712,824,100,824,IN TESTIMONY WHEREOF I have set my hand and seal the day and year aforesaid.,question
+40,102,840,313,840,313,862,102,862,MY COMMISSION EXPIRES:,question
+41,349,838,636,838,636,877,349,877,2-9-90 Betty J. murphy (Notary Public),answer

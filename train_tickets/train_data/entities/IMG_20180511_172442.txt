@@ -1,0 +1,1 @@
+{"ticket_num": "Z61J019128", "starting_station": "杭附无线", "train_num": "A7506", "destination_station": "h海町标生", "date": "2017年11月30日10:45开", "ticket_rates": "￥117.0元", "seat_category": "一等座", "name": "丁思振"}

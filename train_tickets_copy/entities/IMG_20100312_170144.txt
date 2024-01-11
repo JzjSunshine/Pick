@@ -1,0 +1,1 @@
+{"ticket_num": "F075178", "starting_station": "\u91cd\u5e86\u5317\u7ad9", "train_num": "G8518", "destination_station": "\u6210\u90fd\u4e1c\u7ad9", "date": "2017\u5e7411\u670809\u65e512:13\u5f00", "ticket_rates": "\uffe5154.0\u5143", "seat_category": "\u4e8c\u7b49\u5ea7", "name": "CT\u6c11"}

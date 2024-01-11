@@ -1,0 +1,1 @@
+{"ticket_num": "M001080", "starting_station": "厦门北站", "train_num": "D3166", "destination_station": "福州南站", "date": "2018年04月13日08:51开", "ticket_rates": "￥127.0元", "seat_category": "一等座", "name": "鹏"}

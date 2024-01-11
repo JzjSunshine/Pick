@@ -1,0 +1,1 @@
+{"ticket_num": "N056076", "starting_station": "珠海站", "train_num": "D3838", "destination_station": "南宁站", "date": "2018年01月21日10:25开", "ticket_rates": "￥242.0元", "seat_category": "二等座", "name": "二小筱"}

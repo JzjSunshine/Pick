@@ -1,0 +1,1 @@
+{"ticket_num": "Z051887", "starting_station": "北京南站", "train_num": "G21", "destination_station": "上海虹桥站", "date": "2018年03月08日16:00开", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "牡丹"}

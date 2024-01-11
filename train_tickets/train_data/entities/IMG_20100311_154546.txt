@@ -1,0 +1,1 @@
+{"ticket_num": "E067702", "starting_station": "北京南站", "train_num": "C2043", "destination_station": "天津", "date": "2017年12月12日11:18开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "侥光"}

@@ -1,0 +1,1 @@
+{"ticket_num": "X077419", "starting_station": "北京西站", "train_num": "G609", "destination_station": "太原南站", "date": "2017年12月13日11:33开", "ticket_rates": "", "seat_category": "一等座", "name": "或与堃"}

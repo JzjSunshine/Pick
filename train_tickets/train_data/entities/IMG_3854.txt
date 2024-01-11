@@ -1,0 +1,1 @@
+{"ticket_num": "1184102", "starting_station": "衡山西站", "train_num": "G6160", "destination_station": "长沙南站", "date": "2018年01月07日19:33开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "晶晶"}

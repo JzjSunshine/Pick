@@ -1,0 +1,1 @@
+{"ticket_num": "T030349", "starting_station": "北京站", "train_num": "K19.1", "destination_station": "日照)", "date": "2017年09月29日23:26开", "ticket_rates": "￥240.5元", "seat_category": "新空调硬卧", "name": "聪"}

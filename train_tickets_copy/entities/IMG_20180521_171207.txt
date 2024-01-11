@@ -1,0 +1,1 @@
+{"ticket_num": "1480086833", "starting_station": "北京西站", "train_num": "z37", "destination_station": "武昌站", "date": "2017年12月04日20:46开", "ticket_rates": "￥409.5元", "seat_category": "新空调软卧", "name": "画驰"}

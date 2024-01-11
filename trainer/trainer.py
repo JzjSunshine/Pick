@@ -79,7 +79,9 @@ class Trainer:
         # load checkpoint following load to multi-gpu, avoid 'module.' prefix
         if self.config['trainer']['sync_batch_norm']:
             self.model = torch.nn.SyncBatchNorm.convert_sync_batchnorm(self.model)
-        self.mode = DDP(self.model, device_ids=self.device_ids, output_device=self.device_ids[0],
+        # self.mode = DDP(self.model, device_ids=self.device_ids, output_device=self.device_ids[0],
+        #                 find_unused_parameters=True)
+        self.mode = DDP(self.model, device_ids=self.device_ids, output_device=0,
                         find_unused_parameters=True)
 
         self.data_loader = data_loader
@@ -105,7 +107,7 @@ class Trainer:
 
         self.gl_loss_lambda = self.config['trainer']['gl_loss_lambda']
 
-        self.train_loss_metrics = MetricTracker('loss', 'gl_loss', 'crf_loss',
+        self.train_loss_metrics = MetricTracker('loss', 'gl_loss', 'crf_loss','entity_loss',
                                                 writer=self.writer if self.local_master else None)
         self.valid_f1_metrics = SpanBasedF1MetricTracker(iob_labels_vocab_cls)
 
@@ -184,7 +186,7 @@ class Trainer:
         for step_idx, input_data_item in enumerate(self.data_loader):
             step_idx += 1
             for key, input_value in input_data_item.items():
-                if input_value is not None:
+                if input_value is not None and isinstance(input_value, torch.Tensor):
                     input_data_item[key] = input_value.to(self.device, non_blocking=True)
             if self.config['trainer']['anomaly_detection']:
                 # This mode will increase the runtime and should only be enabled for debugging
@@ -195,7 +197,9 @@ class Trainer:
                     # calculate loss
                     gl_loss = output['gl_loss']
                     crf_loss = output['crf_loss']
-                    total_loss = torch.sum(crf_loss) + self.gl_loss_lambda * torch.sum(gl_loss)
+                    entity_loss = output['entity_loss']
+                    # total_loss = torch.sum(crf_loss) + self.gl_loss_lambda * torch.sum(gl_loss)
+                    total_loss = torch.sum(crf_loss) + self.gl_loss_lambda * torch.sum(gl_loss) + torch.sum(entity_loss)
                     # backward
                     total_loss.backward()
                     # self.average_gradients(self.model)
@@ -207,7 +211,9 @@ class Trainer:
                 # calculate loss
                 gl_loss = output['gl_loss']
                 crf_loss = output['crf_loss']
-                total_loss = torch.sum(crf_loss) + self.gl_loss_lambda * torch.sum(gl_loss)
+                entity_loss = output['entity_loss']
+                # total_loss = torch.sum(crf_loss) + self.gl_loss_lambda * torch.sum(gl_loss)
+                total_loss = torch.sum(crf_loss) + self.gl_loss_lambda * torch.sum(gl_loss) + torch.sum(entity_loss)
                 # backward
                 total_loss.backward()
                 # self.average_gradients(self.model)
@@ -221,22 +227,25 @@ class Trainer:
             size = dist.get_world_size()
             gl_loss /= size  # averages gl_loss across the whole world
             crf_loss /= size  # averages crf_loss across the whole world
-
+            entity_loss /= size
+            
             # calculate average loss across the batch size
             avg_gl_loss = torch.mean(gl_loss)
             avg_crf_loss = torch.mean(crf_loss)
-            avg_loss = avg_crf_loss + self.gl_loss_lambda * avg_gl_loss
+            avg_entity_loss = torch.mean(entity_loss)
+            avg_loss = avg_crf_loss + self.gl_loss_lambda * avg_gl_loss + avg_entity_loss
             # update metrics
             self.writer.set_step((epoch - 1) * self.len_step + step_idx - 1) if self.local_master else None
             self.train_loss_metrics.update('loss', avg_loss.item())
             self.train_loss_metrics.update('gl_loss', avg_gl_loss.item() * self.gl_loss_lambda)
             self.train_loss_metrics.update('crf_loss', avg_crf_loss.item())
+            self.train_loss_metrics.update('entity_loss', avg_entity_loss.item())
 
             # log messages
             if step_idx % self.log_step == 0:
-                self.logger_info('Train Epoch:[{}/{}] Step:[{}/{}] Total Loss: {:.6f} GL_Loss: {:.6f} CRF_Loss: {:.6f}'.
+                self.logger_info('Train Epoch:[{}/{}] Step:[{}/{}] Total Loss: {:.6f} GL_Loss: {:.6f} KV_Loss: {:.6f} CRF_Loss: {:.6f}'.
                                  format(epoch, self.epochs, step_idx, self.len_step,
-                                        avg_loss.item(), avg_gl_loss.item() * self.gl_loss_lambda, avg_crf_loss.item()))
+                                        avg_loss.item(), avg_gl_loss.item() * self.gl_loss_lambda, avg_entity_loss.item(), avg_crf_loss.item()))
                 # self.writer.add_image('input', make_grid(data.cpu(), nrow=8, normalize=True))
 
             # do validation after val_step_interval iteration
@@ -282,7 +291,7 @@ class Trainer:
         with torch.no_grad():
             for step_idx, input_data_item in enumerate(self.valid_data_loader):
                 for key, input_value in input_data_item.items():
-                    if input_value is not None:
+                    if input_value is not None and isinstance(input_value, torch.Tensor):
                         input_data_item[key] = input_value.to(self.device, non_blocking=True)
 
                 output = self.model(**input_data_item)

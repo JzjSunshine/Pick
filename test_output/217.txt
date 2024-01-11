@@ -1,0 +1,2 @@
+company	IKANO HANDEL SDN BHD,company
+date	25/04/18,d

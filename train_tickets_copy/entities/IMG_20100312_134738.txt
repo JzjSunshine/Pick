@@ -1,0 +1,1 @@
+{"ticket_num": "0089608", "starting_station": "大连站", "train_num": "K683", "destination_station": "北京站", "date": "2018年01月210 20:02开", "ticket_rates": "￥239.0元", "seat_category": "新空调硬卧", "name": "丁文奇"}

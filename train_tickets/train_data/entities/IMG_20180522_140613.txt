@@ -1,0 +1,1 @@
+{"ticket_num": "U090390", "starting_station": "天津站", "train_num": "C2042", "destination_station": "北京南站", "date": "2018年04月03日12:36开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "超"}

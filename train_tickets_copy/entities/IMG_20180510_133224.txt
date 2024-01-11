@@ -1,0 +1,1 @@
+{"ticket_num": "W09279", "starting_station": "北京南站", "train_num": "C2065", "destination_station": "天津站", "date": "2018年03月28日15:00开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "画征征"}

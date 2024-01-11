@@ -1,0 +1,1 @@
+{"ticket_num": "5Hos2706", "starting_station": "南京南站", "train_num": "G1915", "destination_station": "上海虹桥站", "date": "2018年01月10日15:10开", "ticket_rates": "￥229.5*", "seat_category": "一等座", "name": "1、"}

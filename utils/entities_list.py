@@ -2,6 +2,7 @@
 # @Author: Wenwen Yu
 # @Created Time: 7/8/2020 9:34 PM
 
+# sroie
 Entities_list = [
     "company",
     "address",
@@ -9,6 +10,7 @@ Entities_list = [
     "total"
 ]
 
+# train ticket
 # Entities_list = [
 #     "ticket_num",
 #     "starting_station",
@@ -18,4 +20,11 @@ Entities_list = [
 #     "ticket_rates",
 #     "seat_category",
 #     "name"
+# ]
+
+# funsd
+# Entities_list = [
+#     "answer",
+#     "header",
+#     "question"
 # ]

@@ -1,0 +1,1 @@
+{"ticket_num": "E011392", "starting_station": "北京南站", "train_num": "C2585", "destination_station": "天津站", "date": "2017*198319 10:277", "ticket_rates": "¥65.5%", "seat_category": "--零座", "name": "雪小锻"}

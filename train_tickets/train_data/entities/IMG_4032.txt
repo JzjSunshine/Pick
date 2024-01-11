@@ -1,0 +1,1 @@
+{"ticket_num": "F054256", "starting_station": "广州南站", "train_num": "G68", "destination_station": "北京西站", "date": "2018年02月22日11:13*", "ticket_rates": "￥862.03", "seat_category": "二等窟", "name": "曾秋霞"}

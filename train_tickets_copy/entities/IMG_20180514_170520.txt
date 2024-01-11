@@ -1,0 +1,1 @@
+{"ticket_num": "Z61G0688", "starting_station": "合肥南站", "train_num": "G7680", "destination_station": "杭州东站", "date": "2018年01月16日15:55开", "ticket_rates": "￥270.0元", "seat_category": "新空调一等座", "name": "超"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z36L045834", "starting_station": "南京南站", "train_num": "G'20", "destination_station": "北京南站", "date": "2017年12月29811:35;", "ticket_rates": "￥748.5无", "seat_category": "一等座", "name": "女"}

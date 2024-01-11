@@ -1,0 +1,1 @@
+{"ticket_num": "Z79R092826", "starting_station": "上海虹桥站", "train_num": "G7305", "destination_station": "杭州站", "date": "2018年03月26日13:30开", "ticket_rates": "￥123.5元", "seat_category": "一等座", "name": "二忠刚"}

@@ -1,0 +1,1 @@
+{"ticket_num": "W029175", "starting_station": "三级站", "train_num": "D7112", "destination_station": "陵水站", "date": "2017年12月17日10:347", "ticket_rates": "¥23.04", "seat_category": "二等座", "name": "，淑环"}

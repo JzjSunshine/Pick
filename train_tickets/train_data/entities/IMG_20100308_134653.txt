@@ -1,0 +1,1 @@
+{"ticket_num": "S018910", "starting_station": "广州东站", "train_num": "C7025", "destination_station": "东莞站", "date": "2017年11月08日12:38开", "ticket_rates": "￥50.5元", "seat_category": "一等座", "name": "国文治"}

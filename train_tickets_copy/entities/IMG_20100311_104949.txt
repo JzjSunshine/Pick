@@ -1,0 +1,1 @@
+{"ticket_num": "2104S093186", "starting_station": "芜湖站", "train_num": "G7090", "destination_station": "南京南站", "date": "2017年11月09日18:30元", "ticket_rates": "￥31.5元", "seat_category": "二等座", "name": "已斌"}

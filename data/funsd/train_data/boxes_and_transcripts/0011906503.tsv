@@ -1,0 +1,86 @@
+0,627,51,666,51,666,65,627,65,0465E,other
+1,338,126,379,126,379,142,338,142,($000),other
+2,49,147,83,147,83,157,49,157,Title,question
+3,46,176,96,176,96,188,46,188,Purpose,header
+4,75,193,85,193,85,204,75,204,1,question
+5,74,207,84,207,84,219,74,219,2,question
+6,74,221,84,221,84,235,74,235,3,question
+7,74,236,85,236,85,247,74,247,4,question
+8,365,237,377,237,377,252,365,252,7,question
+9,364,197,375,197,375,211,364,211,5,question
+10,365,212,380,212,380,222,365,222,6,question
+11,46,259,91,259,91,271,46,271,Status,header
+12,202,277,262,277,262,291,202,291,Proposed,question
+13,206,292,268,292,268,306,206,306,Approved;,question
+14,468,281,508,281,508,293,468,293,TOTAL,question
+15,539,282,590,282,590,296,539,296,CAPITAL,question
+16,612,283,663,283,663,295,612,295,EXPENSE,question
+17,481,335,556,335,556,347,481,347,Completion,question
+18,569,352,593,352,593,364,569,364,Mo.,question
+19,625,352,650,352,650,364,625,364,Yr.,question
+20,162,333,231,333,231,345,162,345,Submission,question
+21,248,347,272,347,272,361,248,361,Yr.,question
+22,312,333,346,333,346,348,312,348,Start,question
+23,365,349,387,349,387,361,365,361,Mo.,question
+24,423,350,443,350,443,364,423,364,Yr.,question
+25,251,330,266,330,266,345,251,345,88,answer
+26,183,276,195,276,195,287,183,287,x,answer
+27,490,296,507,296,507,310,490,310,80,answer
+28,565,296,582,296,582,311,565,311,80,answer
+29,636,297,651,297,651,309,636,309,0,answer
+30,627,337,643,337,643,347,627,347,88,answer
+31,574,335,588,335,588,347,574,347,11,answer
+32,420,333,436,333,436,348,420,348,88,answer
+33,372,334,386,334,386,346,372,346,7,answer
+34,431,617,481,617,481,631,431,631,CAPITAL,question
+35,433,630,482,630,482,642,433,642,EXPENSE,question
+36,65,616,115,616,115,626,65,626,CAPITAL,question
+37,65,630,112,630,112,641,65,641,EXPENSE,question
+38,147,600,176,600,176,612,147,612,1989,answer
+39,146,617,162,617,162,626,146,626,80,answer
+40,153,631,162,631,162,641,153,641,0,answer
+41,105,709,132,709,132,721,105,721,JAN.,question
+42,132,709,167,709,167,721,132,721,-MAR.,question
+43,178,709,208,709,208,721,178,721,APR.,question
+44,208,709,240,709,240,721,208,721,-JUN.,question
+45,252,712,282,712,282,721,252,721,JUL.,question
+46,357,712,391,712,391,723,357,723,-DEC,question
+47,419,714,453,714,453,724,419,724,TOTAL,question
+48,42,763,92,763,92,778,42,778,EXPENSE,question
+49,42,737,92,737,92,752,42,752,CAPITAL,question
+50,282,712,317,712,317,722,282,722,-SEP,question
+51,329,712,356,712,356,722,329,722,OCT.,question
+52,495,673,521,673,521,685,495,685,YEAR,question
+53,616,673,666,673,666,685,616,685,EXPENSE,question
+54,549,673,596,673,596,683,549,683,CAPITAL,question
+55,495,711,522,711,522,728,495,728,1990,answer
+56,494,739,521,739,521,750,494,750,1991,answer
+57,493,767,522,767,522,778,493,778,1992,answer
+58,493,794,523,794,523,805,493,805,1993,answer
+59,525,897,630,897,630,917,525,917,621099940J,other
+60,41,36,125,36,125,67,41,67,FA 956 (5- 85) g1 0081. (d),other
+61,231,57,497,57,497,114,231,114,BROWN & WILLIAMSON TOBACCO CORPORATION CAPITAL BUDGET PROJECT R&D,header
+62,560,128,656,128,656,145,560,145,Date Submitted,question
+63,61,122,161,122,161,136,61,136,Capital Budget,question
+64,76,165,288,165,288,180,76,180,CICARETTE TEST STATION (CT5400),answer
+65,113,192,336,192,336,209,113,209,Maintenance of Existing Business,question
+66,116,206,322,206,322,224,116,224,Expansion of Existing Business,question
+67,115,221,200,221,200,233,115,233,New Products,question
+68,117,234,218,234,218,251,117,251,Cost Reduction,question
+69,406,198,658,198,658,215,406,215,Compliance with Outside Requirements,question
+70,408,212,663,212,663,241,408,241,Company Improvements & Administrative Requirements,question
+71,408,238,540,238,540,254,408,254,Quality Improvement,question
+72,66,276,173,276,173,292,66,292,This Project is,question
+73,272,291,354,291,354,306,272,306,Proposal No.,question
+74,456,264,546,264,546,275,456,275,Estimate Cost,header
+75,41,315,132,315,132,327,41,327,Project Dates,header
+76,45,369,181,369,181,385,45,385,PROJECT DESCRIPTION,question
+77,65,399,661,399,661,523,65,523,The Cigarette Test Station (CTS400) combines many of the stand- alone instruments that R&D currently uses to measure cigarette weight, pressure drop, ventilation, and hardness into one compact module. The CTS400 has the additional measurement of cigarette hardness in comparison with the CTS300. With this added, measurement R&D will be able to replace the Firmness Integrator that measures cigarette firmness in addition to other measurements that are mentioned above. The Firmness Integrator is no longer manufactured and parts are becoming difficult to obtain. Lastly, purchase of this instrument would provide similar capability as the Macon Plant and help facilitate comparisions between laboratories.,answer
+78,268,577,455,577,455,591,268,591,ESTIMATED SPENDING SCHEDULE,header
+79,403,602,515,602,515,617,403,617,Balance to Spend,header
+80,44,600,141,600,141,611,44,611,Spent Prior to,question
+81,193,668,359,668,359,684,193,684,1989 SPENDING BY QUARTER,other
+82,394,844,475,844,475,859,394,859,Approved by,question
+83,42,840,125,840,125,854,42,854,Submitted by,question
+84,61,858,140,858,140,872,61,872,W. O. Crain,answer
+85,485,808,527,808,527,830,485,830,Beyond 1993,answer

@@ -1,0 +1,1 @@
+{"ticket_num": "E026220", "starting_station": "北京南站", "train_num": "C2243", "destination_station": "天津站", "date": "2018年03月13日 20:34开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "铮"}

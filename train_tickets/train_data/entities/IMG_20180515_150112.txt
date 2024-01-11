@@ -1,0 +1,1 @@
+{"ticket_num": "Z62K014529", "starting_station": "杭州东站", "train_num": "G7586", "destination_station": "上海虹桥站", "date": "2017年11月30日10:45开", "ticket_rates": "￥117.0元", "seat_category": "一等座", "name": "远"}

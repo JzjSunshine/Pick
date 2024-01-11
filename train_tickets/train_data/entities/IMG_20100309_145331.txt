@@ -1,0 +1,1 @@
+{"ticket_num": "Z33V071450", "starting_station": "南京站", "train_num": "D5532", "destination_station": "扬州站", "date": "2017年10月25日15:49开", "ticket_rates": "￥58.0元", "seat_category": "一等座", "name": ""}

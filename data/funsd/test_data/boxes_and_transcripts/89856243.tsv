@@ -1,0 +1,54 @@
+0,100,42,148,42,148,99,100,99,file,other
+1,104,116,157,116,157,130,104,130,PRODUCT,question
+2,559,24,589,24,589,38,559,38,Date,question
+3,199,116,249,116,249,127,199,127,Triumph,answer
+4,260,654,280,654,280,667,260,667,yes,question
+5,259,671,282,671,282,683,259,683,yes,question
+6,314,657,333,657,333,667,314,667,no,question
+7,314,670,333,670,333,682,314,682,no,question
+8,106,725,165,725,165,738,106,738,Approved,question
+9,170,727,190,727,190,740,170,740,by:,question
+10,470,665,532,665,532,678,470,678,Incidence,question
+11,645,670,657,670,657,679,645,679,-,answer
+12,613,726,623,726,623,736,613,736,4,answer
+13,617,752,630,752,630,763,617,763,1,answer
+14,471,780,521,780,521,795,471,795,Topline,question
+15,469,825,505,825,505,838,469,838,Final,question
+16,606,869,691,869,691,886,606,886,89856243,other
+17,106,768,170,768,170,785,106,785,Marketing,question
+18,175,771,231,771,231,784,175,784,Research,question
+19,239,767,293,767,293,782,239,782,Director,question
+20,157,719,323,719,323,799,157,799,,other
+21,185,750,257,750,257,822,185,822,,other
+22,243,802,380,802,380,856,243,856,,other
+23,607,21,719,21,719,40,607,40,October 17, 1979,answer
+24,314,36,558,36,558,55,314,55,MARKETING RESEARCH RPROJECT APPROVAL,header
+25,261,52,616,52,616,71,261,71,(To be filled out by Marketing Research Department),other
+26,323,99,380,99,380,124,323,124,PROJECT TITLE,question
+27,399,111,594,111,594,126,399,126,Triumph Disaster Check Study,answer
+28,671,109,734,109,734,127,671,127,5546/ 1979,other
+29,104,152,711,152,711,172,104,172,Research Design (N, Cells, Elegibility, Design, Key Danner Breaks, Methodololy, Cities),other
+30,106,207,720,207,720,320,106,320,Contact respondents from Buffalo and Kansas City who had previously participated in a steak knife offer This will consist of one cell of approximately 175 respondents who are Triumph most often smokers /triers This study is intended to provide us with any negatives associated with Triumph Banner points will include Triumph most often smokers (we anticipate approximately 25 most of ten people Switchers away from Triumph (N approximately 45). It should be noted that an action standard of at least 50% be obtained in acting upon any product negatives associated with these groups see research limitations below for additional action standard.,other
+31,363,345,496,345,496,361,363,361,(See attached memo,other
+32,101,441,282,441,282,454,101,454,Key Criteria for Analysis,question
+33,150,458,539,458,539,476,150,476,-Triumph switchers asked why no longer smoking Triumph,answer
+34,153,476,618,476,618,491,153,491,-Present smokers of Triumph asked reasons for switching to Triumph,answer
+35,154,486,336,486,336,501,154,501,-Mentions of "harshness",answer
+36,102,513,243,513,243,531,102,531,Research Limitations,question
+37,104,531,725,531,725,573,104,573,Due to sample size and experience we feel 25 respondents will presently be Triumph smokers. An action standard of 75% should be utilized for judgments on product negatives only among this group,answer
+38,100,572,704,572,704,613,100,613,If 75% of Triumph smokers mention harshness we could consider it a 50- 75% problem If of Triumph smokers mention "harshness" we could it a look consider possible problem at other areas).,answer
+39,139,610,744,610,744,628,139,628,If below 50% of Triumph smokers mention "harshness" we could consider it at a problem,answer
+40,470,637,559,637,559,652,470,652,Research Firm,question
+41,471,696,542,696,542,708,471,708,Lenght Int,question
+42,469,724,551,724,551,737,469,737,# Open ,question
+43,469,752,533,752,533,766,469,766,# Reports,question
+44,588,637,719,637,719,654,588,654,The Data Group. Inc,answer
+45,608,695,680,695,680,708,608,708,10 minutes,answer
+46,588,778,754,778,754,794,588,794,2 wks from start of fid.,answer
+47,588,824,756,824,756,839,588,839,4 wks from start of fld,answer
+48,106,855,254,855,254,870,106,870,Group Product Manager,question
+49,107,812,212,812,212,826,107,826,Product Manager,question
+50,106,696,191,696,191,713,106,713,Prepared by:,question
+51,101,641,238,641,238,683,101,683,Cost Estimate + - 10% Contingency Final Report Inc.,question
+52,237,686,385,686,385,711,237,711,Scott R. Benson ,other
+53,243,640,290,640,290,653,243,653,$ 2.250,answer

@@ -1,0 +1,1 @@
+{"ticket_num": "Z58S089266", "starting_station": "南京南站", "train_num": "G40", "destination_station": "北京南站", "date": "2017年12月20日16:43开", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "1慧性"}

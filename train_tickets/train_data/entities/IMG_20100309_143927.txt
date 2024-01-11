@@ -1,0 +1,1 @@
+{"ticket_num": "S039848", "starting_station": "北京西站", "train_num": "G65", "destination_station": "石家庄站", "date": "2018年01月11日10:33开", "ticket_rates": "¥206.5元", "seat_category": "一等座", "name": "▬俊"}

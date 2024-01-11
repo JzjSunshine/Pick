@@ -1,0 +1,1 @@
+{"ticket_num": "R009228", "starting_station": "天津站", "train_num": "C2054", "destination_station": "北京南站", "date": "2017年12月13日14:47月", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "野"}

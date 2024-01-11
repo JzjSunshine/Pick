@@ -1,0 +1,13 @@
+company	I: BANH MI CAFE SDN BHD
+address	NO. 1 JALAN PUTERI 7/10,address
+address	BANDA
+address	SELANGOR\, MALAYSIA,address
+address	(GST REG. NO : 000306700288),addre
+date	29-10-2017
+address	205 SUONG NON RAM CHUA,address
+address	SR,other
+address	9.90,other
+address	205 SWEET &SOUR PORK RIBS,other
+address	9.90,othe
+total	23.25,
+date	29-10-201

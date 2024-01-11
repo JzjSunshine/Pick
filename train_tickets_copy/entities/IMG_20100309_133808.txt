@@ -1,0 +1,1 @@
+{"ticket_num": "M005849", "starting_station": "阳泉北站", "train_num": "G620", "destination_station": "北京西站", "date": "2018年01月25日16:14开", "ticket_rates": "￥158.5元", "seat_category": "二等座", "name": "聊纯序"}

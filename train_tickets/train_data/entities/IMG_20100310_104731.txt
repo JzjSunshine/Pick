@@ -1,0 +1,1 @@
+{"ticket_num": "T038855", "starting_station": "北京南站", "train_num": "Gl31", "destination_station": "苏州北站", "date": "2017年11月21日12:20开", "ticket_rates": "￥883.5元", "seat_category": "一等座", "name": "浪波"}

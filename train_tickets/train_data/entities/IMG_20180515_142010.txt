@@ -1,0 +1,1 @@
+{"ticket_num": "01065745", "starting_station": "宝鸡南站", "train_num": "G674", "destination_station": "北京西站", "date": "2018年02月24日16:00乐", "ticket_rates": "￥567.0元", "seat_category": "二等座", "name": "服巨龙"}

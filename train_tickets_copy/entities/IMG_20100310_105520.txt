@@ -1,0 +1,1 @@
+{"ticket_num": "B008581", "starting_station": "北京南站", "train_num": "G191", "destination_station": "育与", "date": "2017年11月29日14:20开", "ticket_rates": "￥474.0元", "seat_category": "一等座", "name": "志波"}

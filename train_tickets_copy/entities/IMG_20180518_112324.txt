@@ -1,0 +1,1 @@
+{"ticket_num": "A042525", "starting_station": "北京西站", "train_num": "1303", "destination_station": "郑州站", "date": "2018*02月12日22:35开", "ticket_rates": "￥200.0元", "seat_category": "新空调硬卧", "name": "灬高飞"}

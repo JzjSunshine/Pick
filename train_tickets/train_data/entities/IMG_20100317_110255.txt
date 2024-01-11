@@ -1,0 +1,1 @@
+{"ticket_num": "Z38G042884", "starting_station": "常州北站", "train_num": "G140", "destination_station": "北京南站", "date": "2018年01月20日14:35开", "ticket_rates": "￥493.5元", "seat_category": "二等座", "name": "宣伟"}

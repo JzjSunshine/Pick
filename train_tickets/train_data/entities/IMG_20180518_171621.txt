@@ -1,0 +1,1 @@
+{"ticket_num": "B003745", "starting_station": "白洋淀站", "train_num": "D6658", "destination_station": "北京南站", "date": "2017年11月28日16:49开", "ticket_rates": "￥45.0元", "seat_category": "二等座", "name": "晓龙徐"}

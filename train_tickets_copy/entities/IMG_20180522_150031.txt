@@ -1,0 +1,1 @@
+{"ticket_num": "L072564", "starting_station": "天津站", "train_num": "C2060", "destination_station": "北京南站", "date": "2018年01月05日15:31开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "二富有"}

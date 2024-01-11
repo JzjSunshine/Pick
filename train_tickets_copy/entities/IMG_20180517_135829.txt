@@ -1,0 +1,1 @@
+{"ticket_num": "Z153C075149", "starting_station": "上海虹桥站", "train_num": "Gl46", "destination_station": "北京南站", "date": "2017年10月27日14:52开", "ticket_rates": "￥933.0元", "seat_category": "一等座", "name": "丽娜"}

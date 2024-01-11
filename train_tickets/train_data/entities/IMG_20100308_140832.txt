@@ -1,0 +1,1 @@
+{"ticket_num": "nouss34", "starting_station": "北户京站", "train_num": "463", "destination_station": "长春站", "date": "2017年10月06日20:50开", "ticket_rates": "￥237.5元", "seat_category": "新空调硬卧", "name": "器瑞"}

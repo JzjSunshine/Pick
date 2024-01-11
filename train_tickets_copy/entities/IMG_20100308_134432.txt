@@ -1,0 +1,1 @@
+{"ticket_num": "R008460", "starting_station": "广州南站", "train_num": "G6337", "destination_station": "惠州南站", "date": "2917*11月21313:00*", "ticket_rates": "￥94.5%", "seat_category": "二等座", "name": "二文治"}

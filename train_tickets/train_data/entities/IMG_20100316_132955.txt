@@ -1,0 +1,1 @@
+{"ticket_num": "T021435", "starting_station": "北京南站", "train_num": "G105", "destination_station": "徐州东站", "date": "2018年03月14日07:35开", "ticket_rates": "￥309.0元", "seat_category": "二等座", "name": "例如"}

@@ -1,0 +1,1 @@
+{"ticket_num": "E044749", "starting_station": "曲阜东站", "train_num": "G56", "destination_station": "北京南站", "date": "2018年01月01日16:20开", "ticket_rates": "￥244.0元", "seat_category": "二等座", "name": "汇"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z1320035933", "starting_station": "上海虹桥站", "train_num": "G7505", "destination_station": "杭州东站", "date": "2017年12月21日109：00元", "ticket_rates": "￥117.0元", "seat_category": "一等座", "name": "城"}

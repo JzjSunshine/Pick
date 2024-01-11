@@ -1,0 +1,1 @@
+{"ticket_num": "005X038124", "starting_station": "\u8bb8\u660c\u4e1c\u7ad9", "train_num": "G2046", "destination_station": "\u90d1\u5dde\u4e1c\u7ad9", "date": "2018\u5e7401\u670825\u65e517:23\u5f00", "ticket_rates": "\uffe5131.5\u5143", "seat_category": "\u5546\u52a1\u5ea7", "name": "\u627f\u8f69"}

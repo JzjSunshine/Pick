@@ -1,0 +1,1 @@
+{"ticket_num": "C068987", "starting_station": "广州南站", "train_num": "G79", "destination_station": "福田站", "date": "2017年11月15日18:06开", "ticket_rates": "￥82.0元", "seat_category": "二等座", "name": "珂"}

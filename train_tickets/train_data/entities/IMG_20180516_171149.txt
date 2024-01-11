@@ -1,0 +1,1 @@
+{"ticket_num": "U052928", "starting_station": "北京南站", "train_num": "蚌埠南站", "destination_station": "", "date": "2017年09月29日12:40开", "ticket_rates": "￥374.0元", "seat_category": "二等座", "name": "二贵侠"}

@@ -1,0 +1,1 @@
+{"ticket_num": "R003855", "starting_station": "岳阳东站", "train_num": "G1122", "destination_station": "武汉站", "date": "2018年02月25日16:18开", "ticket_rates": "￥99.5元", "seat_category": "二等座", "name": "曹玥"}

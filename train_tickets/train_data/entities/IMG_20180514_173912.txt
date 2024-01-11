@@ -1,0 +1,1 @@
+{"ticket_num": "L076964", "starting_station": "北京南站", "train_num": "G333", "destination_station": "济南西站", "date": "2013年01月02日20:10开", "ticket_rates": "￥184.5元", "seat_category": "二等座", "name": "飞"}

@@ -1,0 +1,1 @@
+{"ticket_num": "M005595", "starting_station": "福州站", "train_num": "D6231", "destination_station": "厦门站", "date": "2017年11月17日14:52开", "ticket_rates": "￥144.5元", "seat_category": "一等座", "name": "晓琼"}

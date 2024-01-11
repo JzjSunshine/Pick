@@ -1,0 +1,1 @@
+{"ticket_num": "Z62P057116", "starting_station": "南京南站", "train_num": "G148", "destination_station": "北京南站", "date": "2017年10月26日16:54开", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "恒"}

@@ -1,0 +1,1 @@
+{"ticket_num": "C014425", "starting_station": "大杨树站", "train_num": "K498", "destination_station": "北京站", "date": "2017年10月13日12:00开", "ticket_rates": "￥349.0元", "seat_category": "新空调硬卧", "name": "，研"}

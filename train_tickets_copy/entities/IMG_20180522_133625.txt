@@ -1,0 +1,1 @@
+{"ticket_num": "Z001470", "starting_station": "北京西站", "train_num": "D921", "destination_station": "广州南站", "date": "2018年02月12日20:30开", "ticket_rates": "¥1290.0元", "seat_category": "动卧", "name": "鹏"}

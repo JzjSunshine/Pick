@@ -1,0 +1,1 @@
+{"ticket_num": "M072273", "starting_station": "阳泉北站", "train_num": "G622", "destination_station": "北京西站", "date": "2018年02月08日17:38开", "ticket_rates": "￥242.5元", "seat_category": "-等座", "name": "傅堃"}

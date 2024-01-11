@@ -1,0 +1,1 @@
+{"ticket_num": "Z46K034794", "starting_station": "无锡东站", "train_num": "G140", "destination_station": "北京南站", "date": "2017*12月228 14:12开", "ticket_rates": "￥863.5元", "seat_category": "一等摩", "name": "材辉"}

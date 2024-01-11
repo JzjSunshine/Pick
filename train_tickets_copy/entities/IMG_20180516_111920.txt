@@ -1,0 +1,1 @@
+{"ticket_num": "F043197", "starting_station": "太原南站", "train_num": "D2515", "destination_station": "西安北站", "date": "2017年12月06日12:45开", "ticket_rates": "￥222.0元", "seat_category": "一等座", "name": "，洋"}

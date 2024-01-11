@@ -1,0 +1,25 @@
+0,87,212,137,212,137,230,87,230,NAME:,question
+1,87,243,147,243,147,263,87,263,TITLE:,question
+2,85,275,160,275,160,295,85,295,COMPANY:,question
+3,87,307,160,307,160,325,87,325,ADDRESS:,question
+4,85,339,142,339,142,357,85,357,PHONE:,question
+5,163,282,248,282,248,296,163,296,Lorillard,answer
+6,596,934,691,934,691,948,596,948,,other
+7,94,88,244,88,244,140,94,140,SHERATON- CARLTON HOTEL WASHINGTON, D. C.,other
+8,265,64,527,64,527,178,265,178,THE TOBACCO INSTITUTE FIFTH ANNUAL COLLEGE TOBACCO KNOWLEDGE REGISTRATION FORM,header
+9,545,103,732,103,732,125,545,125,FEBRUARY 19-21 1980,other
+10,165,218,322,218,322,236,165,236,GEORGE R. TELFORD,answer
+11,163,250,283,250,283,266,163,266,Brand Manager,answer
+12,163,314,502,314,502,337,163,337,666 Fifth Avenue, New York, NY 10019,answer
+13,163,338,292,338,292,357,163,357,(212) 841- 8787,answer
+14,82,404,177,404,177,421,82,421,CHECK ONE:,question
+15,229,406,722,406,722,440,229,440,Please reserve a room for me at the Sheraton- Carlton,answer
+16,191,433,599,433,599,468,191,468,X I will my own housing arrangements.,answer
+17,82,497,285,497,285,519,82,519,ARRIVAL DATE AND TIME:,question
+18,300,500,475,500,475,528,300,528,2/18/80 7:00 P. M.,answer
+19,80,528,303,528,303,549,80,549,DEPARTURE DATE AND TIME:,question
+20,311,536,476,536,476,559,311,559,2/21/80 4:00 P. M.,answer
+21,74,592,687,592,687,783,74,783,Please attach a brief (50 words or so) autobiographical sketch. Note your first name or nickname, your current professional re- sponsibilities, employment background and whatever personal in- formation you feel would be helpful in giving your fellow students an idea of your activities and interests. The sketches will be assembled and provided at the opening class session.,other
+22,74,796,206,796,206,814,74,814,Any questions?,question
+23,221,802,705,802,705,836,221,836,Call Connie Drath or Carol Musgrave at 800/424- 9876.,answer
+24,75,876,736,876,736,919,75,919,**PLEASE RETURN IN SELF- ADDRESSED ENVELOPE BY FRIDAY, JANUARY 18, 1980**,other

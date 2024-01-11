@@ -1,0 +1,1 @@
+{"ticket_num": "NO91127", "starting_station": "长春站", "train_num": "G240", "destination_station": "北京南站", "date": "2017年10月03日11:14开", "ticket_rates": "￥437.5元", "seat_category": "二等座", "name": "雪婷"}

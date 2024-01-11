@@ -1,0 +1,1 @@
+{"ticket_num": "Z1220044638", "starting_station": "上海虹桥站", "train_num": "D3207", "destination_station": "桐乡", "date": "2017年12月02日11:48开", "ticket_rates": "￥62.0元", "seat_category": "一等座", "name": "虎"}

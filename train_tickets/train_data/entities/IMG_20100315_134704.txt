@@ -1,0 +1,1 @@
+{"ticket_num": "B010935", "starting_station": "白洋淀站", "train_num": "D6658", "destination_station": "北京南站", "date": "2017年11月03日16:49元", "ticket_rates": "￥60.5元", "seat_category": "一等座", "name": "玲"}

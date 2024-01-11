@@ -1,0 +1,1 @@
+{"ticket_num": "Z83K064009", "starting_station": "南京南站", "train_num": "Gl33", "destination_station": "苏州北站", "date": "2018年03月07日17:00开", "ticket_rates": "￥164.5元", "seat_category": "一等座", "name": "住众"}

@@ -1,0 +1,1 @@
+{"ticket_num": "A086452", "starting_station": "白洋淀站", "train_num": "D6656", "destination_station": "北京南站", "date": "2017年12月16日11:03开", "ticket_rates": "￥45.0元", "seat_category": "二等座", "name": "个人坤"}

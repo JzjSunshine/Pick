@@ -1,0 +1,1 @@
+{"ticket_num": "Z38S015162", "starting_station": "温州南站", "train_num": "D3102", "destination_station": "宁波站", "date": "2017年12月19日09:55开", "ticket_rates": "￥154.0元", "seat_category": "一等座", "name": "林"}

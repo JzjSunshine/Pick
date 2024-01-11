@@ -1,0 +1,1 @@
+{"ticket_num": "F054254", "starting_station": "广州南站", "train_num": "G68", "destination_station": "北京西站", "date": "", "ticket_rates": "", "seat_category": "", "name": "丁玉忠"}

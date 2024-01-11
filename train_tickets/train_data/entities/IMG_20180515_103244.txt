@@ -1,0 +1,1 @@
+{"ticket_num": "X036259", "starting_station": "凯里南站", "train_num": "G405", "destination_station": "贵阳北站", "date": "2018年03月14日19:38开", "ticket_rates": "￥98.0元", "seat_category": "一等座", "name": "鹤"}

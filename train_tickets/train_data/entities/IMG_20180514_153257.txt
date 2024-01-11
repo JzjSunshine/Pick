@@ -1,0 +1,1 @@
+{"ticket_num": "J030071", "starting_station": "秦皇岛站", "train_num": "D33", "destination_station": "山海关站", "date": "2017年12月29日17:15开", "ticket_rates": "￥5.5元", "seat_category": "二等座", "name": "鹤"}

@@ -1,0 +1,1 @@
+{"ticket_num": "E070161", "starting_station": "岳阳东站", "train_num": "G406", "destination_station": "北京西站", "date": "2018年02月21017:41开", "ticket_rates": "￥599.0元", "seat_category": "二等座", "name": "业奥利"}

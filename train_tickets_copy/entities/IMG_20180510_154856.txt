@@ -1,0 +1,1 @@
+{"ticket_num": "L086973", "starting_station": "保定东站", "train_num": "G72", "destination_station": "北京西站", "date": "2017年07月19日17:40开", "ticket_rates": "￥63.5元", "seat_category": "二等座", "name": "晓辉"}

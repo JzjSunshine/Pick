@@ -1,0 +1,1 @@
+{"ticket_num": "E040147", "starting_station": "威海北韩", "train_num": "C6552", "destination_station": "莱 阳站", "date": "201840401340007:16:", "ticket_rates": "145.0%", "seat_category": "二等舰", "name": "现金"}

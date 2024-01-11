@@ -1,0 +1,1 @@
+{"ticket_num": "Z65N087567", "starting_station": "上海站", "train_num": "D322", "destination_station": "北京南站", "date": "2017年11月14日19:53开", "ticket_rates": "￥730.0元", "seat_category": "软卧", "name": "直琦"}

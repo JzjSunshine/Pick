@@ -1,0 +1,1 @@
+{"ticket_num": "F095052", "starting_station": "郴州站", "train_num": "1370", "destination_station": "保定站", "date": "2018年01月17日17:21日", "ticket_rates": "￥355.0元", "seat_category": "新空调硬卧", "name": "宣伟"}

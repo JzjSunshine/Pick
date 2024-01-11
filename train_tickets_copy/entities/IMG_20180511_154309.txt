@@ -1,0 +1,1 @@
+{"ticket_num": "W089113", "starting_station": "江门东站", "train_num": "C7242", "destination_station": "广州南站", "date": "2017年11月03日16:07开", "ticket_rates": "￥40.0%", "seat_category": "二等座", "name": "二远"}

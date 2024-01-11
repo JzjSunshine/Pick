@@ -1,0 +1,1 @@
+{"ticket_num": "16D068490", "starting_station": "武汉站", "train_num": "G80", "destination_station": "北京西站", "date": "2018*01月098 12:41开", "ticket_rates": "￥520.5元", "seat_category": "二等座", "name": "国文露"}

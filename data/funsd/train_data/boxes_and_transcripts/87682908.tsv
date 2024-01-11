@@ -1,0 +1,31 @@
+0,105,331,146,331,146,346,105,346,Name:,question
+1,102,376,170,376,170,389,102,389,Institution:,question
+2,103,406,157,406,157,420,103,420,Address:,question
+3,184,420,215,420,215,434,184,434,Street,question
+4,186,468,210,468,210,479,186,479,City,question
+5,304,465,331,465,331,478,304,478,State,question
+6,184,344,206,344,206,359,184,359,First,question
+7,302,344,338,344,338,358,302,358,Middle,question
+8,420,344,444,344,444,355,420,355,Last,question
+9,503,464,546,464,546,474,503,474,Country,question
+10,109,497,175,497,175,511,109,511,Telephone:,question
+11,506,661,553,661,553,675,506,675,TOTAL,question
+12,324,617,345,617,345,631,324,631,10),question
+13,645,791,663,791,663,869,645,869,87682908,other
+14,203,135,397,135,397,174,203,174,46th Tobacco Chemists' Research Conference,header
+15,201,251,524,251,524,280,201,280,TH 46 TCRC REGISTRATION FORM,header
+16,105,299,218,299,218,317,105,317,Please type or print,other
+17,304,420,354,420,354,435,304,435,P. O. Box #,question
+18,384,464,435,464,435,477,384,477,ZIP Code,question
+19,299,496,365,496,365,509,299,509,Area Code:,question
+20,109,524,410,524,410,544,109,544,Name of spouse participating in the guest programs,question
+21,320,554,392,554,392,571,320,571,Monday (Y/ N),question
+22,441,554,512,554,512,567,441,567,Tuesday (Y/ N),question
+23,504,599,557,599,557,614,504,614,$ 170.00,answer
+24,506,616,558,616,558,630,506,630,$ $185.00,answer
+25,110,721,629,721,629,771,110,771,Send this registration form, along with payment to address noted below in attached envelope. Enclose a cheque or international money order payable in Canadian funds to the 46th Tobacco Chemists Research Conference.,other
+26,310,784,563,784,563,862,310,862,Ms. Susan Mathison Canadian Tobacco Manufacturers Council 701- 99 Bank Street Ottawa, Ontario, Canada K1P 6B9 (613) 238- 2799,answer
+27,232,785,281,785,281,800,232,800,Mail to:,question
+28,109,602,391,602,391,619,109,619,Advance Registration Fee: (prior to August 10),question
+29,110,619,323,619,323,635,110,635,Late Registration Fee: (after August,question
+30,176,634,364,634,364,651,176,651,Extra banquet tickets @ $ 40.00,question

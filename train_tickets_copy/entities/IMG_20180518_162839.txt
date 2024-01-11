@@ -1,0 +1,1 @@
+{"ticket_num": "E029273", "starting_station": "吉安站", "train_num": "K8726", "destination_station": "南昌西站", "date": "", "ticket_rates": "￥88.5%", "seat_category": "新空调硬卧", "name": "建平"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z1.368020607", "starting_station": "上海虹桥站", "train_num": "G8", "destination_station": "北京南站", "date": "2017*10月25日19:007", "ticket_rates": "￥553.0%", "seat_category": "二等燃", "name": "CX1"}

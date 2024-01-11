@@ -1,0 +1,1 @@
+{"ticket_num": "E062608", "starting_station": "西安北站", "train_num": "G666", "destination_station": "北京西站", "date": "2017年12月24日15:58开", "ticket_rates": "￥515.5元", "seat_category": "二等座", "name": "嘉丽"}

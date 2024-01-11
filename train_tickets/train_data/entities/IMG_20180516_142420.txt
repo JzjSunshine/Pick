@@ -1,0 +1,1 @@
+{"ticket_num": "Z17R008342", "starting_station": "温州南站", "train_num": "G7624", "destination_station": "杭州东站", "date": "2017年11月24日10:35开", "ticket_rates": "￥226.0元", "seat_category": "新空调一等座", "name": "林怀"}

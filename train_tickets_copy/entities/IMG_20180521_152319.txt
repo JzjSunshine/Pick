@@ -1,0 +1,1 @@
+{"ticket_num": "CQ32743", "starting_station": "运城北站", "train_num": "D2004", "destination_station": "北京西站", "date": "2017年10月09日08:06开", "ticket_rates": "￥264.5元", "seat_category": "二等座", "name": "图伟"}

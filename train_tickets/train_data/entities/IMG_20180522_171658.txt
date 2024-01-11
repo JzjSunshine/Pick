@@ -1,0 +1,1 @@
+{"ticket_num": "1056329", "starting_station": "天津站", "train_num": "C2078", "destination_station": "北京南站", "date": "2017年12月21日18:44开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "，华清"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z42J027838", "starting_station": "杭州东站", "train_num": "G582", "destination_station": "合肥南站", "date": "2017年12月24日16:45开", "ticket_rates": "￥270.0元", "seat_category": "一等座", "name": "林"}

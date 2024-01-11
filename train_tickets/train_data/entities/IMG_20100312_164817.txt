@@ -1,0 +1,1 @@
+{"ticket_num": "8026693", "starting_station": "北京南站", "train_num": "G263", "destination_station": "合肥南站", "date": "2017年11月08日08.46日", "ticket_rates": "7734.5*", "seat_category": "一等座", "name": "雪橇旭"}

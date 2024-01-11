@@ -1,0 +1,1 @@
+{"ticket_num": "L029405", "starting_station": "保定东站", "train_num": "G6l6", "destination_station": "北京西站", "date": "2017年12月05日16:47开", "ticket_rates": "￥63.5元", "seat_category": "二等座", "name": "德王"}

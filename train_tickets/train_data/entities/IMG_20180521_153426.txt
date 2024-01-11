@@ -1,0 +1,1 @@
+{"ticket_num": "Z49R090890", "starting_station": "上海站", "train_num": "D312", "destination_station": "北京南站", "date": "", "ticket_rates": "￥650.0元", "seat_category": "动卧", "name": "松"}

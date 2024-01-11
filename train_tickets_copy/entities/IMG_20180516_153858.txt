@@ -1,0 +1,1 @@
+{"ticket_num": "NO984.", "starting_station": "北京站", "train_num": "Z51", "destination_station": "南通站", "date": "2017年10月02日19:20开", "ticket_rates": "￥456.5元", "seat_category": "新空调软卧", "name": "_明亮"}

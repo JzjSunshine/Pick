@@ -1,0 +1,1 @@
+{"ticket_num": "Z35L028166", "starting_station": "苏州北站", "train_num": "G154", "destination_station": "北京南站", "date": "2018年02月03日17:39开", "ticket_rates": "￥883.5元", "seat_category": "一等座", "name": "女亮"}

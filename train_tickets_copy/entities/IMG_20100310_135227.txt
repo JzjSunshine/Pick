@@ -1,0 +1,1 @@
+{"ticket_num": "730A003089", "starting_station": "丽水站", "train_num": "G2315", "destination_station": "温州南站", "date": "2017年11月02日13:32开", "ticket_rates": "￥33.58", "seat_category": "二等座", "name": "二次"}

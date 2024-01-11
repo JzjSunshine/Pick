@@ -1,0 +1,1 @@
+{"ticket_num": "V087230", "starting_station": "北京南站", "train_num": "c2095", "destination_station": "天津站", "date": "2617年11月07日20:08开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "悦"}

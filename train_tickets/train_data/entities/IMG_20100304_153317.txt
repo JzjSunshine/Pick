@@ -1,0 +1,1 @@
+{"ticket_num": "Y077788", "starting_station": "北京南站", "train_num": "Gl67", "destination_station": "济南西站", "date": "2017年11月22日12:50开", "ticket_rates": "¥314.5元", "seat_category": "一等座", "name": "月"}

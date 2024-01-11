@@ -1,0 +1,1 @@
+{"ticket_num": "N088510", "starting_station": "由阜东站", "train_num": "G142", "destination_station": "北京南站", "date": "2017年11月19日", "ticket_rates": "￥244.07", "seat_category": "二等座", "name": "•"}

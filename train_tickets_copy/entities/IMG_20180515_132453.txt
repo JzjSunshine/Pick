@@ -1,0 +1,1 @@
+{"ticket_num": "R003856", "starting_station": "武汉站", "train_num": "G528", "destination_station": "北京西站", "date": "2018年02月25日17:59开", "ticket_rates": "￥520.5元", "seat_category": "二等座", "name": "玥"}

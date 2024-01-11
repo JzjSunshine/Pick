@@ -1,0 +1,1 @@
+{"ticket_num": "H053491", "starting_station": "天津西站", "train_num": "G8928", "destination_station": "北京南站", "date": "2017年12月03日19:10开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "冬"}

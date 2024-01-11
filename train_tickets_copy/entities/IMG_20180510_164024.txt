@@ -1,0 +1,1 @@
+{"ticket_num": "V079442", "starting_station": "重庆北站", "train_num": "G8524", "destination_station": "成都东站", "date": "2017*12928日13:38开", "ticket_rates": "￥154.0元", "seat_category": "二等座", "name": "文辉"}

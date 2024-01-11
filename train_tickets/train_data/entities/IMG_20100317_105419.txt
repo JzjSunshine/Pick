@@ -1,0 +1,1 @@
+{"ticket_num": "X060702", "starting_station": "北京南站", "train_num": "02223", "destination_station": "天津站", "date": "2017年09月210 16:027", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "新教月"}

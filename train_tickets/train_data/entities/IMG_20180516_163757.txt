@@ -1,0 +1,1 @@
+{"ticket_num": "P081564", "starting_station": "青岛北站", "train_num": "D6010", "destination_station": "济南西站", "date": "", "ticket_rates": "", "seat_category": "二等座", "name": "l"}

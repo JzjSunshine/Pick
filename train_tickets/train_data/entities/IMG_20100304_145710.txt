@@ -1,0 +1,1 @@
+{"ticket_num": "Z486078186", "starting_station": "温州南站", "train_num": "G7582", "destination_station": "台州站", "date": "2018年01月22日16:18开", "ticket_rates": "￥69.0元", "seat_category": "一等座", "name": "二悦"}

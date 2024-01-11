@@ -1,0 +1,1 @@
+{"ticket_num": "Z4H088158", "starting_station": "宜兴站", "train_num": "G40", "destination_station": "北京南站", "date": "2017年11月30日16:01开", "ticket_rates": "￥828.5元", "seat_category": "-等座", "name": "二寒松"}

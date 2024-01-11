@@ -1,0 +1,1 @@
+{"ticket_num": "Z001469", "starting_station": "\u8087\u5e86\u4e1c\u7ad9", "train_num": "D3782", "destination_station": "\u767e\u8272\u7ad9", "date": "2018\u5e7402\u670817\u65e510:02\u5f00", "ticket_rates": "\u00a5231.0\u5143", "seat_category": "\u4e8c\u7b49\u5ea7", "name": "\u851a"}

@@ -1,0 +1,1 @@
+{"ticket_num": "0020099", "starting_station": "北京西站", "train_num": "G511", "destination_station": "安阳东站", "date": "2017年10月13日09:27开", "ticket_rates": "￥378.0元", "seat_category": "一等座", "name": "二晓芳"}

@@ -1,0 +1,1 @@
+{"ticket_num": "F026723", "starting_station": "长沙南站", "train_num": "G1742", "destination_station": "合肥站", "date": "2017年12月01日12:45开", "ticket_rates": "￥402.0元", "seat_category": "一等座", "name": "晗"}

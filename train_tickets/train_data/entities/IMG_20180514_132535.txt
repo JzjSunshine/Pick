@@ -1,0 +1,1 @@
+{"ticket_num": "J086710", "starting_station": "天津站", "train_num": "C2034", "destination_station": "北京南站", "date": "2017年11月10日11:55开", "ticket_rates": "￥62.0元", "seat_category": "一等座", "name": "勇"}

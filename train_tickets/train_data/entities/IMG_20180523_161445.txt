@@ -1,0 +1,1 @@
+{"ticket_num": "P023843", "starting_station": "饶平站", "train_num": "D684", "destination_station": "厦门站", "date": "2018年02月25日14:44开", "ticket_rates": "￥61.5元", "seat_category": "二等综", "name": "王钦顺"}

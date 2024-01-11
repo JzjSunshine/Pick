@@ -1,0 +1,1 @@
+{"ticket_num": "C092006", "starting_station": "深圳站", "train_num": "C7084", "destination_station": "广州东站", "date": "2018年03月29日19:42开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "疆博"}

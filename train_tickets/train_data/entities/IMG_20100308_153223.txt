@@ -1,0 +1,1 @@
+{"ticket_num": "202T070798", "starting_station": "西安站", "train_num": "Z20", "destination_station": "北京西站", "date": "2017年12月18日19:21开", "ticket_rates": "￥415.5元", "seat_category": "新空调软卧", "name": "工雄黄"}

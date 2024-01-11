@@ -1,0 +1,1 @@
+{"ticket_num": "U039585", "starting_station": "北京西站", "train_num": "Z21", "destination_station": "石家庄北站", "date": "2017年09月21日20:00开", "ticket_rates": "￥43.5元", "seat_category": "新空调硬座", "name": "依琳"}

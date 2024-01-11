@@ -1,0 +1,30 @@
+0,622,784,639,784,639,864,622,864,00836816,other
+1,84,869,125,869,125,879,84,879,SIGNATURE,question
+2,486,872,504,872,504,880,486,880,DATE,question
+3,163,732,176,732,176,739,163,739,TO,header
+4,103,179,130,179,130,190,103,190,A30,answer
+5,82,219,96,219,96,232,82,232,pH,question
+6,103,376,125,376,125,389,103,389,ORAL,question
+7,84,355,125,355,125,366,84,366,SOLUBILITY,question
+8,228,141,522,141,522,161,228,161,COMPOUND PHYSICAL PARAMETERS,header
+9,84,170,148,170,148,178,84,178,LRC FILE NUMBER,question
+10,486,170,533,170,533,181,486,181,LOT NUMBER,question
+11,85,196,142,196,142,204,85,204,PHYSICAL STATE,question
+12,103,203,286,203,286,218,103,218,Clear Colorless liquid,answer
+13,102,228,644,228,644,284,102,284,The pH of a 50 % concentration of A30 in (52.6% dioxane/ water was calculated to be 8.13 at 24 C according to the extrapolation procedures by Dr. P. D. Schickedantz, Lorillard Research Center Accession Number 1662, Reference OR 83- 81.,answer
+14,144,359,427,359,427,373,144,373,(See SOE for Biological Solutions),answer
+15,109,388,558,388,558,433,109,433,Reference OR 100- 32 . 5g A30 soluble in .5 mL corn oil at room temperature.,answer
+16,105,483,194,483,194,496,105,496,ACUTE CARDIOVASCULAR,question
+17,108,500,651,500,651,608,108,608,(See SOP for Determination of Solubility of Materials for Acute Cardiovascular and Respiratory Effects Study in Beagle Dogs) Reference OR 100- 32 .2 mg A30 soluble in .5 mL 10 % propylene glycol solution at 38 C. Add A30 to warm (38 C) propylene glycol; add warm water to make 10 % propylene glycol solution.,answer
+18,103,644,500,644,500,658,103,658,Refrig erate in amber bottle at no more than 8 C.,answer
+19,84,630,193,630,193,640,84,640,STORAGE RECOMMENDATIONS,question
+20,85,732,163,732,163,740,85,740,COMPOUND SENSITIVE,header
+21,103,754,128,754,128,761,103,761,☐ AIR,question
+22,141,753,170,753,170,761,141,761,☐ HEAT,question
+23,186,753,234,753,234,761,186,761,☐ MOISTURE,question
+24,247,753,282,753,282,761,247,761,☐ OTHER,question
+25,85,779,284,779,284,787,85,787,SAFETY COMMENTS SUGGESTED- PROCEDURES),other
+26,81,895,189,895,189,903,81,903,LORILL ARD RESEARCH CENTER,other
+27,161,858,297,858,297,908,161,908,,answer
+28,527,869,609,869,609,908,527,908,8/ 10/ 82,answer
+29,630,897,677,897,677,905,630,905,FORM ,other

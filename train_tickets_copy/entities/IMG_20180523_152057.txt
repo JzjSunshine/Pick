@@ -1,0 +1,1 @@
+{"ticket_num": "Z58T039826", "starting_station": "南京南站", "train_num": "G7571", "destination_station": "镇江站", "date": "2018年01月26日13:57开", "ticket_rates": "￥54.5元", "seat_category": "一等座", "name": "雪茂"}

@@ -1,0 +1,1 @@
+{"ticket_num": "H076427", "starting_station": "深圳北站", "train_num": "D902", "destination_station": "北京西站", "date": "2018年04月07日19:40开", "ticket_rates": "￥1150.0元", "seat_category": "动卧", "name": ""}

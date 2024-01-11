@@ -1,0 +1,1 @@
+{"ticket_num": "D086832", "starting_station": "广州南站", "train_num": "G78", "destination_station": "长沙南站", "date": "2017年11月30日14:34开", "ticket_rates": "￥504.0元", "seat_category": "一等座", "name": "远"}

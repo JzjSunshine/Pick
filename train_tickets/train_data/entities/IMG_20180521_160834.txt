@@ -1,0 +1,1 @@
+{"ticket_num": "14K000937", "starting_station": "杭州东站", "train_num": "G7584", "destination_station": "上海虹桥站", "date": "2017年11月01日17:55开", "ticket_rates": "￥73.0元", "seat_category": "二等座", "name": ""}

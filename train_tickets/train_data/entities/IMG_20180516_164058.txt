@@ -1,0 +1,1 @@
+{"ticket_num": "Z35M061483", "starting_station": "宁波站", "train_num": "G7.20", "destination_station": "苏州站", "date": "2017年11月22日16.16开", "ticket_rates": "￥298.5元", "seat_category": "一等座", "name": "舰"}

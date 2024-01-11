@@ -1,0 +1,1 @@
+{"ticket_num": "C083533", "starting_station": "石家庄站", "train_num": "K219", "destination_station": "邢台站", "date": "2017年10月07日08:13开", "ticket_rates": "￥16.5元", "seat_category": "新空调硬座", "name": "公立虎"}

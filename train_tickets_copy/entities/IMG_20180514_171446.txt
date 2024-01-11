@@ -1,0 +1,1 @@
+{"ticket_num": "Z640021001", "starting_station": "无锡新区站", "train_num": "G7263", "destination_station": "上海站", "date": "2017年12月14日16:41开", "ticket_rates": "￥49.5元", "seat_category": "二等座", "name": "佳蕾"}

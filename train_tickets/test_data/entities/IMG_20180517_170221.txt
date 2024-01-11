@@ -1,0 +1,1 @@
+{"ticket_num": "006E037254", "starting_station": "\u65b0\u4e61\u7ad9", "train_num": "K1149", "destination_station": "\u82cf\u5dde\u7ad9", "date": "2017\u5e7408\u670828\u65e517:58\u5f00", "ticket_rates": "\uffe5128.5\u5143", "seat_category": "\u65b0\u7a7a\u8c03\u786c\u5ea7", "name": "1\u4e9a\u7eea\u5e05"}

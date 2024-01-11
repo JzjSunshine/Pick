@@ -1,0 +1,1 @@
+{"ticket_num": "H051048", "starting_station": "天津站", "train_num": "C2050", "destination_station": "北京南站", "date": "2017年08月11日14:06开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "新月"}

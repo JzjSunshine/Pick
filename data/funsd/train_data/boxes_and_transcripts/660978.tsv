@@ -1,0 +1,30 @@
+0,383,112,422,112,422,126,383,126,DATE:,question
+1,383,140,428,140,428,154,383,154,PLACE:,question
+2,520,117,542,117,542,130,520,130,NO.,question
+3,106,105,155,105,155,119,106,119,CLIENT:,question
+4,103,131,167,131,167,146,103,146,PRODUCT:,question
+5,105,159,165,159,165,176,105,176,PRESENT:,question
+6,99,282,166,282,166,300,99,300,SUMMARY:,question
+7,447,328,546,328,546,343,447,343,CONFIDENTIAL,question
+8,95,501,113,501,113,514,95,514,PH:,question
+9,94,532,114,532,114,543,94,543,cc:,question
+10,623,714,643,714,643,829,623,829,670121460,other
+11,115,506,130,506,130,517,115,517,mg,answer
+12,437,141,501,141,501,158,437,158,Telephone,answer
+13,186,135,236,135,236,150,186,150,Viceroy,answer
+14,71,56,574,56,574,84,71,84,GREY ADVERTISING INC. - MEETING REPORT,header
+15,605,56,685,56,685,91,605,91,FEB 23 1982,other
+16,170,106,299,106,299,123,170,123,Brown & Williamson,answer
+17,437,113,487,113,487,130,437,130,1/ 19/ 82,answer
+18,550,116,606,116,606,132,550,132,482 -2 R1,answer
+19,166,163,251,163,251,180,166,180,(For the client),answer
+20,101,182,172,182,172,197,101,197,T. Parrack,answer
+21,383,166,473,166,473,183,383,183,DATE OF REPORT:,question
+22,476,170,529,170,529,187,476,187,2/ 17/ 82,answer
+23,165,226,259,226,259,242,165,242,(For the agency),other
+24,99,244,183,244,183,261,99,261,P. Hendricks,other
+25,447,306,525,306,525,322,447,322,Written by:,question
+26,538,306,624,306,624,323,538,323,P. Hendricks,answer
+27,95,374,580,374,580,436,95,436,Client confirmed agreement for Agency to pay advance to with official photographer, signed estimate to follow, for 1/ 25/ 82. This was Viceroy Shoot week of agreed to by T. and January Parrack A. 18 pre- Forsythe production at the meeting,other
+28,127,531,219,531,219,574,127,574,R. Schoenfein S. Dammers P. Hendricks,answer
+29,1,953,232,953,232,982,1,982,670121460 PRODUCED FROM B& W WEB SITE,other

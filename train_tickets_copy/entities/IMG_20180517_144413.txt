@@ -1,0 +1,1 @@
+{"ticket_num": "2057992", "starting_station": "石家庄站", "train_num": "G6718", "destination_station": "北京西站", "date": "2017年10月09日06:35开", "ticket_rates": "￥128.5元", "seat_category": "二等座", "name": "依琳"}

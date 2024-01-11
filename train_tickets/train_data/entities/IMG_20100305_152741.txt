@@ -1,0 +1,1 @@
+{"ticket_num": "Z828001001", "starting_station": "合肥南站", "train_num": "G325", "destination_station": "莆田站", "date": "2017410月03日16:51开", "ticket_rates": "￥19756", "seat_category": "二等座", "name": "颖"}

@@ -1,0 +1,1 @@
+{"ticket_num": "D084538", "starting_station": "南昌站", "train_num": "768", "destination_station": "北京西站", "date": "2017*10810e 1942", "ticket_rates": "￥306.5x", "seat_category": "新空调整医", "name": "骨畅"}

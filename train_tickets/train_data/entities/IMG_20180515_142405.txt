@@ -1,0 +1,1 @@
+{"ticket_num": "C047004", "starting_station": "北京站", "train_num": "251", "destination_station": "南通站", "date": "2018年02月09日19:20开", "ticket_rates": "￥280.5元", "seat_category": "新空调硬卧", "name": "广海霞"}

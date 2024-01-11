@@ -1,0 +1,6 @@
+company	ONE ONE THREE SEAFOOD RESTAURANT SDN BHD,company
+address	NO.1\, TAMAN SRI DENGKIL\, JALAN AIR HITAM,address
+address	43800 DENGKIL\, SELANGOR.,address
+date	22-05-2018
+total	71.00,
+date	22-05-2018

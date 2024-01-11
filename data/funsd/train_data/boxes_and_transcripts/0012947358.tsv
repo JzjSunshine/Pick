@@ -1,0 +1,83 @@
+0,53,228,74,228,74,243,53,243,VIA:,header
+1,422,43,440,43,440,56,422,56,TO:,question
+2,405,99,440,99,440,112,405,112,FROM:,question
+3,420,128,437,128,437,139,420,139,Per,question
+4,408,183,437,183,437,198,408,198,DATE:,question
+5,542,177,566,177,566,190,542,190,VIA:,header
+6,53,270,70,270,70,281,53,281,RE:,question
+7,47,309,69,309,69,322,47,322,FOR,question
+8,250,267,271,267,271,282,250,282,IN,question
+9,70,412,131,412,131,425,70,425,Document(s),question
+10,134,412,172,412,172,425,134,425,Served:,question
+11,71,440,102,440,102,451,71,451,Court:,question
+12,73,684,118,684,118,697,73,697,Remarks,question
+13,426,781,443,781,443,795,426,795,BY:,question
+14,427,811,444,811,444,824,427,824,Per,question
+15,47,130,67,130,67,144,47,144,,question
+16,78,230,98,230,98,243,78,243,(X),answer
+17,310,265,381,265,381,280,310,280,FLORIDA,answer
+18,568,190,585,190,585,203,568,203,(X),answer
+19,475,166,496,166,496,177,475,177,(city),other
+20,596,165,624,165,624,176,596,176,(State),other
+21,471,82,493,82,493,92,471,92,(City),other
+22,515,109,561,109,561,119,515,119,(Originating,other
+23,564,109,589,109,589,119,564,119,Agent),other
+24,589,81,617,81,617,92,589,92,(State),other
+25,535,54,546,54,546,64,535,64,(C,other
+26,546,54,554,54,554,62,546,62,T.,other
+27,554,54,583,54,583,62,554,62,Office),other
+28,608,317,635,317,635,327,608,327,(Name,other
+29,635,316,659,316,659,329,635,329,State),other
+30,434,209,560,209,560,332,434,332,,other
+31,553,606,687,606,687,743,553,743,,other
+32,535,848,571,848,571,859,535,859,(Address),other
+33,60,684,71,684,71,697,60,697,9.,other
+34,59,631,70,631,70,644,59,644,8.,other
+35,59,603,69,603,69,614,59,614,7.,other
+36,56,578,69,578,69,589,56,589,6.,other
+37,59,521,70,521,70,535,59,535,5.,other
+38,54,466,68,466,68,477,54,477,4.,other
+39,57,441,67,441,67,454,57,454,3.,other
+40,57,413,68,413,68,424,57,424,2.,other
+41,57,370,67,370,67,383,57,383,1.,other
+42,28,32,237,32,237,106,28,106,C T SYSTEM The Corporation Trust Company C T Corporation System and Associated Companies,header
+43,440,38,672,38,672,54,440,54,The Corporation Trust Company,answer
+44,457,64,612,64,612,80,457,80,New York, New York,other
+45,458,92,634,92,634,107,458,107,C T Corporation System,answer
+46,458,122,600,122,600,137,458,137,Phyllis G. Jennings,answer
+47,461,148,615,148,615,164,461,164,Jacksonville, Florida,answer
+48,454,180,514,180,514,195,454,195,1- -27 -69,answer
+49,568,176,659,176,659,189,568,189,() Certified Mail,question
+50,587,189,674,189,674,203,587,203,Certified Air Mail,question
+51,81,126,330,126,330,186,81,186,Walliam Degenhardt Tax Director The American Tobacco Company 245 Park Avenue New York New York 1001,other
+52,148,186,232,186,232,199,148,199,Recipienti,other
+53,99,229,171,229,171,243,99,243,Certified Mail,question
+54,175,229,247,229,247,243,175,243,() Messenger,question
+55,80,246,191,246,191,260,80,260,() Certified Air Mail,question
+56,75,267,242,267,242,285,75,285,PROCESS SERVED,answer
+57,589,300,631,300,631,315,589,315,N. J.,other
+58,88,307,371,307,371,322,88,322,THE AMERICAN TOBACCO COMPANY,answer
+59,261,323,341,323,341,331,261,331,Name of Company,other
+60,77,335,598,335,598,354,77,354,Enclosed are copies of legal proces served upon the statutory agent of the above company as follows:,question
+61,70,369,143,369,143,382,70,382,Title of Action:,question
+62,147,356,658,356,658,397,147,397,Reuben Sunstein, Plaintiff, v. The American Tobacco Company, a New Jorsey corporation, Defendant.,answer
+63,186,408,362,408,362,425,186,425,Summons and Complaint,answer
+64,117,430,486,430,486,453,117,453,Circuit Court, Dade County, Florida. No. 69 -1351,answer
+65,71,465,158,465,158,479,71,479,Nature of Action:,question
+66,168,454,667,454,667,476,168,476,For personal injuries resulting after smoking "Pall Mall" and "Lucky,other
+67,63,469,683,469,683,510,63,510,Strike" cigarettes manufactured by defendant, wherein plaintiff alleges breach of was- anties, seeks damages in excess of $5, 000 and demands trial by jury.,answer
+68,71,520,228,520,228,535,71,535,On Whom Process was Served:,question
+69,244,510,689,510,689,549,244,549,Phyllis G. Jonnings, Asst. Socy,. The Corporation Company, Jacksonville, Florida,answer
+70,70,575,204,575,204,590,70,590,Date and Hour of Service,question
+71,74,602,215,602,215,615,74,615,Appearance or Answer Dues,question
+72,71,628,181,628,181,643,71,643,Plaintiff's Attorney(s):,question
+73,244,624,405,624,405,671,244,671,Max A. Goldfarb 414 Biscayne Building Miami, Florida,answer
+74,246,568,478,568,478,589,246,589,January 27, 1969 9: 00 a. m.,answer
+75,247,592,658,592,658,613,247,613,Within 20 days after service, exclusive of day of service.,answer
+76,418,751,588,751,588,767,418,767,RECEIVED AND FORWARDED ON,question
+77,610,746,690,746,690,764,610,764,1 29/29/ 69 (Date),answer
+78,448,778,659,778,659,794,448,794,THE CORPORATION TRUST COMPANY,answer
+79,448,795,614,795,614,851,448,851,V. Colvellm Asst. Secy. 277 Park Avenue,answer
+80,450,856,622,856,622,872,450,872,New York, New York 10017,other
+81,574,880,683,880,683,893,574,893,,other
+82,25,782,377,782,377,812,25,812,KINDLY ACKNOWLEDGE RECEIPT BY SIGNING AND RETURNING TO US THE ENCLOSED CARBON COPY OF THIS TRANSMITTAL FORM,,other

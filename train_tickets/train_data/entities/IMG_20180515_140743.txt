@@ -1,0 +1,1 @@
+{"ticket_num": "Z4T063459", "starting_station": "上海虹桥站", "train_num": "G18", "destination_station": "北京南站", "date": "2017年12月08日15:00开", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "伟峰"}

@@ -1,0 +1,1 @@
+{"ticket_num": "0004332", "starting_station": "北京南站", "train_num": "G383", "destination_station": "天津西站", "date": "2017年09月12日07:30开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "面阳"}

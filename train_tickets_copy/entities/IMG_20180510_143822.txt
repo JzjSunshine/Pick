@@ -1,0 +1,1 @@
+{"ticket_num": "1.966", "starting_station": "北京西热", "train_num": "G9061", "destination_station": "保定东费", "date": "2017年12月23日11:;20系", "ticket_rates": "￥：07.57", "seat_category": "一等理", "name": "岭"}

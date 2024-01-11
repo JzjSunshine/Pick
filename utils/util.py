@@ -11,6 +11,20 @@ import torch
 from .class_utils import keys_vocab_cls, iob_labels_vocab_cls
 from data_utils import documents
 
+def load_dict(dict_file, encoding='utf-8'):
+    """
+    Load tokens from file, which are stored in a list.
+    Args:
+        dict_file: json format
+        encoding: default 'utf-8'
+
+    Returns:
+        list: a list of tokens.
+    """
+    assert dict_file[-4:] == 'json'
+    with open(dict_file, 'r', encoding=encoding) as f:
+        item_list = json.load(f)
+    return item_list
 
 def ensure_dir(dirname):
     dirname = Path(dirname)

@@ -1,0 +1,1 @@
+{"ticket_num": "Z59G068451", "starting_station": "合肥南站", "train_num": "G579", "destination_station": "长沙南站", "date": "2017年11月09日09:04开", "ticket_rates": "￥2745元", "seat_category": "二等产", "name": "刘晓旭"}

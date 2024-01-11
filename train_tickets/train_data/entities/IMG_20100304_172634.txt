@@ -1,0 +1,1 @@
+{"ticket_num": "L023039", "starting_station": "济南西域", "train_num": "G￥18", "destination_station": "北京南象", "date": "2017*****子第四元零角零", "ticket_rates": "￥33453", "seat_category": "一", "name": "阗"}

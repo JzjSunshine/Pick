@@ -1,0 +1,1 @@
+{"ticket_num": "0007375", "starting_station": "北京西站", "train_num": "277", "destination_station": "玉屏站", "date": "2017年09月306 16:15#", "ticket_rates": "￥640.03", "seat_category": "新空调查询", "name": "二体劳"}

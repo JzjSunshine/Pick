@@ -1,0 +1,1 @@
+{"ticket_num": "173J059350", "starting_station": "郑州东站", "train_num": "G68", "destination_station": "北京西泓", "date": "2018401科92肆 1:53师", "ticket_rates": "￥495.0%", "seat_category": "一等矗", "name": "*******"}

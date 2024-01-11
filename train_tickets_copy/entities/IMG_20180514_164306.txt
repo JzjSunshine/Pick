@@ -1,0 +1,1 @@
+{"ticket_num": "治疗费", "starting_station": "福州站", "train_num": "0520.", "destination_station": "厦门站", "date": "2018*01月22日16:42", "ticket_rates": "￥144.57", "seat_category": "刘等座", "name": "1、3031439号"}

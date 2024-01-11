@@ -1,0 +1,7 @@
+company	DION REALTIES SDN BHD
+address	MENARA DION #02-03\, LEVEL 2,address
+address	27\, JALAN SULTAN ISMAIL,address
+address	50250 KUALA LUMPUR.,address
+date	28/05/18
+date	28/05/18
+total	5.00

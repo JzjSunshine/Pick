@@ -1,0 +1,48 @@
+0,108,203,149,203,149,217,108,217,Name:,question
+1,242,215,264,215,264,228,242,228,First,question
+2,189,214,211,214,211,228,189,228,Title,question
+3,346,215,377,215,377,226,346,226,Middle,question
+4,464,214,485,214,485,227,464,227,Last,question
+5,112,244,171,244,171,259,112,259,Institution:,question
+6,189,292,217,292,217,305,189,305,Street,question
+7,191,337,208,337,208,350,191,350,City,question
+8,307,335,331,335,331,348,307,348,State,question
+9,385,335,430,335,430,346,385,346,ZIP Code,question
+10,504,334,540,334,540,348,504,348,Country,question
+11,110,363,171,363,171,380,110,380,Telephone:,question
+12,472,561,517,561,517,575,472,575,TOTAL,question
+13,191,655,229,655,229,669,191,669,DATE,question
+14,270,654,308,654,308,668,270,668,TIME,question
+15,112,686,164,686,164,701,112,701,Arrival:,question
+16,115,716,175,716,175,731,115,731,Departure:,question
+17,390,655,449,655,449,668,390,668,CARRIER,question
+18,642,777,662,777,662,855,642,855,87332450,other
+19,476,835,535,835,535,849,476,849,Telephone:,question
+20,475,851,504,851,504,866,475,866,FAX:,question
+21,110,275,159,275,159,290,110,290,Address:,question
+22,163,145,570,145,570,176,163,176,47th TCRC REGISTRATION FORM,header
+23,110,187,218,187,218,201,110,201,Please type or print,other
+24,331,363,372,363,372,376,331,376,FAX #:,question
+25,306,292,355,292,355,303,306,303,P.O. Box#,question
+26,113,394,196,394,196,411,113,411,Name of guest:,question
+27,165,426,315,426,315,440,165,440,Continental Breakfast on Tuesday,question
+28,165,441,297,441,297,456,165,456,Fall Foliage Tour on Tuesday,question
+29,402,425,506,425,506,439,402,439,Breakfast on Wednesday,question
+30,402,440,570,440,570,454,402,454,Craftsman Village Tour Wednesday,question
+31,112,489,257,489,257,502,112,502,Advance Registration Fee:,question
+32,264,486,385,486,385,504,264,504,(prior to September 1),other
+33,239,503,343,503,343,519,239,519,after September ,other
+34,112,504,237,504,237,519,112,519,Late Registration Fee,question
+35,427,486,473,486,473,500,427,500,$135 00,answer
+36,427,501,475,501,475,516,427,516,$150 00,answer
+37,427,532,471,532,471,547,427,547,$ 30. 00,answer
+38,113,534,309,534,309,550,113,550,Ground Transportation (round trip),question
+39,152,518,326,518,326,534,152,534,Extra banquet tickets tickets $40. 00,question
+40,113,591,616,591,616,611,113,611,Please complete this portion if you need transportation from and to the Knoxville Airport.,question
+41,113,626,189,626,189,639,113,639,No. in Party:,question
+42,508,654,570,654,570,668,508,668,FLIGHT #,question
+43,113,774,630,774,630,806,113,806,Send this registration form, along with payment to the address noted below. Enclose a check or international money order payable in U. S. funds to the University of Tennessee - 47th TCRC,other
+44,116,824,160,824,160,837,116,837,Mail to:,question
+45,166,823,355,823,355,881,166,881,Dr. Phil P. Hunter U. T. Tobacco Experiment Station Route 5 Box 113 Greeneville, TN 37743,answer
+46,541,834,625,834,625,850,541,850,(615) ) 638- 5532,answer
+47,508,851,595,851,595,865,508,865,(615) ) 638- 6458,answer

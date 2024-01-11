@@ -1,0 +1,1 @@
+{"ticket_num": "005X038124", "starting_station": "郑州东站", "train_num": "G6609", "destination_station": "许昌东站", "date": "2018年01月25日", "ticket_rates": "￥66.5%", "seat_category": "孔等座", "name": "不补"}

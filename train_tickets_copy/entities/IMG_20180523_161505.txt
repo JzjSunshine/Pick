@@ -1,0 +1,1 @@
+{"ticket_num": "L080332", "starting_station": "长沙南站", "train_num": "G84", "destination_station": "北京西站", "date": "2018年01月02日09:00开", "ticket_rates": "￥649.0元", "seat_category": "二等座", "name": "刘加树"}

@@ -1,0 +1,1 @@
+{"ticket_num": "115F006453", "starting_station": "杭州站", "train_num": "G7314", "destination_station": "上海虹桥站", "date": "2018年02月05日19:02开", "ticket_rates": "￥123.5元", "seat_category": "一等座", "name": "冬"}

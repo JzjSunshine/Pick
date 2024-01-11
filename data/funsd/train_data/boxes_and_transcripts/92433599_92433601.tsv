@@ -1,0 +1,39 @@
+0,124,263,165,263,165,278,124,278,Name,question
+1,126,292,193,292,193,309,126,309,Address,question
+2,126,324,164,324,164,339,126,339,City,question
+3,236,323,297,323,297,337,236,337,Novato,answer
+4,468,321,518,321,518,336,468,336,State,question
+5,385,349,474,349,474,367,385,367,Telephone,question
+6,545,321,569,321,569,335,545,335,CA,answer
+7,128,475,210,475,210,492,128,492,Defendant,question
+8,130,443,211,443,211,463,130,463,Plaintiff,question
+9,598,594,608,594,608,611,598,611,(,other
+10,612,594,625,594,625,609,612,609,X,answer
+11,631,594,639,594,639,608,631,608,),other
+12,598,624,608,624,608,638,598,638,(,other
+13,631,622,641,622,641,639,631,639,),other
+14,613,652,624,652,624,669,613,669,X,answer
+15,634,652,641,652,641,670,634,670,),other
+16,705,816,723,816,723,893,705,893,92433599,other
+17,420,883,431,883,431,897,420,897,1,other
+18,238,352,286,352,286,372,238,372,94948,answer
+19,599,655,607,655,607,670,599,670,(,other
+20,270,94,570,94,570,143,270,143,PRELIMINARY FACT SHEET NEW FILING - ASBESTOS LITIGATION,header
+21,289,154,549,154,549,188,289,188,(See General Order No. 29) (In Re: Complex Litigation),other
+22,117,214,713,214,713,249,117,249,1. Name, address and telephone number of law firm representing claimant:,header
+23,236,260,471,260,471,278,236,278,BRAYTON, GISVOLD. & HARLEY,answer
+24,236,288,528,288,528,308,236,308,999 Grant Avenue, P. O. Box 2109,answer
+25,126,353,203,353,203,371,126,371,Zip Code,question
+26,501,349,631,349,631,368,501,368,(415) 898- 1555,answer
+27,116,395,712,395,712,432,116,432,2. Names of first named plaintiff and first named defendant on the caption of the complaint:,header
+28,239,444,389,444,389,459,239,459,CHARLES WOODWARD,answer
+29,237,473,461,473,461,489,237,489,ABEX CORPORATION, et al.,answer
+30,119,520,398,520,398,537,119,537,3. Date of claimant's birth:,question
+31,433,518,559,518,559,535,433,535,June 19, 1921,answer
+32,122,564,537,564,537,584,122,584,4. Case involves (check appropriate boxes):,header
+33,131,595,225,595,225,613,131,613,(a) Injury,question
+34,134,626,299,626,299,644,134,644,(b) Wrongful death,question
+35,134,656,264,656,264,673,134,673,(c) Consortium,question
+36,120,683,700,683,700,749,120,749,5. Specify the nature or type of asbestos- related injury alleged by the claimant. (E. q., Asbestosis; Lung Cancer- adenocarcinoma Lung Cancer- Mesothelioma; Pleural Thickening; Fibrosis; etc.),question
+37,165,757,655,757,655,778,165,778,Mesothelioma and other asbestos- related lung disease,answer
+38,124,873,271,873,271,897,124,897,K:\CLIENTS\5002\FACTSHIT.COM ,other

@@ -1,0 +1,1 @@
+{"ticket_num": "A029306", "starting_station": "苏州北站", "train_num": "G148", "destination_station": "北京南站", "date": "2017年09月09日15:56开", "ticket_rates": "", "seat_category": "二等座", "name": "倩"}

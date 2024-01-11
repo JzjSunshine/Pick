@@ -1,0 +1,1 @@
+{"ticket_num": "T029170", "starting_station": "天津站", "train_num": "G1245", "destination_station": "长春西站", "date": "2017年11月11日12:45开", "ticket_rates": "¥377.5元", "seat_category": "二等座", "name": "区成"}

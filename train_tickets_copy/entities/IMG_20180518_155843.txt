@@ -1,0 +1,1 @@
+{"ticket_num": "R047041", "starting_station": "天津站", "train_num": "C2054", "destination_station": "北京南站", "date": "2017年11月29日14:47开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "仲璞"}

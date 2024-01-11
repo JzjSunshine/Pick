@@ -1,0 +1,1 @@
+{"ticket_num": "Q079301", "starting_station": "北京站", "train_num": "7", "destination_station": "青岛北站", "date": "2018年02月13日22:08开", "ticket_rates": "￥325.0元", "seat_category": "新空调软卧", "name": "团昊"}

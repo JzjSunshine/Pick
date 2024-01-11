@@ -1,0 +1,1 @@
+{"ticket_num": "C051334", "starting_station": "北京南站", "train_num": "G15", "destination_station": "上海虹桥站", "date": "2017年11月27日11:00开", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "兵"}

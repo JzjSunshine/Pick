@@ -1,0 +1,1 @@
+{"ticket_num": "L092559", "starting_station": "北京南站", "train_num": "G27", "destination_station": "福州站", "date": "2018年02月12日09:45开", "ticket_rates": "￥719.0元", "seat_category": "二等座", "name": "丁富雄"}

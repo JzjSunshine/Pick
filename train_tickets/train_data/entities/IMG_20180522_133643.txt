@@ -1,0 +1,1 @@
+{"ticket_num": "1090561", "starting_station": "广州南站", "train_num": "D904", "destination_station": "北京西站", "date": "2016年02月25日20:20r", "ticket_rates": "￥1290.0元", "seat_category": "动卧", "name": "雪鹏"}

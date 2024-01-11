@@ -1,0 +1,1 @@
+{"ticket_num": "G093643", "starting_station": "北京西站", "train_num": "G571", "destination_station": "重庆西站", "date": "2018年02月10日09:22开", "ticket_rates": "￥924.5元", "seat_category": "二等座", "name": "雪"}

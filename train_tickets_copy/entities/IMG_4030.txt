@@ -1,0 +1,1 @@
+{"ticket_num": "85P086465", "starting_station": "武汉", "train_num": "G510", "destination_station": "北京西站", "date": "2018年02月22日008:18z", "ticket_rates": "￥832.5元", "seat_category": "一等座", "name": "路"}

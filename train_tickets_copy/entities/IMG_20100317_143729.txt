@@ -1,0 +1,1 @@
+{"ticket_num": "S079637", "starting_station": "青岛北站", "train_num": "G196", "destination_station": "北京南站", "date": "2017年12月28日16:11开", "ticket_rates": "￥469.5元", "seat_category": "一等座", "name": "加星"}

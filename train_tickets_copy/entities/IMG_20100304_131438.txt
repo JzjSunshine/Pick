@@ -1,0 +1,1 @@
+{"ticket_num": "Z32M011448", "starting_station": "苏州北站", "train_num": "G108", "destination_station": "北京南站", "date": "2018年03月23日07:44元", "ticket_rates": "￥883.5元", "seat_category": "一等座", "name": "二建都"}

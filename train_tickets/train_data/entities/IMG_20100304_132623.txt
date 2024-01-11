@@ -1,0 +1,1 @@
+{"ticket_num": "Z64R061701", "starting_station": "南京南站", "train_num": "G63", "destination_station": "杭州东站", "date": "2018年02月08日10:29日", "ticket_rates": "￥198.0元", "seat_category": "一等座", "name": "雪思"}

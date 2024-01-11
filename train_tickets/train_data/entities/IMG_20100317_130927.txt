@@ -1,0 +1,1 @@
+{"ticket_num": "R024165", "starting_station": "北京南站", "train_num": "011", "destination_station": "苏州北站", "date": "2018年01月300 08:00寿", "ticket_rates": "￥883.58", "seat_category": "一等塞", "name": "非帅"}

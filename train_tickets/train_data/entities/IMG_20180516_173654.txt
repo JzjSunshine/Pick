@@ -1,0 +1,1 @@
+{"ticket_num": "015K091176", "starting_station": "西安北站", "train_num": "G88", "destination_station": "北京西站", "date": "2017年10月20日13:20开", "ticket_rates": "￥824.5元", "seat_category": "一等座", "name": "加星"}

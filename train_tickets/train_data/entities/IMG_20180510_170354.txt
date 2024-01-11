@@ -1,0 +1,1 @@
+{"ticket_num": "K011494", "starting_station": "哈尔滨西站", "train_num": "G716", "destination_station": "长春西站", "date": "2017*12月13日12:16开", "ticket_rates": "￥109.5元", "seat_category": "二等座", "name": "开龙飞"}

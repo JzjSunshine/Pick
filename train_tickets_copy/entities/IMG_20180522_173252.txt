@@ -1,0 +1,1 @@
+{"ticket_num": "W045325", "starting_station": "北京站", "train_num": "K101", "destination_station": "兖州站", "date": "", "ticket_rates": "￥243.0元", "seat_category": "，", "name": "门"}

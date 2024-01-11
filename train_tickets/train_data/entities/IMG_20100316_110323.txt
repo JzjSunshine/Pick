@@ -1,0 +1,1 @@
+{"ticket_num": "H053340", "starting_station": "郴州站", "train_num": "211", "destination_station": "石家庄站", "date": "2018年01月01日21:06开", "ticket_rates": "￥351.0元", "seat_category": "新空调硬卧", "name": "孝媛"}

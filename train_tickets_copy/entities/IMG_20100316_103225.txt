@@ -1,0 +1,1 @@
+{"ticket_num": "T070433", "starting_station": "北京站", "train_num": "7225", "destination_station": "合肥站", "date": "2018年02月10日 21508", "ticket_rates": "13815:", "seat_category": "新空调软卧", "name": "优"}

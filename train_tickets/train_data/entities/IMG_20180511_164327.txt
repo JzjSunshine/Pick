@@ -1,0 +1,1 @@
+{"ticket_num": "Z31W028652", "starting_station": "南京站", "train_num": "D5506", "destination_station": "南通站", "date": "2017年12月28日08:00开", "ticket_rates": "￥166.0元", "seat_category": "一等座", "name": "建辉"}

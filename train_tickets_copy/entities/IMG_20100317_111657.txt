@@ -1,0 +1,1 @@
+{"ticket_num": "R011896", "starting_station": "丹东站", "train_num": "G398", "destination_station": "北京南站", "date": "2018年02月25日07:03开", "ticket_rates": "￥188.0元", "seat_category": "二等座", "name": "凯华"}

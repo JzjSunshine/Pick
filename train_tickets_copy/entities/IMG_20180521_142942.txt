@@ -1,0 +1,1 @@
+{"ticket_num": "8010630", "starting_station": "北京站", "train_num": "27", "destination_station": "青岛北站", "date": "2017年12月08日22:08开", "ticket_rates": "￥325.0元", "seat_category": "新空调软卧", "name": "金额"}

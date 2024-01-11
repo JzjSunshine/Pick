@@ -1,0 +1,1 @@
+{"ticket_num": "R059563", "starting_station": "泰星岛", "train_num": "15686", "destination_station": "蕊市", "date": "2018年02月21日11:197", "ticket_rates": "￥65.57", "seat_category": "软卧代软座", "name": "自付"}

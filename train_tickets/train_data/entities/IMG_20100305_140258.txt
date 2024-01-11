@@ -1,0 +1,1 @@
+{"ticket_num": "0091906", "starting_station": "广州南站", "train_num": "C7251", "destination_station": "江门东站", "date": "2017年12月01日15:23:", "ticket_rates": "￥40.0%", "seat_category": "二等摩", "name": "登远"}

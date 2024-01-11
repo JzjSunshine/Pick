@@ -1,0 +1,1 @@
+{"ticket_num": "G059039", "starting_station": "杭州东站", "train_num": "G40", "destination_station": "北京南站", "date": "2017年12月17日 15:12开", "ticket_rates": "￥538.5元", "seat_category": "二等座", "name": "口君婷"}

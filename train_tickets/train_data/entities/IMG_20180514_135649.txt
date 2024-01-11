@@ -1,0 +1,1 @@
+{"ticket_num": "001G041357", "starting_station": "郑州东站", "train_num": "G364", "destination_station": "石家庄站", "date": "2017年12月06日10:23开", "ticket_rates": "￥189.5元", "seat_category": "二等座", "name": "洪磊"}

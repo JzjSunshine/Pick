@@ -1,0 +1,1 @@
+{"ticket_num": "P027557", "starting_station": "石家庄站", "train_num": "G362", "destination_station": "北京西站", "date": "2017*119208 11:10科", "ticket_rates": "￥205.5%", "seat_category": "一等密", "name": "二级"}

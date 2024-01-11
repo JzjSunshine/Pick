@@ -1,0 +1,1 @@
+{"ticket_num": "Z83H082614", "starting_station": "南京南站", "train_num": "G9483", "destination_station": "杭州东站", "date": "2017年10月05日16:54开", "ticket_rates": "￥198.0元", "seat_category": "一等座", "name": "画文荣"}

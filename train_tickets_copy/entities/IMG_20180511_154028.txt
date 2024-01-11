@@ -1,0 +1,1 @@
+{"ticket_num": "S022629", "starting_station": "北京站", "train_num": "K285", "destination_station": "烟台站", "date": "2017年09月15日16:35开", "ticket_rates": "￥230.5元", "seat_category": "", "name": "二梦菲"}

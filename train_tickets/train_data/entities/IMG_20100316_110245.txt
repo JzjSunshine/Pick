@@ -1,0 +1,1 @@
+{"ticket_num": "003K011640", "starting_station": "郑州东站", "train_num": "G82", "destination_station": "北京西站", "date": "2018年02月19日1么:48开", "ticket_rates": "￥309.0元", "seat_category": "二等座", "name": "6.98 11.18.10"}

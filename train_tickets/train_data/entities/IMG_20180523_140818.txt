@@ -1,0 +1,1 @@
+{"ticket_num": "K059123", "starting_station": "北京西站", "train_num": "Z307", "destination_station": "菏泽站", "date": "2017年12月23日16:02开", "ticket_rates": "￥81.0元", "seat_category": "新空调硬座", "name": "广元"}

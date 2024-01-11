@@ -1,0 +1,1 @@
+{"ticket_num": "U052931", "starting_station": "蚌埠南站", "train_num": "G268", "destination_station": "北京南站", "date": "2017年08月28日14:01开", "ticket_rates": "￥374.0元", "seat_category": "二等座", "name": "炎炎"}

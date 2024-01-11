@@ -1,0 +1,1 @@
+{"ticket_num": "G093430", "starting_station": "曲阜东站", "train_num": "G132", "destination_station": "北京南站", "date": "2018年02月04日15:49开", "ticket_rates": "￥409.0元", "seat_category": "一等座", "name": "超"}

@@ -1,0 +1,1 @@
+{"ticket_num": "5086727", "starting_station": "北京西站", "train_num": "0511", "destination_station": "郑州东郑", "date": "2017*12月06日09:275", "ticket_rates": "￥475.0%", "seat_category": "一专用", "name": "二图"}

@@ -1,0 +1,1 @@
+{"ticket_num": "7074913", "starting_station": "北京南站", "train_num": "G7", "destination_station": "上海虹桥派", "date": "2017*12月11日19:005", "ticket_rates": "￥553.0元", "seat_category": "二事强", "name": "医疗机"}

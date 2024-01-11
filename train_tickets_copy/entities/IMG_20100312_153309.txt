@@ -1,0 +1,1 @@
+{"ticket_num": "J050925", "starting_station": "深圳北站", "train_num": "D928", "destination_station": "北京西站", "date": "2018年01月05日19:55号", "ticket_rates": "￥1190.0无", "seat_category": "动卧", "name": "，检"}

@@ -1,0 +1,1 @@
+{"ticket_num": "F075233", "starting_station": "邵阳北站", "train_num": "01322", "destination_station": "长沙南站", "date": "2018年02月20日 11:45日", "ticket_rates": "￥8753", "seat_category": "二等塞", "name": "橙"}

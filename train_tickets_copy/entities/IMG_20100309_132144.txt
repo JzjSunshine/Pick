@@ -1,0 +1,1 @@
+{"ticket_num": "J007140", "starting_station": "北京南站", "train_num": "D6655", "destination_station": "白洋淀站", "date": "2018年03月20日08:08开", "ticket_rates": "￥60.5元", "seat_category": "一等座", "name": "西药光"}

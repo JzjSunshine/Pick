@@ -1,0 +1,1 @@
+{"ticket_num": "Q091214", "starting_station": "吉安站", "train_num": "7147", "destination_station": "赣州站", "date": "2017年10月02日07:23开", "ticket_rates": "￥82.5元", "seat_category": "新空调硬卧", "name": "有宁"}

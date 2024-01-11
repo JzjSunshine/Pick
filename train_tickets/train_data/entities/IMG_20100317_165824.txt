@@ -1,0 +1,1 @@
+{"ticket_num": "2032490", "starting_station": "北京西就", "train_num": "G81", "destination_station": "石家庄站", "date": "2018年03月29日09:00东", "ticket_rates": "￥1285元", "seat_category": "二等度", "name": "一笑"}

@@ -1,0 +1,4 @@
+company	SANYU STATIONERY SHOP,company
+address	NO. 31G&33G\, JALAN SETIA INDAH X \,U13/X,address
+total	8.70,
+date	15/07/2017,d

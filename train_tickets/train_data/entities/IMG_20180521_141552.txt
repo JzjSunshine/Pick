@@ -1,0 +1,1 @@
+{"ticket_num": "NO88817", "starting_station": "铜仁南站", "train_num": "G2333", "destination_station": "贵阳北站", "date": "2017年11月28日07:58开", "ticket_rates": "￥206.5元", "seat_category": "一等座", "name": "鸣"}

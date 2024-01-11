@@ -1,0 +1,1 @@
+{"ticket_num": "Z042649", "starting_station": "北京南站", "train_num": "Gll5", "destination_station": "天津南站", "date": "2018年02月13日09:20开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "远知"}

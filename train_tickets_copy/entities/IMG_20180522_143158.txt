@@ -1,0 +1,1 @@
+{"ticket_num": "G064790", "starting_station": "南昌西站", "train_num": "0492", "destination_station": "北京西站", "date": "2018年02月23日14:457", "ticket_rates": "￥627.5元", "seat_category": "二等座", "name": "1洪敏"}

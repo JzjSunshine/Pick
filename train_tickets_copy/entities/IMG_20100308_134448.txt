@@ -1,0 +1,1 @@
+{"ticket_num": "EO44008", "starting_station": "惠州站", "train_num": "K437", "destination_station": "东莞东站", "date": "2017年11月21日20:20开", "ticket_rates": "￥17.5元", "seat_category": "新空调硬座", "name": "下文治"}

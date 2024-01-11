@@ -1,0 +1,1 @@
+{"ticket_num": "3T081379", "starting_station": "南京站", "train_num": "G7007", "destination_station": "苏州站", "date": "2017年12月01日10:00开", "ticket_rates": "￥159.5元", "seat_category": "一等座", "name": "脚茵琪"}

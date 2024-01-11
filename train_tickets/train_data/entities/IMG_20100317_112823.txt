@@ -1,0 +1,1 @@
+{"ticket_num": "P076523", "starting_station": "北京西站", "train_num": "Z49", "destination_station": "重庆北站", "date": "2018年02月14日11:28开", "ticket_rates": "Y389.0元", "seat_category": "", "name": "雪露"}

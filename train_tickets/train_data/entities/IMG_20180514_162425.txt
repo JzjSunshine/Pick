@@ -1,0 +1,1 @@
+{"ticket_num": "N013021", "starting_station": "北京西站", "train_num": "G403", "destination_station": "石家庄站", "date": "2018年01月10日10:05分", "ticket_rates": "￥206.5元", "seat_category": "--等座", "name": "林"}

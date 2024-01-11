@@ -1,0 +1,1 @@
+{"ticket_num": "A048577", "starting_station": "北京西站", "train_num": "G89", "destination_station": "郑州东站", "date": "2017年12月18日06:53开", "ticket_rates": "￥495.0元", "seat_category": "一等座", "name": "口晓鹏"}

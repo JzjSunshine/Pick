@@ -1,0 +1,1 @@
+{"ticket_num": "V073268", "starting_station": "太原南站", "train_num": "D2004", "destination_station": "阳泉北站", "date": "2017年11月13日11:09日", "ticket_rates": "￥45.5元", "seat_category": "一等座", "name": "博堃"}

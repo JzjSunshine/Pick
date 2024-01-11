@@ -1,0 +1,1 @@
+{"ticket_num": "P023844", "starting_station": "厦门站", "train_num": "Z308", "destination_station": "北京西站", "date": "2018年02月25日17:25开", "ticket_rates": "￥421.0元", "seat_category": "新空调硬卧", "name": "国钟航"}

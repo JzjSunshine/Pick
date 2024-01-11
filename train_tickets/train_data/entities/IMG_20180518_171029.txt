@@ -1,0 +1,1 @@
+{"ticket_num": "102L000316", "starting_station": "武汉站", "train_num": "G492", "destination_station": "北京西站", "date": "2017年10月15日17:28开", "ticket_rates": "￥520.5元", "seat_category": "二等座", "name": "璇"}

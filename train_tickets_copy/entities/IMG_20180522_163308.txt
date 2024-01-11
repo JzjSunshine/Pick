@@ -1,0 +1,1 @@
+{"ticket_num": "52A031664", "starting_station": "郑州西站", "train_num": "G672", "destination_station": "北京西站", "date": "2018年01月12日11:14开", "ticket_rates": "￥326.5元", "seat_category": "二等座", "name": "登晓旭"}

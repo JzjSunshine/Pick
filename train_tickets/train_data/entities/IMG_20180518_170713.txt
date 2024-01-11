@@ -1,0 +1,1 @@
+{"ticket_num": "E082466", "starting_station": "邢台站", "train_num": "K820", "destination_station": "石家庄站", "date": "2017年10月09日17:00开", "ticket_rates": "￥16.5元", "seat_category": "新空调硬座", "name": "国立芳"}

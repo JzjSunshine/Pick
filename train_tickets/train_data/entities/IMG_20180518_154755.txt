@@ -1,0 +1,1 @@
+{"ticket_num": "L079424", "starting_station": "乐山站", "train_num": "C6310", "destination_station": "江 油站", "date": "2017年10月08日14:07开", "ticket_rates": "￥115.0元", "seat_category": "二等座", "name": "丁昶"}

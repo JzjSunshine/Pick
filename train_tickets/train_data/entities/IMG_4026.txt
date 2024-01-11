@@ -1,0 +1,1 @@
+{"ticket_num": "T008036", "starting_station": "太原南站", "train_num": "G92", "destination_station": "北京西站", "date": "2018年03月09日08:19开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "峥"}

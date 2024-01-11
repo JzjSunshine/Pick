@@ -1,0 +1,1 @@
+{"ticket_num": "G068619", "starting_station": "于家堡站", "train_num": "C2588", "destination_station": "北京南站", "date": "2018年01月01日14:49开", "ticket_rates": "￥66.5元", "seat_category": "二等座", "name": "菲"}

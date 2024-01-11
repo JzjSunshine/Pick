@@ -1,0 +1,1 @@
+{"ticket_num": "R007125", "starting_station": "合肥达", "train_num": "164", "destination_station": "北京站", "date": "2017*12月08日18:35丶", "ticket_rates": "￥39853", "seat_category": "新空调软静", "name": "中国 银 中俄（薄）"}

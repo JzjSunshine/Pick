@@ -1,0 +1,1 @@
+{"ticket_num": "R027226", "starting_station": "无锡站", "train_num": "G7021", "destination_station": "上海站", "date": "2017年11月23日17:57开", "ticket_rates": "￥59.5元", "seat_category": "二等座", "name": "丁建芳"}

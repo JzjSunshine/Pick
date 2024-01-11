@@ -1,0 +1,7 @@
+company	LIGHTROOM GALLERY SDN BHD,company
+address	NO: 28\, JALAN ASTANA 1C,address
+address	BANDAR BUKIT RAJA\, 41050,address
+address	KLANG SELANGOR D. E\, MALAYSIA,address
+date	20/11/2017,
+date	20/11/2017
+date	20/11/2017

@@ -1,0 +1,1 @@
+{"ticket_num": "G056030", "starting_station": "北京南站", "train_num": "C2103", "destination_station": "天津站", "date": "2018年02月10日22:18开", "ticket_rates": "¥54.5元", "seat_category": "二等座", "name": "秀斌"}

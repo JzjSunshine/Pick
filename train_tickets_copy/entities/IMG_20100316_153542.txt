@@ -1,0 +1,1 @@
+{"ticket_num": "Y067208", "starting_station": "深圳站", "train_num": "07018", "destination_station": "广州东站", "date": "2018 01月03日16:13N", "ticket_rates": "479.5%", "seat_category": "二等塞", "name": "丁紫输"}

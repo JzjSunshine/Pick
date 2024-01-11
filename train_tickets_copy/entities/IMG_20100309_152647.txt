@@ -1,0 +1,1 @@
+{"ticket_num": "Z54H006881", "starting_station": "杭州东站", "train_num": "01390", "destination_station": "开封北京", "date": "2017*09727016527", "ticket_rates": "￥673.5元", "seat_category": "一等座", "name": "输"}

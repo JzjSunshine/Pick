@@ -1,0 +1,1 @@
+{"ticket_num": "J040480", "starting_station": "天津站", "train_num": "C2066", "destination_station": "北京南郊", "date": "2017*11月16日17:06开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "国历义"}

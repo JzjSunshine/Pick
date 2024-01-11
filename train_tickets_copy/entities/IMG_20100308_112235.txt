@@ -1,0 +1,1 @@
+{"ticket_num": "T019259", "starting_station": "北京西站", "train_num": "G609", "destination_station": "阳泉北站", "date": "2018年01月30日11:33开", "ticket_rates": "￥242.5元", "seat_category": "一等座", "name": "国羽强"}

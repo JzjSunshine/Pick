@@ -1,0 +1,1 @@
+{"ticket_num": "T090563", "starting_station": "广州南站", "train_num": "D904", "destination_station": "北京西站", "date": "2018*02月25日20:20开", "ticket_rates": "￥1450.0元", "seat_category": "动卧", "name": "画蔚"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z20070984", "starting_station": "铜陵站", "train_num": "G4908", "destination_station": "无为站", "date": "17:28开", "ticket_rates": "￥25.5元", "seat_category": "二等座", "name": "I昶"}

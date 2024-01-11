@@ -1,0 +1,1 @@
+{"ticket_num": "P025608", "starting_station": "北京西站", "train_num": "G405", "destination_station": "郑州东站", "date": "2017年12月19日10:057", "ticket_rates": "￥495.0元", "seat_category": "一等座", "name": "二劳"}

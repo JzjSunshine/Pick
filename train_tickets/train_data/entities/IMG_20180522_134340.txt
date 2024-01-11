@@ -1,0 +1,1 @@
+{"ticket_num": "U074501", "starting_station": "北京西站", "train_num": "G625", "destination_station": "太原南站", "date": "2018年02月23日20:05开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "非忠刚"}

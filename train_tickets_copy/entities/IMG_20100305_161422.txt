@@ -1,0 +1,1 @@
+{"ticket_num": "216H044943", "starting_station": "西安站", "train_num": "K1298", "destination_station": "长沙站", "date": "2018年01月100 12:18开", "ticket_rates": "￥268.5元", "seat_category": "新空调硬卧", "name": "雪亮"}

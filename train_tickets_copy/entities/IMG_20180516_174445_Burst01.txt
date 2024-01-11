@@ -1,0 +1,1 @@
+{"ticket_num": "R020443", "starting_station": "广州南站", "train_num": "C7651", "destination_station": "珠海站", "date": "2017年12月01日13:00开", "ticket_rates": "￥70.0元", "seat_category": "二等座", "name": "l"}

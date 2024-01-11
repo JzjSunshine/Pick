@@ -1,0 +1,1 @@
+{"ticket_num": "Z41V073389", "starting_station": "上海虹桥站", "train_num": "G7351", "destination_station": "杭州站", "date": "2018年02月07日10:08开", "ticket_rates": "￥77.5元", "seat_category": "二等座", "name": "志斌"}

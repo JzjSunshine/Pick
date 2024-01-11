@@ -1,0 +1,1 @@
+{"ticket_num": "T003857", "starting_station": "北京西站", "train_num": "K4159", "destination_station": "安庆站", "date": "2018年02月13日23:56开", "ticket_rates": "¥440.5元", "seat_category": "新空调软卧", "name": "，琛琛"}

@@ -1,0 +1,1 @@
+{"ticket_num": "T046669", "starting_station": "沈阳北站", "train_num": "K1572", "destination_station": "西安南站", "date": "2018年01月28日15:59开", "ticket_rates": "￥436.0元", "seat_category": "新空调硬卧", "name": "亮"}

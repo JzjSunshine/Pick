@@ -1,0 +1,1 @@
+{"ticket_num": "U092791", "starting_station": "北京南站", "train_num": "G11", "destination_station": "南京南站", "date": "2018年01月08日08:00开", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "些强"}

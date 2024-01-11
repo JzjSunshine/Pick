@@ -1,0 +1,1 @@
+{"ticket_num": "106C049962", "starting_station": "西安北站", "train_num": "Ge资", "destination_station": "北京西％", "date": "2017*11617a13:207", "ticket_rates": "￥824.5%", "seat_category": "一篇座", "name": "二晓桐"}

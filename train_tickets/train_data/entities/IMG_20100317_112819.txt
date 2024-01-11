@@ -1,0 +1,1 @@
+{"ticket_num": "M003021", "starting_station": "重庆北站", "train_num": "Z4", "destination_station": "北京西站", "date": "2018年02月24日15:08开", "ticket_rates": "￥403.0元", "seat_category": "新空调硬卧", "name": "雪露"}

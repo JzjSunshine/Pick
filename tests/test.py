@@ -154,6 +154,7 @@ def test_metrics():
 #    documents.MAX_BOXES_NUM * documents.MAX_TRANSCRIPT_LEN
 
 if __name__ == '__main__':
+    print("test script")
     # test_glcn_model()
     test_model()
     # test_resnet()

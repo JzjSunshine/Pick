@@ -1,0 +1,1 @@
+{"ticket_num": "S013465", "starting_station": "厦门北站", "train_num": "D3333", "destination_station": "深圳北站", "date": "2018年04月02日08:26开", "ticket_rates": "￥180.0元", "seat_category": "二等座", "name": "国蔓青"}

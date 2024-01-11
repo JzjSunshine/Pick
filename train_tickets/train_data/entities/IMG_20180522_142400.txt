@@ -1,0 +1,1 @@
+{"ticket_num": "S056718", "starting_station": "深圳市", "train_num": "C7190", "destination_station": "广州东站", "date": "2913年03月15日18:32新", "ticket_rates": "￥99.5元", "seat_category": "一零座", "name": "男"}

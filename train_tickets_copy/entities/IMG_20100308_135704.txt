@@ -1,0 +1,1 @@
+{"ticket_num": "E024.33", "starting_station": "北京西站", "train_num": "G309", "destination_station": "荆州站", "date": "2017年10月05日08:23开", "ticket_rates": "￥580.0元", "seat_category": "二等座", "name": "宣存超"}

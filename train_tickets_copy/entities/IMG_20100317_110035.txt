@@ -1,0 +1,1 @@
+{"ticket_num": "F094917", "starting_station": "北京南站", "train_num": "C2039", "destination_station": "天津站", "date": "2017年12月20日10:48开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "，仲璞"}

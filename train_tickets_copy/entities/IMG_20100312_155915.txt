@@ -1,0 +1,1 @@
+{"ticket_num": "Z25K009970", "starting_station": "上海虹桥站", "train_num": "G7349", "destination_station": "杭州东站", "date": "2017年12月16日09:10开", "ticket_rates": "￥117.0元", "seat_category": "一等座", "name": "志兴"}

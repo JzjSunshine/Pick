@@ -1,0 +1,1 @@
+{"ticket_num": "0034423", "starting_station": "北京站", "train_num": "D23", "destination_station": "长春站", "date": "2018年02月12日15:33开", "ticket_rates": "￥267.5元", "seat_category": "二等座", "name": "佳宁"}

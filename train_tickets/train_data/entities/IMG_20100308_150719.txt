@@ -1,0 +1,1 @@
+{"ticket_num": "W018742", "starting_station": "保定东站", "train_num": "G604", "destination_station": "北京西站", "date": "2017年12月22日09:13开", "ticket_rates": "￥101.5元", "seat_category": "一等座", "name": "曜峥"}

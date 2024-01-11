@@ -1,0 +1,82 @@
+0,110,109,185,109,185,124,110,124,Department:,question
+1,109,147,158,147,158,161,109,161,System:,question
+2,112,205,127,205,127,220,112,220,x,answer
+3,207,127,236,127,236,138,207,138,7970,answer
+4,271,176,289,176,289,190,271,190,x,answer
+5,462,189,476,189,476,202,462,202,X,answer
+6,480,122,523,122,523,137,480,137,4/20/98,answer
+7,482,102,528,102,528,117,482,117,4/17/98,answer
+8,480,175,536,175,536,188,480,188,Immediate,question
+9,483,189,510,189,510,200,483,200,High,question
+10,480,201,523,201,523,214,480,214,Medium,question
+11,482,216,506,216,506,227,482,227,Low,question
+12,482,229,511,229,511,240,482,240,Defer,question
+13,511,155,581,155,581,169,511,169,PRIORITY,header
+14,408,712,451,712,451,726,408,726,designed,other
+15,99,848,297,848,297,855,99,855,,other
+16,257,13,467,13,467,49,257,49,MIS PROJECT REQUEST PART I - CLIENT REQUEST,header
+17,109,74,193,74,193,90,109,90,Requested by:,question
+18,200,73,294,73,294,88,200,88,Karl Hutchison,answer
+19,384,71,482,71,482,85,384,85,Project Number:,question
+20,485,70,573,70,573,85,485,85,(assigned by MIS),answer
+21,196,108,251,108,251,122,196,122,BD & SS,answer
+22,109,127,203,127,203,141,109,141,Phone Number:,question
+23,384,103,481,103,481,119,384,119,Date Submitted:,question
+24,384,123,474,123,474,137,384,137,Date Required:,question
+25,130,162,238,162,238,178,130,178,REQUEST TYPE,header
+26,307,159,412,159,412,173,307,173,REASON CODE,header
+27,131,180,217,180,217,192,131,192,1. Enhancement,question
+28,133,194,215,194,215,206,133,206,2. Maintenance,question
+29,135,207,243,207,243,221,135,221,3. Special Processing,question
+30,133,221,187,221,187,234,133,234,4. Ad Hoc,question
+31,131,235,205,235,205,249,131,249,5. Emergency,question
+32,296,177,443,177,443,190,296,190,1. Productivity Improvement,question
+33,295,190,420,190,420,204,295,204,2. Return On Investment,question
+34,293,204,398,204,398,218,293,218,3. Customer Impact,question
+35,293,216,440,216,440,231,293,231,4. Government Requirement,question
+36,295,232,394,232,394,245,295,245,5. Business Change,question
+37,295,244,377,244,377,259,295,259,6. System Error,question
+38,296,258,399,258,399,273,296,273,7. Procedural Error,question
+39,110,292,267,292,267,307,110,307,PROBLEM DEFINITION,header
+40,109,310,226,310,226,324,109,324,Description of Request:,question
+41,109,318,606,318,606,352,109,352,Please run job FRMRXUM2 for GPC, Misty, and Kool against file b:\common\khutchi\r892unm.lst. Please place output in the same directory.,answer
+42,110,406,211,406,211,421,110,421,Reason for Request:,question
+43,109,430,536,430,536,447,109,447,Calculation of 1997 STR volumes for these brands for allocation of Period 2A budgets.,answer
+44,110,506,254,506,254,523,110,523,Request Authorized By:,question
+45,309,520,393,520,393,537,309,537,Karl Hutchison,answer
+46,98,588,191,588,191,603,98,603,REQUEST TYPE:,header
+47,387,584,476,584,476,599,387,599,REASON CODE:,header
+48,101,782,267,782,267,797,101,797,REQUEST AUTHORIZED BY,question
+49,98,603,196,603,196,616,98,616,1. Enhancement,question
+50,198,602,347,602,347,615,198,615,productivity improvement, new,other
+51,119,615,279,615,279,630,119,630,functionality, nice to have feature,other
+52,98,630,193,630,193,644,98,644,2. Maintenance-,question
+53,194,628,371,628,371,642,194,642,fix program error new business need,other
+54,98,645,221,645,221,658,98,658,3. Special Processing,question
+55,222,642,376,642,376,656,222,656,high volume file maintenance or,other
+56,120,656,376,656,376,672,120,672,data correction which is not part of normal processing,other
+57,99,672,167,672,167,686,99,686,4. Ad Hoc-,question
+58,169,672,369,672,369,686,169,686,reporting requirement which is not part of,other
+59,120,687,208,687,208,700,120,700,normal processing,other
+60,99,701,186,701,186,714,99,714,5. Emergency-,question
+61,187,700,344,700,344,714,187,714,application or technology failure,other
+62,388,599,546,599,546,613,388,613,1. Productivity Improvement,question
+63,387,612,522,612,522,627,387,627,2. Return on Investment-,question
+64,388,627,502,627,502,641,388,641,3. Customer Impact,question
+65,524,612,592,612,592,625,524,625,dollar savings,other
+66,547,596,611,596,611,610,547,610,time savings,other
+67,503,624,621,624,621,638,503,638,requested change affects,other
+68,408,640,535,640,535,654,408,654,B&W's external customers,other
+69,388,655,546,655,546,669,388,669,4. Government Requirement,question
+70,547,652,622,652,622,667,547,667,required by law,other
+71,388,668,500,668,500,683,388,683,5. Business Change,question
+72,501,668,600,668,600,682,501,682,change in a business,other
+73,409,682,604,682,604,698,409,698,process, or implement strategic direction,other
+74,388,697,483,697,483,711,388,711,6. System Error-,question
+75,486,696,617,696,617,711,486,711,System is not functioning as,other
+76,388,725,502,725,502,739,388,739,7. Procedural Error,question
+77,506,722,634,722,634,738,506,738,caused by user, scheduling,,other
+78,409,740,481,740,481,753,409,753,operations, etc.,other
+79,270,777,627,777,627,797,270,797,MUST BE AUTHORIZED BY THE DEPARTMENT DIRECTOR OR THE,answer
+80,101,793,621,793,621,810,101,810,DESIGNATED SYSTEM OWNER BEFORE SUBMISSION TO THE MIS CLIENT SYSTEMS MANAGER.,answer
+81,0,954,232,954,232,982,0,982,12009596 PRODUCED FROM B&W WEB SITE,other

@@ -1,0 +1,1 @@
+{"ticket_num": "216.4943", "starting_station": "北京西站", "train_num": "T41", "destination_station": "西安站", "date": "2018年01月07日14:22开", "ticket_rates": "￥268.5元", "seat_category": "新空调硬卧", "name": "¥亮"}

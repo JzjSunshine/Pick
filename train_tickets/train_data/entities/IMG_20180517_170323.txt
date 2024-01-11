@@ -1,0 +1,1 @@
+{"ticket_num": "H047397", "starting_station": "大同站", "train_num": "K891", "destination_station": "石家庄北站", "date": "2017年10月03日12:00元", "ticket_rates": "", "seat_category": "新空调硬静", "name": "丁雪洲"}

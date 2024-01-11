@@ -1,0 +1,1 @@
+{"ticket_num": "E043087", "starting_station": "吉林站", "train_num": "G240", "destination_station": "北京南站", "date": "2018年03月23日10:32#", "ticket_rates": "￥469.5元", "seat_category": "二等座", "name": "环宇"}

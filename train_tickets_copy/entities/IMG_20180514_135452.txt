@@ -1,0 +1,1 @@
+{"ticket_num": "5A079034", "starting_station": "合肥南站", "train_num": "G302", "destination_station": "蚌埠南站", "date": "Benghunan", "ticket_rates": "￥70.0元", "seat_category": "二等座", "name": "凯"}

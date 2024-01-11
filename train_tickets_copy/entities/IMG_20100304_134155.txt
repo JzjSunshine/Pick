@@ -1,0 +1,1 @@
+{"ticket_num": "Z126F001219", "starting_station": "上海虹桥站", "train_num": "G212", "destination_station": "南京南站", "date": "2018年03月10日08:43开", "ticket_rates": "￥134.5元", "seat_category": "二等座", "name": "长冬"}

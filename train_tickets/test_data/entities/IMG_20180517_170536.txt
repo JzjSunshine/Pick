@@ -1,0 +1,1 @@
+{"ticket_num": "R008070", "starting_station": "\u961c\u65b0\u5357\u7ad9", "train_num": "K7353", "destination_station": "\u5927\u8fde\u7ad9", "date": "2017\u5e7410\u670806\u65e501:394", "ticket_rates": "\uffe578.0\u5143", "seat_category": "\u65b0\u7a7a\u8c03\u786c\u5e94", "name": "\u5a9b\u742a"}

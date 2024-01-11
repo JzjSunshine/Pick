@@ -1,0 +1,1 @@
+{"ticket_num": "G047109", "starting_station": "深圳站", "train_num": "C7038", "destination_station": "广州东站", "date": "2018年01月31日17:38开", "ticket_rates": "¥79.5元", "seat_category": "二等座", "name": "昭希"}

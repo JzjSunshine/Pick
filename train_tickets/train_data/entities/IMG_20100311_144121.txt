@@ -1,0 +1,1 @@
+{"ticket_num": "21038066705", "starting_station": "南京南路", "train_num": "68", "destination_station": "北京南站", "date": "2017年11月09日20:021", "ticket_rates": "￥443.35", "seat_category": "二等座", "name": "骨杨"}

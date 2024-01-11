@@ -1,0 +1,1 @@
+{"ticket_num": "053A017466", "starting_station": "郑州东站", "train_num": "G808", "destination_station": "北京西站", "date": "2018年01月01日19:061", "ticket_rates": "￥309.0元", "seat_category": "二等座", "name": "服令涛"}

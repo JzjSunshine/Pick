@@ -134,7 +134,6 @@ You can test from a previously saved checkpoint by:
 
 新增 test_only
 
-
 ## Customization
 
 ### Training custom datasets
@@ -247,3 +246,11 @@ This project structure takes example by [PyTorch Template Project](https://githu
 # SORIE 训练示意
 
 [SORIE COLAB](https://medium.com/analytics-vidhya/extracting-structured-data-from-invoice-96cf5e548e40#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjJkOWE1ZWY1YjEyNjIzYzkxNjcxYTcwOTNjYjMyMzMzM2NkMDdkMDkiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2ODQ3NjkzMzQsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwNTQ1NDUzOTE0NDE4NjQyNDEzNCIsImVtYWlsIjoianpqbGlhbmd4aWFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsIm5hbWUiOiJGZWxpeCBKaW5nIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FHTm15eFpQMThzNXNQbzhZTkxFN2E2LVpMbkI1bWVpR0RJYmwzOHI3UGJEPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IkZlbGl4IiwiZmFtaWx5X25hbWUiOiJKaW5nIiwiaWF0IjoxNjg0NzY5NjM0LCJleHAiOjE2ODQ3NzMyMzQsImp0aSI6ImFhY2RhMWY3NDlkZDdlMTQ5MzRiMDQxZDk2NWJmZjdkYmViMGVmMzcifQ.T3lTKaZBMD8Mbayp8GR8BVquak1Fe4uuIiOr_6LVo3S7aAeZm1ECYWfM9FZHKq-9Kgthe4XNGft06JcW8WjWzmbH7ZPuF5lL57n51oUdlqkSzsGUUwh0V4_fQe2Ftmvbih4ex18GZG_h4JoEQwZGcnW64PVOKGtBBU0mAcV0T4055wnXckMwMX_i9k2kG3vKlWYodeF7VIGOEmDCWi1MbaCXQk9IvoOVxjOuhtCfhHoY9PANpKg9CU32M4U8GDXft0AvAIRmxcmUDDHDuzJehQ9Brl1M7u2hittP5jp2G7l8K3hgt67IoKQfz3xec7ILpIcMrjkqwOrJBbuL2naCzg)
+
+可能遇到的问题
+
+[ImportError: /lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: ffi_type_uint32, version LIBFFI_BASE_7.0 · Issue #824 · stevenlovegrove/Pangolin (github.com)](https://github.com/stevenlovegrove/Pangolin/issues/824)
+
+更彻底的解决方法
+
+[ImportError: /lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: ffi_type_uint32, version LIBFFI_BASE_7.0 · Issue #1 · moymix/TaskMatrix (github.com)](https://github.com/moymix/TaskMatrix/issues/1)

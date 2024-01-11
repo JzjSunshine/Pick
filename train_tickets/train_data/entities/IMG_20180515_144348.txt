@@ -1,0 +1,1 @@
+{"ticket_num": "Z35N028301", "starting_station": "宁波站", "train_num": "G7501", "destination_station": "宁海站", "date": "2018年01月19日08:56开", "ticket_rates": "￥39.0元", "seat_category": "一等座", "name": "仁哲"}

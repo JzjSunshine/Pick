@@ -1,0 +1,1 @@
+{"ticket_num": "E090356", "starting_station": "济南站", "train_num": "G184", "destination_station": "北京南站", "date": "2017年09月03日12:18开", "ticket_rates": "￥194.5元", "seat_category": "二等座", "name": "家家元"}

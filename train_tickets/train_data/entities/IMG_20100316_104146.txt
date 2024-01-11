@@ -1,0 +1,1 @@
+{"ticket_num": "D055290", "starting_station": "北京南站", "train_num": "C2613", "destination_station": "天津西站", "date": "2018年03月03日18:06开", "ticket_rates": "¥54.5元", "seat_category": "二等座", "name": "海鹏"}

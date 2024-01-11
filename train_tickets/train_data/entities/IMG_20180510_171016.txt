@@ -1,0 +1,1 @@
+{"ticket_num": "088N021248", "starting_station": "宜昌东站", "train_num": "G556", "destination_station": "北京西站", "date": "2017年10月09日08:20开", "ticket_rates": "￥605.5元", "seat_category": "二等座", "name": "l_芳"}

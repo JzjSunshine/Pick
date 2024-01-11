@@ -1,0 +1,1 @@
+{"ticket_num": "H074726", "starting_station": "保定站", "train_num": "D6658", "destination_station": "北京南站", "date": "2018年03月30日16:20开", "ticket_rates": "￥82.5元", "seat_category": "一等座", "name": "二新武"}

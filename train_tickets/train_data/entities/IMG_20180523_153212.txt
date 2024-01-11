@@ -1,0 +1,1 @@
+{"ticket_num": "U036230", "starting_station": "太原南站", "train_num": "G626", "destination_station": "阳泉北站", "date": "2018年01月17日18:50开", "ticket_rates": "￥38.0元", "seat_category": "二等座", "name": "柬博堃"}

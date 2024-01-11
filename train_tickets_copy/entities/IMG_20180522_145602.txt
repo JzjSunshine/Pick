@@ -1,0 +1,1 @@
+{"ticket_num": "X007156", "starting_station": "北京西站", "train_num": "G623", "destination_station": "阳泉北站", "date": "2018年01月03日18:45开", "ticket_rates": "¥242.5元", "seat_category": "一等座", "name": "二朴一"}

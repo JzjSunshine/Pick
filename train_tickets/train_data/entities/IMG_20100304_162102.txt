@@ -1,0 +1,1 @@
+{"ticket_num": "X076167", "starting_station": "北京南站", "train_num": "C2585", "destination_station": "天津站", "date": "2018年01月17日10:27开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "雪"}

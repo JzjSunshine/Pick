@@ -1,0 +1,1 @@
+{"ticket_num": "R011896", "starting_station": "丹东站", "train_num": "G398", "destination_station": "北京南站", "date": "2018年02月25日07:037", "ticket_rates": "￥369.0.", "seat_category": "二等窟", "name": "湖华"}

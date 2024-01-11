@@ -1,0 +1,1 @@
+{"ticket_num": "U052518", "starting_station": "太原南路", "train_num": "G618", "destination_station": "北京西站", "date": "2018年03月07814:58开", "ticket_rates": "￥197.0%", "seat_category": "二等蹬", "name": "二月"}

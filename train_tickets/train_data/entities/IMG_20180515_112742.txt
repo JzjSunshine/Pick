@@ -1,0 +1,1 @@
+{"ticket_num": "0055846", "starting_station": "菏泽站", "train_num": "K1902", "destination_station": "北京站", "date": "2018402827014:337", "ticket_rates": "￥154.03", "seat_category": "新空调聂部", "name": "门兆法"}

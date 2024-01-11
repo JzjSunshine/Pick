@@ -1,0 +1,1 @@
+{"ticket_num": "0065672", "starting_station": "郑州站", "train_num": "G802", "destination_station": "北京西站", "date": "2018年03月15日07:41元", "ticket_rates": "￥315.0元", "seat_category": "二等座", "name": "燃"}

@@ -1,0 +1,1 @@
+{"ticket_num": "U052127", "starting_station": "太原南站", "train_num": "G624", "destination_station": "北京西站", "date": "2017年10月27日18:00开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "巍"}

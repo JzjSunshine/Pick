@@ -1,0 +1,1 @@
+{"ticket_num": "Z80B067200", "starting_station": "合肥南站", "train_num": "G28", "destination_station": "北京南站", "date": "2018年01月26日13:34开", "ticket_rates": "￥734.5元", "seat_category": "一等座", "name": "时魁"}

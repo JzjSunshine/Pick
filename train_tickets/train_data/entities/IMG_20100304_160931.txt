@@ -1,0 +1,1 @@
+{"ticket_num": "1820007569", "starting_station": "郑州东站", "train_num": "G430", "destination_station": "北京西站", "date": "2017年12月01日15:39开", "ticket_rates": "￥309.0元", "seat_category": "二等座", "name": "红扬"}

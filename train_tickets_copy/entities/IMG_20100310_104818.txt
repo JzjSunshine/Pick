@@ -1,0 +1,1 @@
+{"ticket_num": "S077626", "starting_station": "北京南站", "train_num": "D6657", "destination_station": "白洋淀站", "date": "2017年12月18日13:00手", "ticket_rates": "￥60.5元", "seat_category": "一等座", "name": "围暗"}

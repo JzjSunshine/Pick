@@ -1,0 +1,1 @@
+{"ticket_num": "R047801", "starting_station": "", "train_num": "G505", "destination_station": "石家庄站", "date": "2018年03月27日15:40开", "ticket_rates": "￥206.5元", "seat_category": "一等座", "name": "茵琪"}

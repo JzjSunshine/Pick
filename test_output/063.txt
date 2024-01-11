@@ -1,0 +1,5 @@
+company	PETRODELI ENTE
+address	LOT 485\,TMN LEMBAH KERAMAT,address
+address	JLN ULU KELANG .,other
+address	54200 KUALA LUMPUR,add
+total	INVOICE

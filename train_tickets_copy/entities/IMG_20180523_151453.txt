@@ -1,0 +1,1 @@
+{"ticket_num": "G062486", "starting_station": "北京西站", "train_num": "G4019", "destination_station": "西安北站", "date": "2018年02月09日17:52开", "ticket_rates": "￥515.5元", "seat_category": "二等座", "name": "雪淋"}

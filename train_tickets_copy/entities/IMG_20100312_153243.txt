@@ -1,0 +1,1 @@
+{"ticket_num": "E040148", "starting_station": "威海北站", "train_num": "C6552", "destination_station": "莱阳站", "date": "2018年01月14日07:18开", "ticket_rates": "￥45.0元", "seat_category": "二等座", "name": "雪辉"}

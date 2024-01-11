@@ -1,0 +1,1 @@
+{"ticket_num": "N014981", "starting_station": "大连站", "train_num": "z81", "destination_station": "北京站", "date": "2017年08月20日19:18开", "ticket_rates": "￥388.5元", "seat_category": "新空调软卧", "name": "静"}

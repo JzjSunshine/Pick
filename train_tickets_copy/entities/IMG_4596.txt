@@ -1,0 +1,1 @@
+{"ticket_num": "Z34M045585", "starting_station": "宁波站", "train_num": "G7600", "destination_station": "杭州东站", "date": "2018年01月08日15:56开", "ticket_rates": "￥120.0元", "seat_category": "一等座", "name": "晓鹏"}

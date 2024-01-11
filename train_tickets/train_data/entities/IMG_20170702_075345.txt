@@ -1,0 +1,1 @@
+{"ticket_num": "A029770", "starting_station": "大原南站", "train_num": "G612", "destination_station": "北京西路", "date": "2017*12NO50 11:437", "ticket_rates": "￥288.03", "seat_category": "--零户", "name": "铁华"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z70G049810", "starting_station": "合肥南站", "train_num": "", "destination_station": "北京南站", "date": "2018年01月18日18:17日", "ticket_rates": "￥435.0元", "seat_category": "二等座", "name": "响"}

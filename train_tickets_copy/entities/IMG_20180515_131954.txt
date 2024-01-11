@@ -1,0 +1,1 @@
+{"ticket_num": "43,32,KO41044", "starting_station": "济南西站", "train_num": "G4216", "destination_station": "北京南派", "date": "2018年02月22815:17开", "ticket_rates": "￥184.5元", "seat_category": "二等座", "name": "画言苍"}

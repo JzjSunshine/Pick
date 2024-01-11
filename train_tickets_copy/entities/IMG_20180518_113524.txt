@@ -1,0 +1,1 @@
+{"ticket_num": "B008620", "starting_station": "北京西站", "train_num": "D901", "destination_station": "深圳北站", "date": "2017年12月09日20:10开", "ticket_rates": "¥990.0元", "seat_category": "动卧", "name": "永明"}

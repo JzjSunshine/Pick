@@ -1,0 +1,1 @@
+{"ticket_num": "B050484", "starting_station": "济南站", "train_num": "D1612", "destination_station": "石家庄站", "date": "2U16年02月02日16:40开", "ticket_rates": "￥192.5元", "seat_category": "一等座", "name": "鹏"}

@@ -1,0 +1,1 @@
+{"ticket_num": "B005262", "starting_station": "洛阳龙门站", "train_num": "04038", "destination_station": "北京西站", "date": "", "ticket_rates": "￥368.0元", "seat_category": "二等座", "name": "鹏"}

@@ -1,0 +1,1 @@
+{"ticket_num": "A004857", "starting_station": "北京南站", "train_num": "G45", "destination_station": "徐州东站", "date": "2017年12月04日15:25开", "ticket_rates": "￥309.0元", "seat_category": "二等座", "name": "平方"}

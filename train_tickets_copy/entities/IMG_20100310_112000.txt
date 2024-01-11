@@ -1,0 +1,1 @@
+{"ticket_num": "A066537", "starting_station": "沈阳北站", "train_num": "G49", "destination_station": "长春西站", "date": "2017年11月10日15:35开", "ticket_rates": "¥136.5元", "seat_category": "二等座", "name": "丁翠平"}

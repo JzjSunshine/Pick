@@ -1,0 +1,1 @@
+{"ticket_num": "Z018708", "starting_station": "深圳站", "train_num": "C7086", "destination_station": "广州东站", "date": "2017年12月30日08:52开", "ticket_rates": "￥79.5元", "seat_category": "二等座", "name": "瑞景"}

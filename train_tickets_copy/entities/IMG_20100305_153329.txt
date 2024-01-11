@@ -1,0 +1,1 @@
+{"ticket_num": "V015449", "starting_station": "北京南站", "train_num": "D313", "destination_station": "南京站", "date": "2017年08月06日19:34开", "ticket_rates": "￥590.0元", "seat_category": "软卧", "name": "厢文博"}

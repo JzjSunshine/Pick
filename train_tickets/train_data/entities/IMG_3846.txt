@@ -1,0 +1,1 @@
+{"ticket_num": "2018478", "starting_station": "重庆北站", "train_num": "G9536", "destination_station": "成都东站", "date": "2018年01月04日18:40开", "ticket_rates": "￥154.0元", "seat_category": "二等座", "name": "俊杰"}

@@ -1,0 +1,1 @@
+{"ticket_num": "M035023", "starting_station": "北京西站", "train_num": "G405", "destination_station": "郑州东站", "date": "2018年03月13日 10:05开", "ticket_rates": "￥495.0元", "seat_category": "一等座", "name": "材梓坤"}

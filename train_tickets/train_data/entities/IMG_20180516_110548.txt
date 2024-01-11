@@ -1,0 +1,1 @@
+{"ticket_num": "F032947", "starting_station": "北京西站", "train_num": "G6741", "destination_station": "保定东站", "date": "2017*12月27日10:15川", "ticket_rates": "￥1015%", "seat_category": "一等座", "name": "二天琦"}

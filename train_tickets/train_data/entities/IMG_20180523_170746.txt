@@ -1,0 +1,1 @@
+{"ticket_num": "J062676", "starting_station": "上海虹桥站", "train_num": "G4", "destination_station": "北京南站", "date": "2018*03月21日14:00开", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "丁海龙"}

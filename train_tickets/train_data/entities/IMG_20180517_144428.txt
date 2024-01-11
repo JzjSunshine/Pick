@@ -1,0 +1,1 @@
+{"ticket_num": "R026665", "starting_station": "北京南站", "train_num": "G193", "destination_station": "青岛站", "date": "2017年09月15日14:46开", "ticket_rates": "二等座", "seat_category": "", "name": "妍"}

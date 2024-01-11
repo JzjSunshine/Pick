@@ -1,0 +1,1 @@
+{"ticket_num": "Z64N032985", "starting_station": "无锡新区站", "train_num": "G7057", "destination_station": "上海站", "date": "2017年08月11日15:41开", "ticket_rates": "￥84.5元", "seat_category": "一等座", "name": "二佳蕾"}

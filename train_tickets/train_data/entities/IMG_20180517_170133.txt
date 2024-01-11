@@ -1,0 +1,1 @@
+{"ticket_num": "028D045545", "starting_station": "许 昌", "train_num": "Z150", "destination_station": "北京西站", "date": "2017年10月05日14:18开", "ticket_rates": "￥178.0元", "seat_category": "新空调硬卧", "name": "志欢"}

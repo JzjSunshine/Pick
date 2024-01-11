@@ -1,0 +1,1 @@
+{"ticket_num": "Y034115", "starting_station": "上海站", "train_num": "G7070", "destination_station": "苏州站", "date": "2017年10月02日20:40开", "ticket_rates": "￥39.5元", "seat_category": "二等座", "name": "区拟阳"}

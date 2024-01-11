@@ -1,0 +1,1 @@
+{"ticket_num": "Z52K037857", "starting_station": "南京南站", "train_num": "G7245", "destination_station": "合肥南站", "date": "2017年11月23日13:42开", "ticket_rates": "￥72.0元", "seat_category": "一等座", "name": "凯"}

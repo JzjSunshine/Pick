@@ -1,0 +1,1 @@
+{"ticket_num": "S038915", "starting_station": "潍坊站", "train_num": "G187", "destination_station": "青岛站", "date": "2018年01月17日16:19开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "，洪磊"}

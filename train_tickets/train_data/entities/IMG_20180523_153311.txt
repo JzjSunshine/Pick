@@ -1,0 +1,1 @@
+{"ticket_num": "H022076", "starting_station": "北京西站", "train_num": "D20（71", "destination_station": "太原南站", "date": "2018年01月23日07:46开", "ticket_rates": "￥220.0元", "seat_category": "-等座", "name": "时堃"}

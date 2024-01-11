@@ -1,0 +1,1 @@
+{"ticket_num": "S074354", "starting_station": "北京西站", "train_num": "G6]5", "destination_station": "阳泉北站", "date": "2018年04月17日15:06开", "ticket_rates": "￥242.53", "seat_category": "一等座", "name": "二超"}

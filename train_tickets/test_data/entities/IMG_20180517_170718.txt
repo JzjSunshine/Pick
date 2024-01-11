@@ -1,0 +1,1 @@
+{"ticket_num": "Z13G048590", "starting_station": "\u7ecd\u5174\u5317\u7ad9", "train_num": "D3208", "destination_station": "\u676d\u5dde\u4e1c\u7ad9", "date": "2017\u5e7412\u670809\u65e516:26\u5f00", "ticket_rates": "\uffe515.0\u5143", "seat_category": "\u4e8c\u7b49\u5ea7", "name": "\u82d1\u5a9b"}

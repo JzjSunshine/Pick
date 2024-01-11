@@ -1,0 +1,1 @@
+{"ticket_num": "E070160", "starting_station": "北京西站", "train_num": "G505", "destination_station": "长沙南站", "date": "2018402月12日15:40开", "ticket_rates": "￥649.0元", "seat_category": "二等座", "name": "二翼羽"}

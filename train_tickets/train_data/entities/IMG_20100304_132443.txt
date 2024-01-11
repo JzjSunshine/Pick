@@ -1,0 +1,1 @@
+{"ticket_num": "R086762", "starting_station": "潍坊站", "train_num": "G184", "destination_station": "北京南站", "date": "2018年03月31日10:44开", "ticket_rates": "￥409.0元", "seat_category": "一等座", "name": "区红阳"}

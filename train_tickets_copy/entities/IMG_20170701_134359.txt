@@ -1,0 +1,1 @@
+{"ticket_num": "￥49329", "starting_station": "郑州东站", "train_num": "G1558", "destination_station": "邯郸东站", "date": "2017年12月01日15:57开", "ticket_rates": "¥108.5元", "seat_category": "二等座", "name": "二笑宇"}

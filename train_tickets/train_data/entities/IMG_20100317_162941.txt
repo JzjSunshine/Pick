@@ -1,0 +1,1 @@
+{"ticket_num": "Y079911", "starting_station": "北京南站", "train_num": "G395", "destination_station": "鞍山西站", "date": "2018-01月31日09:05:", "ticket_rates": "￥486.0元", "seat_category": "一等座", "name": "希"}

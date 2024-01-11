@@ -1,0 +1,1 @@
+{"ticket_num": "0069383", "starting_station": "石家庄X", "train_num": "G72", "destination_station": "北京西湖", "date": "2017421199519217:03:4", "ticket_rates": "￥128.3%", "seat_category": "二等密", "name": "播"}

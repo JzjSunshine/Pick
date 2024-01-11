@@ -1,0 +1,1 @@
+{"ticket_num": "N085944", "starting_station": "北京南站", "train_num": "Gl", "destination_station": "上海虹桥站", "date": "2017年11月14日09:00开", "ticket_rates": "￥933.0元", "seat_category": "一等座", "name": "硕"}

@@ -1,0 +1,1 @@
+{"ticket_num": "L046634", "starting_station": "北京西路", "train_num": "G669", "destination_station": "西安北站", "date": "2018年02月13日17:317", "ticket_rates": "￥515.5%", "seat_category": "二等座", "name": "南"}

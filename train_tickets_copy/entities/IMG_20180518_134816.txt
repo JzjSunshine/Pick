@@ -1,0 +1,1 @@
+{"ticket_num": "Z39F082226", "starting_station": "杭州东站", "train_num": "G7584", "destination_station": "苏州站", "date": "2018年01月18日17:55开", "ticket_rates": "￥111.5元", "seat_category": "二等座", "name": "国鸣"}

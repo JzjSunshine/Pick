@@ -1,0 +1,1 @@
+{"ticket_num": "R083147", "starting_station": "北京西站", "train_num": "G807", "destination_station": "郑州站", "date": "2017年12月13日20:00开", "ticket_rates": "￥315.0元", "seat_category": "二等座", "name": "雪娟"}

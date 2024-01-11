@@ -1,0 +1,1 @@
+{"ticket_num": "Z59M030796", "starting_station": "南京南站", "train_num": "G168", "destination_station": "北京南站", "date": "2018年01月23日13:23*", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "雪昌文"}

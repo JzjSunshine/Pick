@@ -1,0 +1,1 @@
+{"ticket_num": "Z57R092661", "starting_station": "南京南站", "train_num": "G16", "destination_station": "北京南站", "date": "2017年12月02日12:09日", "ticket_rates": "￥748.54", "seat_category": "东京市东方", "name": "义"}

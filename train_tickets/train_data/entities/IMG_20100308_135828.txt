@@ -1,0 +1,1 @@
+{"ticket_num": "0017263", "starting_station": "保定东站", "train_num": "G662", "destination_station": "北京西站", "date": "2017年12月19日15591", "ticket_rates": "￥1015%", "seat_category": "一等座", "name": "二周静"}

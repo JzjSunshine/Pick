@@ -1,0 +1,1 @@
+{"ticket_num": "G027200", "starting_station": "青岛站", "train_num": "G172", "destination_station": "天津西站", "date": "2017年12月01日09:01开", "ticket_rates": "￥269.0元", "seat_category": "二等座", "name": "些洋"}

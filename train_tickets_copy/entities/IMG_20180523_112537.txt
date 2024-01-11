@@ -1,0 +1,1 @@
+{"ticket_num": "M020924", "starting_station": "\u5929\u6d25\u7ad9", "train_num": "C2006", "destination_station": "\u5317\u4eac\u5357\u7ad9", "date": "2018\u5e7402\u670802\u65e510:39\u65e5", "ticket_rates": "\uffe565.5\u5143", "seat_category": "\u4e00\u7b49\u5ea7", "name": "\u68ee\u4f5f"}

@@ -1,0 +1,1 @@
+{"ticket_num": "M078936", "starting_station": "哈尔滨西站", "train_num": "G382", "destination_station": "北京南站", "date": "2017年11月21日16:22开", "ticket_rates": "￥834.0元", "seat_category": "一等座", "name": "超"}

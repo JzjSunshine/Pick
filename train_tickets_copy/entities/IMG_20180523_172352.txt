@@ -1,0 +1,1 @@
+{"ticket_num": "076D054144", "starting_station": "西安北站", "train_num": "G4020", "destination_station": "北京西站", "date": "2018年02月26日09:03开", "ticket_rates": "￥515.5元", "seat_category": "二等座", "name": "丁昱光"}

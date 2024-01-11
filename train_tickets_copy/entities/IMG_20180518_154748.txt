@@ -1,0 +1,1 @@
+{"ticket_num": "L079424", "starting_station": "双流机场站", "train_num": "C6305", "destination_station": "乐山站", "date": "12:41开", "ticket_rates": "￥46.0元", "seat_category": "二等座", "name": "筷"}

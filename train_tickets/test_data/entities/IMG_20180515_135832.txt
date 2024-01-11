@@ -1,0 +1,1 @@
+{"ticket_num": "114G009408", "starting_station": "\u4e0a\u6d77\u8679\u6865\u7ad9", "train_num": "G126", "destination_station": "\u5317\u4eac\u5357\u7ad9", "date": "2018\u5e7401\u670823\u65e511:10\u5f62", "ticket_rates": "\u00a5553.0\u5143", "seat_category": "\u4e8c\u7b49\u5ea7", "name": "\uff0c\u5cf0\u5cf0"}

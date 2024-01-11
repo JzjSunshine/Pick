@@ -1,0 +1,1 @@
+{"ticket_num": "Z122D095059", "starting_station": "上海虹桥站", "train_num": "Gl48", "destination_station": "北京南站", "date": "2018年01月19日15:30开", "ticket_rates": "￥933.0元", "seat_category": "一等座", "name": "脚菲"}

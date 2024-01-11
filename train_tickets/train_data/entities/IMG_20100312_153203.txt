@@ -1,0 +1,1 @@
+{"ticket_num": "E019787", "starting_station": "聊城站", "train_num": "2108", "destination_station": "北京西站", "date": "2017年09月26日09:36开", "ticket_rates": "￥62.5元", "seat_category": "新空调硬座", "name": "景文"}

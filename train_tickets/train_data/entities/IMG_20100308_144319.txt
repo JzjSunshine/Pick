@@ -1,0 +1,1 @@
+{"ticket_num": "(011851", "starting_station": "郑州站", "train_num": "G806", "destination_station": "北京西站", "date": "2017年09月17日13:41开", "ticket_rates": "￥315.0元", "seat_category": "二等座", "name": "素萍"}

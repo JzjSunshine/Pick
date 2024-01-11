@@ -1,0 +1,1 @@
+{"ticket_num": "T045866", "starting_station": "北京南站", "train_num": "G203", "destination_station": "济南西站", "date": "2017年09月15日18:28开", "ticket_rates": "￥314.5元", "seat_category": "一等座", "name": "文达"}

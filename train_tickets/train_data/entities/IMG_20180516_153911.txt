@@ -1,0 +1,1 @@
+{"ticket_num": "K054990", "starting_station": "大连北站", "train_num": "D35", "destination_station": "北京站", "date": "2017年10月08日10:34开", "ticket_rates": "￥261.0元", "seat_category": "二等座", "name": "，听昂"}

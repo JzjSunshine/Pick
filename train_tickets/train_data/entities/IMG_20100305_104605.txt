@@ -1,0 +1,1 @@
+{"ticket_num": "NO10207", "starting_station": "温州南站", "train_num": "D3301", "destination_station": "瑞安站", "date": "2017年10月04日17:10开", "ticket_rates": "￥13.0元", "seat_category": "一等座", "name": "峰"}

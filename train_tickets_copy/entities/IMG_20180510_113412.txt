@@ -1,0 +1,1 @@
+{"ticket_num": "G048949", "starting_station": "长春西站", "train_num": "G764", "destination_station": "沈阳站", "date": "2018年03月14日14:23开", "ticket_rates": "￥222.5元", "seat_category": "一等座", "name": "口明芳"}

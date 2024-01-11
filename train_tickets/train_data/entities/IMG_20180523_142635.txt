@@ -1,0 +1,1 @@
+{"ticket_num": "Z49A073525", "starting_station": "苏州北站", "train_num": "G122", "destination_station": "北京南站", "date": "2018年01月08日11:13*", "ticket_rates": "￥883.5元", "seat_category": "一峰魔", "name": "管理"}

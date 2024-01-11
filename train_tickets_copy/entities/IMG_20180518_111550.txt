@@ -1,0 +1,1 @@
+{"ticket_num": "K020453", "starting_station": "鞍山西站", "train_num": "G395", "destination_station": "北京南站", "date": "2018年01月25日18:07开", "ticket_rates": "￥486.0元", "seat_category": "一等座", "name": "亚伟"}

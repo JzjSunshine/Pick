@@ -1,0 +1,1 @@
+{"ticket_num": "R070411", "starting_station": "徐州东站", "train_num": "G112", "destination_station": "北京南站", "date": "2017年10月08日11:07开", "ticket_rates": "￥309.0元", "seat_category": "二等座", "name": "¥方"}

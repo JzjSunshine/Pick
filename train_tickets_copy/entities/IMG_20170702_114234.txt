@@ -1,0 +1,1 @@
+{"ticket_num": "NO71327", "starting_station": "北京西站", "train_num": "D927", "destination_station": "深圳北站", "date": "2017年11月03日20:25开", "ticket_rates": "￥756.0元", "seat_category": "二等座", "name": "志康"}

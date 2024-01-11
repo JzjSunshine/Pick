@@ -1,0 +1,1 @@
+{"ticket_num": "V016089", "starting_station": "北京武", "train_num": "D27", "destination_station": "哈尔滨西站", "date": "2018*02月10日15:15开", "ticket_rates": "￥306.5元", "seat_category": "二等座", "name": "舒涵"}

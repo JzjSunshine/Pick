@@ -1,0 +1,1 @@
+{"ticket_num": "N058927", "starting_station": "南宁东站", "train_num": "D8433", "destination_station": "钦州东站", "date": "2017年11月23日11:00]", "ticket_rates": "￥31.0元", "seat_category": "二等座", "name": "ll"}

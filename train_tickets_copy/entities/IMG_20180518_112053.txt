@@ -1,0 +1,1 @@
+{"ticket_num": "5E000060", "starting_station": "余姚站", "train_num": "Z32", "destination_station": "武昌站", "date": "2018年01月078 21:40开", "ticket_rates": "￥161.0元", "seat_category": "新空调硬卧", "name": "国文露"}

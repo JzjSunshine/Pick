@@ -1,0 +1,1 @@
+{"ticket_num": "Z154L022206", "starting_station": "义乌塔", "train_num": "G7591", "destination_station": "温州南站", "date": "2017年12月17日13:45开", "ticket_rates": "￥142.0元", "seat_category": "一等座", "name": "雪林"}

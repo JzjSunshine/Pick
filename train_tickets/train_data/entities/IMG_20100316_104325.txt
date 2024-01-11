@@ -1,0 +1,1 @@
+{"ticket_num": "R018623", "starting_station": "鞍", "train_num": "2550", "destination_station": "北京站", "date": "2018年02月20日22:58开", "ticket_rates": "￥159.0元", "seat_category": "新空调硬卧", "name": "雪琳"}

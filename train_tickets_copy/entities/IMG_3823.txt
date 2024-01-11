@@ -1,0 +1,1 @@
+{"ticket_num": "", "starting_station": "济南西站", "train_num": "G160", "destination_station": "北京南站", "date": "2018年03月16日22：08开", "ticket_rates": "￥3145元", "seat_category": "一等座", "name": "海县"}

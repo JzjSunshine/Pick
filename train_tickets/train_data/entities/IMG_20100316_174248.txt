@@ -1,0 +1,1 @@
+{"ticket_num": "U061488", "starting_station": "北京市", "train_num": "79", "destination_station": "杭州市", "date": "2017年12月28日19:08开", "ticket_rates": "￥351.0元", "seat_category": "新空调硬卧", "name": "雪婷婷"}

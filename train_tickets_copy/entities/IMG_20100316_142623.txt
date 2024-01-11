@@ -1,0 +1,1 @@
+{"ticket_num": "Z67Y000749", "starting_station": "上海虹桥站", "train_num": "G1349", "destination_station": "杭州东站", "date": "2018年03月08日10:48开", "ticket_rates": "￥117.0元", "seat_category": "一等座", "name": "娜"}

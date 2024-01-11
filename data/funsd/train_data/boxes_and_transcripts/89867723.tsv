@@ -1,0 +1,58 @@
+0,47,31,85,31,85,102,47,102,file,other
+1,135,78,187,78,187,93,135,93,PRODUCT,question
+2,598,81,627,81,627,96,598,96,JOB#,question
+3,286,623,310,623,310,634,286,634,yes,question
+4,286,637,310,637,310,648,286,648,yes,question
+5,229,645,346,645,346,676,229,676,,answer
+6,228,679,278,679,278,708,228,708,,answer
+7,219,708,293,708,293,785,219,785,,answer
+8,264,750,324,750,324,763,264,763,Director,question
+9,226,852,278,852,278,866,226,866,Manager,question
+10,204,813,373,813,373,904,204,904,,answer
+11,363,623,380,623,380,634,363,634,no,question
+12,366,637,380,637,380,648,366,648,no,question
+13,476,608,542,608,542,622,476,622,Facility:,question
+14,476,622,529,622,529,636,476,636,Agency:,question
+15,472,634,538,634,538,649,472,649,Incidence,question
+16,490,824,556,824,556,838,490,838,Facility:,question
+17,490,839,542,839,542,850,490,850,Agency:,question
+18,703,820,721,820,721,911,703,911,89867723,other
+19,535,10,567,10,567,25,535,25,DATE,question
+20,320,622,331,622,331,635,320,635,X,answer
+21,318,637,333,637,333,647,318,647,X,answer
+22,307,24,558,24,558,38,307,38,MARKETING RESEARCH PROJECT APPROVAL,header
+23,577,10,680,10,680,27,577,27,April 27, 1981,answer
+24,232,36,593,36,593,52,232,52,(To be filled out by Marketing Research Department),other
+25,203,82,289,82,289,97,203,97,New Products,answer
+26,370,70,424,70,424,95,370,95,PROJECT TITLE,question
+27,429,73,560,73,560,96,429,96,No Side Stream Smoke Focus Groups,answer
+28,634,80,700,80,700,98,634,98,5546/ 1481,answer
+29,135,108,753,108,753,127,135,127,Research Design (N, Cells, Elegibility, Design, Key Banner Breaks, Methodology, Cities),question
+30,123,158,678,158,678,190,123,190,Three Groups (1 male/ 2 female) will be conducted in Ridgewood, N. J. on May 7th to explore the NSS concept/ product.,other
+31,122,201,650,201,650,234,122,234,The groups will be comprised of random Reduced Tar smokers. No group will be over represented by brand, type or size of cigarettes.,other
+32,122,246,627,246,627,263,122,263,All smokers will be 18 years and over and smoke 10+ cigarettes per day.,other
+33,131,369,311,369,311,386,131,386,Key Criteria For Analysis,question
+34,122,402,686,402,686,419,122,419,To determine if the NSS concept/ product is viable based upon smokers reactions.,other
+35,131,471,275,471,275,487,131,487,Research Limitations,question
+36,122,504,571,504,571,523,122,523,Information from this exploratory research is directional only.,other
+37,251,591,296,591,296,606,251,606,$ 6.816,answer
+38,128,588,224,588,224,603,128,603,Cost Estimate,question
+39,128,617,267,617,267,648,128,648,+ - 10% Contingency Final Report Inc.,header
+40,126,659,215,659,215,676,126,676,Prepared by:,question
+41,127,689,213,689,213,706,127,706,Approved by,question
+42,126,749,259,749,259,766,126,766,Marketing Research,question
+43,127,793,236,793,236,808,127,808,Product Manager,question
+44,126,851,222,851,222,869,126,869,Group Product,question
+45,471,592,568,592,568,608,471,608,Research Firm,question
+46,584,591,703,591,703,609,584,609,Ruth Manko Assoc.,answer
+47,554,608,694,608,694,622,554,622,Suburban Associates,answer
+48,557,620,660,620,660,638,557,638,D' Arcy/ deGarmo,answer
+49,472,663,548,663,548,678,472,678,Length Int.,question
+50,472,690,549,690,549,707,472,707,# Open Ends,question
+51,469,719,535,719,535,736,469,736,# Banners,question
+52,469,747,715,747,715,765,469,765,Topline Oral presentation w/ o 5/ 18,other
+53,641,837,685,837,685,851,641,851,816. 00,answer
+54,624,823,685,823,685,836,624,836,1. 500. 00,answer
+55,622,807,685,807,685,822,622,822,$ 4. 500. 00,answer
+56,490,806,597,806,597,823,490,823,Moderators fee:,question
+57,468,791,737,791,737,811,468,811,Final Written presentation w/ o 5/ 25,other

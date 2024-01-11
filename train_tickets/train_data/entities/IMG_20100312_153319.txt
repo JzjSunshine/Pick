@@ -1,0 +1,1 @@
+{"ticket_num": "8081798", "starting_station": "陵水站", "train_num": "D7163", "destination_station": "三级数", "date": "2017年12月38日15:504", "ticket_rates": "￥230元", "seat_category": "二*士", "name": "·"}

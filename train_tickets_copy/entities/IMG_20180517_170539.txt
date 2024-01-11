@@ -1,0 +1,1 @@
+{"ticket_num": "Z13N025800", "starting_station": "上海虹桥站", "train_num": "D3125", "destination_station": "嘉善南站", "date": "2017年12月11日08:49H", "ticket_rates": "￥24.0元", "seat_category": "二等痤", "name": "磁"}

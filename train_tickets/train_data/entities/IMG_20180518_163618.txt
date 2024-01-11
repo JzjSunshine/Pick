@@ -1,0 +1,1 @@
+{"ticket_num": "U073634", "starting_station": "北京南站", "train_num": "02069", "destination_station": "天津站", "date": "2017%*1**23075:45*", "ticket_rates": "￥53.37.", "seat_category": "一车四", "name": "医富有"}

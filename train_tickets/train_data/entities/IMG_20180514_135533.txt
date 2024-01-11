@@ -1,0 +1,1 @@
+{"ticket_num": "Z52K037856", "starting_station": "滁州站", "train_num": "G111", "destination_station": "南京南站", "date": "2017年11月23日12:35开", "ticket_rates": "￥44.5元", "seat_category": "一等座", "name": "凯"}

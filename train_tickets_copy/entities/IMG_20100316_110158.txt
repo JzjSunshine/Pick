@@ -1,0 +1,1 @@
+{"ticket_num": "Z087166", "starting_station": "厦门站", "train_num": "K572", "destination_station": "北京西站", "date": "2018年02月22日08:41开", "ticket_rates": "￥456.0元", "seat_category": "新空调硬卧", "name": "富雄"}

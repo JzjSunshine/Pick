@@ -1,0 +1,1 @@
+{"ticket_num": "P033522", "starting_station": "沈阳北路", "train_num": "D12", "destination_station": "北京站", "date": "2018年02月25日07:097", "ticket_rates": "", "seat_category": "￥206.0元", "name": "旭"}

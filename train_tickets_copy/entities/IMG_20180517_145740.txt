@@ -1,0 +1,1 @@
+{"ticket_num": "C012764", "starting_station": "于家堡站", "train_num": "C2588", "destination_station": "北京南站", "date": "2017年11月09日14:49开", "ticket_rates": "￥85.5元", "seat_category": "一等座", "name": "春燕"}

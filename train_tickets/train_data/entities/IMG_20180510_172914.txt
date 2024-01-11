@@ -1,0 +1,1 @@
+{"ticket_num": "7，其他", "starting_station": "合肥南站", "train_num": "D3158", "destination_station": "扬州站", "date": "2017年11月20日 12:29开", "ticket_rates": "￥87.5元", "seat_category": "二等座", "name": "晗"}

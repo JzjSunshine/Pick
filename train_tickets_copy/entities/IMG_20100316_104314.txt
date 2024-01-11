@@ -1,0 +1,1 @@
+{"ticket_num": "S051030", "starting_station": "鹤壁东站", "train_num": "G572", "destination_station": "北京西站", "date": "2018年02月19日13:13开", "ticket_rates": "￥255.0%", "seat_category": "二等座", "name": "手利娟"}

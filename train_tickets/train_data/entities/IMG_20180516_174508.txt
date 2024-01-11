@@ -1,0 +1,1 @@
+{"ticket_num": "R020442", "starting_station": "珠海站", "train_num": "07642", "destination_station": "广州南站", "date": "2017年12月02日 15:40:", "ticket_rates": "￥70.0元", "seat_category": "二等座", "name": "昊"}

@@ -1,0 +1,1 @@
+{"ticket_num": "M026322", "starting_station": "深圳站", "train_num": "C7190", "destination_station": "广州东站", "date": "2018705*015*18.32无", "ticket_rates": "￥99.5%", "seat_category": "一等座", "name": "燃"}

@@ -16,7 +16,8 @@ import numpy as np
 from utils.entities_list import Entities_list
 from utils.class_utils import keys_vocab_cls, iob_labels_vocab_cls, entities_vocab_cls
 
-MAX_BOXES_NUM = 70  # limit max number boxes of every documents
+# MAX_BOXES_NUM = 70  # limit max number boxes of every documents
+MAX_BOXES_NUM = 220 # funsd
 MAX_TRANSCRIPT_LEN = 50  # limit max length text of every box
 
 # text string label converter
@@ -40,7 +41,7 @@ class Document:
         :param iob_tagging_type: 'box_level', 'document_level', 'box_and_within_box_level'
         :param entities_file: exactly entity type and entity value of documents, json file
         :param training: True for train and validation mode, False for test mode. True will also load labels,
-        and entities_file must be set.
+                         and entities_file must be set.
         :param image_index: image index, used to get image file name
         '''
         self.resized_image_size = resized_image_size
@@ -82,7 +83,12 @@ class Document:
                 transcripts.append(transcript)
         
         boxes_num = min(len(boxes), MAX_BOXES_NUM)
+        # print("="*10)
+        # print(image_file)
+        # print('transcripts: ',transcripts)
+        # print('boxes_num: ',boxes_num)
         transcript_len = min(max([len(t) for t in transcripts[:boxes_num]]), MAX_TRANSCRIPT_LEN)
+        # print('transcript_len:',transcript_len)
         mask = np.zeros((boxes_num, transcript_len), dtype=int)
 
         relation_features = np.zeros((boxes_num, boxes_num, 6))
@@ -90,6 +96,8 @@ class Document:
         try:
 
             height, width, _ = image.shape
+            # print("="*20)
+            # print(height, width)
             # resize image
             image = cv2.resize(image, self.resized_image_size, interpolation=cv2.INTER_LINEAR)
             x_scale = self.resized_image_size[0] / width
@@ -98,7 +106,7 @@ class Document:
             # get min area box for each boxes, for calculate initial relation features
             min_area_boxes = [cv2.minAreaRect(np.array(box, dtype=np.float32).reshape(4, 2)) for box in
                               boxes[:boxes_num]]
-
+            # print(min_area_boxes)
             # calculate  resized image box coordinate, and initial relation features between boxes (nodes)
             resized_boxes = []
             for i in range(boxes_num):
@@ -117,7 +125,7 @@ class Document:
                 # enumerate each box, calculate relation features between i and other nodes.
                 self.relation_features_between_ij_nodes(boxes_num, i, min_area_boxes, relation_features, transcript_i,
                                                         transcripts)
-
+            # (70, 70, 6) (boxes_num, boxes_num, 6) (52, 52, 6)
             relation_features = normalize_relation_features(relation_features, width=width, height=height)
             text_segments = [list(trans) for trans in transcripts[:boxes_num]]
 
@@ -136,7 +144,7 @@ class Document:
                     # be concatenated as a sequences
                     iob_tags_label = text2iob_label_with_document_level_exactly_match(transcripts[:boxes_num], entities)
                 elif self.iob_tagging_type == 'box_and_within_box_level':
-                    # perform exactly tagging within specific box, box_level_entities parames will perform boex level tagging.
+                    # perform exactly tagging within specific box, box_level_entities params will perform box level tagging.
                     iob_tags_label = text2iob_label_with_box_and_within_box_exactly_level(box_entity_types[:boxes_num],
                                                                                           transcripts[:boxes_num],
                                                                                           entities, ['address'])
@@ -152,7 +160,7 @@ class Document:
 
             for i in range(boxes_num):
                 mask[i, :texts_len[i]] = 1
-
+            # RawField 是一个用于处理文本数据的字段类型，与 Field 不同，RawField 不会进行任何文本处理或预处理。它将输入的文本视为原始文本，不进行分词、小写化或其他文本处理步骤。
             self.whole_image = RawField().preprocess(image)
             self.text_segments = TextSegmentsField.preprocess(text_segments)  # (text, texts_len)
             self.boxes_coordinate = RawField().preprocess(resized_boxes)

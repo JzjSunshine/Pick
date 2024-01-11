@@ -1,0 +1,1 @@
+{"ticket_num": "Z130B028086", "starting_station": "上海虹桥站", "train_num": "G154", "destination_station": "北京南站", "date": "2017年07月22日17:14开", "ticket_rates": "￥1748.0元", "seat_category": "商务座", "name": "路8"}

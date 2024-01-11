@@ -1,0 +1,1 @@
+{"ticket_num": "E047866", "starting_station": "北京南站", "train_num": "D6655", "destination_station": "白洋淀站", "date": "2017*12*200008.08骨", "ticket_rates": "￥45.0元", "seat_category": "二等座", "name": "静"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z36M007030", "starting_station": "南京站", "train_num": "G7011", "destination_station": "苏州站", "date": "2018年02月27日12:00元", "ticket_rates": "￥159.5元", "seat_category": "一等座", "name": "观众"}

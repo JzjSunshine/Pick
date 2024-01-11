@@ -1,0 +1,1 @@
+{"ticket_num": "L078396", "starting_station": "北京站", "train_num": "D41", "destination_station": "大连北站", "date": "2018年02月14日09:50开", "ticket_rates": "￥261.0元", "seat_category": "二等座", "name": "文奇"}

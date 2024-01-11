@@ -1,0 +1,1 @@
+{"ticket_num": "Z20070984", "starting_station": "铜陵站", "train_num": "G4908", "destination_station": "无为站", "date": "2017年10月28日13:557", "ticket_rates": "￥1653.5元", "seat_category": "商务座", "name": "国文华"}

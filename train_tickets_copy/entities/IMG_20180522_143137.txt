@@ -1,0 +1,1 @@
+{"ticket_num": "25E024765", "starting_station": "序则与", "train_num": "G802", "destination_station": "北京西雪", "date": "2018年02月21日 07：415", "ticket_rates": "￥315.0.", "seat_category": "二等座", "name": "工类"}

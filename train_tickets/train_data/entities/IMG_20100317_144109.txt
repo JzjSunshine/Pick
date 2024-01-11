@@ -1,0 +1,1 @@
+{"ticket_num": "W005161", "starting_station": "长春站", "train_num": "G1292", "destination_station": "公主岭南站", "date": "2017年12月30日08:17开", "ticket_rates": "￥34.5元", "seat_category": "二等座", "name": "运峰"}

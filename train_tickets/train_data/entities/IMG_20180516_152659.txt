@@ -1,0 +1,1 @@
+{"ticket_num": "J077605", "starting_station": "青岛北站", "train_num": "z8", "destination_station": "北京站", "date": "2018年01月07日21:00开", "ticket_rates": "￥312.0元", "seat_category": "新空调软卧", "name": "金波"}

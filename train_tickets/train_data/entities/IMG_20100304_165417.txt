@@ -1,0 +1,1 @@
+{"ticket_num": "J093010", "starting_station": "广州东站", "train_num": "C7087", "destination_station": "东莞站", "date": "2917年12月05日 10:387", "ticket_rates": "￥50.53", "seat_category": "一等藩", "name": "已鸿涛"}

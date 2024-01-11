@@ -1,0 +1,1 @@
+{"ticket_num": "Z 03R082995", "starting_station": "芜湖站", "train_num": "K425", "destination_station": "杭州站", "date": "2017年09月02日07:55开", "ticket_rates": "￥97.5元", "seat_category": "新空调硬卧", "name": "国立"}

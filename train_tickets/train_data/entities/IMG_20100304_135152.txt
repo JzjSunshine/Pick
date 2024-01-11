@@ -1,0 +1,1 @@
+{"ticket_num": "J091073", "starting_station": "天津南站", "train_num": "G132", "destination_station": "北京南站", "date": "2018年04月07日17:33开", "ticket_rates": "￥94.5元", "seat_category": "一等座", "name": "轩涯"}

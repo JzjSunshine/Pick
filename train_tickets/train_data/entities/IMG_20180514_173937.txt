@@ -1,0 +1,1 @@
+{"ticket_num": "H053615", "starting_station": "北京西站", "train_num": "G603", "destination_station": "太原南站", "date": "2017年12月21日10:10开", "ticket_rates": "¥197.0元", "seat_category": "二等座", "name": "晓琼"}

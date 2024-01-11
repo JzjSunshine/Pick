@@ -1,0 +1,1 @@
+{"ticket_num": "J089659", "starting_station": "天津站", "train_num": "C2048", "destination_station": "北京南站", "date": "2018年04月12日13:38开", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "龙飞"}

@@ -1,0 +1,1 @@
+{"ticket_num": "136P002747", "starting_station": "郑州东站", "train_num": "GioS 6", "destination_station": "商丘", "date": "2017年12月29日15:22开", "ticket_rates": "￥139.5元", "seat_category": "一等座", "name": "楼1"}

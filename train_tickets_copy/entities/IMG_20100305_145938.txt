@@ -1,0 +1,1 @@
+{"ticket_num": "Z69T059481", "starting_station": "北京南站", "train_num": "G'7", "destination_station": "上海虹桥站", "date": "2017年11月06日 15:00元", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "画伟峰"}

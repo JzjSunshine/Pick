@@ -1,0 +1,1 @@
+{"ticket_num": "B081200", "starting_station": "陵水站", "train_num": "D7165", "destination_station": "三亚站", "date": "2017年12月18日15:50开", "ticket_rates": "￥23.0元", "seat_category": "二等座", "name": "淑环"}

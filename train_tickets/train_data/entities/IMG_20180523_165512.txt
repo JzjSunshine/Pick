@@ -1,0 +1,1 @@
+{"ticket_num": "7640042845", "starting_station": "徐州东站", "train_num": "G42", "destination_station": "北京南站", "date": "2018*03月13913:08开", "ticket_rates": "￥519.0%", "seat_category": "一等珍", "name": "二俐岑"}

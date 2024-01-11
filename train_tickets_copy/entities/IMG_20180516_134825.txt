@@ -1,0 +1,1 @@
+{"ticket_num": "1000338", "starting_station": "天津站", "train_num": "02062", "destination_station": "北京南站", "date": "2017*11817016137", "ticket_rates": "￥54.53", "seat_category": "二等医", "name": "二森佟"}

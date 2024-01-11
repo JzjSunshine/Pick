@@ -1,0 +1,1 @@
+{"ticket_num": "U059764", "starting_station": "石家庄站", "train_num": "G6712", "destination_station": "北京西站", "date": "2017*10月07日12:29开", "ticket_rates": "￥128.5元", "seat_category": "二等座", "name": "晓娟"}

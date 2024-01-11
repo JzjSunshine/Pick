@@ -1,0 +1,65 @@
+0,459,391,506,391,506,405,459,405,Retainer,question
+1,300,366,338,366,338,383,300,383,No.,answer
+2,316,380,324,380,324,397,316,397,$,answer
+3,314,397,324,397,324,412,314,412,$,answer
+4,297,415,308,415,308,429,297,429,$,answer
+5,507,390,520,390,520,404,507,404,$,answer
+6,598,408,608,408,608,423,598,423,$,answer
+7,122,461,151,461,151,479,122,479,Other,question
+8,155,465,194,465,194,480,155,480,(please,question
+9,194,462,241,462,241,479,194,479,explain):,question
+10,120,479,148,479,148,496,120,496,Note:,header
+11,148,480,179,480,179,494,148,494,RIGL,other
+12,179,479,217,479,217,494,179,494,22-10-2,other
+13,216,482,230,482,230,495,216,495,(d),other
+14,230,482,272,482,272,495,230,495,requires,other
+15,272,480,324,480,324,494,272,494,disclosure,other
+16,325,483,336,483,336,496,325,496,in,other
+17,338,485,346,485,346,496,338,496,a,other
+18,346,482,378,482,378,497,346,497,dollar,other
+19,377,483,413,483,413,496,377,496,amount,other
+20,415,480,430,480,430,500,415,500,of,other
+21,429,482,443,482,443,495,429,495,the,other
+22,446,483,512,483,512,497,446,497,compensation,other
+23,510,483,527,483,527,498,510,498,for,other
+24,529,483,572,483,572,498,529,498,lobbying,other
+25,571,483,612,483,612,497,571,497,activity.,other
+26,119,665,155,665,155,685,119,685,(from),other
+27,119,682,139,682,139,700,119,700,(to),other
+28,142,697,210,697,210,722,142,722,,answer
+29,214,691,280,691,280,726,214,726,,answer
+30,197,904,246,904,246,917,197,917,REVIEWED:,question
+31,122,904,169,904,169,917,122,917,ACCEPTED:,question
+32,113,80,563,80,563,98,113,98,STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS,header
+33,112,95,281,95,281,109,112,109,Office of the Secretary of State,other
+34,113,140,327,140,327,154,113,154,James R. Langevin Secretary of State,other
+35,218,182,564,182,564,207,218,207,Monthly Organization/ Employer Report,header
+36,482,152,660,152,660,182,482,182,Room 43 State House Providence, Rhode Island 02903- 1105,other
+37,588,180,658,180,658,195,588,195,401- 277- 2390,other
+38,126,207,655,207,655,228,126,228,Due the 1st Monday of the month during the legislative session to report the previous months' activity.,question
+39,122,230,216,230,216,248,122,248,Reporting Period:,question
+40,218,232,309,232,309,248,218,248,Month of May,answer
+41,120,253,285,253,285,271,120,271,Organization/ Employer Name:,question
+42,306,254,457,254,457,271,306,271,R. J. Reynolds Tobacco,answer
+43,119,271,205,271,205,287,119,287,Lobbyist Name:,question
+44,249,271,354,271,354,286,249,286,Peter J. McGinn,answer
+45,122,286,628,286,628,323,122,323,If any addresses or telephone numbers have changed since the last reporting period please check here and note the change in the space provided at the end of this form.,question
+46,123,327,392,327,392,347,123,347,Compensation/ Expenditure Information:,header
+47,485,624,641,624,641,642,485,642,(indicate if attached pages),other
+48,433,725,653,725,653,745,433,745,Please print name of Employer or Designee,other
+49,679,730,701,730,701,850,679,850,,other
+50,612,911,651,911,651,922,612,922,,other
+51,200,786,296,786,296,801,200,801,FOR OFFICIAL USE,other
+52,119,757,483,757,483,776,119,776,Please indicate the capacity in which you are executing this document:,question
+53,119,723,306,723,306,742,119,742,Signature Employer or Designee,question
+54,116,647,388,647,388,665,116,665,List any changes of address telephone numbers:,other
+55,119,503,654,503,654,558,119,558,During this reporting period, have you made any expenditure or incurred any obligation of $ 25.00 or more per occurence to promote or oppose any legislation, including but not limited mailings, meals, print or broadcast advertisements, or gifts (yes or no),question
+56,119,554,592,554,592,591,119,591,yes, please detail. including the names of the persons receiving and in whose behalf such expenditures have been made, the amount, date, place, and reason for the expenditure.,question
+57,341,365,536,365,536,383,341,383,If yes, please complete the following.,question
+58,123,380,316,380,316,397,123,397,Compensation received lobbying:,question
+59,120,397,311,397,311,414,120,414,Part of salary received for lobbying:,question
+60,122,413,295,413,295,431,122,431,Amount earned but not received:,question
+61,120,429,370,429,370,447,120,447,Reimbursements for expenses (please itemize):,question
+62,459,405,597,405,597,426,459,426,Contractual or agreed fee:,question
+63,122,346,651,346,651,367,122,367,Have you paid any type of compensation or incurred any obligation for payment to the above named,question
+64,122,362,299,362,299,382,122,382,lobbyist for lobbying? (yes or no),question

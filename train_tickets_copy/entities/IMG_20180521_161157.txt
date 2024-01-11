@@ -1,0 +1,1 @@
+{"ticket_num": "J062065", "starting_station": "广州南站", "train_num": "G6525", "destination_station": "福田站", "date": "2017年11月10日 12:10开", "ticket_rates": "￥82.0元", "seat_category": "二等座", "name": "朝莉"}

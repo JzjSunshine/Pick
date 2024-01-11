@@ -1,0 +1,1 @@
+{"ticket_num": "1077458", "starting_station": "北京南站", "train_num": "G129", "destination_station": "常州北站", "date": "2017年11月15日12:10元", "ticket_rates": "￥828.5元", "seat_category": "一等座", "name": "刚"}

@@ -1,0 +1,108 @@
+0,612,59,678,59,678,81,612,81,10675,other
+1,300,186,440,186,440,204,300,204,PROPOSAL,header
+2,418,215,442,215,442,228,418,228,FOR,question
+3,409,229,440,229,440,242,409,242,DATE,question
+4,34,214,52,214,52,227,34,227,TO,question
+5,34,232,83,232,83,242,34,242,ADDRESS,question
+6,34,244,63,244,63,257,34,257,CITY,question
+7,34,260,72,260,72,270,34,270,STATE,question
+8,120,270,165,270,165,287,120,287,Attn:,question
+9,46,339,84,339,84,357,46,357,ITEM:,question
+10,47,358,120,358,120,372,47,372,MATERIAL:,header
+11,232,358,300,358,300,372,232,372,ALUMINUM,question
+12,436,341,471,341,471,358,436,358,SIZE:,question
+13,514,356,561,356,561,370,514,370,GAUGE,question
+14,47,385,100,385,100,399,47,399,COLORS:,question
+15,47,426,93,426,93,443,47,443,HOLES:,header
+16,101,427,125,427,125,441,101,441,YES,question
+17,302,469,370,469,370,483,302,483,EMBOSSED,question
+18,207,443,263,443,263,456,207,456,SQUARE,question
+19,47,441,113,441,113,455,47,455,CORNERS:,header
+20,46,469,92,469,92,483,46,483,EDGES:,header
+21,46,514,109,514,109,529,46,529,PACKING:,header
+22,46,527,95,527,95,541,46,541,OTHER:,question
+23,303,356,323,356,323,371,303,371,☑,answer
+24,163,397,238,397,238,411,163,411,Aluminum,answer
+25,385,399,405,399,405,414,385,414,☑,answer
+26,332,427,350,427,350,440,332,440,4,answer
+27,131,427,151,427,151,442,131,442,☑,answer
+28,374,469,391,469,391,483,374,483,☑,answer
+29,142,485,162,485,162,499,142,499,☑,answer
+30,106,543,174,543,174,557,106,557,Tooling:,question
+31,49,582,130,582,130,603,49,603,QUANTITIES:,question
+32,45,613,92,613,92,628,45,628,PRICE:,question
+33,46,680,103,680,103,693,46,693,BILLING:,header
+34,47,700,146,700,146,715,47,715,WAREHOUSING:,header
+35,180,679,198,679,198,694,180,694,☑,answer
+36,163,700,183,700,183,715,163,715,☑,answer
+37,578,846,666,846,666,863,578,863,87528380,other
+38,462,874,616,874,616,940,462,940,,other
+39,45,757,112,757,112,770,45,770,CONDITIONS:,header
+40,527,630,611,630,611,657,527,657,4050,other
+41,592,696,603,696,603,714,592,714,,other
+42,479,716,575,716,575,757,479,757,TOTAL,question
+43,592,701,683,701,683,753,592,753,8650,other
+44,577,719,599,719,599,732,577,732,,question
+45,31,41,192,41,192,163,31,163,S,other
+46,263,441,285,441,285,458,263,458,☑,answer
+47,223,508,245,508,245,530,223,530,10,answer
+48,204,109,598,109,598,135,204,135,STOUT INDUSTRIES, INC.,header
+49,203,138,674,138,674,153,203,153,6425 W. FLORISSANT AVE. ST. LOUIS MO 63136 . (314) 385- 2280,other
+50,105,211,286,211,286,229,105,229,Lorillard Corporation,answer
+51,106,226,243,226,243,240,106,240,666 Fifth Avenue,answer
+52,106,240,174,240,174,257,106,257,New York,answer
+53,106,254,233,254,233,268,106,268,New York 10103,answer
+54,485,207,653,207,653,225,485,225,Metal "Pack" Plaque,answer
+55,487,222,624,222,624,240,487,240,October 16, 1987,answer
+56,485,253,653,253,653,270,485,270,Mr. A. D. Steinberg,answer
+57,513,267,640,267,640,279,513,279,YOUR REPRESENTATIVE,question
+58,49,304,415,304,415,332,49,332,It is our pleasure to propose the following:,other
+59,170,270,329,270,329,285,170,285,Mr. Robert Kennedy,answer
+60,103,339,348,339,348,357,103,357,Harley Davidson Metal Plaque,answer
+61,521,335,608,335,608,357,521,357,171/4 x 231/2 ",answer
+62,617,352,660,352,660,368,617,368,.025" ,answer
+63,124,356,190,356,190,373,124,373,STEEL ☐,question
+64,363,355,431,355,431,373,363,373,OTHER ☐,question
+65,103,378,517,378,517,399,103,399,Transparent gold, opaque black, white and orange,answer
+66,47,399,128,399,128,416,47,416,BASE COLOR,question
+67,292,399,381,399,381,416,292,416,SINGLE FACE,question
+68,444,398,561,398,561,416,444,416,DOUBLE FACE ☐,question
+69,172,427,211,427,211,444,172,444,NO ☐,question
+70,244,427,323,427,323,441,244,441,NUMBER OF,question
+71,117,441,186,441,186,455,117,455,ROUND ☐,question
+72,309,443,373,443,373,456,309,456,ANGLE ☐,question
+73,392,441,511,441,511,458,392,458,CUT TO SHAPE ☐,question
+74,99,469,177,469,177,486,99,486,HEMMED ☐,question
+75,47,485,140,485,140,500,47,500,STAMP FRAME,question
+76,406,468,540,468,540,486,406,486,BEADED BORDER ☐,question
+77,358,485,466,485,466,500,358,500,BACK FRAME ☐,question
+78,183,483,337,483,337,499,183,499,RIGHT ANGLE BEND ☐,question
+79,201,469,279,469,279,484,201,484,CURLED ☐,question
+80,115,515,204,515,204,529,115,529,PER CARTON,question
+81,274,513,350,513,350,531,274,531,PER CRATE,question
+82,415,514,504,514,504,527,415,527,PER BUNDLE,question
+83,105,525,644,525,644,544,105,544,Price is based on reproduction of customer supplied "Pack" box.,answer
+84,190,538,650,538,650,556,190,556,Form die, brass emboss die to achieve detail on eagle.,answer
+85,172,584,272,584,272,602,172,602,500 Plaques,answer
+86,156,613,246,613,246,630,156,630,$ 9.18 each,answer
+87,367,581,507,581,507,601,367,601,One time tooling,question
+88,370,603,457,603,457,621,370,621,Steel tips,question
+89,511,581,609,581,609,598,511,598,@ $ 3,015.00,answer
+90,532,603,611,603,611,620,532,620,$ 1,045.00,answer
+91,200,679,351,679,351,695,200,695,BILL AS MANUFACTURE,question
+92,376,676,509,676,509,696,376,696,☐ BILL AS SHIP FOR.,question
+93,510,676,578,676,578,694,510,694,☐ 6 MOS.,question
+94,588,676,656,676,656,694,588,694,☐ 12 MOS,question
+95,182,703,304,703,304,717,182,717,SHIP IMMEDIATELY,question
+96,332,698,440,698,440,716,332,716,☐ 6 MOS. WHSE.,question
+97,459,698,570,698,570,715,459,715,☐ 12 MOS. WHSE,question
+98,240,728,338,728,338,743,240,743,PER SHIPMENT,question
+99,46,728,150,728,150,745,46,745,DROP SHIPPING:,header
+100,56,894,284,894,284,937,56,937,TERMS - NET 10 DAYS A service charge of 11/2 per month will be applied to all unpaid balances over 30 days.,other
+101,531,946,679,946,679,954,531,954,,other
+102,339,898,441,898,441,929,339,929,STOUT INDUSTRIES INC,,other
+103,47,863,485,863,485,875,47,875,A 15 service charge will be added to reight costs for all prepaid shipments involving 5 or more pieces.,other
+104,42,768,698,768,698,828,42,828,PRICES QUOTED HEREIN ARE BASED ON CURRENT COSTS AND ARE FOR IMMEDIATE ACCEPTANCE *These prices will be updated periodically from date of order, to reflect changes in material and labor costs. Prices and terms quoted herein are not subject to verbal changes unless confirmed in writing by the home office of this company in S. T. LOUIS M. O. All contracts for delivers are contingent upon fires, strikes or other causes beyond our control. Purchaser agrees to accept overun or underrun to the extent of 10% of the quantity ordered.,other
+105,47,827,698,827,698,840,47,840,Any taxes or governmental changes which the seller may be required to pay or collect upon the production sale storage, or delivery under any existing or,other
+106,46,839,504,839,504,851,46,851,future law shall be for the account of the buyer who shall promptly pay the amount hereof to the seller upon,other
+107,46,852,368,852,368,863,46,863,F. O. B. S. T. LOUIS MISSOURI Shipments via truck shipped freight collect.,other

@@ -1,0 +1,1 @@
+{"ticket_num": "147G060881", "starting_station": "武汉站", "train_num": "G488", "destination_station": "北京西站", "date": "2017年10月17日12:46开", "ticket_rates": "￥520.5元", "seat_category": "二等座", "name": "曾志军"}

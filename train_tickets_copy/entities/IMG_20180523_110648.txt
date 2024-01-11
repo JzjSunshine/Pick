@@ -1,0 +1,1 @@
+{"ticket_num": "D017988", "starting_station": "北京南站", "train_num": "G179", "destination_station": "济南站", "date": "2018年01月03日09:35开", "ticket_rates": "￥194.5元", "seat_category": "二等座", "name": "甜"}

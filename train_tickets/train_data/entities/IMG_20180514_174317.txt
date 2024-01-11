@@ -1,0 +1,1 @@
+{"ticket_num": "Z34W052945", "starting_station": "南京站", "train_num": "G7045", "destination_station": "昆山南站", "date": "2017年12月06日09:29开", "ticket_rates": "￥114.5元", "seat_category": "二等座", "name": "国舒翔"}

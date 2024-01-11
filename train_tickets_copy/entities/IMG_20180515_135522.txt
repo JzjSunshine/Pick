@@ -1,0 +1,1 @@
+{"ticket_num": "J026281", "starting_station": "石家庄站", "train_num": "G404", "destination_station": "北京西站", "date": "2017*12月21日17:36市", "ticket_rates": "￥206.5元", "seat_category": "一等座", "name": "雪伟"}

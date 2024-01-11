@@ -1,0 +1,1 @@
+{"ticket_num": "074G053142", "starting_station": "安阳东站", "train_num": "G4566", "destination_station": "北京西站", "date": "2018年02月25日16:53开", "ticket_rates": "￥236.0元", "seat_category": "二等座", "name": "超"}

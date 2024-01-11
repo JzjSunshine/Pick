@@ -1,0 +1,1 @@
+{"ticket_num": "Z77P046744", "starting_station": "杭州东站", "train_num": "G7581", "destination_station": "绍兴北站", "date": "2017年12月09日10:36开", "ticket_rates": "￥19.5元", "seat_category": "二等座", "name": "虎"}

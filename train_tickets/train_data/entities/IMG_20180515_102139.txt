@@ -1,0 +1,1 @@
+{"ticket_num": "T088363", "starting_station": "长沙南站", "train_num": "G1006", "destination_station": "武汉", "date": "2018-02月08日12:527", "ticket_rates": "12645.", "seat_category": "一带经", "name": "西条"}

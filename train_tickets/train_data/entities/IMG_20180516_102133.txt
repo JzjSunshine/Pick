@@ -1,0 +1,1 @@
+{"ticket_num": "Z38T032695", "starting_station": "上海虹桥站", "train_num": "G154", "destination_station": "苏州北站", "date": "2017年12月13日17:14开", "ticket_rates": "￥64.5元", "seat_category": "一等座", "name": "丁宗尧"}

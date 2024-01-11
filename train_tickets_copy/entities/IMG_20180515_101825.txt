@@ -1,0 +1,1 @@
+{"ticket_num": "7176083716", "starting_station": "杭州东市", "train_num": "G7584", "destination_station": "上海虹桥站", "date": "2018年01924月17:55日", "ticket_rates": "￥117.0%", "seat_category": "一票痤", "name": "揽"}

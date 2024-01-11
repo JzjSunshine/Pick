@@ -1,0 +1,1 @@
+{"ticket_num": "C034429", "starting_station": "北京南站", "train_num": "D6637", "destination_station": "自洋淀站", "date": "2017年19月19日13:00陈", "ticket_rates": "￥45.03", "seat_category": "二等密", "name": "国电强"}

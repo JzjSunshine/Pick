@@ -1,0 +1,42 @@
+0,95,154,183,154,183,171,95,171,SPECIFICS,header
+1,223,264,291,264,291,281,223,281,Execution:,question
+2,387,260,441,260,441,278,387,278,Media:,question
+3,89,300,185,300,185,314,89,314,OBJECTIVE,header
+4,103,439,171,439,171,454,103,454,TARGET,header
+5,95,549,211,549,211,564,95,564,COMMUNICATION,header
+6,211,546,278,546,278,566,211,566,PLATFORM,header
+7,524,866,549,866,549,968,524,968,86079776,other
+8,68,99,391,99,391,133,68,133,CREATIVE INPUT DOCUMENT,header
+9,68,180,153,180,153,201,68,201,Date/ Time:,question
+10,68,201,165,201,165,222,68,222,Prepared By:,question
+11,180,183,285,183,285,198,180,198,10/30/98 1:46 PM,answer
+12,70,219,285,219,285,242,70,242,Milestone Presentation Date:,question
+13,68,242,271,242,271,262,68,262,Estimated Creative Budget:,question
+14,70,264,129,264,129,282,70,282,Concept:,question
+15,388,177,484,177,484,197,388,197,Client Name:,question
+16,388,198,504,198,504,218,388,218,Matter Number:,question
+17,387,218,485,218,485,239,387,239,Project Title:,question
+18,388,237,561,237,561,257,388,257,Est. Production Budget:,question
+19,68,324,255,324,255,357,68,357,Why are we advertising? What do we plan to achieve?,header
+20,73,462,647,462,647,496,73,496,To whom are we talking? Who is the primary target? Is there a secondary target? What is their relationship to the brand what do they currently think about it?,question
+21,74,570,669,570,669,607,74,607,What is the single most important message/idea we are trying to communicate? What is the unique selling position that will help us achieve our advertising goal? Are there any secondary messages?,question
+22,74,638,350,638,350,671,74,671,What is the key benefit to the target? What's in it for the reader?,question
+23,74,703,674,703,674,736,74,736,Is there an offer/call to action? What are we offering the target to persuade him/her to act now? (A premium, sweepstakes, limited-time offer, free information, or something else?,question
+24,75,765,366,765,366,799,75,799,What would we like our target to think? What would our target say after being exposed to our program?,question
+25,67,932,243,932,243,947,67,947,c:\my documents\wp\sample cid. doc,other
+26,363,930,393,930,393,944,363,944,1 of 2,other
+27,598,930,695,930,695,944,598,944,10/30/98 01:46 PM,other
+28,559,359,603,359,603,373,559,373,☐ Loyalty,question
+29,559,374,653,374,653,387,559,387,☐ Lead Generation,question
+30,559,387,592,387,592,400,559,400,☐ Trial,question
+31,430,362,488,362,488,373,430,373,☐ Acquisition,question
+32,430,374,477,374,477,387,430,387,☐ Up-Sell,question
+33,430,390,490,390,490,401,430,401,☐ Awareness,question
+34,293,360,345,360,345,375,293,375,☐ Retention,question
+35,291,376,350,376,350,387,291,387,☐ Cross-Sell,question
+36,291,390,352,390,352,404,291,404,☐ Direct Sale,question
+37,293,404,331,404,331,415,293,415,☐ Other,question
+38,110,406,236,406,236,417,110,417,☐ Change Image Perception,question
+39,109,391,242,391,242,405,109,405,☐ New Product/Package Intro.,question
+40,110,377,214,377,214,389,110,389,☐ Competitive Blocking,question
+41,110,362,214,362,214,376,110,376,☐ Relationship-Building,question

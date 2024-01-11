@@ -1,0 +1,1 @@
+{"ticket_num": "2 3K068799", "starting_station": "常州北站", "train_num": "G221", "destination_station": "上海虹桥站", "date": "2017年11月25日13:11开", "ticket_rates": "￥129.5元", "seat_category": "一等座", "name": "雪越"}

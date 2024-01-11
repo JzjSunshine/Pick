@@ -1,0 +1,17 @@
+0,183,860,271,860,271,868,183,868,Attention:,question
+1,203,50,509,50,509,97,203,97,MARDEN- KANE. INC. 666 FIFTH AVE. NEW YORK, N.Y. 10103 (212) 582-6600,header
+2,262,164,445,164,445,179,262,179,TRAVEL INFORMATION SHEET,header
+3,75,201,636,201,636,241,75,241,This information will be used by Marden- Kane in making travel arrangements for your round- trip to Los Angeles, California.,other
+4,71,259,178,259,178,276,71,276,Finalist Name:,question
+5,75,304,171,304,171,317,75,317,Home Address:,question
+6,76,347,186,347,186,360,76,360,Home Telephone:,question
+7,76,390,215,390,215,404,76,404,Business Telephone:,question
+8,73,432,178,432,178,449,73,449,Name of Guests,question
+9,80,473,259,473,259,488,80,488,Relationship to Finalist:,question
+10,78,515,234,515,234,545,78,545,Major Airport Nearest your home:,question
+11,78,575,212,575,212,602,78,602,Distance from your home to airport:,question
+12,78,630,237,630,237,673,78,673,Do you prefer airline seats in smoking or non- smoking section:,question
+13,78,713,256,713,256,754,78,754,Any special dietary meal and/ you or your guest would prefer,question
+14,78,817,165,817,165,827,78,827,RETURN TO:,question
+15,183,814,358,814,358,858,183,858,Harden- Kane, Inc. 666 Fifth Avenue New York, N. Y. 10103,answer
+16,277,855,384,855,384,871,277,871,Ms. L. Sobel,answer

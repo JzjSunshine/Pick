@@ -1,0 +1,1 @@
+{"ticket_num": "L048388", "starting_station": "保定东站", "train_num": "G612", "destination_station": "北京西站", "date": "2018年02月23日13:52开", "ticket_rates": "￥201.5元", "seat_category": "商务座", "name": "画杰"}

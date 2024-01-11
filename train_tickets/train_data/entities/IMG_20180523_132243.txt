@@ -1,0 +1,1 @@
+{"ticket_num": "K098025", "starting_station": "北京站", "train_num": "D7", "destination_station": "沈阳北站", "date": "2018年02月02日17:454", "ticket_rates": "￥247.0元", "seat_category": "一等座", "name": "西药"}

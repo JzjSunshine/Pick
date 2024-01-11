@@ -1,0 +1,1 @@
+{"ticket_num": "K054845", "starting_station": "保定东站", "train_num": "G524", "destination_station": "北京西站", "date": "2017年12月29日20:03开", "ticket_rates": "￥101.5元", "seat_category": "一等座", "name": "增加星"}

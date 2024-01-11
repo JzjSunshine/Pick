@@ -1,0 +1,1 @@
+{"ticket_num": "A043068", "starting_station": "白城站", "train_num": "C1302", "destination_station": "松原站", "date": "2017年10月08日08:14开", "ticket_rates": "￥54.0元", "seat_category": "二等座", "name": "服磊"}

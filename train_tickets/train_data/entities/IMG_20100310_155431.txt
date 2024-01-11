@@ -1,0 +1,1 @@
+{"ticket_num": "G035930", "starting_station": "成都东站", "train_num": "G8509", "destination_station": "重庆北站", "date": "2017年10月30 11:30开", "ticket_rates": "1154.0元", "seat_category": "二等座", "name": "志鹏"}

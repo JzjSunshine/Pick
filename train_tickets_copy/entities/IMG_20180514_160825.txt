@@ -1,0 +1,1 @@
+{"ticket_num": "J030262", "starting_station": "济南西站", "train_num": "G476", "destination_station": "北京南站", "date": "2018年02月02日13:39日", "ticket_rates": "￥314.5元", "seat_category": "一等座", "name": "超"}

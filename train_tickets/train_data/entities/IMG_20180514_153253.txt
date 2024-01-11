@@ -1,0 +1,1 @@
+{"ticket_num": "J030069", "starting_station": "秦皇岛站", "train_num": "D33", "destination_station": "山海关站", "date": "2017年12月29日 17:15:", "ticket_rates": "￥5.5元", "seat_category": "二等摩", "name": "二笑婷"}

@@ -1,0 +1,1 @@
+{"ticket_num": "01:1293", "starting_station": "北京站", "train_num": "K263", "destination_station": "包头站", "date": "2017*09130 20:137", "ticket_rates": "￥251.04", "seat_category": "新空调软卧", "name": "薪"}

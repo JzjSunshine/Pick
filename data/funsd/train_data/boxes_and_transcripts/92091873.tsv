@@ -1,0 +1,71 @@
+0,105,134,158,134,158,149,105,149,Location,question
+1,425,130,475,130,475,145,425,145,Division,question
+2,432,226,502,226,502,243,432,243,Invitations:,header
+3,103,254,139,254,139,269,103,269,Mugs,question
+4,105,300,157,300,157,315,105,315,Posters,question
+5,177,251,205,251,205,264,177,264,720,answer
+6,186,268,203,268,203,282,186,282,40,answer
+7,184,286,204,286,204,297,184,297,20,answer
+8,179,299,206,299,206,310,179,310,100,answer
+9,547,250,568,250,568,263,547,263,50,answer
+10,527,281,586,281,586,295,527,295,Unknown,answer
+11,433,253,517,253,517,268,433,268,#Requested,question
+12,105,327,133,327,133,341,105,341,Date,question
+13,138,324,174,324,174,342,138,342,Rec'd,question
+14,384,365,452,365,452,380,384,380,Attendees:,header
+15,106,387,155,387,155,402,106,402,Counter,question
+16,105,406,139,406,139,419,105,419,Floor,question
+17,102,420,152,420,152,433,102,433,Posters,question
+18,201,388,221,388,221,401,201,401,15,answer
+19,205,408,219,408,219,418,205,418,9,answer
+20,193,419,222,419,222,434,193,434,100,answer
+21,534,384,554,384,554,397,534,397,40,answer
+22,535,402,555,402,555,412,535,412,35,answer
+23,535,418,553,418,553,431,535,431,10,answer
+24,176,647,212,647,212,662,176,662,Food,question
+25,177,662,248,662,248,675,177,675,Cleanliness,question
+26,175,676,228,676,228,690,175,690,Service,question
+27,338,690,366,690,366,703,338,703,Fair,other
+28,464,689,514,689,514,706,464,706,Average,other
+29,475,641,493,641,493,656,475,656,X,answer
+30,616,659,627,659,627,674,616,674,X,answer
+31,616,675,631,675,631,688,616,688,X,answer
+32,598,687,657,687,657,700,598,700,Excellent,other
+33,155,884,177,884,177,901,155,901,cc:,question
+34,675,777,690,777,690,847,675,847,92091873,other
+35,190,321,207,321,207,339,190,339,6/,answer
+36,211,321,233,321,233,341,211,341,12/,answer
+37,235,321,250,321,250,339,235,339,95,answer
+38,244,101,516,101,516,117,244,117,NEWPORT RACING EVENT SURVEY,header
+39,176,133,381,133,381,148,176,148,Leguna Seca, Monterey, Ca,answer
+40,518,126,618,126,618,147,518,147,San Jose/ 933,answer
+41,517,161,616,161,616,175,517,175,T. L. Roberts,answer
+42,105,161,155,161,155,181,105,181,Date (s),question
+43,177,159,324,159,324,177,177,177,September 10, 1995,answer
+44,425,158,503,158,503,178,425,178,Division Mgr,question
+45,284,187,384,187,384,206,284,206,Date Submitted,question
+46,388,182,533,182,533,199,388,199,September 26 1995,answer
+47,311,204,471,204,471,221,311,221,(submit by 30 days after event),answer
+48,102,230,233,230,233,245,102,245,Promotion Quantity:,header
+49,105,267,178,267,178,287,105,287,Displays (8),question
+50,103,286,170,286,170,299,103,299,Floor (40),question
+51,434,268,520,268,520,282,434,282,Date Notified,question
+52,433,282,518,282,518,299,433,299,Date Ordered,question
+53,434,323,501,323,501,341,434,341,Date Rec'd,question
+54,532,267,586,267,586,284,532,284,9/ 5/ 95,answer
+55,520,321,566,321,566,340,520,340,9/ 6/ 95,answer
+56,105,363,226,363,226,381,105,381,#Displays Placed:,header
+57,384,385,512,385,512,405,384,405,#Customers Invited,question
+58,383,404,528,404,528,418,383,418,#Customers Attended,question
+59,383,418,520,418,520,435,383,435,#Lorillard Personnel,question
+60,106,450,236,450,236,465,106,465,Invitees' Comments:,question
+61,109,462,694,462,694,499,109,499,"Thank You very much for the tickets, we had a great time" Rogers Liquor, Marina California.,answer
+62,106,493,676,493,676,527,106,527,"We really appreciate Lorillard thinking us." Shiffert's Wholesale, Visalia, California.,answer
+63,108,524,675,524,675,558,108,558,"Thank you so much for the invitations... We had a great time." Mission Trail Oil Company (Rotten Robbie Stores) San Jose California.,answer
+64,106,556,641,556,641,589,106,589,"The races were great the Newport Hospitality area was terrific". Coremark, Sacramento, California.,answer
+65,105,601,201,601,201,616,105,616,Race Day Info:,question
+66,230,598,643,598,643,617,230,617,Event Attendance 100, 000 Hospitality Tent Attendance 35- 40,answer
+67,106,628,274,628,274,646,106,646,Quality of Hospitality Tent:,header
+68,106,718,324,718,324,736,106,736,Suggestions/ Recommendations:,question
+69,148,733,673,733,673,781,148,781,Perhaps the tickets could be sent but a little sooner This year the tickets arrived on Thursday and the race was Sunday. This made it difficult to get the tickets to customers on tine.,answer
+70,191,887,284,887,284,902,191,902,R. P. Bonomo,answer

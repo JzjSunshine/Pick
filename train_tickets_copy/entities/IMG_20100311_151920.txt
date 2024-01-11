@@ -1,0 +1,1 @@
+{"ticket_num": "1003056", "starting_station": "北京南盛", "train_num": "G113", "destination_station": "上海虹桥", "date": "2017年611月23日08：30日", "ticket_rates": "1553.07", "seat_category": "二等经", "name": "李"}

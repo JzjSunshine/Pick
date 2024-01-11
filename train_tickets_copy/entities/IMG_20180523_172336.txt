@@ -1,0 +1,1 @@
+{"ticket_num": "B005324", "starting_station": "北京西路", "train_num": "K4237", "destination_station": "兰 疗 治", "date": "2018*02月13日14:35*", "ticket_rates": "￥34308", "seat_category": "新南湖南岸", "name": "二边"}

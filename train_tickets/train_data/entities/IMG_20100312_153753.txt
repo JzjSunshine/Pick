@@ -1,0 +1,1 @@
+{"ticket_num": "R058350", "starting_station": "北京站", "train_num": "Z207", "destination_station": "武昌站", "date": "2017年12月28日20:59开", "ticket_rates": "￥427.5元", "seat_category": "新空调软卧", "name": "超"}

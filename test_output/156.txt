@@ -1,0 +1,5 @@
+company	 DIVISION KITCHEN SDN BHD,company
+address	19-1\, JALAN MALINJA 2\, TAMAN BUNGA RAYA,address
+address	53100 SETAPAK\, KUALA LUMPUR,address
+date	17/1/2018,d
+total	9.7

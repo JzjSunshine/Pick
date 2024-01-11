@@ -1,0 +1,1 @@
+{"ticket_num": "F081141", "starting_station": "北京站", "train_num": "D9", "destination_station": "沈阳北站", "date": "2017年12月08日13:19燕", "ticket_rates": "￥206.0元", "seat_category": "二等座", "name": "宣品"}

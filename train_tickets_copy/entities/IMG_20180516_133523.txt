@@ -1,0 +1,1 @@
+{"ticket_num": "L046245", "starting_station": "北京南站", "train_num": "C2043", "destination_station": "天津站", "date": "2017年11月13日11:18开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "小会1"}

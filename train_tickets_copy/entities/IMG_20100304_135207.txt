@@ -1,0 +1,1 @@
+{"ticket_num": "440079344", "starting_station": "南京南站", "train_num": "G14", "destination_station": "北京南站", "date": "2018年03月11日11:02开", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "16804000440312Q079344"}

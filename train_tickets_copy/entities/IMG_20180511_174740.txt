@@ -1,0 +1,1 @@
+{"ticket_num": "NO54210", "starting_station": "北京南站", "train_num": "G45", "destination_station": "南京南站", "date": "2017*12月19升14:058", "ticket_rates": "￥748.57", "seat_category": "一等廉", "name": "二庆楠"}

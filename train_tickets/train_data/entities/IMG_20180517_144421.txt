@@ -1,0 +1,1 @@
+{"ticket_num": "0082737", "starting_station": "深圳北站", "train_num": "G2904", "destination_station": "桂林北站", "date": "2017年11月09日11:454", "ticket_rates": "￥212.0元", "seat_category": "二级医", "name": "霍建明"}

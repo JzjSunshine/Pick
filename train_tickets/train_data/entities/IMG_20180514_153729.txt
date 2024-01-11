@@ -1,0 +1,1 @@
+{"ticket_num": "146J004739", "starting_station": "郑州东站", "train_num": "G664", "destination_station": "新乡东站", "date": "2017年12月20日17:08开", "ticket_rates": "￥48.5元", "seat_category": "一等座", "name": "晓鹏"}

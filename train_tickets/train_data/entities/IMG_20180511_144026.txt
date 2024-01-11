@@ -1,0 +1,1 @@
+{"ticket_num": "R052109", "starting_station": "北京南站", "train_num": "G267", "destination_station": "济南西站", "date": "017年11月22日17:38开", "ticket_rates": "¥314.5元", "seat_category": "一等座", "name": "丽君"}

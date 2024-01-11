@@ -1,0 +1,1 @@
+{"ticket_num": "L097343", "starting_station": "石家庄站", "train_num": "G26", "destination_station": "北京西站", "date": "2017年09月21日12:41开", "ticket_rates": "￥128.5元", "seat_category": "二等座", "name": "冒晓伟"}

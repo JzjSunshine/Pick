@@ -1,0 +1,1 @@
+{"ticket_num": "Z46K058882", "starting_station": "无锡东站", "train_num": "G42", "destination_station": "北京南站", "date": "2018年01月25日 10:57开", "ticket_rates": "￥863.5元", "seat_category": "一等座", "name": "国权"}

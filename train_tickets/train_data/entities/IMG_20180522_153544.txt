@@ -1,0 +1,1 @@
+{"ticket_num": "Z70G049542", "starting_station": "合肥南站", "train_num": "G7250", "destination_station": "上海站", "date": "2018年01月18日16:37月", "ticket_rates": "￥300.5%", "seat_category": "一等座", "name": "C菲"}

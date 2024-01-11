@@ -1,0 +1,1 @@
+{"ticket_num": "V（ 993", "starting_station": "长沙南站", "train_num": "G6131", "destination_station": "衡阳东站", "date": "2018年01月06日11:44开", "ticket_rates": "￥79.5元", "seat_category": "二等座", "name": "晶晶"}

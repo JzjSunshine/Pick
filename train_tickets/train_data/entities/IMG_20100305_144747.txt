@@ -1,0 +1,1 @@
+{"ticket_num": "Z101C029270", "starting_station": "南京南站", "train_num": "G7627", "destination_station": "温州南站", "date": "2017年12月20日09:01开", "ticket_rates": "￥424.0元", "seat_category": "一等座", "name": "医宇"}

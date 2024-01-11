@@ -1,0 +1,1 @@
+{"ticket_num": "W025045", "starting_station": "济南站", "train_num": "02.17", "destination_station": "青岛市", "date": "2017年11月28日09:51开", "ticket_rates": "￥119.5元", "seat_category": "二等座", "name": "二暖东"}

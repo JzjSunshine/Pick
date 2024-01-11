@@ -1,0 +1,1 @@
+{"ticket_num": "H076243", "starting_station": "石家庄站", "train_num": "G508", "destination_station": "北京西站", "date": "2017年11月29日11:16开", "ticket_rates": "￥：28.5元", "seat_category": "二等座", "name": "材"}

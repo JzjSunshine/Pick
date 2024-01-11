@@ -1,0 +1,1 @@
+{"ticket_num": "E014257", "starting_station": "唐山北站", "train_num": "D38", "destination_station": "北京站", "date": "2017年12月17日15:41开", "ticket_rates": "￥44.5元", "seat_category": "二等座", "name": "丁闰程"}

@@ -1,0 +1,1 @@
+{"ticket_num": "137L024629", "starting_station": "武汉站", "train_num": "G558", "destination_station": "石冢庄站", "date": "2018年01月26日18:14开", "ticket_rates": "￥663.5元", "seat_category": "一等座", "name": "刚"}

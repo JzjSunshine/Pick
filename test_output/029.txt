@@ -1,0 +1,58 @@
+address	3
+total	-1707067,ad
+company	dress
+address	(481500-M),address
+company	C W KHOO HARDWARE SDN BHD,co
+address	mpany
+address	NO.50 \, JALAN PBS 14/11 ,address
+address	KAWASAN PERINDUSTRIAN BUKIT SERDANG,address
+address	TEL : 03-89410243,address
+address	FAX : 03-89410243,address
+address	GST REG NO. : 000549584896,address
+address	TAX INVOICE,address
+address	INVOICE NO.,address
+address	: 
+total	CR 1803/0064,a
+address	ddress
+address	DATE,address
+date	01-03-18
+address	: KHOO,address
+address	COUNTER NO.,address
+address	: C1,address
+address	PRINTE
+date	01-03-18
+address	ITEM NAME,addre
+address	UNIT PRICE,address
+address	QTY,address
+address	AIR ADAPTOR @ 1,address
+address	4.00,address
+address	5,address
+address	20.00 SR,address
+address	20.00,address
+address	5 ITEM(S),address
+address	TOTAL (MYR) :,address
+address	1.20,address
+address	GST @ 6% :,address
+address	21.20,total
+address	NET TOTAL (MYR) :,address
+address	0.00,address
+address	ROUNDING ADJ. :,address
+address	21.20,total
+address	NET TOTAL ROUNDED (MYR) :,address
+address	CASH,address
+address	21.20,total
+address	:,address
+address	0.00,address
+address	CHANGE,address
+address	:,address
+address	ITEM,address
+address	GST SUMMARY,address
+address	GST (MYR),address
+address	AMOUNT (MYR),address
+total	1.20,ad
+address	dress
+total	20.00
+address	,address
+address	1,address
+address	SR @ 6%,address
+address	THANK YOU. PLEASE COME AGAIN !,address

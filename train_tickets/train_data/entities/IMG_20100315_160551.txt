@@ -1,0 +1,1 @@
+{"ticket_num": "H011959", "starting_station": "枣庄站", "train_num": "G270", "destination_station": "济南西站", "date": "2017年12月05日18:22开", "ticket_rates": "￥99.5元", "seat_category": "二等座", "name": "嘉宇"}

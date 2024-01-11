@@ -1,0 +1,1 @@
+{"ticket_num": "Z40U019937", "starting_station": "上海虹桥站", "train_num": "G676", "destination_station": "苏州北站", "date": "2017年12月06日08:30开", "ticket_rates": "￥64.5元", "seat_category": "一等座", "name": "画鸣"}

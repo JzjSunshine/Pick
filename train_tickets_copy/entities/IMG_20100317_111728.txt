@@ -1,0 +1,1 @@
+{"ticket_num": "N037004", "starting_station": "北京西站", "train_num": "Z285", "destination_station": "南宁站", "date": "2017年10月02日21:10开", "ticket_rates": "￥718.5元", "seat_category": "新空调软卧", "name": "，丽华"}

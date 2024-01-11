@@ -1,0 +1,1 @@
+{"ticket_num": "B065703", "starting_station": "石家庄站", "train_num": "G82", "destination_station": "北京西站", "date": "2018年03月09日16:14开", "ticket_rates": "¥128.5元", "seat_category": "二等座", "name": "丁皓"}

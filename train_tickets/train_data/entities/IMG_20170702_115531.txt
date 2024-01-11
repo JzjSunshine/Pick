@@ -1,0 +1,1 @@
+{"ticket_num": "Z1F099858", "starting_station": "溧阳站", "train_num": "G34", "destination_station": "北京商贸", "date": "2017年12月01日008：06日", "ticket_rates": "￥8095x", "seat_category": "一等隆", "name": "冬梅"}

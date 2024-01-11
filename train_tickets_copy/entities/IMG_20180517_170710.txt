@@ -1,0 +1,1 @@
+{"ticket_num": "Z241S037644", "starting_station": "徐州站", "train_num": "T64", "destination_station": "北京站", "date": "虎", "ticket_rates": "￥184.0元", "seat_category": "新空调硬卧", "name": ""}

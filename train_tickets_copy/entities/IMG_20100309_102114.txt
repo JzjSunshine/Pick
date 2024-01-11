@@ -1,0 +1,1 @@
+{"ticket_num": "Z036024", "starting_station": "沈阳北站", "train_num": "G240", "destination_station": "北京南站", "date": "2018年02月09日12:30开", "ticket_rates": "￥414.0元", "seat_category": "一等座", "name": "俏"}

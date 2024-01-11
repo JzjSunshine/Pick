@@ -1,0 +1,1 @@
+{"ticket_num": "33013013", "starting_station": "北京西站", "train_num": "G307", "destination_station": "石家庄站", "date": "2018年02月27日09:38开", "ticket_rates": "￥206.5元", "seat_category": "一等座", "name": "二玥"}

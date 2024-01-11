@@ -1,0 +1,1 @@
+{"ticket_num": "J025588", "starting_station": "北京南站", "train_num": "S33", "destination_station": "济南西治", "date": "2017*iunuzn ig:20n", "ticket_rates": "¥184.5元", "seat_category": "二等座", "name": "二家元"}

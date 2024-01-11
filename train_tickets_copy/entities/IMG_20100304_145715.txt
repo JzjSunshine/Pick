@@ -1,0 +1,1 @@
+{"ticket_num": "Z48G0780.6", "starting_station": "义乌站", "train_num": "G1731", "destination_station": "温州南站", "date": "2018年01月22日14:09开", "ticket_rates": "￥142.0元", "seat_category": "一等座", "name": "悦"}

@@ -1,0 +1,1 @@
+{"ticket_num": "J086564", "starting_station": "青岛站", "train_num": "G196", "destination_station": "北京南站", "date": "2017年11月12日16:00开", "ticket_rates": "￥314.0元", "seat_category": "二等座", "name": "画韵棋"}

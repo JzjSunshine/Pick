@@ -1,0 +1,1 @@
+{"ticket_num": "2986068912", "starting_station": "南京南大", "train_num": "G118", "destination_station": "北京南站", "date": "2017年11月10日11：28", "ticket_rates": "7748.5%", "seat_category": "-等座", "name": "欢"}

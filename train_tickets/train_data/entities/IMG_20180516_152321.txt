@@ -1,0 +1,1 @@
+{"ticket_num": "4V058479", "starting_station": "芜湖站", "train_num": "G7090", "destination_station": "马鞍山东站", "date": "2017年11月09日18:30开", "ticket_rates": "￥16.0元", "seat_category": "二等座", "name": "普池静"}

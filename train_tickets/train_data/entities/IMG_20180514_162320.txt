@@ -1,0 +1,1 @@
+{"ticket_num": "57M068529", "starting_station": "镇江南站", "train_num": "G108", "destination_station": "北京南站", "date": "2017年12月15日08:28开", "ticket_rates": "￥788.5元", "seat_category": "一等座", "name": "国宇"}

@@ -1,0 +1,1 @@
+{"ticket_num": "43A003168", "starting_station": "南京南站", "train_num": "G147", "destination_station": "常州北站", "date": "2017年12月28日20:20+", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "峰"}

@@ -1,0 +1,1 @@
+{"ticket_num": "L054371", "starting_station": "深圳北站", "train_num": "G6544", "destination_station": "广州南站", "date": "2017年11月09日20:26开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "区其强"}

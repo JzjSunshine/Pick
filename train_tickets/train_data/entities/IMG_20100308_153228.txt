@@ -1,0 +1,1 @@
+{"ticket_num": "6026769", "starting_station": "北京西站", "train_num": "219", "destination_station": "西安站", "date": "2018*01801920:404", "ticket_rates": "￥415.57", "seat_category": "新空调依创", "name": "二维赞"}

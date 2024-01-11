@@ -1,0 +1,1 @@
+{"ticket_num": "S062167", "starting_station": "北京西站", "train_num": "237", "destination_station": "武器：", "date": "2017*11月10日20:467", "ticket_rates": "￥427.5%", "seat_category": "新空调载量", "name": "二舒倩"}

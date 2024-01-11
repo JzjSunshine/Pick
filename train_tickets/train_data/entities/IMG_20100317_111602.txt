@@ -1,0 +1,1 @@
+{"ticket_num": "mount", "starting_station": "聊城站", "train_num": "1320", "destination_station": "天津站", "date": "2018年02月21日08:48开", "ticket_rates": "￥62.5元", "seat_category": "新空调硬座", "name": "未俊来"}

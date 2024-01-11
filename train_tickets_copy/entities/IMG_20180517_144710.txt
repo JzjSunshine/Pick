@@ -1,0 +1,1 @@
+{"ticket_num": "0082796", "starting_station": "广州南站", "train_num": "G6241", "destination_station": "深圳北站", "date": "2017年11月12日15:35X", "ticket_rates": "￥745点", "seat_category": "二零感", "name": "弥:"}

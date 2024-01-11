@@ -1,0 +1,1 @@
+{"ticket_num": "Z103S066704", "starting_station": "芜湖站", "train_num": "G7090", "destination_station": "南京南站", "date": "2017*11n09018:30", "ticket_rates": "￥315元", "seat_category": "二等厘", "name": "杨"}

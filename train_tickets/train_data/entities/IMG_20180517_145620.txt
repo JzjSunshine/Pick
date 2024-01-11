@@ -1,0 +1,1 @@
+{"ticket_num": "Q082731", "starting_station": "深圳北站", "train_num": "G2904", "destination_station": "桂林北站", "date": "", "ticket_rates": "", "seat_category": "二等座", "name": ""}

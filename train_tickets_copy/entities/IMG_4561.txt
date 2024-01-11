@@ -1,0 +1,1 @@
+{"ticket_num": "Z33T078707", "starting_station": "苏州北站", "train_num": "G44", "destination_station": "北京南站", "date": "", "ticket_rates": "￥523.5元", "seat_category": "二等座", "name": "工思明"}

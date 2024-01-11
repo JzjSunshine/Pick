@@ -1,0 +1,1 @@
+{"ticket_num": "C063254", "starting_station": "北京南北", "train_num": "G155", "destination_station": "徐州东站", "date": "2018年01月25日17:15日", "ticket_rates": "￥519.08", "seat_category": "一等座", "name": "陈华"}

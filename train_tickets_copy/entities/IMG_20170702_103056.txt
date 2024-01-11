@@ -1,0 +1,1 @@
+{"ticket_num": "G025579", "starting_station": "天津西站", "train_num": "G2609", "destination_station": "石家庄站", "date": "2017年11月29日10:32开", "ticket_rates": "￥1225元", "seat_category": "二等座", "name": ""}

@@ -1,0 +1,1 @@
+{"ticket_num": "1061272", "starting_station": "北京西站", "train_num": "K261", "destination_station": "平顶山站", "date": "2017年10月02日17:16开", "ticket_rates": "￥207.0元", "seat_category": "新空调硬卧", "name": "国小玉"}

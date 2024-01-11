@@ -1,0 +1,1 @@
+{"ticket_num": "A067590", "starting_station": "白洋淀治", "train_num": "D6578", "destination_station": "北京南", "date": "2017912914816:497", "ticket_rates": "￥60.5%", "seat_category": "一票网", "name": "登注翔"}

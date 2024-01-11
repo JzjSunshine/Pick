@@ -1,0 +1,1 @@
+{"ticket_num": "T081587", "starting_station": "郑州站", "train_num": "G370", "destination_station": "上海虹桥站", "date": "2018年01月18日07:34开", "ticket_rates": "￥749.5元", "seat_category": "一等座", "name": "王朝旭"}

@@ -1,0 +1,1 @@
+{"ticket_num": "L015629", "starting_station": "长沙南站", "train_num": "G+04", "destination_station": "北京西站", "date": "2018年02月07日13:04月", "ticket_rates": "71038.0x", "seat_category": "一等", "name": "不信制"}

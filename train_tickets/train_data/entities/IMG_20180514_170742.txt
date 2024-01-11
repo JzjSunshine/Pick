@@ -1,0 +1,1 @@
+{"ticket_num": "Z94X019913", "starting_station": "上海站", "train_num": "G7252", "destination_station": "南京南站", "date": "2017年12月23日15:44开", "ticket_rates": "￥139.5元", "seat_category": "二等座", "name": "丁健雄"}

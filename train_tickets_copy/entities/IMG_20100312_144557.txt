@@ -1,0 +1,1 @@
+{"ticket_num": "N085276", "starting_station": "天津市", "train_num": "C2078", "destination_station": "北京南站", "date": "2018年01月24日18:447", "ticket_rates": "￥65.5元", "seat_category": "一等感", "name": "二华清"}

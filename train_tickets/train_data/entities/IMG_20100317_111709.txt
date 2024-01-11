@@ -1,0 +1,1 @@
+{"ticket_num": "U064810", "starting_station": "北京西站", "train_num": "Z4177", "destination_station": "武昌站", "date": "2018年02月12日23:50开", "ticket_rates": "￥241.5元", "seat_category": "新空调软座", "name": "雪谨"}

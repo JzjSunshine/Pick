@@ -1,0 +1,1 @@
+{"ticket_num": "F028140", "starting_station": "北京西站", "train_num": "G9063", "destination_station": "保定东站", "date": "2017年12月11日15:55开", "ticket_rates": "￥63.5元", "seat_category": "二等座", "name": "疗翔"}

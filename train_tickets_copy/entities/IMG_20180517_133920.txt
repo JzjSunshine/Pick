@@ -1,0 +1,1 @@
+{"ticket_num": "X083490", "starting_station": "太原南站", "train_num": "G688", "destination_station": "阳泉北站", "date": "2017年11月22日17:41开", "ticket_rates": "￥45.5元", "seat_category": "一等座", "name": "雪博堃"}

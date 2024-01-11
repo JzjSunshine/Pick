@@ -1,0 +1,1 @@
+{"ticket_num": "R033428", "starting_station": "天津市", "train_num": "C2070", "destination_station": "北京南站", "date": "2018年03月08日17:417", "ticket_rates": "￥655元", "seat_category": "一等座", "name": ""}

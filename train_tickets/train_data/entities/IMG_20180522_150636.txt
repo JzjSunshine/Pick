@@ -1,0 +1,1 @@
+{"ticket_num": "F031785", "starting_station": "广州东站", "train_num": "C7089", "destination_station": "深圳站", "date": "2017年12月28日13:51开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "建军"}

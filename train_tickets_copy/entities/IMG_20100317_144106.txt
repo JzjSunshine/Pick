@@ -1,0 +1,1 @@
+{"ticket_num": "W005160", "starting_station": "北京站", "train_num": "761", "destination_station": "长春", "date": "2017年12月29日22:10开", "ticket_rates": "￥348.5元", "seat_category": "新空调软卧", "name": "达峰"}

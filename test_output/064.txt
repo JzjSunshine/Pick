@@ -1,0 +1,2 @@
+company	SUN WONG KUT SDN BHD,co
+company	OYALTY CARD,oth

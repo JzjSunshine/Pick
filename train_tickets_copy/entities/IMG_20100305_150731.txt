@@ -1,0 +1,1 @@
+{"ticket_num": "KID17334", "starting_station": "于家堡站", "train_num": "02598", "destination_station": "北京南蟠", "date": "2017年12月28017:294", "ticket_rates": "￥85.5%", "seat_category": "一等连", "name": "产瑜"}

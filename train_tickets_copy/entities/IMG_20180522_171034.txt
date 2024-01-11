@@ -1,0 +1,1 @@
+{"ticket_num": "Z41038096", "starting_station": "上海虹桥站", "train_num": "G7375", "destination_station": "杭州东站", "date": "2018年01月03日12:51开", "ticket_rates": "¥117.0元", "seat_category": "一等座", "name": "保玉"}

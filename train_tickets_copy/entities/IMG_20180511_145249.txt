@@ -1,0 +1,1 @@
+{"ticket_num": "Z55T060631", "starting_station": "上海虹桥站", "train_num": "G7583", "destination_station": "杭州东站", "date": "2017年12月21日14:40开", "ticket_rates": "￥117.0元", "seat_category": "一等座", "name": "王丽娜"}

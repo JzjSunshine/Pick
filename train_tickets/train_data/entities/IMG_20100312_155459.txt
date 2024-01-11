@@ -1,0 +1,1 @@
+{"ticket_num": "Z397094889", "starting_station": "上海虹桥站", "train_num": "G10", "destination_station": "北京南站", "date": "2018年02月01日07:05#", "ticket_rates": "¥933.0元", "seat_category": "一等座", "name": "暨青冬"}

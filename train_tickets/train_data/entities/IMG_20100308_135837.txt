@@ -1,0 +1,1 @@
+{"ticket_num": "Q043402", "starting_station": "北京南站", "train_num": "D6655", "destination_station": "保定站", "date": "2017年12月19日08:08开", "ticket_rates": "¥82.5元", "seat_category": "一等座", "name": "周静"}

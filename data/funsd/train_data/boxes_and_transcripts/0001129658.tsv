@@ -1,0 +1,42 @@
+0,96,177,118,177,118,192,96,192,FAX:,question
+1,75,337,116,337,116,351,75,351,DATE:,question
+2,75,286,117,286,117,301,75,301,FROM:,question
+3,457,288,544,288,544,305,457,305,CHARGEBACK:,question
+4,106,404,176,404,176,418,106,418,RECIPIENT,question
+5,235,402,298,402,298,419,235,419,COMPANY,question
+6,398,404,425,404,425,418,398,418,FAX,question
+7,426,405,451,405,451,418,426,418,No.,question
+8,77,532,147,532,147,546,77,546,COMMENTS,question
+9,538,934,562,934,562,952,538,952,No:,question
+10,258,936,299,936,299,953,258,953,Name:,question
+11,196,936,221,936,221,951,196,951,Yes,question
+12,105,937,193,937,193,952,105,952,Confirmation:,header
+13,686,831,706,831,706,926,686,926,2074956978,other
+14,591,102,650,102,650,144,591,144,,other
+15,77,95,488,95,488,151,77,151,WINSTON & STRAWN,header
+16,514,137,614,137,614,158,514,158,Fax Cover Sheet,header
+17,95,155,466,155,466,181,95,181,MAMI TRIAL SITE, 2000 FIRST UNION FINANCIAL CENTER, 200 SOUTH BISCAYNE BOULEVARD MIAMI, FLORIDA 33131,other
+18,126,179,225,179,225,192,126,192,(305) 400 6 06,answer
+19,77,205,197,205,197,238,77,238,200 PARK AVENUE NEWYORK NY 10166 4193 212 294-6700,other
+20,219,207,346,207,346,236,219,236,400 L. STREET N WASHWINGTON DC 20005 3502 202 371 5700,other
+21,360,208,442,208,442,239,360,239,35 WEST WACKER CHICAGO. IL 30601 312- 588 5800,other
+22,500,209,594,209,594,239,500,239,21 AVENUE VICTOR HUGO 75 PARIS, FRANCE 33- 53 64 62 82,other
+23,267,256,355,256,355,273,267,273,Fax Number:,question
+24,359,256,454,256,454,273,359,273,305 400- 6107,answer
+25,161,286,234,286,234,304,161,304,Kevin Narko,answer
+26,161,335,213,335,213,349,161,349,10/ 13/ 99,answer
+27,468,310,523,310,523,324,468,324,4162/ 158,answer
+28,246,370,472,370,472,387,246,387,Please Deliver as soon Possible To:,header
+29,108,430,193,430,193,449,108,449,John Mulderig,answer
+30,109,458,192,458,192,476,109,476,Gregory Little,answer
+31,235,430,315,430,315,450,235,450,Philip Morris,answer
+32,236,459,313,459,313,479,236,479,Philip Morris,answer
+33,399,432,482,432,482,449,399,449,917 -663 -5796,answer
+34,397,461,481,461,481,476,397,476,917- 663 5979,answer
+35,514,432,596,432,596,447,514,447,917- 663 3056,answer
+36,514,404,588,404,588,420,514,420,PHONE No.,question
+37,239,497,479,497,479,516,239,516,Total number of pages including this page:,question
+38,85,677,620,677,620,722,85,722,IF YOU DO NOT RECEIVE ALL THE PAGES, PLEASE CALL OUR FAX OPERATOR AS SOON AS POSSIBLE THANK YOU. 312- 558- 5948,other
+39,82,821,639,821,639,873,82,873,The information contained in this facsimile message is attorncy privileged and confidential information intended only for the use of the individual or entity named above. If the reader of this message is not the intended recipient, or the employee or agent responsible to deliver it to the intended recipient, you are hereby notified that any dissemination, distribution or copying this communication strictly prohibited.,other
+40,84,881,636,881,636,908,84,908,If you have received this communication in error, please immediately notify us by telephone, and return the original message to us at the above address via the U. S. Postal Service. Thank you.,other
+41,105,919,204,919,204,935,105,935,Operator Initials:,question

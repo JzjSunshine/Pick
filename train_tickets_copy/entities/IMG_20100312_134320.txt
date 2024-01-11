@@ -1,0 +1,1 @@
+{"ticket_num": "133L005827", "starting_station": "武汉效", "train_num": "G488", "destination_station": "北京西站", "date": "2018年02月09日12:46开", "ticket_rates": "￥832.5元", "seat_category": "一等座", "name": "飞"}

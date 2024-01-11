@@ -1,0 +1,1 @@
+{"ticket_num": "259H063879", "starting_station": "杭州东站", "train_num": "C46", "destination_station": "北京市站", "date": "2017年12月29日015:517", "ticket_rates": "￥907.U元", "seat_category": "三等座", "name": "西"}

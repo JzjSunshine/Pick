@@ -1,0 +1,1 @@
+{"ticket_num": "Z128B077139", "starting_station": "杭州东站", "train_num": "G7520", "destination_station": "昆山南站", "date": "2017年11月29日17:25开", "ticket_rates": "￥153.5元", "seat_category": "一等座", "name": "—晓旭"}

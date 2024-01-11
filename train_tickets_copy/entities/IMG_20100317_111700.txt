@@ -1,0 +1,1 @@
+{"ticket_num": "S017291", "starting_station": "昆明南站", "train_num": "G+04", "destination_station": "北京西站", "date": "2018年02月240008：00", "ticket_rates": "￥11475%", "seat_category": "二等医", "name": "三玫道"}

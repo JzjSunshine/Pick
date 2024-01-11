@@ -1,0 +1,1 @@
+{"ticket_num": "014J096146", "starting_station": "新乡东站", "train_num": "G673", "destination_station": "郑州东站", "date": "2017年10月28日17:46开", "ticket_rates": "￥48.5元", "seat_category": "一等座", "name": "凯"}

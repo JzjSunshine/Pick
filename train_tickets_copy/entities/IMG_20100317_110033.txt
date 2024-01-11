@@ -1,0 +1,1 @@
+{"ticket_num": "0040159", "starting_station": "天津站", "train_num": "C2018", "destination_station": "北京南站", "date": "2017*12月210.09:51开", "ticket_rates": "￥93.5元", "seat_category": "特等座", "name": "种璞"}

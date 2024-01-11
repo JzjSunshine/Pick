@@ -1,0 +1,1 @@
+{"ticket_num": "8047780", "starting_station": "条诊", "train_num": "262", "destination_station": "北京", "date": "2018*01820021:58开", "ticket_rates": "￥230.5%", "seat_category": "新空调硬卧", "name": "下辖飞"}

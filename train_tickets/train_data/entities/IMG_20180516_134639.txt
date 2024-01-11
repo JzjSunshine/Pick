@@ -1,0 +1,1 @@
+{"ticket_num": "S082756", "starting_station": "天津站", "train_num": "C2216", "destination_station": "北京南靖", "date": "2017年12月07日10:14月", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "淼佟"}

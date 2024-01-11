@@ -1,0 +1,1 @@
+{"ticket_num": "KO05051", "starting_station": "曲阜东站", "train_num": "G142", "destination_station": "北京南站", "date": "2017年12月24日17:40开", "ticket_rates": "¥244.0元", "seat_category": "二等座", "name": "女"}

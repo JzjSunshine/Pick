@@ -1,0 +1,1 @@
+{"ticket_num": "1E019093", "starting_station": "常州北站", "train_num": "G140", "destination_station": "南京南站", "date": "2017年12月26日14:35东", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "Payee(seal)"}

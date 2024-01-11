@@ -1,0 +1,1 @@
+{"ticket_num": "K056443", "starting_station": "韶关东站", "train_num": "K535", "destination_station": "深圳站", "date": "2018年01月01日14:07开", "ticket_rates": "￥53.5元", "seat_category": "新空调硬座", "name": "二;智杨"}

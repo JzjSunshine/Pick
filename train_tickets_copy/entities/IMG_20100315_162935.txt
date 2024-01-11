@@ -1,0 +1,1 @@
+{"ticket_num": "J093287", "starting_station": "济南西站", "train_num": "Gl6", "destination_station": "北京南站", "date": "2017年12月07日14:23开", "ticket_rates": "￥184.5元", "seat_category": "二等座", "name": "雪文婷"}

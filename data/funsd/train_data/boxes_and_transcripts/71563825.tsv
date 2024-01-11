@@ -1,0 +1,54 @@
+0,117,92,177,92,177,141,117,141,,other
+1,575,99,632,99,632,144,575,144,,other
+2,524,205,556,205,556,219,524,219,Date:,question
+3,119,388,180,388,180,403,119,403,Market(s):,question
+4,120,543,151,543,151,557,120,557,Male:,question
+5,119,560,164,560,164,573,119,573,Female:,question
+6,187,606,232,606,232,620,187,620,Bogotá:,question
+7,189,635,242,635,242,650,189,650,Medellin:,question
+8,120,670,151,670,151,683,120,683,Note:,question
+9,218,205,229,205,229,219,218,219,#,answer
+10,219,270,251,270,251,284,219,284,Other,answer
+11,313,239,383,239,383,250,313,250,COLOMBIA,answer
+12,311,254,352,254,352,267,311,267,KOOL,answer
+13,190,541,215,541,215,559,190,559,60%,answer
+14,190,559,215,559,215,570,190,570,40%,answer
+15,120,444,131,444,131,455,120,455,1),other
+16,120,459,131,459,131,472,120,472,2),other
+17,122,475,132,475,132,488,122,488,3),other
+18,122,492,133,492,133,505,122,505,4),other
+19,233,155,539,155,539,177,233,177,Market Research - Initiating Project Brief,header
+20,124,204,208,204,208,218,124,218,Brief Number,question
+21,120,239,201,239,201,253,120,253,Client Group:,question
+22,573,205,624,205,624,218,573,218,02/ 12/ 98,answer
+23,216,237,256,237,256,250,216,250,R. B. U.,answer
+24,221,254,293,254,293,267,221,267,Brand Group,answer
+25,117,303,205,303,205,318,117,318,Client Contact:,question
+26,219,303,354,303,354,334,219,334,Maria Helena Argüelles/ Edwin Garcia,answer
+27,394,303,499,303,499,318,394,318,Research Liaison:,question
+28,504,302,634,302,634,334,504,334,Camilo Concha/ Andrea Suarez,answer
+29,120,353,271,353,271,369,120,369,Project Name/ Description,question
+30,274,352,472,352,472,369,274,369,K001 vs. Marlboro Menthol Lights,answer
+31,183,388,373,388,373,403,183,403,Bogotá, Medellin and Barranquilla,answer
+32,120,426,226,426,226,441,120,441,Referent Brand(s):,question
+33,134,441,570,441,570,458,134,458,Current Kool Filter King Colombia 1 1 mg tar @ 0. 51% menthol white tipping.,answer
+34,135,458,483,458,483,472,135,472,Kool Milds KS Japan 9mg tar @ 0. 56% menthol white tipping,answer
+35,135,473,418,473,418,488,135,488,Kool KS. 9 mg tar, @ 0. 51% menthol white tipping,answer
+36,135,490,602,490,602,507,135,507,Current Marlboro Lights Menthol King US 9mg tar @ 0. 66% menthol, white tipping.,answer
+37,120,524,249,524,249,539,120,539,Consumer Segment(s):,header
+38,190,574,265,574,265,589,190,589,18 -29 (100%),answer
+39,122,575,162,575,162,589,122,589,By age:,question
+40,122,591,167,591,167,605,122,605,BY SEL:,question
+41,190,591,259,591,259,604,190,604,AB1 (100%),answer
+42,122,606,168,606,168,621,122,621,By City:,header
+43,249,605,572,605,572,622,249,622,KOOL Parent regular smokers 50% -alternate smokers 50%,answer
+44,249,622,572,622,572,636,249,636,KOOL Parent regular smokers 50% -alternate smokers 50%,answer
+45,250,638,574,638,574,652,250,652,KOOL Parent regular smokers 50% -alternate smokers 50%,answer
+46,154,668,651,668,651,686,154,686,In order to establish a quantitative basis for determining the winning product, results will be,answer
+47,233,686,391,686,391,700,233,700,Alternate 60%, Regular 40%.,answer
+48,119,722,310,722,310,736,119,736,Background Problem Definition:,question
+49,122,736,653,736,653,784,122,784,On September 1 97, PMI simultaneously launched Marlboro Menthol KS Box (16mg tar and Menthol Lights KS Box (9mg tar) in Colombia. These two products became KOOL's direct competitors (Premium Menthol Brands).,answer
+50,122,785,649,785,649,817,122,817,At the same time KOOL replaced its product with a milder 11mg cigarette (the same KOOL Milds but with a 27mm cork tipping).,answer
+51,0,953,231,953,231,983,0,983,440026083 PRODUCED FROM B &W WEB SITE,other
+52,120,686,230,686,230,700,120,700,weighted as follows:,question
+53,190,622,238,622,238,636,190,636,B/ quilla:,question

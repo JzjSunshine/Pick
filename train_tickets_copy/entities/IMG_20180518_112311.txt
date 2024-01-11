@@ -1,0 +1,1 @@
+{"ticket_num": "S066442", "starting_station": "北京站", "train_num": "K95", "destination_station": "鞍山站", "date": "2017年12月26日23:03开", "ticket_rates": "r275.0元", "seat_category": "新空调软卧", "name": "服舒涵"}

@@ -1,0 +1,1 @@
+{"ticket_num": "243H066397", "starting_station": "无锡东站", "train_num": "G142", "destination_station": "北京南站", "date": "2017年11月15日14：41：", "ticket_rates": "￥8635元", "seat_category": "一等鬣", "name": "，世民"}

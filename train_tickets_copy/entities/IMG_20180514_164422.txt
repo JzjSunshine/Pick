@@ -1,0 +1,1 @@
+{"ticket_num": "012G014930", "starting_station": "新乡东站", "train_num": "G1289", "destination_station": "郑州东站", "date": "2017年12月22日 17:59开", "ticket_rates": "￥48.5元", "seat_category": "一等座", "name": "二凯"}

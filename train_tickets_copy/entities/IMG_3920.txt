@@ -1,0 +1,1 @@
+{"ticket_num": "NO422.4", "starting_station": "石家庄站", "train_num": "G656", "destination_station": "北京西靖", "date": "2018年01月12a14:14开", "ticket_rates": "￥206.5%", "seat_category": "一等座", "name": "二劳"}

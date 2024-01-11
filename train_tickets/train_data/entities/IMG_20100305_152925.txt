@@ -1,0 +1,1 @@
+{"ticket_num": "Z86C024586", "starting_station": "南京站", "train_num": "T66", "destination_station": "北京站", "date": "2017年10月07日22:077", "ticket_rates": "￥272.5元", "seat_category": "新空调硬卧", "name": "二小康"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Y0887777", "starting_station": "\u592a\u539f\u5357\u7ad9", "train_num": "G626", "destination_station": "\u5317\u4eac\u897f", "date": "2018\u5e7402\u670821\u65e518:50\u5f00", "ticket_rates": "\uffe5197.0\u5143", "seat_category": "\u4e8c\u7b49\u5ea7", "name": "\u56fd\u6cfd"}

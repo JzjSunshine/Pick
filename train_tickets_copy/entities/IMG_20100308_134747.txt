@@ -1,0 +1,1 @@
+{"ticket_num": "Z221T011208", "starting_station": "无锡站", "train_num": "G7563", "destination_station": "杭州东站", "date": "2017年11月02日16:12开", "ticket_rates": "￥209.5元", "seat_category": "一等座", "name": "珂瑜"}

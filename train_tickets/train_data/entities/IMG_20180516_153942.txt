@@ -1,0 +1,1 @@
+{"ticket_num": "Z51N030074", "starting_station": "徐州东站", "train_num": "G6", "destination_station": "北京南路", "date": "2017年10月09日009:097", "ticket_rates": "￥309.0元", "seat_category": "二等感", "name": "源桧"}

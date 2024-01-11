@@ -1,0 +1,1 @@
+{"ticket_num": "8021227", "starting_station": "北京西站", "train_num": "G40.", "destination_station": "武汉站", "date": "2018年02月07日10:05开", "ticket_rates": "￥520.5元", "seat_category": "二等座", "name": "飞"}

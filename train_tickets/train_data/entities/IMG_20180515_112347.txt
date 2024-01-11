@@ -1,0 +1,1 @@
+{"ticket_num": "X041341", "starting_station": "菏泽站", "train_num": "K1902", "destination_station": "北京站", "date": "2018年02月27日14:33开", "ticket_rates": "￥154.0元", "seat_category": "", "name": "二风云"}

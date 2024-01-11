@@ -1,0 +1,1 @@
+{"ticket_num": "U083856", "starting_station": "北京西站", "train_num": "D2001", "destination_station": "阳泉北站", "date": "2017年12月06日07:46开", "ticket_rates": "￥174.5元", "seat_category": "一等座", "name": "晓钢"}

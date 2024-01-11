@@ -1,0 +1,1 @@
+{"ticket_num": "E085198", "starting_station": "兰州站", "train_num": "C8501", "destination_station": "中川机场站", "date": "2018年01月09日06:58开", "ticket_rates": "￥21.5元", "seat_category": "二等座", "name": "围峥"}

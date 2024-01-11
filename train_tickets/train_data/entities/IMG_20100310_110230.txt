@@ -1,0 +1,1 @@
+{"ticket_num": "L004674", "starting_station": "北京南站", "train_num": "G107", "destination_station": "南京南站", "date": "2017年09月14日08:05开", "ticket_rates": "￥443.5元", "seat_category": "二等座", "name": "雪浩"}

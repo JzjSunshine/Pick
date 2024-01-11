@@ -1,0 +1,1 @@
+{"ticket_num": "Z39R037932", "starting_station": "温州南站", "train_num": "D3232", "destination_station": "宁波站", "date": "2017年11月21日19:45并", "ticket_rates": "¥147.0元", "seat_category": "一等座", "name": "口林"}

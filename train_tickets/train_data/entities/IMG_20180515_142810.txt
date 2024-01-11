@@ -1,0 +1,1 @@
+{"ticket_num": "0069865", "starting_station": "西安站", "train_num": "T232", "destination_station": "北京西站", "date": "2018年02月24日17:38开", "ticket_rates": "￥148.5元", "seat_category": "新空调硬座", "name": "慧"}

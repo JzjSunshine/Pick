@@ -1,0 +1,1 @@
+{"ticket_num": "0082715", "starting_station": "广州南站", "train_num": "G6241", "destination_station": "深圳北站", "date": "2017年11月12日15:35开", "ticket_rates": "￥74.5元", "seat_category": "二等座", "name": "婷婷"}

@@ -1,0 +1,1 @@
+{"ticket_num": "L034004", "starting_station": "保年乐站", "train_num": "G72", "destination_station": "北京四站", "date": "2017年12月20日17:40开", "ticket_rates": "￥201.5元", "seat_category": "商务座", "name": "Q1"}

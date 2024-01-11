@@ -1,0 +1,1 @@
+{"ticket_num": "/026400", "starting_station": "珠海站", "train_num": "C7642", "destination_station": "广州南站", "date": "2017年12月02日15:40开", "ticket_rates": "￥70.0元", "seat_category": "二等座", "name": "伟"}

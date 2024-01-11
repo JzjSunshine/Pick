@@ -1,0 +1,1 @@
+{"ticket_num": "J030068", "starting_station": "天津站", "train_num": "G1271", "destination_station": "秦皇岛站", "date": "2017年12月29日15:22#", "ticket_rates": "¥120.0元", "seat_category": "二等座", "name": "笑婷"}

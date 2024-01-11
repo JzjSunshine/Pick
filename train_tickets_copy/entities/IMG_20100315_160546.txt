@@ -1,0 +1,1 @@
+{"ticket_num": "H011960", "starting_station": "济南西站", "train_num": "Gl6", "destination_station": "北京南站", "date": "2017年12月07日14:23、", "ticket_rates": "￥184.5元", "seat_category": "", "name": "嘉宇"}

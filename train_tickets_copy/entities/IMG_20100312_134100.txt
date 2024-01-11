@@ -1,0 +1,1 @@
+{"ticket_num": "T054672", "starting_station": "深圳北站", "train_num": "D7412", "destination_station": "惠州南站", "date": "2018年01月23日11:05开", "ticket_rates": "￥20.0元", "seat_category": "二等座", "name": "菖慧军"}

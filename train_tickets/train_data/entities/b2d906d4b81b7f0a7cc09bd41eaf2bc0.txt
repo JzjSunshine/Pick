@@ -1,0 +1,1 @@
+{"ticket_num": "3005447", "starting_station": "何莉浩特雄", "train_num": "06769", "destination_station": "包头站", "date": "2017411月22日11:19%", "ticket_rates": "￥58.0元", "seat_category": "一等座", "name": "二级"}

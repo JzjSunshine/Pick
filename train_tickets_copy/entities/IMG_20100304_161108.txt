@@ -1,0 +1,1 @@
+{"ticket_num": "015W075094", "starting_station": "郑州东站", "train_num": "G508", "destination_station": "北京西站", "date": "2017年11月16日09:32开", "ticket_rates": "￥495.0元", "seat_category": "一等座", "name": "峥"}

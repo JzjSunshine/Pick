@@ -1,0 +1,1 @@
+{"ticket_num": "K086633", "starting_station": "北京南站", "train_num": "G265", "destination_station": "合肥南站", "date": "2017年11月05日07:48开", "ticket_rates": "¥734.5元", "seat_category": "一等座", "name": "直轶"}

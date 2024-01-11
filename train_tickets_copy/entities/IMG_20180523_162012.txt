@@ -1,0 +1,1 @@
+{"ticket_num": "D043059", "starting_station": "北京南盛", "train_num": "02203", "destination_station": "天津站", "date": "2018年03月314 07 31A", "ticket_rates": "￥65.5%", "seat_category": "一专家", "name": "Ward"}

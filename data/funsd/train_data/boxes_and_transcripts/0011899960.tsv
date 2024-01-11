@@ -1,0 +1,30 @@
+0,15,102,95,102,95,120,15,120,Attention,question
+1,15,159,71,159,71,177,15,177,Copies,question
+2,430,106,518,106,518,121,430,121,Department,question
+3,314,159,373,159,373,176,314,176,Subject,question
+4,603,43,653,43,653,89,603,89,7,other
+5,18,237,113,237,113,261,18,261,Publication,question
+6,348,296,386,296,386,311,348,311,Time,question
+7,515,297,550,297,550,314,515,314,Date,question
+8,552,736,620,736,620,756,552,756,RECEIVED,question
+9,642,708,662,708,662,830,642,830,516007780,other
+10,102,101,401,101,401,125,102,125,DR. HUGHES, MESSRS. ALAR, SANDEFUR,,answer
+11,524,103,669,103,669,124,524,124,CORPORATE AFFAIRS,answer
+12,103,128,637,128,637,151,103,151,BLOTT, BUTLER, MIDDLETON, CHRISTENSEN, PEPPLES, SACHS FREEDMAN,answer
+13,85,158,265,158,265,179,85,179,T. HUMBER, M. BATEMAN,answer
+14,406,159,503,159,503,176,406,176,L&M Lawsuit,answer
+15,253,209,441,209,441,231,253,231,PRESS QUERY,header
+16,151,240,290,240,290,260,151,260,ADWEEK - Midwest,answer
+17,15,270,149,270,149,289,15,289,Reporter/ Editor,question
+18,186,267,655,267,655,290,186,290,Fran Brock (312) 467- 6500,answer
+19,18,296,114,296,114,314,18,314,Received by,question
+20,133,296,233,296,233,311,133,311,Mark Ahearn,answer
+21,406,292,481,292,481,316,406,316,1: 45 P. M.,answer
+22,581,295,637,295,637,314,581,314,7/ 9/ 84,answer
+23,18,323,196,323,196,343,18,343,Deadline for response,question
+24,218,324,352,324,352,344,218,344,Already handled,answer
+25,17,349,680,349,680,386,17,386,Describe the storyline, list the questions and proposed answers, and summarize handling, including clearances.,question
+26,18,433,612,433,612,470,18,470,Ms. Brock requested information regarding L&M lawsuit. I provided the approved prepared response.,other
+27,17,473,677,473,677,523,17,523,Reporter then requested clarification of generic cigarette vs. 'private label cigarette' and asked to be notified when further announcements regarding generics were made.,other
+28,314,528,440,528,440,577,314,577,J. M. A. JMA,other
+29,547,764,639,764,639,811,547,811,JUL 10 1984 JOHN ALAR,answer

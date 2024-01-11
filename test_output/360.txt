@@ -1,0 +1,5 @@
+address	LOT 3\, JALAN PELABUR 23/1,address
+address	40300 SHAH ALAM\, SELANGOR.,address
+date	24/10/2017,d
+date	24/10/2017,
+total	41.87,

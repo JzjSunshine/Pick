@@ -1,0 +1,1 @@
+{"ticket_num": "Q056238", "starting_station": "重庆北站", "train_num": "G8714", "destination_station": "成都东站", "date": "2018年01月24日19:307", "ticket_rates": "￥246.5元", "seat_category": "一等座", "name": "长庚"}

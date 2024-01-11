@@ -1,0 +1,1 @@
+{"ticket_num": "Y055474", "starting_station": "\u5357\u4eac\u5357\u7ad9", "train_num": "G16", "destination_station": "\u5317\u4eac\u5357\u7ad9", "date": "", "ticket_rates": "\u00a5748.5\u5143", "seat_category": "--\u7b49\u5ea7", "name": "\u98da"}

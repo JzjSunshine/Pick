@@ -1,0 +1,1 @@
+{"ticket_num": "A034305", "starting_station": "北京南端", "train_num": "G333", "destination_station": "济南西站", "date": "2017年09月29日20:10", "ticket_rates": "￥184.5元", "seat_category": "二等理", "name": "117"}

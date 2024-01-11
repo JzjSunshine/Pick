@@ -1,0 +1,1 @@
+{"ticket_num": "L090391", "starting_station": "阳泉北站", "train_num": "G620", "destination_station": "北京西站", "date": "2017年12月05日16:14元", "ticket_rates": "：158.5元", "seat_category": "二等座", "name": "利飞"}

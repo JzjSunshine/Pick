@@ -1,0 +1,1 @@
+{"ticket_num": "3028146", "starting_station": "天津南站", "train_num": "G+218", "destination_station": "北京南站", "date": "2018年01月28结束9:067", "ticket_rates": "￥54.5%", "seat_category": "二等舰", "name": "重家袜"}

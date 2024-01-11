@@ -1,0 +1,1 @@
+{"ticket_num": "J051818", "starting_station": "长沙沙", "train_num": "T146", "destination_station": "北京站", "date": "20诊查费01月12日17:28开", "ticket_rates": "￥333.5元", "seat_category": "新空调硬卧", "name": "门亮"}

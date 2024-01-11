@@ -1,0 +1,1 @@
+{"ticket_num": "U088792", "starting_station": "北京南站", "train_num": "C2585", "destination_station": "天津站", "date": "2017年11月10日10:27开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "俊"}

@@ -1,0 +1,1 @@
+{"ticket_num": "N029193", "starting_station": "保定东站", "train_num": "G6742", "destination_station": "北京西站", "date": "2017单12月208 15:16开", "ticket_rates": "￥1015元", "seat_category": "一等座", "name": "服名"}

@@ -1,0 +1,1 @@
+{"ticket_num": "lomagga", "starting_station": "石家庄站", "train_num": "G8908", "destination_station": "保定东站", "date": "2017年11月30m09:56市", "ticket_rates": "￥64.5元", "seat_category": "二等座", "name": "龙飞"}

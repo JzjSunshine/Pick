@@ -1,0 +1,1 @@
+{"ticket_num": "W039587", "starting_station": "苏州北站", "train_num": "G116", "destination_station": "北京南站", "date": "2017年11月25日", "ticket_rates": "￥8835.", "seat_category": "一+或座", "name": "海嫩"}

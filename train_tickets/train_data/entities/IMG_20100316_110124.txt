@@ -1,0 +1,1 @@
+{"ticket_num": "J840064028", "starting_station": "南通站", "train_num": "K722", "destination_station": "曲靖站", "date": "2018年01月30日18:42元", "ticket_rates": "￥273.5元", "seat_category": "新空调硬座", "name": "国云华"}

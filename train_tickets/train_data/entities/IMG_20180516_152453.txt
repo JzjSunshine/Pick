@@ -1,0 +1,1 @@
+{"ticket_num": "R007421", "starting_station": "南京南站", "train_num": "G7283", "destination_station": "芜湖站", "date": "2017年11月08日13:37开", "ticket_rates": "￥50.5元", "seat_category": "一等座", "name": "池静"}

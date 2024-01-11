@@ -1,0 +1,1 @@
+{"ticket_num": "2M085558", "starting_station": "余姚北站", "train_num": "D2196", "destination_station": "汉口站", "date": "2018年02月23日13:02开", "ticket_rates": "￥219.5元", "seat_category": "二等座", "name": "文露"}

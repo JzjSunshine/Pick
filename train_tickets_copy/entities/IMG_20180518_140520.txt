@@ -1,0 +1,1 @@
+{"ticket_num": "7078514", "starting_station": "长春站", "train_num": "Z62", "destination_station": "北京站", "date": "", "ticket_rates": "￥222.5元", "seat_category": "新空调硬卧", "name": "丁新雪"}

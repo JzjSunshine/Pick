@@ -1,0 +1,1 @@
+{"ticket_num": "Z069147", "starting_station": "北京南站", "train_num": "G41", "destination_station": "沧州西站", "date": "2017年11月21日09:15开", "ticket_rates": "￥94.5元", "seat_category": "二等座", "name": "明"}

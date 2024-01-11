@@ -1,0 +1,7 @@
+company	T
+company	IOUS REST
+address	NO.22 JALAN PUTERI 2/4,other
+address	BANDAR PUTERI,other
+address	47100 PUCHONG\, SELANGOR,address
+address	BILL NO,other
+date	02/02/2017

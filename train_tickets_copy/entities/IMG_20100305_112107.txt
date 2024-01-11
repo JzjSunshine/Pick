@@ -1,0 +1,1 @@
+{"ticket_num": "N089131", "starting_station": "天津站", "train_num": "02106", "destination_station": "北京南站", "date": "2018年01826072331", "ticket_rates": "752.0z", "seat_category": "一等应", "name": "男"}

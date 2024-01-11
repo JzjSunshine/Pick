@@ -1,0 +1,1 @@
+{"ticket_num": "1480086833", "starting_station": "武汉武", "train_num": "G528", "destination_station": "北京西站", "date": "2018年02月23日17:59开", "ticket_rates": "￥520.5元", "seat_category": "二等座", "name": "丁玉莲"}

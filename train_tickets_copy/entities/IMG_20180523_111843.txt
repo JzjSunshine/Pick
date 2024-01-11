@@ -1,0 +1,1 @@
+{"ticket_num": "P008370", "starting_station": "天津市", "train_num": "居2083", "destination_station": "疗宗新", "date": "2018-01亚11张1938-", "ticket_rates": "￥：5.54", "seat_category": "1394", "name": "藩县镇"}

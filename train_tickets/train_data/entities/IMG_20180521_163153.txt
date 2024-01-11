@@ -1,0 +1,1 @@
+{"ticket_num": "D060186", "starting_station": "武清站", "train_num": "C2236", "destination_station": "北京站", "date": "￥38.5元", "ticket_rates": "", "seat_category": "二等座", "name": "苏林社区"}

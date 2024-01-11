@@ -1,0 +1,65 @@
+0,535,71,589,71,589,105,535,105,Scott,other
+1,468,230,514,230,514,247,468,247,Job#:,question
+2,80,250,137,250,137,264,80,264,Revision,question
+3,142,246,166,246,166,268,142,268,☑,answer
+4,243,250,297,250,297,270,243,270,Reason:,question
+5,628,795,648,795,648,914,628,914,803108404,other
+6,203,817,216,817,216,831,203,831,,other
+7,221,817,277,817,277,835,221,835,Pasholuk,other
+8,399,665,424,665,424,682,399,682,Jan,question
+9,398,683,427,683,427,697,398,697,Feb,question
+10,529,668,553,668,553,679,529,679,Jul,question
+11,532,683,560,683,560,697,532,697,Aug,question
+12,528,700,557,700,557,713,528,713,Sep,question
+13,525,715,556,715,556,729,525,729,Oct,question
+14,529,730,557,730,557,741,529,741,Nov,question
+15,528,744,559,744,559,759,528,759,Dec,question
+16,221,838,280,838,280,848,221,848,Director,question
+17,186,834,217,834,217,848,186,848,MPIO,question
+18,534,228,595,228,595,245,534,245,5543/295,answer
+19,193,250,229,250,229,270,193,270,1,other
+20,176,247,190,247,190,269,176,269,#,other
+21,397,697,426,697,426,712,397,712,Mar,question
+22,401,714,428,714,428,727,401,727,Apr,question
+23,398,729,426,729,426,740,398,740,May,question
+24,399,743,426,743,426,756,399,756,Jun,question
+25,197,811,381,811,381,865,197,865,,other
+26,536,119,643,119,643,135,536,135,January 18, 1998,other
+27,177,117,548,117,548,180,177,180,Date: PROJECT APPROVAL MARKET PLANNING AND INFORMATION DEPARTMENT,header
+28,211,177,345,177,345,199,211,199,Sales Analysis ☐,question
+29,358,180,523,180,523,200,358,200,Consumor Research ☑,other
+30,194,214,289,214,289,229,194,229,Newport Lights,answer
+31,193,229,395,229,395,246,193,246,Direct Mail Conversion Research,answer
+32,81,229,166,229,166,244,81,244,Project Title:,question
+33,324,251,430,251,430,267,324,267,Lower Incidence,answer
+34,80,285,331,285,331,303,80,303,Marketing and or Research Objectives,question
+35,78,316,618,316,618,349,78,349,Determine the level of interest and conversion opportunities among pompotitive smokers. receiving a Direct Mail offer for Newport Lights.,answer
+36,78,362,594,362,594,392,78,392,Provide insight into the reasons for offer acceptance or rejection of offer and examine consumer perceptions about Newport Lights.,answer
+37,80,398,191,398,191,411,80,411,Research Design,question
+38,78,426,296,426,296,444,78,444,Interviews divided among 3 gorups:,question
+39,140,458,533,458,533,506,140,506,Group 1= Best redeeming customers (2+ paid coupons): n= 750 Group 2= Paid redeoming customers 1 paid coupon) n= 750 Group 3= Non- redeeming customers (no redemption) n= 750,answer
+40,78,515,451,515,451,535,78,535,The total sample size is 2,250. All smokers 21+ years of age.,answer
+41,71,578,157,578,157,615,71,615,Respondent Incidence:,question
+42,168,596,250,596,250,629,168,629,38% revised from 70%,answer
+43,332,587,398,587,398,615,332,615,Interview Length:,question
+44,413,584,513,584,513,617,413,617,Screener Questionnaire,question
+45,568,588,634,588,634,600,568,600,5 minutes,answer
+46,564,605,632,605,632,616,564,616,10 minutes,answer
+47,77,642,178,642,178,656,77,656,Research Firm:,question
+48,77,675,175,675,175,692,77,692,Cost Estimate:,question
+49,73,708,174,708,174,723,73,723,Revised From:,question
+50,74,754,162,754,162,771,74,771,Prepared by,question
+51,70,785,162,785,162,803,70,803,Approved by:,header
+52,204,677,263,677,263,692,204,692,$100 600,answer
+53,205,708,254,708,254,722,205,722,$76 600,answer
+54,201,736,380,736,380,790,201,790,S. R. Benson ,answer
+55,187,803,290,803,290,815,187,815,Group Manager,question
+56,187,895,352,895,352,912,187,912,Group Product Manager,question
+57,184,865,303,865,303,880,184,880,Product Manager,question
+58,398,821,545,821,545,837,398,837,Start Field w/o 11 /13 /95,answer
+59,388,852,537,852,537,866,388,866,Reporting Schedule:,question
+60,397,881,528,881,528,914,397,914,Topline w/o 12 /18 /95 Final Report 12/ 31/ 95,answer
+61,577,742,635,742,635,759,577,759,$100 600,other
+62,398,761,560,761,560,779,398,779,Revised Costs (if any),question
+63,397,788,532,788,532,806,397,806,Fieldwork Schedule:,question
+64,204,642,295,642,295,659,204,659,A & G Research,answer

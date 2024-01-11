@@ -1,0 +1,1 @@
+{"ticket_num": "P039913", "starting_station": "石家庄站", "train_num": "G652", "destination_station": "北京西站", "date": "2017年12月13日12:01开", "ticket_rates": "¥206.5元", "seat_category": "--等座", "name": "国振兴"}

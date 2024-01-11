@@ -1,0 +1,1 @@
+{"ticket_num": "W022466", "starting_station": "石家庄站", "train_num": "G92", "destination_station": "北京西站", "date": "2018年03月30日09:50开", "ticket_rates": "￥128.5元", "seat_category": "二等座", "name": "国一笑"}

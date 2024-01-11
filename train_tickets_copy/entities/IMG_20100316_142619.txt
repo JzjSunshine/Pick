@@ -1,0 +1,1 @@
+{"ticket_num": "Z34H010072", "starting_station": "杭州东站", "train_num": "G7322", "destination_station": "上海虹桥站", "date": "2018年03月07日14:44J", "ticket_rates": "￥117.0元", "seat_category": "一等座", "name": "娜"}

@@ -1,0 +1,1 @@
+{"ticket_num": "P004974", "starting_station": "天津站", "train_num": "C2078", "destination_station": "北京南站", "date": "2018年01月12日18：44燕", "ticket_rates": "￥65.5%", "seat_category": "一等摩", "name": "附窗有"}

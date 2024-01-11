@@ -1,0 +1,1 @@
+{"ticket_num": "C038151", "starting_station": "北京西站", "train_num": "K279", "destination_station": "许昌站", "date": "2017年09月29日09:52开", "ticket_rates": "￥102.0元", "seat_category": "新空调硬座", "name": "志欢"}

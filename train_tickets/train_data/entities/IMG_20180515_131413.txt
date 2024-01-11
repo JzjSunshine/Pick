@@ -1,0 +1,1 @@
+{"ticket_num": "B068336", "starting_station": "赤峰地", "train_num": "K4770", "destination_station": "昌平北站", "date": "2016年02422109:21月", "ticket_rates": "￥64.5%", "seat_category": "新空调换座", "name": "雪树"}

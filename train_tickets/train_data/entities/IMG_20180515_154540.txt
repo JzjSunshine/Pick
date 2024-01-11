@@ -1,0 +1,1 @@
+{"ticket_num": "70V075456", "starting_station": "上海虹桥站", "train_num": "G1395", "destination_station": "杭州东站", "date": "2017年12月06日18:28开", "ticket_rates": "￥73.0元", "seat_category": "二等座", "name": "二琪"}

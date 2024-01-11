@@ -1,0 +1,1 @@
+{"ticket_num": "Z530015255", "starting_station": "杭州东站", "train_num": "G1632", "destination_station": "上海虹桥站", "date": "2017年12月30日11:42开", "ticket_rates": "￥73.0元", "seat_category": "二等座", "name": "-萌"}

@@ -1,0 +1,1 @@
+{"ticket_num": "ZF31435454", "starting_station": "上海虹桥站", "train_num": "G6", "destination_station": "北京南站", "date": "2017年12月08日07:00元", "ticket_rates": "¥933.0元", "seat_category": "一等座", "name": "雪莹莹"}

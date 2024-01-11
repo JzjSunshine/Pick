@@ -1,0 +1,1 @@
+{"ticket_num": "R082524", "starting_station": "北京南靖", "train_num": "03：", "destination_station": "杭州东站", "date": "2018年02月13日15-10市", "ticket_rates": "¥538.5%", "seat_category": "二等座", "name": "二红叶"}

@@ -1,0 +1,1 @@
+{"ticket_num": "D028083", "starting_station": "南宁东站", "train_num": "G530", "destination_station": "桂林站", "date": "2018年01月24日09:24开", "ticket_rates": "￥108.0元", "seat_category": "二等座", "name": "二小筱"}

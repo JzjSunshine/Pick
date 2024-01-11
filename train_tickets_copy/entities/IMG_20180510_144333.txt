@@ -1,0 +1,1 @@
+{"ticket_num": "K063686", "starting_station": "广州南站", "train_num": "G6527", "destination_station": "深圳北站", "date": "2018年01月258 13:27开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "雪B顺"}

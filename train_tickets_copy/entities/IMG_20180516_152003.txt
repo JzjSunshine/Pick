@@ -1,0 +1,1 @@
+{"ticket_num": "Z56S016302", "starting_station": "上海虹桥站", "train_num": "G6", "destination_station": "北京南站", "date": "2017年12月02日07:00开", "ticket_rates": "￥933.0元", "seat_category": "一等座", "name": "亚娟"}

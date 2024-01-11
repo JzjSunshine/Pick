@@ -1,0 +1,1 @@
+{"ticket_num": "8083040", "starting_station": "北京南站", "train_num": "02049", "destination_station": "天津站", "date": "2017%11楼15011:54", "ticket_rates": "1655.5", "seat_category": "一等座", "name": "小会"}

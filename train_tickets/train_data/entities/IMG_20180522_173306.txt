@@ -1,0 +1,1 @@
+{"ticket_num": "E086056", "starting_station": "北京站", "train_num": "K101", "destination_station": "兖州站", "date": "2017*11月17日23:20:", "ticket_rates": "￥253.0元", "seat_category": "1", "name": "已汇"}

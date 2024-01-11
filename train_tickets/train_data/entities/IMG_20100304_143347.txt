@@ -1,0 +1,1 @@
+{"ticket_num": "176L024284", "starting_station": "常州站", "train_num": "G7159", "destination_station": "上海虹桥站", "date": "2017年11月26日11:33开", "ticket_rates": "￥119.5元", "seat_category": "一等座", "name": "二爱涛"}

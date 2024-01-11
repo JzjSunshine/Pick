@@ -1,0 +1,1 @@
+{"ticket_num": "G093429", "starting_station": "北京南站", "train_num": "G101", "destination_station": "曲阜东站", "date": "2018年02月02日06:43N", "ticket_rates": "￥409.0%", "seat_category": "一等座", "name": "招"}

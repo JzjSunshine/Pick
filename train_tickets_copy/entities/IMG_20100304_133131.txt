@@ -1,0 +1,1 @@
+{"ticket_num": "G018989", "starting_station": "石家庄站", "train_num": "G652", "destination_station": "保定东站", "date": "2018年03月30日 12:01开", "ticket_rates": "￥64.5元", "seat_category": "二等座", "name": "附龙飞"}

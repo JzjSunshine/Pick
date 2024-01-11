@@ -1,0 +1,1 @@
+{"ticket_num": "003J084207", "starting_station": "郑州东站", "train_num": "G80", "destination_station": "石家庄站", "date": "2018年01月24日14:28开", "ticket_rates": "￥189.5元", "seat_category": "二等座", "name": "洪磊"}

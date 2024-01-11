@@ -1,0 +1,1 @@
+{"ticket_num": "P081565", "starting_station": "济南西站", "train_num": "G166", "destination_station": "北京南站", "date": "2017年09月03日19:43开", "ticket_rates": "￥184.5元", "seat_category": "二等座", "name": "永"}

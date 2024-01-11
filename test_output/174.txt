@@ -1,0 +1,6 @@
+company	MY HAPPY PHARMACY PLT,company
+address	NO 12 GF\, JALAN MAMANDA 5.,address
+address	TAMAN DATO AHMAD RAZALI\, JALAN AMPANG,address
+address	68000 AMPANG\, SELANGOR.,address
+date	01/02/2018,d
+total	20.50

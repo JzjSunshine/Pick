@@ -1,0 +1,1 @@
+{"ticket_num": "U066780", "starting_station": "北京南站", "train_num": "G39", "destination_station": "南京南站", "date": "2017年12月08日16:47开", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "润喆"}

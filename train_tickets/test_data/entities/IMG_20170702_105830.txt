@@ -1,0 +1,1 @@
+{"ticket_num": "S006197", "starting_station": "\u6c5f\u95e8\u4e1c\u7ad9", "train_num": "C7238", "destination_station": "\u5e7f\u5dde\u5357\u7ad9", "date": "2017\u5e7411\u670830\u65e511:22\u5f00", "ticket_rates": "\uffe540.0\u5143", "seat_category": "\u4e8c\u7b49\u5ea7", "name": "\u96ea\u948a"}

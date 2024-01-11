@@ -1,0 +1,1 @@
+{"ticket_num": "Z34Y025722", "starting_station": "南京站", "train_num": "G7007", "destination_station": "常州站", "date": "2018年03月21日 10:00开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "，剑如"}

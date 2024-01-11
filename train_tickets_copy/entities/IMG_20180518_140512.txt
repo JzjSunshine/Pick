@@ -1,0 +1,1 @@
+{"ticket_num": "E032164", "starting_station": "长春站", "train_num": "", "destination_station": "蛟河西站", "date": "2017年12月31日15:10开", "ticket_rates": "￥52.5元", "seat_category": "二等座", "name": "丁新雪"}

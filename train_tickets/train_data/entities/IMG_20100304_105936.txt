@@ -1,0 +1,1 @@
+{"ticket_num": "NO45787", "starting_station": "北京西站", "train_num": "G491", "destination_station": "石家庄派", "date": "2018年04月10日12:33开", "ticket_rates": "￥206.5元", "seat_category": "一等座", "name": "宇"}

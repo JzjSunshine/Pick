@@ -1,0 +1,1 @@
+{"ticket_num": "Z397064629", "starting_station": "上海虹桥站", "train_num": "G148", "destination_station": "北京南站", "date": "2017年12月29日15:30开", "ticket_rates": "￥553.0元", "seat_category": "二等舰", "name": "口婧"}

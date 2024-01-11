@@ -1,0 +1,1 @@
+{"ticket_num": "E010742", "starting_station": "荣成药", "train_num": "G476", "destination_station": "北京南站", "date": "2017年10月09日08：A3分", "ticket_rates": "73920%", "seat_category": "刘一座", "name": "142"}

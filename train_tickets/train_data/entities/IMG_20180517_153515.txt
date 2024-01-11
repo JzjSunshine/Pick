@@ -1,0 +1,1 @@
+{"ticket_num": "Z060456", "starting_station": "深圳市", "train_num": "C71190", "destination_station": "广州东站", "date": "2017年11月226 15:234", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "文辉"}

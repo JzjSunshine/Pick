@@ -1,0 +1,1 @@
+{"ticket_num": "L017271", "starting_station": "北京南站", "train_num": "D321", "destination_station": "", "date": "2017年09月17日21:23开", "ticket_rates": "￥780.0元", "seat_category": "软卧", "name": "颖("}

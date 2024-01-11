@@ -1,0 +1,1 @@
+{"ticket_num": "U083078", "starting_station": "北京西站", "train_num": "G601", "destination_station": "太原南站", "date": "2017年12月05日07:21形", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "雪洋"}

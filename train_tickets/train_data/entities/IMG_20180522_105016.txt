@@ -1,0 +1,1 @@
+{"ticket_num": "W079889", "starting_station": "北京南站", "train_num": "G33", "destination_station": "杭州东站", "date": "2018年02月04日09:40开", "ticket_rates": "￥538.5元", "seat_category": "二等座", "name": "手婷"}

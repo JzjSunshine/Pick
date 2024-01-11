@@ -1,0 +1,1 @@
+{"ticket_num": "A088514", "starting_station": "北京南站", "train_num": "G41", "destination_station": "济南西站", "date": "2017年11月22日09:15开", "ticket_rates": "¥184.5元", "seat_category": "二等座", "name": "超"}

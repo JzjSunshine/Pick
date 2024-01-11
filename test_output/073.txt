@@ -1,0 +1,8 @@
+company	LIAN HING STATIONERY SDN BHD,company
+address	NO.32 & 33\,JALAN SR 1/9. SEKSYEN 9.,address
+address	TAMAN SERDANG RAYA,address
+address	43300 SERI KEMBANGAN\, SELANGOR,address
+date	27/03/2018
+total	100
+total	7
+total	79.50,

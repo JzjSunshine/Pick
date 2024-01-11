@@ -1,0 +1,1 @@
+{"ticket_num": "KO63487", "starting_station": "齐齐哈尔站", "train_num": "T48", "destination_station": "北京站", "date": "2017年10月08日18:13市", "ticket_rates": "￥343.5元", "seat_category": "新空调硬卧", "name": "照明"}

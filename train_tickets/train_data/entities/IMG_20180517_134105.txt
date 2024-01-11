@@ -1,0 +1,1 @@
+{"ticket_num": "F090194", "starting_station": "广州东站", "train_num": "C7139", "destination_station": "深圳站", "date": "2017*11月08日20:46开", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "奕"}

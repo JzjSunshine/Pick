@@ -1,0 +1,1 @@
+{"ticket_num": "K028012", "starting_station": "保定东站", "train_num": "01261", "destination_station": "天津西站", "date": "2017年11月27日11:144", "ticket_rates": "(手/车费", "seat_category": "张等藩", "name": "X光"}

@@ -1,0 +1,79 @@
+0,64,103,94,103,94,115,64,115,Date:,question
+1,64,120,134,120,134,130,64,130,Description:,question
+2,153,228,204,228,204,243,153,243,Supplier,header
+3,296,160,353,160,353,172,296,172,Budgeted:,header
+4,470,138,495,138,495,151,470,151,Yes,question
+5,472,156,497,156,497,166,472,166,Yes,question
+6,407,237,441,237,441,250,407,250,3,000,answer
+7,500,234,540,234,540,247,500,247,58,500,answer
+8,522,138,537,138,537,151,522,151,X,answer
+9,524,154,543,154,543,164,524,164,X,answer
+10,555,135,573,135,573,148,555,148,No,question
+11,555,153,576,153,576,166,555,166,No,question
+12,518,88,545,88,545,104,518,104,No.,question
+13,72,410,105,410,105,422,72,422,Wave,question
+14,103,410,122,410,122,422,103,422,(s),question
+15,419,431,485,431,485,449,419,449,Qualatative,answer
+16,476,497,488,497,488,509,476,509,$,answer
+17,195,668,240,668,240,681,195,681,Analyst,other
+18,466,641,503,641,503,660,466,660,Date:,question
+19,467,677,503,677,503,690,467,690,Date:,question
+20,467,705,501,705,501,720,467,720,Date:,question
+21,469,735,509,735,509,747,469,747,Date:,question
+22,469,763,503,763,503,778,469,778,Date:,question
+23,85,871,128,871,128,886,85,886,Original:,question
+24,82,885,107,885,107,900,82,900,CC:,question
+25,85,906,122,906,122,918,85,918,MRADOM,other
+26,204,24,500,24,500,44,204,44,MA ETING RESEARCH AUTHORIZ ON,header
+27,246,42,459,42,459,74,246,74,(DOMESTIC) (Recommended Proposal Attached),other
+28,168,99,210,99,210,114,168,114,2/ 26/ 98,answer
+29,169,109,395,109,395,127,169,127,KOOL Natural Lights Packaging - Round I,answer
+30,555,88,608,88,608,100,555,100,1998 -18D,answer
+31,66,148,145,148,145,163,66,163,Requested by:,question
+32,171,145,255,145,255,158,171,158,Nick Wilkerson,answer
+33,296,141,437,141,437,155,296,155,Research Req. Attached:,header
+34,277,172,431,172,431,190,277,190,Original Budgeted Amount:,question
+35,67,195,255,195,255,213,67,213,Competitive Proposals Obtained:,question
+36,320,223,363,223,363,238,320,238,Cost ($),question
+37,397,219,459,219,459,234,397,234,Est. Travel,question
+38,487,217,547,217,547,230,487,230,Total Cost,question
+39,575,202,629,202,629,229,575,229,Cost per Interview,question
+40,304,240,353,240,353,253,304,253,$ 55,500,answer
+41,66,246,156,246,156,261,66,261,Rabid Research,question
+42,69,307,290,307,290,323,69,323,Proiected External Authorization Date,question
+43,469,299,512,299,512,314,469,314,2 /26 /98,answer
+44,449,332,512,332,512,347,449,347,w /o 3/ 23 /98,answer
+45,449,379,509,379,509,398,449,398,w/ o 4/ 6/ 98,answer
+46,72,343,161,343,161,357,72,357,Field Complete,question
+47,73,358,119,358,119,374,73,374,Wave (s),question
+48,73,389,222,389,222,407,73,407,Final Supplier Report Due,question
+49,73,437,293,437,293,458,73,458,Project Type (Product Test, A & U, etc.),question
+50,436,464,482,464,482,476,436,476,$ 58,500,answer
+51,440,481,485,481,485,494,440,494,$ 58,500,answer
+52,73,473,265,473,265,488,73,488,Total Authorized Project Amount,question
+53,90,488,290,488,290,508,90,508,To Be Deducted from 1998 Budget,question
+54,90,504,290,504,290,522,90,522,To Be Deducted from 1999 Budget,question
+55,78,573,151,573,151,588,78,588,Sample Size:,question
+56,205,569,268,569,268,584,205,584,12 groups,answer
+57,76,588,217,588,217,603,76,603,Recommended Supplier:,question
+58,76,605,259,605,259,619,76,619,Reason (s) for Recommendation:,question
+59,305,582,392,582,392,599,305,599,Rabid Research,other
+60,308,591,635,591,635,630,308,630,Rabid was selected due to the critical timing of the project and the lack of availability of other suppliers,answer
+61,79,653,166,653,166,668,79,668,Submitted By:,question
+62,81,683,163,683,163,701,81,701,Approved By:,question
+63,82,714,165,714,165,730,82,730,Approved By:,question
+64,79,743,165,743,165,762,79,762,Approved By:,question
+65,84,774,168,774,168,790,84,790,Approved By:,question
+66,201,780,396,780,396,802,201,802,Senior VP Marketing (to $ 1,000,000),answer
+67,198,753,391,753,391,772,198,772,Director Market Research (to $ 250,000),answer
+68,199,722,411,722,411,740,199,740,Director Research Development (to $ 250,000),answer
+69,192,663,427,663,427,713,192,713,Autos Mgr. Trade & Consumer Research (to $ 100,000),answer
+70,187,635,347,635,347,666,187,666,naid,answer
+71,527,627,597,627,597,658,527,658,B 90,answer
+72,533,660,603,660,603,687,533,687,,answer
+73,564,796,622,796,622,811,564,811,1998 -18D,answer
+74,469,799,542,799,542,814,469,814,Project No.:,question
+75,472,820,545,820,545,836,472,836,Acct. Name:,question
+76,139,868,197,868,197,883,139,883,Project File,answer
+77,138,883,223,883,223,898,138,898,MaDonna Sliker,answer
+78,7,951,235,951,235,983,7,983,220076948 PRODUCED FROM B&W WEB SITE,other

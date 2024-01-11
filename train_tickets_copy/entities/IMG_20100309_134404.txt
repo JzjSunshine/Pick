@@ -1,0 +1,1 @@
+{"ticket_num": "T073877", "starting_station": "济南站", "train_num": "G334", "destination_station": "北京南站", "date": "2018年01月18日07:13开", "ticket_rates": "￥329.5元", "seat_category": "一等座", "name": "二闻"}

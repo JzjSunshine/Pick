@@ -1,0 +1,1 @@
+{"ticket_num": "F005385", "starting_station": "成都东站", "train_num": "G8751", "destination_station": "重庆北站", "date": "2018*01月23日09:51开", "ticket_rates": "￥154.0元", "seat_category": "二等座", "name": "图先锋"}

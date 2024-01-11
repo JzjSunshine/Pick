@@ -1,0 +1,1 @@
+{"ticket_num": "004M023952", "starting_station": "潜江站", "train_num": "D5714", "destination_station": "武昌站", "date": "2017年11月12日08:50开", "ticket_rates": "￥51.5元", "seat_category": "一等座", "name": "二舒倩"}

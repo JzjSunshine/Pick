@@ -1,0 +1,1 @@
+{"ticket_num": "L097343", "starting_station": "曲阜东站", "train_num": "G356", "destination_station": "北京南站", "date": "2017年10月07日19:52开", "ticket_rates": "￥244.0元", "seat_category": "二等座", "name": "聪"}

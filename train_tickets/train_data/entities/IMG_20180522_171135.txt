@@ -1,0 +1,1 @@
+{"ticket_num": "P088612", "starting_station": "广州南站", "train_num": "G6209", "destination_station": "深圳北站", "date": "2018年01月10日10:30m", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "二思学"}

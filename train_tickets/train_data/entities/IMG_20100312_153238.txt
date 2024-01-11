@@ -1,0 +1,1 @@
+{"ticket_num": "0011328", "starting_station": "威海市", "train_num": "G476", "destination_station": "北京南端", "date": "2018年01月21日09:09", "ticket_rates": "￥379.5.", "seat_category": "二等层", "name": "广东昌"}

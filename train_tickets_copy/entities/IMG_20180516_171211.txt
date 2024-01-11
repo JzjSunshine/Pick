@@ -1,0 +1,1 @@
+{"ticket_num": "Z094187", "starting_station": "北京站", "train_num": "D33", "destination_station": "大连站", "date": "2017年08月04日14:47开", "ticket_rates": "￥266.0元", "seat_category": "二等座", "name": "_静"}

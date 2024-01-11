@@ -1,0 +1,1 @@
+{"ticket_num": "0090257", "starting_station": "北京南站", "train_num": "G351", "destination_station": "合肥南站", "date": "2017年12月19日15:31开", "ticket_rates": "¥734.5元", "seat_category": "一等座", "name": "琉宇"}

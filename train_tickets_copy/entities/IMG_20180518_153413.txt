@@ -1,0 +1,1 @@
+{"ticket_num": "Z235N051618", "starting_station": "苏州站", "train_num": "D3001", "destination_station": "上海虹桥站", "date": "2017年12月28日18:47开", "ticket_rates": "￥30.5元", "seat_category": "一等座", "name": "菲"}

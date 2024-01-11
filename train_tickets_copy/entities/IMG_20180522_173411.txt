@@ -1,0 +1,1 @@
+{"ticket_num": "0072742", "starting_station": "北京站", "train_num": "K101", "destination_station": "兖州站", "date": "2018年01月12日23:20开", "ticket_rates": "￥243.0元", "seat_category": "_", "name": "雪汇"}

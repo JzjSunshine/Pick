@@ -1,0 +1,1 @@
+{"ticket_num": "A088619", "starting_station": "哈尔滨站", "train_num": "D30", "destination_station": "北京站", "date": "2017年10月20日14:26", "ticket_rates": "14285-", "seat_category": "一等座", "name": "医浩宇"}

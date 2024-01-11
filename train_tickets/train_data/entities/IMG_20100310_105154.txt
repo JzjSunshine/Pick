@@ -1,0 +1,1 @@
+{"ticket_num": "Q096626", "starting_station": "北京南站", "train_num": "G35", "destination_station": "南京南站", "date": "2017*12909815:108", "ticket_rates": "￥748.5元", "seat_category": "一等理", "name": "雪志波"}

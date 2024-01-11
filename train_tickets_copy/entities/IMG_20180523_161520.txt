@@ -1,0 +1,1 @@
+{"ticket_num": "D074771", "starting_station": "北京南站", "train_num": "G29", "destination_station": "合肥南站", "date": "2018年02月14日 13:13开", "ticket_rates": "￥436.0元", "seat_category": "二等座", "name": "材昶"}

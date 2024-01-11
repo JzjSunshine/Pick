@@ -1,0 +1,1 @@
+{"ticket_num": "Z39J008084", "starting_station": "台州站", "train_num": "D3141", "destination_station": "温州南站", "date": "2018年02月07日16:32开", "ticket_rates": "￥69.0元", "seat_category": "一等座", "name": "区悦"}

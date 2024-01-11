@@ -1,0 +1,1 @@
+{"ticket_num": "J003899", "starting_station": "深圳北站", "train_num": "D928", "destination_station": "北京西站", "date": "2017年12月17日19:55开", "ticket_rates": "￥1190.0元", "seat_category": "动卧", "name": "丁永明"}

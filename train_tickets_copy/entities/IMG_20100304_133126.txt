@@ -1,0 +1,1 @@
+{"ticket_num": "KO85411", "starting_station": "北京西站", "train_num": "G607", "destination_station": "石家庄站", "date": "2018年03月28日11:14开", "ticket_rates": "￥128.5元", "seat_category": "二等座", "name": "龙飞"}

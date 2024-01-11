@@ -1,0 +1,1 @@
+{"ticket_num": "8007251", "starting_station": "北京南站", "train_num": "G381", "destination_station": "铁岭西站", "date": "2018年02月18日07-534", "ticket_rates": "￥3210%", "seat_category": "二等蓬", "name": "二字岩"}

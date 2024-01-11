@@ -1,0 +1,1 @@
+{"ticket_num": "M009711", "starting_station": "北京南站", "train_num": "Gll", "destination_station": "南京南站", "date": "2017年12月20日08：00开", "ticket_rates": "￥443.5元", "seat_category": "二等座", "name": "晨"}

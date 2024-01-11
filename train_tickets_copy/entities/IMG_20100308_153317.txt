@@ -1,0 +1,1 @@
+{"ticket_num": "D019452", "starting_station": "北京西站", "train_num": "Z19", "destination_station": "西安站", "date": "2017年12月14日20:40开", "ticket_rates": "￥398.5元", "seat_category": "新空调软卧", "name": "嘉嘉丽"}

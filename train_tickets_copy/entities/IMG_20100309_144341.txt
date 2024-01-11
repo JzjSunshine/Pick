@@ -1,0 +1,1 @@
+{"ticket_num": "P019218", "starting_station": "北京南站", "train_num": "G195", "destination_station": "潍坊站", "date": "2018年01月21日16:10开", "ticket_rates": "￥409.0元", "seat_category": "一等座", "name": "国红阳"}

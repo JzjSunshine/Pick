@@ -1,0 +1,1 @@
+{"ticket_num": "G038764", "starting_station": "高密站", "train_num": "Z170", "destination_station": "济南站", "date": "2018年02月25日15:23开", "ticket_rates": "￥43.5元", "seat_category": "新空调硬座", "name": "了丛刚"}

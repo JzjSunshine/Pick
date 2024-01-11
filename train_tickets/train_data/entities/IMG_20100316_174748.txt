@@ -1,0 +1,1 @@
+{"ticket_num": "X075811", "starting_station": "苏州北站", "train_num": "G152", "destination_station": "北京南站", "date": "2017年10月28日16:44开", "ticket_rates": "￥523.5元", "seat_category": "二等座", "name": "燕"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z51H078907", "starting_station": "南京南站", "train_num": "G7617", "destination_station": "合肥南站", "date": "2018年01月18日14:07月", "ticket_rates": "￥72.0元", "seat_category": "一等座", "name": "国菲菲"}

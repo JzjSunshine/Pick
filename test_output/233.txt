@@ -1,0 +1,4 @@
+company	Y SOON FATT S/B 
+address	LOT 1504\, BATU 8 1/2\, JALAN KLANG LAMA,address
+address	46000 PETALING JAYA\, SELANGOR.,address
+date	9/2/2017

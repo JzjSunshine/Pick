@@ -1,0 +1,1 @@
+{"ticket_num": "0069864", "starting_station": "北京西站", "train_num": "T231", "destination_station": "西安站", "date": "2018年02月12日18:50开", "ticket_rates": "￥148.5元", "seat_category": "新空调硬座", "name": "慧"}

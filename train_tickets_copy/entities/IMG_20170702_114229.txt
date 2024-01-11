@@ -1,0 +1,1 @@
+{"ticket_num": "T029250", "starting_station": "深圳北站", "train_num": "D904", "destination_station": "北京西站", "date": "2017年11月05日19:45开", "ticket_rates": "￥756.0元", "seat_category": "二等座", "name": "志康"}

@@ -1,0 +1,1 @@
+{"ticket_num": "055H053495", "starting_station": "西安北站", "train_num": "G666", "destination_station": "北京西站", "date": "2017年11月29日15:58开", "ticket_rates": "￥824.5元", "seat_category": "一等座", "name": "翻景星"}

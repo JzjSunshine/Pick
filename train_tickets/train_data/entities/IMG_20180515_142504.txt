@@ -1,0 +1,1 @@
+{"ticket_num": "NO43315", "starting_station": "荣成站", "train_num": "C6574", "destination_station": "威海站", "date": "2017年10月06日18:30n", "ticket_rates": "￥12.5元", "seat_category": "二等座", "name": "夭海港"}

@@ -1,0 +1,1 @@
+{"ticket_num": "L012960", "starting_station": "北京南站", "train_num": "G'37", "destination_station": "苏州北站", "date": "2018*03n05813:07元", "ticket_rates": "￥883.5元", "seat_category": "一等座", "name": "门建辉"}

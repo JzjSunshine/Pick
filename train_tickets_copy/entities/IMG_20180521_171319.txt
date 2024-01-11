@@ -1,0 +1,1 @@
+{"ticket_num": "J041012", "starting_station": "绍兴东站", "train_num": "C58", "destination_station": "业京南站", "date": "2018年03月05日19:047", "ticket_rates": "￥443.5元", "seat_category": "二等座", "name": "二宏"}

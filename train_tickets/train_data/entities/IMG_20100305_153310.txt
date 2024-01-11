@@ -1,0 +1,1 @@
+{"ticket_num": "093C091526", "starting_station": "恩施站", "train_num": "150", "destination_station": "北京西站", "date": "2017年10月08日16:28开", "ticket_rates": "￥192.0元", "seat_category": "新空调硬座", "name": "时"}

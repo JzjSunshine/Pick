@@ -1,0 +1,1 @@
+{"ticket_num": "Z81K028909", "starting_station": "南京南站", "train_num": "G7", "destination_station": "上海虹桥站", "date": "2017年12月14日22:23开", "ticket_rates": "￥229.5元", "seat_category": "一等座", "name": "二星"}

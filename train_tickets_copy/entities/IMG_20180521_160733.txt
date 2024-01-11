@@ -1,0 +1,1 @@
+{"ticket_num": "Z112B040773", "starting_station": "南京南站", "train_num": "G140", "destination_station": "北京南站", "date": "2017年09月26日15:11开", "ticket_rates": "¥748.5元", "seat_category": "一等座", "name": "二天笑"}

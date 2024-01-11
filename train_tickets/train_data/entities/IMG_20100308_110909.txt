@@ -1,0 +1,1 @@
+{"ticket_num": "0090306", "starting_station": "北京南站", "train_num": "Gl5", "destination_station": "上海虹桥站", "date": "2018年01月27日11:00开", "ticket_rates": "￥1748.0元", "seat_category": "商务座", "name": "["}

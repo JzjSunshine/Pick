@@ -1,0 +1,1 @@
+{"ticket_num": "F054471", "starting_station": "北京西站", "train_num": "G83", "destination_station": "武汉站", "date": "2018年01月25日08:55", "ticket_rates": "￥832.5元", "seat_category": "一等座", "name": "四川"}

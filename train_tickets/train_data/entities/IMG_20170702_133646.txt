@@ -1,0 +1,1 @@
+{"ticket_num": "N013163", "starting_station": "北京南站", "train_num": "G105", "destination_station": "常州北站", "date": "2017年12月27日07:35日", "ticket_rates": "￥828.5元", "seat_category": "一等座", "name": "信明"}

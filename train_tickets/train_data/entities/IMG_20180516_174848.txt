@@ -1,0 +1,1 @@
+{"ticket_num": "KO41088", "starting_station": "北京西站", "train_num": "K267", "destination_station": "石家庄站", "date": "2017年19月28日13:22开", "ticket_rates": "￥43.5元", "seat_category": "新空调硬座", "name": "X治力"}

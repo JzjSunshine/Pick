@@ -1,0 +1,1 @@
+{"ticket_num": "M001618", "starting_station": "天津站", "train_num": "C2244", "destination_station": "北京南站", "date": "2018年01月25日19:55日", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "国富有"}

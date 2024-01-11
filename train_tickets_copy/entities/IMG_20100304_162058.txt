@@ -1,0 +1,1 @@
+{"ticket_num": "J052876", "starting_station": "天津站", "train_num": "D6734", "destination_station": "石家庄站", "date": "2018年01月210 14：07月", "ticket_rates": "￥103.5元", "seat_category": "二等座", "name": "察"}

@@ -1,0 +1,1 @@
+{"ticket_num": "11030783", "starting_station": "天津站", "train_num": "02052", "destination_station": "北京南站", "date": "2018*01909511:358", "ticket_rates": "￥6553元", "seat_category": "一等瞎", "name": "骨根兴"}

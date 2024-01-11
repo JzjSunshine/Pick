@@ -1,0 +1,1 @@
+{"ticket_num": "Z087022", "starting_station": "北京南站", "train_num": "G27", "destination_station": "合肥南站", "date": "2018*02月28日09:45开", "ticket_rates": "7734.5元", "seat_category": "一等座", "name": "国响"}

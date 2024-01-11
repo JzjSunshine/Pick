@@ -95,7 +95,7 @@ def main(args):
 
 if __name__ == '__main__':
     args = argparse.ArgumentParser(description='PyTorch PICK Testing')
-    args.add_argument('-ckpt', '--checkpoint', default="/data/zjjing/Pick/saved/models/PICK_Default/test_0821_222749/model_best.pth", type=str,
+    args.add_argument('-ckpt', '--checkpoint', default="/data/zjjing/Pick/saved/models/PICK_Default/test_0821_222232/model_best.pth", type=str,
                       help='path to load checkpoint (default: None)')
     args.add_argument('--bt', '--boxes_transcripts', default="/data/zjjing/Pick/data/test_data_example/boxes_and_transcripts/", type=str,
                       help='ocr results folder including boxes and transcripts (default: None)')

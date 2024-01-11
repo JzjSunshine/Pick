@@ -1,0 +1,1 @@
+{"ticket_num": "U085205", "starting_station": "北京西站", "train_num": "Z67", "destination_station": "南昌站", "date": "2018年02月14日19:59日", "ticket_rates": "￥306.5元", "seat_category": "新空调神别", "name": "拥有鹏"}

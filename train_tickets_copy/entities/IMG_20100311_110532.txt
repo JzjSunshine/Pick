@@ -1,0 +1,1 @@
+{"ticket_num": "KO54581", "starting_station": "天津站", "train_num": "C2076", "destination_station": "312,80,北京南站", "date": "2017年10月27日18:15开", "ticket_rates": "￥54.5元", "seat_category": "341,158,二等座", "name": "新月"}

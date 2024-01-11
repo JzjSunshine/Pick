@@ -1,0 +1,1 @@
+{"ticket_num": "1:072040", "starting_station": "广州南站", "train_num": "G6527", "destination_station": "福阳站", "date": "2018年01月120 13:27市", "ticket_rates": "￥108.07", "seat_category": "一零整", "name": "二苏燕"}

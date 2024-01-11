@@ -1,0 +1,1 @@
+{"ticket_num": "N095204", "starting_station": "北京站", "train_num": "7601", "destination_station": "聊城站", "date": "2017年09月24日08:30开", "ticket_rates": "¥64.5元", "seat_category": "新空调硬座", "name": "敏慧"}

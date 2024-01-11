@@ -1,0 +1,1 @@
+{"ticket_num": "X069500", "starting_station": "深圳站", "train_num": "C7106", "destination_station": "广州东站", "date": "2018年03月21日09:51日", "ticket_rates": "￥99.5元", "seat_category": "一等座", "name": "壹龙"}

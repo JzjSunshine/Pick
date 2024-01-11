@@ -1,0 +1,1 @@
+{"ticket_num": "Z31V037543", "starting_station": "南京站", "train_num": "G7019", "destination_station": "上海站", "date": "", "ticket_rates": "￥219.5元", "seat_category": "一等座", "name": "娜娜"}

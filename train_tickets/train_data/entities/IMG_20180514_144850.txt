@@ -1,0 +1,1 @@
+{"ticket_num": "NO39664", "starting_station": "深圳北站", "train_num": "G1022", "destination_station": "武汉站", "date": "2017年12月22日17:10开", "ticket_rates": "￥838.0元", "seat_category": "一等座", "name": "安众"}

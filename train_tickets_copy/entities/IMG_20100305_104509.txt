@@ -1,0 +1,1 @@
+{"ticket_num": "Z488067781", "starting_station": "温州南站", "train_num": "Gl68", "destination_station": "北京南站", "date": "2017年10月07日08:33开", "ticket_rates": "￥691.5元", "seat_category": "二等座", "name": "峰"}

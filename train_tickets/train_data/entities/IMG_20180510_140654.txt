@@ -1,0 +1,1 @@
+{"ticket_num": "N063043", "starting_station": "保定东站", "train_num": "G1278", "destination_station": "唐山站", "date": "2018年03月12日14:12开", "ticket_rates": "￥112.0元", "seat_category": "二等座", "name": "刘龙飞"}

@@ -1,0 +1,1 @@
+{"ticket_num": "074G075383", "starting_station": "郑州东站", "train_num": "G402", "destination_station": "北京西站", "date": "2018年02月27日18:34开", "ticket_rates": "¥495.0元", "seat_category": "一等座", "name": ""}

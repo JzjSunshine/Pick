@@ -1,0 +1,1 @@
+{"ticket_num": "E002935", "starting_station": "北京南站", "train_num": "G43", "destination_station": "上海虹桥站", "date": "2017年11月20日14:05开", "ticket_rates": "¥553.0元", "seat_category": "二等座", "name": "培治"}

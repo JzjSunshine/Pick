@@ -1,0 +1,1 @@
+{"ticket_num": "Z85H083264", "starting_station": "南京南站", "train_num": "G7297", "destination_station": "上海站", "date": "2017年12月02日18:13开", "ticket_rates": "￥234.5元", "seat_category": "一等座", "name": "旅辉"}

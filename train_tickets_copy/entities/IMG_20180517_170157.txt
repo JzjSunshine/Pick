@@ -1,0 +1,1 @@
+{"ticket_num": "C026394", "starting_station": "集宁南站", "train_num": "z318", "destination_station": "北京站", "date": "2017年10月06日16:29开", "ticket_rates": "¥99.5元", "seat_category": "新空调硬卧", "name": "二政"}

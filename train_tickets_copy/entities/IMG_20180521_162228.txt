@@ -1,0 +1,1 @@
+{"ticket_num": "N008443", "starting_station": "北京南站", "train_num": "G17", "destination_station": "上海虹桥站", "date": "2017年10月28日15:00开", "ticket_rates": "￥553.0元", "seat_category": "二等座", "name": "广耀波"}

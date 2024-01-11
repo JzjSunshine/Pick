@@ -1,0 +1,1 @@
+{"ticket_num": "9K078909", "starting_station": "南京南站", "train_num": "G2811", "destination_station": "上海虹桥站", "date": "2018年01816日14:30开", "ticket_rates": "￥134.5元", "seat_category": "二等座", "name": "张杰"}

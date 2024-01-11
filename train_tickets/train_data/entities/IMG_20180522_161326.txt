@@ -1,0 +1,1 @@
+{"ticket_num": "Y055473", "starting_station": "北京南站", "train_num": "G113", "destination_station": "南京南站", "date": "2018年01月23日08:53开", "ticket_rates": "￥748.5元", "seat_category": "一等座", "name": "脚随"}

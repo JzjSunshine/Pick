@@ -1,0 +1,1 @@
+{"ticket_num": "H075476", "starting_station": "广州东站", "train_num": "C7029", "destination_station": "深圳站", "date": "2018*029258 11:58开", "ticket_rates": "￥79.5元", "seat_category": "二等座", "name": "曹季平"}

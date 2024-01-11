@@ -1,0 +1,1 @@
+{"ticket_num": "M020281", "starting_station": "北京站", "train_num": "D27", "destination_station": "哈尔滨西站", "date": "2018年02月09日15:15开", "ticket_rates": "￥306.5元", "seat_category": "二等座", "name": "国东泽"}

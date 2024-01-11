@@ -1,0 +1,37 @@
+0,528,63,548,63,548,83,528,83,NO.,other
+1,550,64,581,64,581,82,550,82,1796,other
+2,594,63,611,63,611,83,594,83,P.,question
+3,447,264,462,264,462,281,447,281,#:,question
+4,420,296,463,296,463,314,420,314,TIME:,question
+5,110,229,135,229,135,246,110,246,TO:,question
+6,110,261,156,261,156,279,110,279,FROM:,question
+7,110,296,155,296,155,313,110,313,DATE:,question
+8,483,265,512,265,512,276,483,276,392,answer
+9,482,373,495,373,495,388,482,388,,answer
+10,110,503,191,503,191,524,110,524,OPERATOR:,question
+11,190,490,271,490,271,529,190,529,,answer
+12,99,575,130,575,130,595,99,595,Jack,question
+13,109,846,184,846,184,857,109,857,CONFIDENTIALITY,question
+14,184,845,218,845,218,856,184,856,NOTICE,question
+15,677,786,698,786,698,885,677,885,83772145,other
+16,57,73,188,73,188,95,57,95,JAN 31. 1997 11: 48 AM,other
+17,68,113,143,113,143,160,68,160,FAX COVER,other
+18,242,91,507,91,507,129,242,129,LAW OFFICES SHOOK HARDY & BACON L. L. P.,header
+19,616,60,638,60,638,81,616,81,1/ 3,other
+20,580,113,650,113,650,163,580,163,FAX COVER,other
+21,212,133,533,133,533,200,212,200,One Kansas City Place 1200 Main Street Kansas City Missouri 64105- 2118 Telephone (816) 474 6550 Facsimile (816) 421- 5547,other
+22,165,229,261,229,261,247,165,247,JACK REILLY,answer
+23,362,228,461,228,461,246,362,246,TELECOPY NO:,question
+24,482,229,565,229,565,247,482,247,212/ 545- 3297,answer
+25,483,338,560,338,560,356,483,356,LORI 45048,answer
+26,154,404,591,404,591,425,154,425,ORIGINAL DOCUMENT WILL FOLLOW VIA FEDERAL EXPRESS,other
+27,112,372,339,372,339,392,112,392,Pages transmitted including cover sheet:,question
+28,110,337,247,337,247,355,110,355,SHB Client Matter No:,question
+29,163,296,288,296,288,317,163,317,JANUARY 31, 1997,answer
+30,163,263,243,263,243,281,163,281,JIM DALEY,answer
+31,109,466,481,466,481,491,109,491,If you experience any problems, please call extension 21000,answer
+32,95,610,647,610,647,781,95,781,Per your request, attached is a memo regarding the process of labeling reviewed diskettes for the purpose of later identification Please call me if you have any questions regret I cannot join you and the electronic document collection team for lunch today. I hope you agree they have done an outstanding job! I look forward to seeing you on February 5 for the Legal Edge presentation. Best Regards, Jim Daley,answer
+33,222,846,634,846,634,859,222,859,The documents accompanying this transmission contain confidential information belonging to the  sender ,other
+34,108,856,633,856,633,889,108,889,Legally privileged The information is intented only for the Individual or entity named above pol pre intended recipen you heret notified that copying distribuar dhe crion Islance content or lecoled normation och If you have received this telecopy in error,  please immediately notify us by telephone to arrange for return of the origin documents to us.,other
+35,99,541,253,541,253,561,99,561,COMMENTS/ MESSAGE:,question
+36,112,437,228,437,228,458,112,458,Special Instructions:,question

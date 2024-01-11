@@ -1,0 +1,1 @@
+{"ticket_num": "A062748", "starting_station": "石家庄站", "train_num": "Z54", "destination_station": "北京西站", "date": "2017年11月05日15:02]", "ticket_rates": "￥43.5元", "seat_category": "新空调硬座", "name": "疗琳"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z31U090363", "starting_station": "南京站", "train_num": "D3141", "destination_station": "苏州站", "date": "2017年10月06日11:12开", "ticket_rates": "", "seat_category": "二等座", "name": "成"}

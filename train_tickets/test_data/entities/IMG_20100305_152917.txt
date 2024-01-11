@@ -1,0 +1,1 @@
+{"ticket_num": "D035615", "starting_station": "\u6210\u90fd\u7ad9", "train_num": "K818", "destination_station": "\u5317\u4eac\u897f\u7ad9", "date": "2017\u5e7410\u670827\u65e519:30\u5f00", "ticket_rates": "\uffe5467.0\u5143", "seat_category": "\u65b0\u7a7a\u8c03\u786c\u5367", "name": "\u5de7\u534e"}

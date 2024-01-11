@@ -1,0 +1,1 @@
+{"ticket_num": "E014544", "starting_station": "北京南站", "train_num": "C2241", "destination_station": "天津站", "date": "2017年12月10日20:15开", "ticket_rates": "￥65.5元", "seat_category": "一等座", "name": "小会"}

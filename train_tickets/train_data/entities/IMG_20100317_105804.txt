@@ -1,0 +1,1 @@
+{"ticket_num": "Q033772", "starting_station": "广州南站", "train_num": "G6511", "destination_station": "福田站", "date": "2018年01月04日09:22]", "ticket_rates": "￥82.0元", "seat_category": "二等座", "name": "教阳"}

@@ -1,0 +1,1 @@
+{"ticket_num": "B035876", "starting_station": "石家庄站", "train_num": "G562", "destination_station": "北京西站", "date": "2018年01月12日 11:10开", "ticket_rates": "￥206.5元", "seat_category": "一等座", "name": "▬晨"}

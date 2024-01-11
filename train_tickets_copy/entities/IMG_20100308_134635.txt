@@ -1,0 +1,1 @@
+{"ticket_num": "Z097669", "starting_station": "东莞站", "train_num": "C7054", "destination_station": "广州东达", "date": "2017年11月09日12:41开", "ticket_rates": "￥50.5元", "seat_category": "一等座", "name": "二文治"}

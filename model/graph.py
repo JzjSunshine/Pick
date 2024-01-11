@@ -13,13 +13,13 @@ import torch.nn.functional as F
 from data_utils import documents
 
 
-class GraphLearningLayer(nn.Module):
+class GraphLearningLayer(nn.Module): # 目的：学习生成 soft adjacent matrix A
     def __init__(self, in_dim: int, learning_dim: int, gamma: float, eta: float):
         super().__init__()
         self.projection = nn.Linear(in_dim, learning_dim, bias=False)
-        self.learn_w = nn.Parameter(torch.empty(learning_dim))
-        self.gamma = gamma
-        self.eta = eta
+        self.learn_w = nn.Parameter(torch.empty(learning_dim)) # 
+        self.gamma = gamma # 损失函数参数
+        self.eta = eta # 损失函数参数
         self.inint_parameters()
 
     def inint_parameters(self):
@@ -228,7 +228,7 @@ class GCNLayer(nn.Module):
 
 
 class GLCN(nn.Module):
-
+    """"""
     def __init__(self,
                  in_dim: int,
                  out_dim: int,
@@ -262,10 +262,10 @@ class GLCN(nn.Module):
     def forward(self, x: Tensor, rel_features: Tensor, adj: Tensor, box_num: Tensor, **kwargs):
         '''
 
-        :param x: nodes embedding, (B*N, D)
-        :param rel_features: relation embedding, (B, N, N, 6)
-        :param adj: default adjacent matrix, (B, N, N)
-        :param box_num: (B, 1)
+        :param x: nodes embedding, 这个是错误的(B*N, D) 实际是(B,N,D) ([2, 70, 512])
+        :param rel_features: relation embedding, (B, N, N, 6) ([2, 70, 70, 6])
+        :param adj: default adjacent matrix, (B, N, N) ([2, 70, 70])
+        :param box_num: (B, 1) [2, 1]
         :param kwargs:
         :return:
         '''

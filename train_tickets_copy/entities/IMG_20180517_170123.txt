@@ -1,0 +1,1 @@
+{"ticket_num": "H097312", "starting_station": "深圳北站", "train_num": "D928", "destination_station": "北京西站", "date": "2017年10月07日19:55来", "ticket_rates": "￥756.0元", "seat_category": "二等座", "name": "霍霜霜"}

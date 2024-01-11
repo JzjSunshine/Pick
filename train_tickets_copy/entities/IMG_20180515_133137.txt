@@ -1,0 +1,1 @@
+{"ticket_num": "0056028", "starting_station": "北京南站", "train_num": "G蔬13", "destination_station": "廊坊", "date": "2018*03905108537", "ticket_rates": "￥4.5元", "seat_category": "", "name": "二级平"}

@@ -1,0 +1,1 @@
+{"ticket_num": "M004846", "starting_station": "深圳站", "train_num": "C7032", "destination_station": "广州东站", "date": "2018年02月06日16:50开", "ticket_rates": "￥67.5元", "seat_category": "一等座", "name": "丁世杰"}

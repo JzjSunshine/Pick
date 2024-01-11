@@ -1,0 +1,1 @@
+{"ticket_num": "01T018890", "starting_station": "西安站", "train_num": "T42", "destination_station": "北京西站", "date": "2018年02月20 19:39日", "ticket_rates": "￥288.5.0", "seat_category": "新空调硬卧", "name": "二兴"}

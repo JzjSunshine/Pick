@@ -1,0 +1,1 @@
+{"ticket_num": "NO95203", "starting_station": "北京市", "train_num": "7601", "destination_station": "聊城", "date": "2017年09月24日08:30开", "ticket_rates": "￥645元", "seat_category": "新空调硬座", "name": "景文"}

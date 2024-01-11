@@ -1,14 +1,26 @@
 #!/bin/bash
-#!/bin/bash
+
+# train sroie
 python -m torch.distributed.launch --nnode=1 --node_rank=0 --nproc_per_node=1 \
 train.py -c config.json -d 0 --local_world_size 1
+
+# train funsd
+# python -m torch.distributed.launch --nnode=1 --node_rank=0 --nproc_per_node=1 \
+# train_funsd.py -c config_funsd.json -d 0 --local_world_size 1
+
+# train screen sroie
+# python -m torch.distributed.launch --nnode=1 --node_rank=0 --nproc_per_node=1 \
+# train.py -c config_sroie_screen.json -d 0 --local_world_size 1
+# train ticket
+# python -m torch.distributed.launch --nnode=1 --node_rank=0 --nproc_per_node=1 \
+# train_ticket.py -c config_ticket.json -d 0 --local_world_size 1
 
 # --master_addr=127.0.0.1 --master_port=5555 \
 # train.py -c config.json(
 
 # python -m torch.distributed.launch --nnode=1 --node_rank=0 --nproc_per_node=1 \
 # --master_addr=127.0.0.1 --master_port=5555 \
-# train.py -c config.json -d 1 --local_world_size 1
+# train.py -c config.json -d 0 --local_world_size 1
 
 # --nnode=0：这个参数指定了节点的数量，这里设置为 0，表示只有一个节点。
 

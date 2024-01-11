@@ -1,0 +1,1 @@
+{"ticket_num": "Z38T071383", "starting_station": "上海虹桥站", "train_num": "G8", "destination_station": "北京南站", "date": "2018年01月24日19:00开", "ticket_rates": "1553.0元", "seat_category": "二等座", "name": "二文静"}

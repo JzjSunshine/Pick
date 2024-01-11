@@ -1,0 +1,1 @@
+{"ticket_num": "C033353", "starting_station": "哈尔滨西站", "train_num": "G382", "destination_station": "北京南站", "date": "2018年02月240 16:15:", "ticket_rates": "45415c", "seat_category": "三等座", "name": "丁成斌"}

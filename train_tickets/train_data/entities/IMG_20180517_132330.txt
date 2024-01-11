@@ -1,0 +1,1 @@
+{"ticket_num": "Z1328056744", "starting_station": "上海虹桥站", "train_num": "G7599", "destination_station": "杭州东站", "date": "2017年09月21日11:10开", "ticket_rates": "￥73.0元", "seat_category": "二等座", "name": "紫琳"}

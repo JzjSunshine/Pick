@@ -1,0 +1,1 @@
+{"ticket_num": "Q097426", "starting_station": "大连站", "train_num": "K683", "destination_station": "北京站", "date": "2018年01月01日20:027", "ticket_rates": "7239.0元", "seat_category": "新空调硬卧", "name": "文奇"}

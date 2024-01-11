@@ -1,0 +1,4 @@
+company	RESTORAN SIAM VILLAGE,c
+address	NO. 8\, JALAN PERMAS 10/7,address
+address	PERMAS JAYA\,81750 JOHOR BAHRU.,address
+date	27/04/2018

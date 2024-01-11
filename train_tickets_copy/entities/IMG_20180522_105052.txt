@@ -1,0 +1,1 @@
+{"ticket_num": "X045630", "starting_station": "广州站", "train_num": "z36", "destination_station": "北京西站", "date": "2018年02月24日16:25开", "ticket_rates": "￥251.0元", "seat_category": "新空调硬座", "name": "根国"}

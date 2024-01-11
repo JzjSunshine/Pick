@@ -1,0 +1,1 @@
+{"ticket_num": "132L084522", "starting_station": "武汉站", "train_num": "G82", "destination_station": "北京西站", "date": "2017年11月08日12:58开", "ticket_rates": "￥832.5元", "seat_category": "一等座", "name": "飞"}

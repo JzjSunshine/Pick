@@ -1,0 +1,1 @@
+{"ticket_num": "7F007606", "starting_station": "杭州东站", "train_num": "G2776", "destination_station": "南京南站", "date": "2017年10月31日19:28开", "ticket_rates": "￥198.0元", "seat_category": "一等座", "name": "钧"}

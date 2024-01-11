@@ -1,0 +1,1 @@
+{"ticket_num": "8034193", "starting_station": "珠海站", "train_num": "C7620", "destination_station": "中山北站", "date": "2018年01月24日17:00开", "ticket_rates": "￥30.0元", "seat_category": "二等座", "name": "珂"}

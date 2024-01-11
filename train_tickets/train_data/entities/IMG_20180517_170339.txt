@@ -1,0 +1,1 @@
+{"ticket_num": "N041323", "starting_station": "北京站", "train_num": "K967", "destination_station": "石家庄站", "date": "2017年09月29日08:37开", "ticket_rates": "￥43.5元", "seat_category": "新空调硬座", "name": "录菊"}

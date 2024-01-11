@@ -1,0 +1,1 @@
+{"ticket_num": "NO59899", "starting_station": "天津站", "train_num": "C2090", "destination_station": "北京南站", "date": "2017年11月08日20：31项", "ticket_rates": "￥54.5元", "seat_category": "二等座", "name": "，浩"}

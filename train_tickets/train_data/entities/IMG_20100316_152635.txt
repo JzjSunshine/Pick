@@ -1,0 +1,1 @@
+{"ticket_num": "NO57274", "starting_station": "北京西站", "train_num": "G555", "destination_station": "郑州东站", "date": "2018年01月29日12:57开", "ticket_rates": "￥495.0元", "seat_category": "一等座", "name": "，立特"}

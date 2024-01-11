@@ -1,0 +1,1 @@
+{"ticket_num": "T090562", "starting_station": "百色站", "train_num": "D3804", "destination_station": "桂平站", "date": "2018年02月24日10:18开", "ticket_rates": "￥144.0元", "seat_category": "二等座", "name": "蔚"}

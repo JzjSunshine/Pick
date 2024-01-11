@@ -1,0 +1,25 @@
+0,168,261,192,261,192,276,168,276,To:,question
+1,168,282,204,282,204,297,168,297,Firm:,question
+2,169,304,196,304,196,319,169,319,FAX,question
+3,198,304,216,304,216,319,198,319,#:,question
+4,168,342,209,342,209,357,168,357,From:,question
+5,169,425,204,425,204,442,169,442,Date:,question
+6,270,282,304,282,304,297,270,297,MSA,answer
+7,271,306,327,306,327,320,271,320,Autodial,answer
+8,117,560,151,560,151,575,117,575,Mike,,other
+9,258,761,310,761,310,782,258,782,,other
+10,661,711,682,711,682,814,661,814,8622042,other
+11,198,182,506,182,506,222,198,222,LORILLARD TOBACCO COMPANY Market Planning and Information Department,header
+12,271,260,354,260,354,277,271,277,Mike Mozina,answer
+13,271,342,358,342,358,359,271,359,Susan Smith,answer
+14,270,365,336,365,336,382,270,382,335- 7733,answer
+15,271,388,335,388,335,403,271,403,335- 7150,answer
+16,169,365,217,365,217,380,169,380,FAX #:,question
+17,169,387,233,387,233,404,169,404,Phone #:,question
+18,270,426,324,426,324,441,270,441,8/ 31/ 98,answer
+19,268,447,465,447,465,463,268,463,3 (including this cover page),answer
+20,168,447,230,447,230,464,168,464,# Pages:,question
+21,117,647,612,647,612,664,117,664,- Approval for AWS Quarterly Store Count Database to begin 3rd Quarter 1998,other
+22,116,693,587,693,587,731,116,731,- Table showing significant jump in Convenience Store market importance in 2nd Quarter 1998,other
+23,117,761,225,761,225,778,117,778,Talk to you soon!,question
+24,117,605,260,605,260,622,117,622,As promised, here are:,question

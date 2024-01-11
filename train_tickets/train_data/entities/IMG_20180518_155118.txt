@@ -1,0 +1,1 @@
+{"ticket_num": "K000719", "starting_station": "保定东站", "train_num": "D2006", "destination_station": "北京西站", "date": "2017年12月27日19:53开", "ticket_rates": "￥68.5元", "seat_category": "一等座", "name": "亮]"}

@@ -1,0 +1,1 @@
+{"ticket_num": "211F030067", "starting_station": "西安北站", "train_num": "G660", "destination_station": "北京西站", "date": "2017年12月09日11:137", "ticket_rates": "￥824.5元", "seat_category": "一等座", "name": "淄博"}

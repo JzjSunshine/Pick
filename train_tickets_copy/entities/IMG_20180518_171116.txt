@@ -1,0 +1,1 @@
+{"ticket_num": "J031017", "starting_station": "北京西站", "train_num": "Z3", "destination_station": "荆州站", "date": "2017年09月02日17:48开", "ticket_rates": "¥317.5元", "seat_category": "新空调硬卧", "name": "谨"}

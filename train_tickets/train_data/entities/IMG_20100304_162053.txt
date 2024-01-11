@@ -1,0 +1,1 @@
+{"ticket_num": "J052876", "starting_station": "石家庄北站", "train_num": "K1574", "destination_station": "沈阳北路", "date": "2018-01*25日14:26开", "ticket_rates": "￥2525.", "seat_category": "办空调硬币", "name": "雪泉"}

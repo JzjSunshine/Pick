@@ -1,0 +1,1 @@
+{"ticket_num": "L091474", "starting_station": "太原南站", "train_num": "Gond", "destination_station": "北京西路", "date": "2017年12月08日13:327", "ticket_rates": "￥1970元", "seat_category": "二等座", "name": "晓银"}

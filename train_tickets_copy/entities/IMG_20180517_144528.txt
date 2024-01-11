@@ -1,0 +1,1 @@
+{"ticket_num": "Z057991", "starting_station": "", "train_num": "G673", "destination_station": "石家庄站", "date": "2017*10105014:35N", "ticket_rates": "￥128.5%", "seat_category": "二*座", "name": "二依琳"}

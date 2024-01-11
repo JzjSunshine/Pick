@@ -1,0 +1,1 @@
+{"ticket_num": "8043902", "starting_station": "深圳北站", "train_num": "D910", "destination_station": "北京西站", "date": "2017年11月05日 19:50:", "ticket_rates": "￥1190.08", "seat_category": "动卧", "name": "状龙"}

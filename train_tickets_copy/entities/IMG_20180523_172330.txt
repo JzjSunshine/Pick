@@ -1,0 +1,1 @@
+{"ticket_num": "76D054144", "starting_station": "武汉市", "train_num": "G588", "destination_station": "北京西迪", "date": "2018年02月21日08:30燕", "ticket_rates": "￥520.5元", "seat_category": "二等座", "name": "曾名亮"}

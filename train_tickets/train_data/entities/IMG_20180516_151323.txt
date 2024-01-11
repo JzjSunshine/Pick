@@ -1,0 +1,1 @@
+{"ticket_num": "0081728", "starting_station": "深圳站", "train_num": "C7128", "destination_station": "广州东站", "date": "2017年12月05日20:30开", "ticket_rates": "￥99.5元", "seat_category": "--等座", "name": "伟"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Y0.3889", "starting_station": "北京南站", "train_num": "G207", "destination_station": "徐州东站", "date": "2017年12月06日19:20#", "ticket_rates": "￥519.0元", "seat_category": "一等座", "name": "冬"}

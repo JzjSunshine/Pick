@@ -51,6 +51,11 @@
                 "crf_kwargs":{
                     "num_tags":-1
                 }
+            },
+            "kvc_kwargs":{
+                "kvc_type":"matrix",
+                "kvc_weights":0.01,
+                "embedding_dim": 512
             }
         }
     },
@@ -117,12 +122,12 @@
     },
 
     "trainer": {
-        "epochs": 100,
+        "epochs": 150,
         "gl_loss_lambda": 0.01,
         "log_step_interval": 10,
         "val_step_interval": 50,
 
-        "save_dir": "saved/",
+        "save_dir": "./logs/saved_0103/",
         "save_period": 20,
         "log_verbosity": 2,
 
@@ -131,7 +136,7 @@
         "early_stop": 40,
 
         "anomaly_detection": false,
-        "tensorboard": false,
+        "tensorboard": true,
 
         "sync_batch_norm":true
     }

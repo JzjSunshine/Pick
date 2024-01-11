@@ -1,0 +1,1 @@
+{"ticket_num": "N022808", "starting_station": "大连北站", "train_num": "G49", "destination_station": "哈尔滨西站", "date": "2017年12月06日14:00开", "ticket_rates": "￥645.5元", "seat_category": "一等座", "name": "雪犇"}

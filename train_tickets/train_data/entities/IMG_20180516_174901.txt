@@ -1,0 +1,1 @@
+{"ticket_num": "Z235N095583", "starting_station": "苏州站", "train_num": "D312", "destination_station": "北京南站", "date": "2017年10月08日19:58开", "ticket_rates": "￥730.0%", "seat_category": "动车", "name": "二雨婷"}

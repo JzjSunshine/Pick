@@ -1,0 +1,1 @@
+{"ticket_num": "34C012966", "starting_station": "杭州东站", "train_num": "G164", "destination_station": "北京南站", "date": "2018年03月30 13:41开", "ticket_rates": "￥907.0元", "seat_category": "一等座", "name": "脚超"}

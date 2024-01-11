@@ -1,0 +1,1 @@
+{"ticket_num": "F009744", "starting_station": "北京市新", "train_num": "219", "destination_station": "西安洁", "date": "2017年12月23H20:40平", "ticket_rates": "￥415.5元", "seat_category": "新空调软卧", "name": "雄黄"}

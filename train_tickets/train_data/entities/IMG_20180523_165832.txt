@@ -1,0 +1,1 @@
+{"ticket_num": "M097230", "starting_station": "北京南站", "train_num": "G23", "destination_station": "上海虹桥站", "date": "2018年03月01日 17:00开", "ticket_rates": "", "seat_category": "一等座", "name": "宗尧"}

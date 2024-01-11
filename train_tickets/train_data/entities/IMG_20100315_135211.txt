@@ -1,0 +1,1 @@
+{"ticket_num": "Z50L010763", "starting_station": "余杭站", "train_num": "G7372", "destination_station": "上海虹桥站", "date": "2017年10月27日08:23开", "ticket_rates": "￥105.5元", "seat_category": "一等座", "name": "长江"}

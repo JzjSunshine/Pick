@@ -1,0 +1,1 @@
+{"ticket_num": "Z38R009658", "starting_station": "苏州北站", "train_num": "G1802", "destination_station": "郑州东站", "date": "2017年09月03日06:47]", "ticket_rates": "￥413.5元", "seat_category": "二等座", "name": "绪帅"}

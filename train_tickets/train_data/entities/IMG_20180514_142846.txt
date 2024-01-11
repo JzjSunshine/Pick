@@ -1,0 +1,1 @@
+{"ticket_num": "0010779", "starting_station": "北京南站", "train_num": "G27", "destination_station": "福州站", "date": "2018年01月29日09:45开", "ticket_rates": "￥12105元", "seat_category": "一等", "name": "检查费"}

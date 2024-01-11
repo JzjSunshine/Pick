@@ -1,0 +1,1 @@
+{"ticket_num": "F045039", "starting_station": "北京西站", "train_num": "G527", "destination_station": "许昌东站", "date": "2017年08月31日18:12开", "ticket_rates": "¥347.0元", "seat_category": "二等座", "name": "颖"}

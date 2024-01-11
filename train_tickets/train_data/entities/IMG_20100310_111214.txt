@@ -1,0 +1,1 @@
+{"ticket_num": "M073242", "starting_station": "太原南站", "train_num": "G626", "destination_station": "北京西站", "date": "2017年12月15日18:50开", "ticket_rates": "1288.0元", "seat_category": "一等座", "name": "雪博堃"}

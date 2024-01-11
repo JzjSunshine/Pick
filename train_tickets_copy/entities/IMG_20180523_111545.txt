@@ -1,0 +1,1 @@
+{"ticket_num": "Y011513", "starting_station": "石家庄站", "train_num": "G8908", "destination_station": "北京西站", "date": "2017年12月27日09:56开", "ticket_rates": "¥206.5元", "seat_category": "一等座", "name": "画承轩"}

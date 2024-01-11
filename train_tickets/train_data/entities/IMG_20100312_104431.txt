@@ -1,0 +1,1 @@
+{"ticket_num": "Z98J006103", "starting_station": "上海虹桥站", "train_num": "D3125", "destination_station": "嘉善南站", "date": "2018年01月17日08：49号", "ticket_rates": "￥38.0元", "seat_category": "三等座", "name": "陈华"}

@@ -1,0 +1,1 @@
+{"ticket_num": "H006447", "starting_station": "济南站", "train_num": "G474", "destination_station": "北京南站", "date": "2017年09月03日18:11开", "ticket_rates": "￥329.5元", "seat_category": "一等座", "name": "丁舒涵"}

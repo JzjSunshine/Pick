@@ -1,0 +1,1 @@
+{"ticket_num": "2039593", "starting_station": "完税凭", "train_num": "16", "destination_station": "北京市", "date": "2018年02月220 12:174", "ticket_rates": "室205.0%", "seat_category": "二等费", "name": "16%"}

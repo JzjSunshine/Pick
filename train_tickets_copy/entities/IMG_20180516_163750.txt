@@ -1,0 +1,1 @@
+{"ticket_num": "J003776", "starting_station": "青岛北站", "train_num": "G198", "destination_station": "北京南站", "date": "2017年09月10日17:31开", "ticket_rates": "￥312.0元", "seat_category": "二等座", "name": "永"}

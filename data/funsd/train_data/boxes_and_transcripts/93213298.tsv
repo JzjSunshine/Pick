@@ -1,0 +1,67 @@
+0,404,144,460,144,460,162,404,162,Division,question
+1,75,151,135,151,135,171,75,171,Location,question
+2,81,279,119,279,119,294,81,294,Mugs,question
+3,413,244,490,244,490,261,413,261,Invitations:,header
+4,81,324,131,324,131,341,81,341,Posters,question
+5,82,416,135,416,135,434,82,434,Counter,question
+6,82,432,118,432,118,449,82,449,Floor,question
+7,82,450,134,450,134,467,82,467,Posters,question
+8,321,719,356,719,356,732,321,732,Fair,question
+9,454,714,507,714,507,731,454,731,Average,question
+10,594,709,655,709,655,726,594,726,Excellent,question
+11,161,677,197,677,197,692,161,692,Food,question
+12,161,693,238,693,238,707,161,707,Cleanliness,question
+13,161,705,211,705,211,723,161,723,Service,question
+14,363,384,437,384,437,404,363,404,Attendees:,header
+15,535,264,557,264,557,285,535,285,10,answer
+16,541,408,558,408,558,423,541,423,8,answer
+17,539,418,554,418,554,435,539,435,8,answer
+18,541,437,561,437,561,448,541,448,2,answer
+19,186,415,203,415,203,432,186,432,0,answer
+20,189,429,203,429,203,444,189,444,0,answer
+21,189,446,203,446,203,459,189,459,0,answer
+22,186,275,199,275,199,295,186,295,0,answer
+23,186,292,199,292,199,305,186,305,0,answer
+24,187,306,201,306,201,320,187,320,0,answer
+25,187,320,200,320,200,335,187,335,0,answer
+26,351,624,371,624,371,642,351,642,10,answer
+27,464,670,479,670,479,687,464,687,X,answer
+28,615,680,626,680,626,694,615,694,X,answer
+29,610,694,625,694,625,705,610,705,X,answer
+30,605,617,625,617,625,638,605,638,10,answer
+31,683,785,698,785,698,853,683,853,93213298,other
+32,291,253,371,253,371,300,291,300,,other
+33,338,331,367,331,367,360,338,360,,other
+34,219,113,502,113,502,136,219,136,NEWPORT RACING EVENT SURVEY,header
+35,504,137,613,137,613,160,504,160,Detroit - MCA,answer
+36,504,169,607,169,607,190,504,190,R. L. Lavoie,answer
+37,406,172,485,172,485,192,406,192,Division Mgr,question
+38,80,183,131,183,131,203,80,203,Date (s),question
+39,159,147,311,147,311,167,159,167,DETROIT GRAND PRIX,answer
+40,161,175,273,175,273,197,161,197,June 11, 1995,answer
+41,264,205,364,205,364,223,264,223,Date Submitted,question
+42,377,200,476,200,476,223,377,223,July 6, 1995,answer
+43,295,223,455,223,455,240,295,240,(submit by 30 days after event),other
+44,80,251,211,251,211,269,80,269,Promotion Quantity:,header
+45,81,295,161,295,161,313,81,313,Displays (8),question
+46,80,306,149,306,149,327,80,327,Floor (40),question
+47,82,351,156,351,156,370,82,370,Date Rec'd,question
+48,412,264,503,264,503,285,412,285,# Requested,question
+49,411,282,500,282,500,300,411,300,Date Notified,question
+50,415,297,504,297,504,317,415,317,Date Ordered,question
+51,415,345,491,345,491,365,415,365,Date Rec'd,question
+52,508,341,577,341,577,361,508,361,05/ 01/ 95,answer
+53,80,390,208,390,208,409,80,409,# Displays Placed:,header
+54,369,406,504,406,504,426,369,426,# Customers Invited,question
+55,367,423,516,423,516,441,367,441,# Customers Attended,question
+56,367,437,510,437,510,458,367,458,# Lorillard Personnel,question
+57,82,479,216,479,216,498,82,498,Invitees Comments:,question
+58,233,469,669,469,669,493,233,493,Invitees stated the Newport hospitality tent was very,answer
+59,84,490,653,490,653,560,84,560,difficult to locate. Also, the Indy Lights Paddock area was not clearly identified Most Invitees were looking for the hospitality tent in a separate identified area away from the Paddock Brea and the Newport car transporter.,answer
+60,84,630,186,630,186,650,84,650,Race Day Info:,header
+61,214,630,331,630,331,648,214,648,Event Attendance,question
+62,406,623,585,623,585,644,406,644,Hospitality Tent Attendance,question
+63,88,661,261,661,261,683,88,683,Quality of Hospitality Tent:,header
+64,89,747,313,747,313,765,89,765,Suggestions/ Recommendations:,question
+65,321,742,646,742,646,763,321,763,In the future, please specify where the,answer
+66,92,756,652,756,652,812,92,812,Newport hospitality area will be located - at the Newport car trans- porter site or in a separate area . Specific directions will be needed.,answer

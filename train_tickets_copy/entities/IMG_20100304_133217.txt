@@ -1,0 +1,1 @@
+{"ticket_num": "34C004890", "starting_station": "杭州东站", "train_num": "G1520", "destination_station": "上海虹桥站", "date": "2018年03月21日11:18开", "ticket_rates": "￥73.0元", "seat_category": "二等座", "name": "搏滩垚"}

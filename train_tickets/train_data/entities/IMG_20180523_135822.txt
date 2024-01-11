@@ -1,0 +1,1 @@
+{"ticket_num": "1L026700", "starting_station": "上海虹桥站", "train_num": "G132", "destination_station": "北京南站", "date": "2017年12月16月12:12月", "ticket_rates": "￥553.0%", "seat_category": "二等窟", "name": "二玉霞"}

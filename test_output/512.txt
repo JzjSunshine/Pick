@@ -1,0 +1,58 @@
+address	AIK HUAT HARDWARE,address
+address	ENTERPRISE (SETIA,address
+address	ALAM) SDN BHD,address
+address	822737-X,address
+address	NO. 17-G\, JALAN SETIA INDAH,address
+address	(X) U13/X\, SETIA ALAM,address
+address	SEKSYEN U13\, 40170 SHAH ALAM,address
+address	TEL: 012 - 6651783 FAX: 03 - 33623608,address
+address	GST NO: 000394528768,address
+address	SIMPLIFIED TAX INVOICE,address
+address	CASH,address
+date	15/09/2017,d
+address	SALESPERSON : AH002,address
+address	TIME: 17:57:00,address
+address	ITEM,address
+address	U/P,address
+address	AMOUNT,address
+address	QTY,address
+address	(RM),address
+address	(RM),address
+address	9200310000040,address
+address	3,address
+address	8.00,address
+address	S,address
+address	24.00,total
+address	40MM 2K/BELLE PADLOCK ??,address
+address	TOTAL QUANTITY,address
+address	3,address
+address	SUB-TOTAL (GST),address
+address	24.00,total
+address	DISC,address
+address	0.00,address
+address	ROUNDING,address
+address	0.00,address
+address	TOTAL,address
+address	24.00,total
+address	CASH,address
+address	50.00,address
+address	CHANGE,address
+address	26.00,address
+address	*GST @ 6% INCLUDED IN TOTAL,address
+address	GST SUMMARY,address
+address	CODE,address
+address	AMOUNT,address
+address	%,address
+address	TAX/AMT,address
+address	SR,address
+address	22.64,address
+address	6,address
+address	1.36,address
+address	TAX TOTAL:,address
+address	1.36,address
+address	GOODS SOLD ARE NOT,address
+address	THANK YOU FOR,address
+address	PLS PROVIDE ORI,address
+address	E
+address	,address
+address	GOODS MUST,address

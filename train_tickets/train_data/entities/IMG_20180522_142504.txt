@@ -1,0 +1,1 @@
+{"ticket_num": "D077154", "starting_station": "福州站", "train_num": "G304", "destination_station": "北京南站", "date": "2018年02月22日 12:15开", "ticket_rates": "¥719.0元", "seat_category": "二等座", "name": "二熙耀"}

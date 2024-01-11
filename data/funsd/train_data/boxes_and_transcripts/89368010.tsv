@@ -1,0 +1,41 @@
+0,154,618,197,618,197,636,154,636,DATE,question
+1,133,587,239,587,239,611,133,611,16/3/82,answer
+2,490,576,652,576,652,615,490,615,,answer
+3,114,657,189,657,189,669,114,669,APPROVALS,question
+4,364,684,442,684,442,709,364,709,Accept,answer
+5,368,726,446,726,446,757,368,757,Accept,answer
+6,361,775,433,775,433,805,361,805,Accept,answer
+7,469,668,692,668,692,707,469,707,,answer
+8,510,714,618,714,618,753,510,753,,answer
+9,475,766,691,766,691,796,475,796,,answer
+10,490,843,605,843,605,873,490,873,,answer
+11,370,850,463,850,463,875,370,875,,answer
+12,723,804,748,804,748,897,723,897,89368010,other
+13,45,28,145,28,145,46,45,46,RA/QA FORM 9,other
+14,280,76,489,76,489,94,280,94,FINAL REPORT AMENDMENT,header
+15,106,120,189,120,189,136,106,136,Study Name,question
+16,106,141,204,141,204,159,106,159,Study Number,question
+17,111,163,229,163,229,181,111,181,Initiation Date,question
+18,106,186,448,186,448,205,106,205,Date of Final Report (Review Completed Date),question
+19,109,208,498,208,498,226,109,226,Part of Final Report to be Amended (Exact location),question
+20,117,232,635,232,635,250,117,250,The attached is an addition to the I- 1725.001 Final Report,answer
+21,478,183,595,183,595,204,478,204,27 April 1982,answer
+22,266,162,386,162,386,178,266,178,25 March 1982,answer
+23,220,141,313,141,313,156,220,156,I- 1725.001,answer
+24,190,117,761,117,761,150,190,150,Acute Toxicity of Reference Cigarette Smoke lafter Inhalation in Mice.,answer
+25,108,310,297,310,297,325,108,325,Reason for the Amendment,question
+26,308,305,762,305,762,322,308,322,Survival after repeated doses over a 14 day period,answer
+27,123,328,716,328,716,366,123,366,may not be accurately predicted from survival after a single day's exposure.,answer
+28,111,404,485,404,485,424,111,424,Amendment (Attach additional sheets as necessary),question
+29,496,401,747,401,747,419,496,419,The report of the results of,answer
+30,133,425,723,425,723,467,133,467,A 14 Day Repeated Dose Assay for Reference Cigarette Smoke in Mice (I- 1725.001- M1 is attached.,answer
+31,504,615,615,615,615,628,504,628,STUDY DIRECTOR,question
+32,112,689,247,689,247,711,112,711,03 June 1982,answer
+33,132,725,250,725,250,770,132,770,3 June 1982,answer
+34,117,772,247,772,247,800,117,800,3 June 1982,answer
+35,380,651,630,651,630,672,380,672,ACCEPT/ REJECT (as per 58.185 (c)),question
+36,500,705,684,705,684,719,500,719,QUALITY ASSURANCE ASSOC.,question
+37,501,749,657,749,657,764,501,764,DIRECTOR OF RESEARCH,question
+38,499,795,636,795,636,809,499,809,DIRECTOR OF RA/QA,question
+39,499,870,646,870,646,886,499,886,REGULATORY AFFAIRS,question
+40,115,855,347,855,347,874,115,874,Received by REGULATORY AFFATRS,question

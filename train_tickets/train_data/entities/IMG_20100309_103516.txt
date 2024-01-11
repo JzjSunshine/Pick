@@ -1,0 +1,1 @@
+{"ticket_num": "K400983", "starting_station": "石家庄站", "train_num": "", "destination_station": "2152", "date": "2018年03月13日11:48开", "ticket_rates": "￥94.5元", "seat_category": "新空调硬卧", "name": "亮"}

@@ -1,0 +1,1 @@
+{"ticket_num": "003R059554", "starting_station": "郑州乐团", "train_num": "G562", "destination_station": "北京西路", "date": "2017年12月16日109:21西", "ticket_rates": "￥495.0%", "seat_category": "一等座", "name": "瞪鹏"}

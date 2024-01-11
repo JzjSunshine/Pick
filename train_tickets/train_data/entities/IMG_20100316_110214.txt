@@ -1,0 +1,1 @@
+{"ticket_num": "G072408", "starting_station": "昆明站", "train_num": "Z162", "destination_station": "北京西站", "date": "2018年02月24日21:05开", "ticket_rates": "￥536.0元", "seat_category": "新空调硬卧", "name": "怡"}

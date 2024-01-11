@@ -1,0 +1,1 @@
+{"ticket_num": "0028392", "starting_station": "唐山北站", "train_num": "D38", "destination_station": "北京站", "date": "2017年118269 15:431", "ticket_rates": "信会保障", "seat_category": "二等座", "name": "二国程"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z097547", "starting_station": "北京西站", "train_num": "G71", "destination_station": "石家庄站", "date": "2018年01月31日07:27开", "ticket_rates": "¥206.5元", "seat_category": "一等座", "name": "雪哲"}

@@ -1,0 +1,1 @@
+{"ticket_num": "L044944", "starting_station": "北京西站", "train_num": "Z107", "destination_station": "南昌站", "date": "2018年02月14日19:53开", "ticket_rates": "￥317.5元", "seat_category": "新空调硬卧", "name": "洪敏"}

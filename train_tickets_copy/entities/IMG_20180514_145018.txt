@@ -1,0 +1,1 @@
+{"ticket_num": "M002594", "starting_station": "阳泉北站", "train_num": "G618", "destination_station": "北京西站", "date": "2018年01月18日15:46开", "ticket_rates": "￥242.5元", "seat_category": "一等座", "name": "二羽强"}

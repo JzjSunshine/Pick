@@ -1,0 +1,1 @@
+{"ticket_num": "Y02.9671", "starting_station": "广州东站", "train_num": "C7017", "destination_station": "深圳站", "date": "2017年11月17日 14：47-", "ticket_rates": "￥99.5元", "seat_category": "--等座", "name": "广庆"}

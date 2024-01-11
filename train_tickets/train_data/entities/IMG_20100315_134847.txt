@@ -1,0 +1,1 @@
+{"ticket_num": "J087423", "starting_station": "北京南站", "train_num": "G121", "destination_station": "枣庄站", "date": "2017年11月01日10:28开", "ticket_rates": "￥474.0元", "seat_category": "一等座", "name": "路阳"}

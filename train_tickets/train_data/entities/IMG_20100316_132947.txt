@@ -1,0 +1,1 @@
+{"ticket_num": "K074329", "starting_station": "济南西站", "train_num": "G150", "destination_station": "北京南站", "date": "2018年03月16日20:02开", "ticket_rates": "￥314.5元", "seat_category": "一等座", "name": "，灿e"}

@@ -1,0 +1,1 @@
+{"ticket_num": "U089607", "starting_station": "北京站", "train_num": "K681", "destination_station": "大连站", "date": "2018年01月19日20:12日", "ticket_rates": "￥248.0元", "seat_category": "新空调硬卧", "name": "文奇"}

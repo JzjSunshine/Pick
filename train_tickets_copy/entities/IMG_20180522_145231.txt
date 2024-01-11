@@ -1,0 +1,1 @@
+{"ticket_num": "074G064363", "starting_station": "郑州东站", "train_num": "G806", "destination_station": "北京西站", "date": "2018年01月31日14:00开", "ticket_rates": "￥495.0元", "seat_category": "一等座", "name": "明"}

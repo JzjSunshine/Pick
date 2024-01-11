@@ -1,0 +1,1 @@
+{"ticket_num": "M042540", "starting_station": "青岛站", "train_num": "G194", "destination_station": "北京南站", "date": "2017年11月04日14:30开", "ticket_rates": "￥474.0元", "seat_category": "一等座", "name": "梦菊"}

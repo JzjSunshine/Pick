@@ -1,0 +1,1 @@
+{"ticket_num": "X071056", "starting_station": "秦皇岛站", "train_num": "D26", "destination_station": "北京站", "date": "2017年11月19日15:10开", "ticket_rates": "￥87.5元", "seat_category": "二等座", "name": "冬辉"}

@@ -1,0 +1,5 @@
+company	UKIT INDAH,
+date	06/05/2018
+date	06/05/2018
+address	NO 35\,JALAN INDAH 15/2\,BUKIT INDAH,address
+address	81200 JOHOR BAHRU\,JOHOR,address

@@ -1,0 +1,90 @@
+0,27,15,62,15,62,27,27,27,RJRT,other
+1,486,140,488,140,488,142,486,142,,question
+2,29,87,95,87,95,101,29,101,Position,question
+3,92,180,141,180,141,191,92,191,Change,question
+4,69,180,89,180,89,192,69,192,of,question
+5,29,181,64,181,64,192,29,192,Type,question
+6,75,209,142,209,142,223,75,223,Addition,question
+7,75,224,142,224,142,236,75,236,Deletion,question
+8,75,242,127,242,127,252,75,252,Change,question
+9,232,162,258,162,258,176,232,176,Mat,question
+10,216,147,283,147,283,158,216,158,Affected,question
+11,185,162,225,162,225,174,185,174,Glass,question
+12,31,148,77,148,77,162,31,162,Brand/,question
+13,76,147,147,147,147,162,76,162,Assembly/,question
+14,146,150,210,150,210,161,146,161,Material,question
+15,146,165,181,165,181,175,146,175,Slit,question
+16,117,165,141,165,141,176,117,176,and,question
+17,82,165,111,165,111,177,82,177,Mat,question
+18,37,165,79,165,79,177,37,177,Glass,question
+19,269,207,320,207,320,221,269,221,Design,question
+20,269,222,358,222,358,236,269,236,Compatibity,question
+21,269,237,406,237,406,251,269,251,Manufacturability,question
+22,460,237,500,237,500,249,460,249,Other,question
+23,646,204,718,204,718,219,646,219,Emergency,question
+24,647,219,694,219,694,233,647,233,Urgent,question
+25,647,234,703,234,703,248,647,248,Routine,question
+26,607,55,644,55,644,67,607,67,Page,question
+27,683,55,718,55,718,65,683,65,Date,question
+28,607,112,654,112,654,126,607,126,Change,question
+29,662,115,703,115,703,124,662,124,Order,question
+30,707,113,756,113,756,124,707,124,Number,question
+31,637,125,708,125,708,142,637,142,8410059,answer
+32,455,71,517,71,517,80,455,80,8-17-88,answer
+33,474,97,510,97,510,112,474,112,5398,other
+34,678,24,724,24,724,36,678,36,880029,answer
+35,637,25,667,25,667,37,637,37,RFC,question
+36,42,242,56,242,56,254,42,254,X,answer
+37,431,236,447,236,447,251,431,251,X,answer
+38,621,236,637,236,637,250,621,250,X,answer
+39,741,581,755,581,755,628,741,628,51484,other
+40,742,638,756,638,756,672,742,672,3791,other
+41,728,722,759,722,759,736,728,736,Date,question
+42,729,784,760,784,760,796,729,796,DATE,question
+43,575,786,621,786,621,797,575,797,HOLDER,question
+44,534,787,569,787,569,797,534,797,SPEC,question
+45,507,723,549,723,549,737,507,737,Title,question
+46,224,727,300,727,300,741,224,741,Signature,question
+47,228,787,293,787,293,801,228,801,Approved,question
+48,392,786,457,786,457,802,392,802,Rejected,question
+49,652,828,723,828,723,842,652,842,COMMITTEE,question
+50,596,829,646,829,646,843,596,843,REVIEW,question
+51,534,829,590,829,590,841,534,841,PRODUCT,question
+52,683,889,753,889,753,904,683,904,COMMITTEE,question
+53,597,892,677,892,677,902,597,902,ACCEPTANCE,question
+54,535,889,590,889,590,901,535,901,PRODUCT,question
+55,682,800,768,800,768,826,682,826,8-17-88,answer
+56,514,784,657,784,657,848,514,848,,other
+57,673,833,727,833,727,858,673,858,,other
+58,602,835,652,835,652,857,602,857,,other
+59,541,842,578,842,578,863,541,863,KA,other
+60,608,857,675,857,675,904,608,904,,other
+61,531,859,607,859,607,886,531,886,,other
+62,335,916,400,916,400,941,335,941,9/8/88,answer
+63,244,10,389,10,389,25,244,25,REQUEST FOR CHANGE,header
+64,252,25,357,25,357,38,252,38,F- 1001 7/ 88,other
+65,29,59,156,59,156,71,29,71,ORIGINATOR Name:,question
+66,167,55,248,55,248,72,167,72,Dan Straka,answer
+67,441,55,549,55,549,70,441,70,Date Prepared,question
+68,620,66,671,66,671,81,620,81,1 of 1,answer
+69,702,66,757,66,757,81,702,81,B-17-88,answer
+70,700,82,768,82,768,96,700,96,D. Marsh,answer
+71,606,82,694,82,694,95,606,95,Received By,question
+72,440,85,543,85,543,99,440,99,Telephone No,question
+73,32,117,251,117,251,131,32,131,Department Name and Location,question
+74,97,131,223,131,223,147,97,147,611- 13 3rd Floor,answer
+75,29,269,207,269,207,283,29,283,Description of Problem,header
+76,460,206,549,206,549,221,460,221,Spec Change,question
+77,460,221,570,221,570,235,460,235,Cost Reduction,question
+78,59,281,731,281,731,315,59,315,The current specifications for glass mat and slit glass mat can be made more accurate and complete with the following changes:,question
+79,61,332,138,332,138,344,61,344,Glass Mat:,question
+80,62,392,180,392,180,407,62,407,slit Glass Mat:,question
+81,216,328,685,328,685,374,216,374,Delete C- glass from Iten description. Change glass softening point to 756 + / - 10 degrees from 750. Change rolls per pallet to 2 from 1.,answer
+82,216,389,649,389,649,433,216,433,Delete C- glass from item description Change bobbins per stack to 47 from 45. Add outside diameter specs of 30.0, 26.0 - 31.0 inches.,answer
+83,32,527,167,527,167,544,32,544,Proposed Solution,question
+84,64,540,500,540,500,559,64,559,Change the current MSS specifications as outlined above.,answer
+85,55,742,162,742,162,771,55,771,Accepted for Investigation,question
+86,34,787,167,787,167,802,34,802,Final Disposition,question
+87,36,815,317,815,317,833,36,833,Action Taken or Reason for Rejection,question
+88,323,892,512,892,512,907,323,907,Proposed Effective Date,question
+89,525,899,761,899,761,967,525,967,habanisy Dhes ,other

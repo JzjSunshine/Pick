@@ -1,0 +1,1 @@
+{"ticket_num": "KO95335", "starting_station": "保定东站", "train_num": "G658", "destination_station": "北京西站", "date": "2017912月18日17：45开", "ticket_rates": "￥1015%", "seat_category": "一等屋", "name": "已强"}

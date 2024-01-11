@@ -1,0 +1,1 @@
+{"ticket_num": "S098021", "starting_station": "北京南站", "train_num": "G105", "destination_station": "常州北站", "date": "2017年11月17日07:35开", "ticket_rates": "￥828.5元", "seat_category": "一等座", "name": "建辉"}

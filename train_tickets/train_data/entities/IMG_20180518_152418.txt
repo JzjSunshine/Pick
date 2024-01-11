@@ -1,0 +1,1 @@
+{"ticket_num": "Z42D003414", "starting_station": "常州北站", "train_num": "G148", "destination_station": "北京南站", "date": "2017年12月28日16:19开", "ticket_rates": "￥828.5元", "seat_category": "一等座", "name": "广庆欢"}

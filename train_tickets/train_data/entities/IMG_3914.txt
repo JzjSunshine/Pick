@@ -1,0 +1,1 @@
+{"ticket_num": "N067605", "starting_station": "北京西站", "train_num": "G603", "destination_station": "阳泉北站", "date": "2018年01月10日 10:28开", "ticket_rates": "￥158.5元", "seat_category": "二等座", "name": "宁军"}

@@ -1,0 +1,1 @@
+{"ticket_num": "Z55T087688", "starting_station": "南京南站", "train_num": "G1483", "destination_station": "杭州东站", "date": "2017年12月21日15:18开", "ticket_rates": "￥117.5元", "seat_category": "二等座", "name": "娜"}

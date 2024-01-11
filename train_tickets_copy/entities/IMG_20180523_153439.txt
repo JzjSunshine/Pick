@@ -1,0 +1,1 @@
+{"ticket_num": "N002638", "starting_station": "北京西站", "train_num": "G601", "destination_station": "太原南站", "date": "2018年02月05日07:21开", "ticket_rates": "¥288.0元", "seat_category": "一等座", "name": "博堃"}

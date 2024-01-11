@@ -1,0 +1,1 @@
+{"ticket_num": "B04762", "starting_station": "北京站", "train_num": "D27", "destination_station": "山海关站", "date": "2017年12月22日 15：15日", "ticket_rates": "￥925元", "seat_category": "二等理", "name": "鹤"}

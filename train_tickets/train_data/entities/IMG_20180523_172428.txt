@@ -1,0 +1,1 @@
+{"ticket_num": "Z60098611", "starting_station": "合肥站", "train_num": "G126", "destination_station": "北京南站", "date": "2018年02月21日12:23开", "ticket_rates": "￥427.5元", "seat_category": "二等座", "name": "，琛珠"}

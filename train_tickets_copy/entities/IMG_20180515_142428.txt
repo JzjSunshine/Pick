@@ -1,0 +1,1 @@
+{"ticket_num": "0.00", "starting_station": "泰州站", "train_num": "2157", "destination_station": "北京站", "date": "2018年02月24日17:028", "ticket_rates": "7280.5%", "seat_category": "新空调硬卧", "name": "三海霞"}

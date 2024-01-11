@@ -1,0 +1,1 @@
+{"ticket_num": "19058036", "starting_station": "无锡站", "train_num": "G7587", "destination_station": "上海虹桥站", "date": "2018年03月22日09:02开", "ticket_rates": "￥94.5元", "seat_category": "一等座", "name": "小洁"}

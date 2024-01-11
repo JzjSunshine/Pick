@@ -1,0 +1,36 @@
+0,91,148,115,148,115,165,91,165,TO:,question
+1,92,190,130,190,130,211,92,211,FROM:,question
+2,469,142,508,142,508,160,469,160,DATE:,question
+3,232,472,257,472,257,487,232,487,Air,question
+4,295,471,323,471,323,486,295,486,Auto,question
+5,360,469,401,469,401,484,360,484,Train,question
+6,434,466,473,466,473,484,434,484,Other,question
+7,541,644,580,644,580,662,541,662,Dates,question
+8,318,381,377,381,377,396,318,396,Boston,answer
+9,345,599,367,599,367,616,345,616,XX,answer
+10,676,729,691,729,691,744,676,744,X,answer
+11,719,782,743,782,743,883,719,883,80728670,other
+12,365,84,443,84,443,101,365,101,FIELD TRIP,header
+13,180,144,279,144,279,162,180,162,J. R. Mueller,answer
+14,159,182,321,182,321,203,159,203,Mary Anne Kayiatos,answer
+15,534,134,598,134,598,154,534,154,2 /28 /84,answer
+16,92,249,489,249,489,268,92,268,Please make the necessary Field Trip arrangements for,question
+17,497,239,634,239,634,259,497,259,Ted van de kamp,answer
+18,91,295,206,295,206,315,91,315,Purpose of trip,question
+19,230,282,715,282,715,306,230,306,To evaluate Satin's overall performance and results of,answer
+20,105,330,240,330,240,351,105,351,Special Cities.,answer
+21,91,383,295,383,295,403,91,403,Division (s) to be contacted,question
+22,91,426,211,426,211,444,91,444,Dates of contact,question
+23,240,423,531,423,531,443,240,443,Tuesday 3 /13 and Wednesday, 3 /14,answer
+24,91,469,219,469,219,487,91,487,Method of travel:,header
+25,91,513,494,513,494,532,91,532,Arrival date and time (include airline and flight no.),question
+26,514,510,629,510,629,530,514,530,Monday, 3 /12,answer
+27,103,550,242,550,242,568,103,568,Evening Shuttle,answer
+28,89,602,324,602,324,620,89,620,Hotel /Motel reservations needed,question
+29,92,648,242,648,242,666,92,666,Reservations made at,question
+30,91,690,326,690,326,708,91,708,Sales Personnel to be contacted,question
+31,91,733,347,733,347,753,91,753,Sales Personnel to be worked with:,question
+32,362,735,391,735,391,749,362,749,D. M.,question
+33,426,733,472,733,472,749,426,749,A. D. M.,question
+34,510,733,662,733,662,748,510,748,Sales Representative,question
+35,85,927,638,927,638,947,85,947,Return to J. R. Mueller no later than two weeks prior to anticipated trip.,other

@@ -1,0 +1,1 @@
+{"ticket_num": "M011868", "starting_station": "太原南站", "train_num": "G626", "destination_station": "北京西站", "date": "2017年12月08日18:50开", "ticket_rates": "￥288.0元", "seat_category": "一等座", "name": "忠刚"}

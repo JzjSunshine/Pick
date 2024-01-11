@@ -1,0 +1,1 @@
+{"ticket_num": "P027166", "starting_station": "北京站", "train_num": "K53", "destination_station": "沈阳北站", "date": "2017年11月17日22:24开", "ticket_rates": "￥171.0元", "seat_category": "新空调硬卧", "name": "运蜂"}

@@ -1,0 +1,1 @@
+{"ticket_num": "R050913", "starting_station": "北京西站", "train_num": "G555", "destination_station": "汉口站", "date": "2017年11月28日12:57开", "ticket_rates": "￥519.5元", "seat_category": "二等座", "name": "雪勇"}

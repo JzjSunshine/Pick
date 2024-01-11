@@ -1,0 +1,1 @@
+{"ticket_num": "B046537", "starting_station": "青岛站", "train_num": "G188", "destination_station": "北京南站", "date": "2018年02月25日11:24开", "ticket_rates": "￥314.0元", "seat_category": "二等座", "name": "昊"}

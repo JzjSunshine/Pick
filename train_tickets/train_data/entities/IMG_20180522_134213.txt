@@ -1,0 +1,1 @@
+{"ticket_num": "G061256", "starting_station": "北京西站", "train_num": "G561", "destination_station": "邯郸东站", "date": "2018年02月27日16:53开", "ticket_rates": "￥209.0元", "seat_category": "二等座", "name": "柬坤"}

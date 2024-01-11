@@ -1,0 +1,1 @@
+{"ticket_num": "L053046", "starting_station": "福州站", "train_num": "G28", "destination_station": "北京南站", "date": "2018年03月09日09:52开", "ticket_rates": "￥1210.5元", "seat_category": "一等座", "name": "雪凡琦"}

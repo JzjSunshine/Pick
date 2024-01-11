@@ -1,0 +1,1 @@
+{"ticket_num": "X028316", "starting_station": "凯里南站", "train_num": "Gl481", "destination_station": "贵阳北站", "date": "2018年03月15日20:49#", "ticket_rates": "¥98.0元", "seat_category": "一等座", "name": "二紫愚"}
